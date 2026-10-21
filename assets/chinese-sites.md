@@ -13,7 +13,7 @@
 
 - https://github.com/wanzaixiaoxin/gresource (GResource — índice de assets chinês)
 - https://itch.io/game-assets/tag-wuxia (itch.io — tag wuxia)
-- https://comshadow.itch.io/chinese-wuxia-tileset (tileset wuxia, pago, IA)
+- ~~https://comshadow.itch.io/chinese-wuxia-tileset~~ (REMOVIDO: pago e gerado por IA)
 - https://itch.io/c/5218308/2dcc-0 (coleção 2D CC-0 no itch.io)
 - https://itch.io/c/3002520 (coleção 像素素材 no itch.io)
 - https://itch.io/c/5971646 (coleção 像素素材 no itch.io)

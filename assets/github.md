@@ -13,7 +13,7 @@ Repositórios do GitHub com assets (fontes, ícones, listas CC0, etc.).
 - https://github.com/scott0107000/BoutiqueBitmap9x9 (fonte pixel chinês, OFL)
 - https://github.com/atelier-anchor/smiley-sans (fonte, OFL)
 - https://github.com/lxgw/LxgwWenKai (fonte, OFL)
-- https://github.com/SolidZORO/zpix-pixel-font (fonte pixel, comercial pago)
+- ~~https://github.com/SolidZORO/zpix-pixel-font~~ (REMOVIDO: comercial pago)
 - https://github.com/wanzaixiaoxin/gresource (índice de assets chinês)
 
 ## Multi-categoria
