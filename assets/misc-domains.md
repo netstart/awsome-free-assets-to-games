@@ -4,10 +4,8 @@ Agregadores e bancos de assets variados (música, sons, imagens, fontes, vetores
 
 ---
 
-- https://www.openmusicarchive.org/ (arquivo de música aberta)
-- https://freepd.com/ (música domínio público CC0)
+- https://www.openmusicarchive.org/ (arquivo de música aberta — PD / CC BY-SA)
 - https://freemusicarchive.org/ (arquivo de música gratuita)
-- https://www.bensound.com/ (música para vídeos)
 - https://incompetech.com/ (música e papel milimetrado)
 - https://www.playonloop.com/ (músicas para vídeo e jogos)
 - http://dig.ccmixter.org/ (música Creative Commons)
@@ -16,8 +14,6 @@ Agregadores e bancos de assets variados (música, sons, imagens, fontes, vetores
 - https://www.partnersinrhyme.com/blog/ (música livre de royalties, SFX)
 - https://www.indiegamemusic.com/ (música para desenvolvedores indie)
 - https://tunetank.com/ (música gratuita YouTube)
-- https://uppbeat.io/ (música)
-- https://uppbeat.io/sfx (SFX)
 - https://www.fesliyanstudios.com/ (música de fundo gratuita)
 - https://sonniss.com/gameaudiogdc/ (GameAudioGDC — SFX)
 - https://www.zapsplat.com/ (SFX gratuitos)
@@ -65,14 +61,11 @@ Agregadores e bancos de assets variados (música, sons, imagens, fontes, vetores
 
 ### Música já listada (verificada)
 
-- https://www.bensound.com/ (música royalty free para vídeos, alguns tracks gratuitos com atribuição, outros pagos)
 - https://incompetech.com/music/ (Kevin MacLeod — música royalty free, Creative Commons)
 - https://freemusicarchive.org/ (música gratuita e royalty free, múltiplas licenças)
 - https://www.fesliyanstudios.com/ (música de fundo gratuita)
 - https://www.indiegamemusic.com/ (música para desenvolvedores indie)
 - https://tunetank.com/ (música gratuita YouTube)
-- https://uppbeat.io/ (música)
-- https://uppbeat.io/sfx (SFX)
 - https://musopen.org/ (partituras e música domínio público)
 - https://soundimage.org/ (músicas, sons e imagens gratuitas)
 

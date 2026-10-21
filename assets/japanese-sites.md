@@ -23,12 +23,12 @@ Pesquisa realizada em 21/10/2026. Verificar os termos de uso de cada site antes 
 - https://amachamusic.chagasi.com/terms.html (甘茶の音楽工房 Amacha — termos)
 - https://amachamusic.chagasi.com/genre_asia.html (Amacha — categoria 和風・アジア)
 - https://opentracks.com/help/articles/license/ (OpenTracks — licença, ex-DOVA-SYNDROME)
-- https://booth.pm/ja/items/5711297 (和風 BGM 36 faixas — maruya328, BOOTH, pago)
+- ~~https://booth.pm/ja/items/5711297~~ (REMOVIDO: pago)
 - https://booth.pm/ja/items/7963135 (かたすみドット — fonte pixel, BOOTH)
 
 ## Fontes
 
-- https://pixelartmaterial.itch.io/ (Pixel Material Studio — yōkai)
+- https://pixelartmaterial.itch.io/ (Pixel Material Studio — yōkai, monstros pixel; loja com itens pagos e gratuitos, verificar licença de cada asset)
 
 ## Listas e diretórios japoneses
 

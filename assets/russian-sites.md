@@ -4,13 +4,18 @@
 
 ## Gerador de sons procedural
 
-- https://www.soundsfree.art/ (SoundsFree — gerador procedural de efeitos sonoros, Web Audio API, 100% gratuito, uso comercial permitido, sem atribuição necessária, suporte a russo /ru/)
-- https://www.soundsfree.art/ru/ (versão em russo)
+### Removidos (não verificáveis / bloqueados)
+
+- ~~https://www.soundsfree.art/~~ — não carrega, licença não verificável
+- ~~https://www.soundsfree.art/ru/~~ — não carrega, licença não verificável
 
 ## Fontes (cirílico)
 
-- https://fontlibrary.org/en/font/press-start-2p (Press Start 2P, OFL, suporte a cirílico)
-- https://www.fonts.uprock.ru/ (Uprock — fontes com cirílico)
+- https://www.fonts.uprock.ru/ (Uprock — fontes com cirílico, licença não verificada)
+
+### Removidos (não verificáveis / bloqueados)
+
+- ~~https://fontlibrary.org/en/font/press-start-2p~~ — 404, página não encontrada
 
 ## Música
 
