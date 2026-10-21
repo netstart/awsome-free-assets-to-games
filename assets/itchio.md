@@ -153,6 +153,9 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://megumi-ryu.itch.io/free-rpg-fantasy-loops-music-asset-fairy-theater-bgm (música RPG fantasy)
 - https://zonezonezonebgm.itch.io/free-yume-kawaii-bgm-pack-soft-dreamy-music-for-vtubers-streaming-cozy-games (Yume Kawaii BGM)
 - https://farm-animal.itch.io/farm (inclui música para fazenda)
+- https://cicifyre.itch.io/rpg-voice-starter-pack (RPG Voice Starter Pack - vozes femininas para feitiços e ataques)
+- https://comigo.itch.io/music-loops (CoMiGo's Short Music Loops [CC0] - loops de música CC0)
+- https://pudretediablo.itch.io/butterfly (Butterfly - Looped Ambience Sounds Pack - sons ambiente em loop)
 
 ---
 
