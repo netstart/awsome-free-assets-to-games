@@ -51,3 +51,8 @@ Agregadores e bancos de assets variados (música, sons, imagens, fontes, vetores
 - https://vecteezy.com/ (vetores gratuitos)
 - https://pixabay.com/ (imagens gratuitas)
 - https://pixabay.com/service/license-summary/ (resumo da licença)
+
+## SourceForge (busca por assets)
+
+- https://sourceforge.net/directory/games/?q=game+assets+free&license=public-domain (43 projetos Jogos com licença Public Domain — verificar cada projeto individualmente para assets reutilizáveis)
+- https://sourceforge.net/directory/games/?q=game+assets+free&license=creative-commons-attribution-license (66 projetos Jogos com licença Creative Commons Attribution — verificar cada projeto individualmente)

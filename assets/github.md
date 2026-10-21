@@ -21,3 +21,11 @@ Repositórios do GitHub com assets (fontes, ícones, listas CC0, etc.).
 - https://github.com/madjin/awesome-cc0?tab=readme-ov-file (lista de assets CC0)
 - https://github.com/game-icons/icons (repositório game-icons)
 - https://github.com/lospec (repositório lospec)
+
+## Pacotes de assets (sprites, modelos 3D, ícones, etc.)
+
+- https://github.com/AL2009man/Gamepad-Asset-Pack (MIT — imagens de gamepad/controller para overlays, bot prompts, modding; 56 MB, atualizado 2026-10)
+- https://github.com/cherrybit-studios/little_heroes (MIT — pacote de assets RPG retro inspirado em clássicos)
+- https://github.com/mstill3/SunnyLand (MIT — jogo 2D Unity usando o SunnyLand Asset Pack)
+- https://github.com/CompleteBlenderCreator/07.Game.Asset.Pack-Original (MIT — modelos 3D Blender para jogos; 188 MB, tags: 3d-models, blend-files, game-assets, uv-mapping)
+- https://github.com/arenahub-gg/arenahub-assets (MIT — 207 pacotes CC0 de assets para jogos de navegador; engine Canvas/TypeScript, templates de jogo; tags: cc0, game-assets, kenney)
