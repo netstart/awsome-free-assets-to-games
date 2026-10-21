@@ -1,6 +1,6 @@
 # Sites japoneses — Assets gratuitos
 
-Pesquisa realizada em 20/10/2026. Verificar os termos de uso de cada site antes de uso comercial.
+Pesquisa realizada em 21/10/2026. Verificar os termos de uso de cada site antes de uso comercial.
 
 ---
 
@@ -11,13 +11,15 @@ Pesquisa realizada em 20/10/2026. Verificar os termos de uso de cada site antes 
 
 ## Sons
 
-- https://soundeffect-lab.info/agreement/ (効果音ラボ Sound Effect Lab — termos, comercial grátis, sem crédito)
+- https://soundeffect-lab.info/ (効果音ラボ Sound Effect Lab — efeitos sonoros, comercial grátis, sem crédito, sem link necessário; proibido uso adulto e redistribuição)
+- https://soundeffect-lab.info/agreement/ (termos de uso)
 - https://taira-komori.net/freesound.html (小森平 — efeitos sonoros grátis)
-- https://pocket-se.info/ (ポケットサウンド — efeitos sonoros)
+- https://pocket-se.info/ (ポケットサウンド — efeitos sonoros e BGM; básico gratuito + comercial com crédito obrigatório; sem crédito = plano pago)
 
 ## Música
 
-- https://maou.audio/rule/ (魔王魂 Maou Damashii — 5.000+ músicas, crédito obrigatório)
+- https://maou.audio/ (魔王魂 Maou Damashii — 5.000+ músicas, crédito obrigatório — site temporariamente indisponível em 21/10/2026)
+- https://maou.audio/rule/ (termos de uso)
 - https://amachamusic.chagasi.com/terms.html (甘茶の音楽工房 Amacha — termos)
 - https://amachamusic.chagasi.com/genre_asia.html (Amacha — categoria 和風・アジア)
 - https://opentracks.com/help/articles/license/ (OpenTracks — licença, ex-DOVA-SYNDROME)

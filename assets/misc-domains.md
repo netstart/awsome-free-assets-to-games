@@ -56,3 +56,12 @@ Agregadores e bancos de assets variados (música, sons, imagens, fontes, vetores
 
 - https://sourceforge.net/directory/games/?q=game+assets+free&license=public-domain (43 projetos Jogos com licença Public Domain — verificar cada projeto individualmente para assets reutilizáveis)
 - https://sourceforge.net/directory/games/?q=game+assets+free&license=creative-commons-attribution-license (66 projetos Jogos com licença Creative Commons Attribution — verificar cada projeto individualmente)
+
+## Sites por domínio nacional (verificados em 21/10/2026)
+
+| Domínio | País | Arquivo | Status |
+|---------|------|---------|--------|
+| `.ru` | Rússia | `assets/russian-sites.md` | Encontrados: gerador de sons procedural, fontes cirílico, música |
+| `.jp` | Japão | `assets/japanese-sites.md` | Encontrados: sons, BGM, tilesets, personagens, fontes, listas |
+| `.ch` | Suíça | `assets/swiss-sites.md` | Não foram encontrados sites de assets gratuitos específicos para jogos |
+
