@@ -13,4 +13,13 @@ Antes de adicionar qualquer novo asset:
 - Confirme que o uso comercial é expressamente permitido.
 - Registre a URL e a licença no arquivo correspondente na pasta `assets/`, agrupada por domínio e tipo.
 
+## Registro de novos assets
+
+Sempre que encontrar novos assets gratuitos, eles devem ser adicionados nos arquivos `.md` da pasta `assets/`:
+
+- Se já existir um arquivo para a fonte/domínio, adicione o asset na seção apropriada desse arquivo.
+- Se não existir arquivo adequado, crie um novo arquivo `.md` na pasta `assets/` com nome descritivo (ex: `assets/nome-da-fonte.md`).
+- Ao criar ou editar arquivos, verifique a **coerência** (o arquivo segue a mesma estrutura e formatação dos demais) e a **consistência** (as URLs estão corretas, as licenças são verificáveis e não há duplicatas).
+- Nunca duplique um asset que já esteja listado em outro arquivo.
+
 Não inclua assets pagos, de uso apenas pessoal, com licença restrita ou de origem não verificável.
