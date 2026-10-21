@@ -11,6 +11,6 @@ Todos os assets utilizados neste projeto (imagens, sprites, tilesets, ícones, U
 Antes de adicionar qualquer novo asset:
 - Verifique a licença oficial na página de origem.
 - Confirme que o uso comercial é expressamente permitido.
-- Registre a URL e a licença em `assets-total.md`, agrupada por domínio e tipo.
+- Registre a URL e a licença no arquivo correspondente na pasta `assets/`, agrupada por domínio e tipo.
 
 Não inclua assets pagos, de uso apenas pessoal, com licença restrita ou de origem não verificável.
