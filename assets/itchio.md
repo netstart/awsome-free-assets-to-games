@@ -243,6 +243,40 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 
 - https://alexkovacsart.itch.io/free-pixel-art-foods (100 Free Pixel Art Foods 16x16)
 
+### Doces, confeitaria e mapas de doce (pesquisado em 22/10/2026)
+
+- https://bobkingg.itch.io/candy-kingdom-tileset (Candy Kingdom Tileset — tiles top-down pixel, tema doce; **CC0**, uso comercial livre, sem atribuição)
+- https://uchimama.itch.io/2d-chocolate-tilesets (tileset top-down de barra de chocolate 16x16; uso comercial e edição liberados, proibido redistribuir/revender)
+- https://danaida.itch.io/free-sweet-pixel-pack-32x32 (45 doces em pixel 32x32; uso comercial liberado, proibido redistribuir/revender)
+- https://jennpixel.itch.io/free-dessert-pack-12-icons (12 ícones de sobremesa 32x32; uso comercial liberado, crédito apreciado)
+- https://jennpixel.itch.io/free-cake-pack-12-icons (12 ícones de bolo/fatia 32x32; uso comercial liberado, crédito apreciado)
+- https://luminleveret.itch.io/desserts (50+ ícones de sobremesas 32x32; **CC BY 4.0**, exige crédito a "Ellielza / Ellie Jerram")
+- https://itsblubrry.itch.io/sweet-treats-ice-cream-pack (sorvetes 16x16 e 32x32, inclusive sabor **algodão-doce**; uso comercial liberado com crédito a Blubrry, proibida revenda)
+- https://kyukei-dot.itch.io/japanese-sweets-pixel-pack (doces japoneses wagashi em pixel; verificar licença na página antes de usar)
+- https://mogawa.itch.io/japanese-sweets-1616-asset-pack (doces japoneses 16x16; verificar licença na página antes de usar)
+
+### Nuvens, céu e algodão-doce (pesquisado em 22/10/2026)
+
+- https://kassjak.itch.io/20-clouds-pack (20 nuvens de tamanhos variados; **CC0**, sem atribuição)
+- https://silasgamedev.itch.io/9-pixel-art-clouds-sky (9 nuvens pixel + 2 fundos de céu, paleta de 4 cores; uso comercial liberado, proibida revenda avulsa)
+- https://garzettdev.itch.io/pixel-clouds (nuvens pixel para parallax; uso comercial liberado)
+- https://kekaiyo.itch.io/clouds (pacote de nuvens pixel; **CC BY-SA 4.0** — exige crédito e compartilhamento da obra derivada sob a mesma licença)
+- https://free-game-assets.itch.io/free-sky-with-clouds-background-pixel-art-set (fundos de céu com nuvens; licença Freebie da CraftPix — uso comercial livre, proibida redistribuição)
+- https://free-game-assets.itch.io/free-pixel-art-cloud-and-sky-backgrounds (outro conjunto de céu/nuvens da mesma fonte)
+- https://free-game-assets.itch.io/ocean-and-clouds-free-pixel-art-backgrounds (fundos de oceano e nuvens)
+
+### Animais fofos para mapas (pesquisado em 22/10/2026)
+
+- https://bowpixel.itch.io/cat-50-animations (gato com 50+ animações 32x32; uso comercial liberado, proibido redistribuir o asset)
+- https://bowpixel.itch.io/meow-cat-85-animation (gato com 85+ animações; mesma licença do pacote acima)
+- https://bowpixel.itch.io/cat-anim-16x16-black (gato preto 16x16 com 33+ animações; mesma licença)
+- https://bowpixel.itch.io/one-cat (gato com 38+ animações; mesma licença)
+- https://dreamgryphon.itch.io/cute-little-things (tilesets e sprites fofos 8x8/16x16, paleta Game Boy; **CC0**)
+- https://michael-jay-rov.itch.io/ocean-creatures (criaturas marinhas em spritesheet; **CC BY 4.0**)
+- https://michael-jay-rov.itch.io/savanna-creatures (criaturas de savana; verificar licença na página)
+- https://michael-jay-rov.itch.io/pixel-dragons (dragões pixel; verificar licença na página)
+- https://pixivan.itch.io/top-down-forest-tileset (tileset top-down de floresta com árvores, arbustos, flores e cogumelos; uso comercial liberado, proibida revenda)
+
 ---
 
 ## itch.io — Bundles e coleções

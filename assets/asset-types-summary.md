@@ -12,5 +12,7 @@
 | Música | hydrogene.itch.io, tallbeard.itch.io, maou.audio, amachamusic.chagasi.com, megumi-ryu.itch.io |
 | Fontes | github.com/TakWolf, not-jam.itch.io, ggbot.itch.io, fontlibrary.org, fonts.google.com |
 | VFX/Shaders | itch.io/c/1124621/pixel-art-fx, untiedgames.itch.io, godotshaders.com, binbun3d.itch.io |
-| Fofos/infantis | cupnooble.itch.io, kenmi-art.itch.io, shubibubi.itch.io, toffeecraft.itch.io, tinytreats.itch.io, last-tick.itch.io |
-| Texturas/3D | polyhaven.com, ambientcg.com, sketchfab.com |
+| Fofos/infantis | cupnooble.itch.io, kenmi-art.itch.io, shubibubi.itch.io, toffeecraft.itch.io, tinytreats.itch.io, last-tick.itch.io, bobkingg.itch.io, bowpixel.itch.io |
+| Doces/confeitaria | bobkingg.itch.io, uchimama.itch.io, danaida.itch.io, jennpixel.itch.io, luminleveret.itch.io, itsblubrry.itch.io |
+| Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
+| Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |
