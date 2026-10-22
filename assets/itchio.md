@@ -237,7 +237,7 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 
 ### Personagens fofos
 
-- https://cupnooble.itch.io/sprout-lands-asset-pack (cute pixel pastel farming)
+- https://cupnooble.itch.io/sprout-lands-asset-pack (cute pixel pastel farming; **free version é não comercial apenas**, versão premium $3.99 permite uso comercial e modificações, proibida revenda — se não pagar, não use comercialmente)
 - https://cupnooble.itch.io/sprout-lands-ui-pack (cute pixel pastel UI)
 - https://cupnooble.itch.io/sorry-package (cute gift pack)
 - https://kenmi-art.itch.io/cute-fantasy-rpg (cute fantasy RPG 16x16 top down)
@@ -1003,6 +1003,60 @@ Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores f
 - https://quaternius.itch.io/modular-sci-fi-megakit, https://kaylousberg.itch.io/space-base-bits, https://maxparata.itch.io/voxel-mechas e https://niko-3d-models.itch.io/low-poly-futuristic-city-assets — packs **3D**
 - https://free-game-assets.itch.io/free-3-cyberpunk-sprites-pixel-art e https://free-game-assets.itch.io/free-city-backgrounds-pixel-art — páginas sem licença declarada
 - https://atomicrealm.itch.io/post-apocalyptic-world — pack **3D** do mesmo autor do Industrial Tileset (que este sim entrou)
+
+## itch.io — Estilo Castlevania (gótico e vampírico) (pesquisado em 22/10/2026)
+
+Castlevania é IP da Konami: Belmont, Alucard, Drácula, mapas e trilha oficiais **não entram**. O equivalente legal é o gótico 2D: castelo, cripta, igreja, móveis de época, caçadores e música sinfônica/vampírica.
+
+### Personagens
+
+- https://creativekind.itch.io/necromancer-free (necromante 128x128 com idle, ataque, dano e morte; comercial liberado, proibida revenda)
+- https://creativekind.itch.io/nightborne-warrior (cavaleiro sombrio do mesmo autor e mesma licença — serve de chefe de ala)
+- https://pixel-moon-studio.itch.io/wight-knight-vampire-pixel-art-sprite-pack (cavaleiro vampiro com caminhada e ataque; comercial liberado, proibida revenda e NFT)
+- https://opengameart.org/content/vampire-animations (**CC BY 3.0** — animações de vampiro)
+- https://opengameart.org/content/pixel-vampire (**CC BY 3.0** — vampiro em pixel art)
+- https://opengameart.org/content/rpg-character-vampire (**CC0** — personagem vampiro para RPG)
+
+### Mapas, castelos e interiores
+
+- https://studio-schneeya.itch.io/vampire-castle-asset-pack (**versão gratuita** com 3 criaturas, parede de castelo e fundo em 32x32; comercial liberado, sem crédito obrigatório — o pack completo tem 8 criaturas e tiles extras pagos)
+- https://rottingpixels.itch.io/castle-platformer-tileset-16x16free (tileset de castelo 16x16; comercial liberado, crédito apreciado)
+- https://pixel-1992.itch.io/free-pixel-art-background-dark-gothic-caslte-and-entrance-sprite (fundo de castelo gótico em 192x108 e 1920x1080 + sprite de entrada; comercial liberado, proibida revenda)
+- https://xenophero.itch.io/gothic-rpg-furniture (móveis góticos: cadeiras, estantes, lustres; comercial liberado **com crédito**)
+- https://hypnobius.itch.io/grungy-dungeon-props (props sujos de masmorra: correntes, barris, ossadas; comercial liberado, proibida revenda)
+- https://butterhands.itch.io/doomcrypt-kit (**CC0** — kit 1-bit de cripta do mal, ótimo para um andar monocromático)
+- na OpenGameArt: **Spooky Castle Tileset** (**CC0**), **castle platformer** (**CC0**), **LPC: Interior Castle Tiles** (**CC BY 4.0**), **Castle Tiles for RPG's** (**CC BY 3.0**) e **Isometric Tileset: Gothic Archways** (**CC BY 4.0**) — ver `assets/opengameart.md`
+
+### Itens e interface
+
+- https://tiopalada.itch.io/tiny-rpg-dark-dwellers-gui (**CC0** — GUI dark fantasy com 10 botões e vários estados)
+- os props do **Doomcrypt Kit**, do **Grungy Dungeon Props** e os móveis do **Gothic RPG Furniture** cobrem castiçais, caixões e equipamento
+- para armas e ícones, os packs já catalogados da seção **Dark fantasy/Diablo** (foozlecc, szadiart, krishna-palacio) continuam valendo
+
+### Música e SFX
+
+- https://davidkbd.itch.io/chronicles-of-midnight-halloween-2025-music-pack (metal gótico/vampírico/sinfônico; comercial liberado **com crédito a DavidKBD**)
+- https://eric-the-funny-baron.itch.io/barons-music-pack (faixas em loop; comercial liberado com crédito a "Eric the Funny Baron")
+- https://ateliermagicae.itch.io/era-of-vampires (17 loops de ambiência inspirados em vampiros e lobisomens; comercial liberado, crédito opcional)
+- https://ateliermagicae.itch.io/be-not-afraid-uimenu-sfx (87 SFX de UI/menu inspirados em Souls; comercial liberado)
+- na OpenGameArt: **Vampire's Piano** (**CC0**), **Gothic Sound** (**CC BY**), **Gothic Horror Symphonic Waltz** (**OGA-BY 3.0**) e **Dark Gothic Haunted Masquerade** (**OGA-BY 3.0**)
+
+### Avaliados e não incluídos
+
+- **Castlevania** e derivados (personagens, mapas, trilha, remakes de fã) — IP da Konami
+- https://ansimuz.itch.io/gothicvania-cold-corridors e https://ansimuz.itch.io/gothicvania-church-pack — os packs têm exatamente o visual certo, mas **não declaram licença** na página
+- https://loafbrr.itch.io/gothic-like-structures — página sem licença declarada
+- https://finalbossblues.itch.io/dark-dimension-tileset — página sem licença declarada
+- https://gtajima.itch.io/2d-platformer-tiles-castle — página sem licença declarada
+- https://mcsteeg.itch.io/psx-gothic-furniture-kit — página sem licença declarada
+- https://emontero.itch.io/dark-city-16x16-tileset — página sem licença declarada
+- https://frostwindz.itch.io/pixel-art-vfx-vampire — página sem licença declarada
+- https://ventilatore.itch.io/the-fantasy-tileset-castles-and-fortresses — a **versão gratuita é só não comercial**
+- https://naladraws.itch.io/diverse-vampires — gratuita apenas para **uso pessoal**
+- https://free-game-assets.itch.io/free-vampire-pixel-art-sprite-sheets e https://free-game-assets.itch.io/free-castle-interior-pixel-game-backgrounds — páginas sem licença declarada
+- https://raou.itch.io/dark-dun — já registrado como sem licença
+- https://maxparata.itch.io/darksoulsgothic-monogon, https://rg-poly.itch.io/stylized-medieval-village-unity-urp e https://kenney-assets.itch.io/castle-kit — packs **3D**
+- **ToffeeCraft** (Cat Pack Halloween) — uso pessoal, já registrado
 
 ## itch.io — Bundles e coleções
 
