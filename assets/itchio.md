@@ -722,6 +722,53 @@ Guerra é tema, não franquia: aqui entram soldados, veículos, armas e cenário
 - https://zsky2000.itch.io/military-base-pack — pack **3D**
 - https://oxygen3d.itch.io/game-ready-military-base-asset-pack — pack **3D**
 
+## itch.io — Zumbis e apocalipse (pesquisado em 22/10/2026)
+
+Zumbi é tema livre, então dá para usar packs de apocalipse com licença clara. Evitei tudo que era render 3D ou voxel.
+
+### Personagens
+
+- os sprites de zumbi da OpenGameArt (**CC0** e **OGA-BY 3.0**) estão em `assets/opengameart.md` (seção Personagens e sprites): *Endless Midnight: Zombie Swarm*, *Bevouliin*, *Animated Top Down Zombie*, *Zombie Character Sprite* e *Zombie Punk*
+- https://snowhex.itch.io/dungeon-gathering-zombie-exp (expansão de zumbis do Dungeon Gathering; comercial liberado, crédito apreciado, proibida revenda mesmo modificado)
+- https://bsgamestudio.itch.io/apocalypse-pixel-pack-black-white-edition (personagens + tiles de ambiente + fundos de ruína urbana em P&B; comercial liberado, crédito apreciado)
+
+### Mapas, casas e árvores
+
+- https://ittaimanero.itch.io/zombie-apocalypse-tileset (tileset completo de apocalipse zumbi: ruas, prédios, carros e interiores; comercial liberado, proibida redistribuição)
+- https://0-mem0ry.itch.io/post-apocalyptic-workshop-set-free (oficina pós-apocalíptica, 32x32; comercial, proibida revenda, NFT e IA)
+- https://0-mem0ry.itch.io/post-apoc-office-mega-bundle-free (escritório destruído; mesma licença do pack acima)
+- https://kenney-assets.itch.io/graveyard-kit (**CC0** — 80 peças de cemitério, capela, lápides e árvores mortas; o pacote traz modelos 3D e também **tilesheets e sprites 2D** prontos)
+- as **árvores mortas CC BY 3.0** da OpenGameArt (*Dead Tree*, *dead tree* e *Dead Tree — Yar's Tree Rework*) estão em `assets/opengameart.md` (seção Cenários)
+- para cemitério e cripta, os tilesets **CC0** já catalogados em `assets/opengameart.md` continuam valendo
+
+### Itens
+
+- https://domin-dev.itch.io/free-pixel-survival-items-pack (comida, remédio, ferramentas e sucata; comercial liberado, proibida revenda como pack isolado)
+- https://jehal.itch.io/24-survival-pixel-art-icons (**CC BY 3.0** — 24 ícones de sobrevivência; crédito recomendado)
+- https://assetsmithy.itch.io/32-free-modern-zombie-outbreak-icons-survival-horror-pandemic-inventory-sampler (32 ícones: cartões, vacinas, amostras, hazmat, barricadas; comercial liberado, sem crédito)
+- https://yukino1228.itch.io/2d-pixel-lab-apocalypse-object-tileset-pack (objetos de laboratório e apocalipse; comercial liberado, proibida redistribuição)
+
+### Texturas e fundos
+
+- https://sceneforgestudio.itch.io/sf013-sample-post-apocalyptic-backgrounds (5 fundos de cidade em ruínas e deserto; comercial liberado, sem crédito; **gerados por IA** e retocados à mão)
+- o pack P&B da BSGameStudio, acima, também entrega fundos de ruína urbana
+
+### Música e SFX
+
+- as faixas **Horror Loop**, **Horror Atmosphere** e **Horror Music** (**CC0**) e o **Horror Game Menu** (**CC BY 3.0**) estão em `assets/opengameart.md` (seção Música e SFX por tema)
+- o pack de horror da Crow Shade e os SFX de monstros **CC0** já estão catalogados (ver `## itch.io — Sons e música` e `assets/opengameart.md`)
+
+### Avaliados e não incluídos
+
+- https://thelazystone.itch.io/post-apocalypse-pixel-art-asset-pack — a licença gratuita é **só para projetos não comerciais**
+- https://free-game-assets.itch.io/free-urban-zombie-sprite-sheet-pixel-art-pack — página sem licença declarada
+- https://free-game-assets.itch.io/free-zombie-sprite-sheet-pack-pixel-art — página sem licença declarada
+- https://terrorbytegames.itch.io/zombie-massacre-sound-effects-starter-pack — diz apenas "royalty-free", sem termos de uso em jogo comercial
+- https://darkworldaudio.itch.io/sound-effects-survival-i — a licença está só dentro do arquivo do download
+- https://atomicrealm.itch.io/post-apocalyptic-world — pack **3D** low-poly
+- https://maxparata.itch.io/voxel-zombies, https://maxparata.itch.io/isometriczombieapocalypse-monogon e https://maxparata.itch.io/voxelzombieapocalypse — voxel/3D
+- https://majadroid.itch.io/3d-apocalyptic-building-city-cc0 — **CC0**, mas é 3D
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

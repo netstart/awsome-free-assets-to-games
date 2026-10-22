@@ -47,6 +47,11 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/space-soldier-m484-games (**CC0** — soldado de ficção científica)
 - https://opengameart.org/content/beast-soldier (**CC BY 4.0** — soldado bestial, crédito obrigatório)
 - https://opengameart.org/content/boy-with-a-slingshot (**CC BY 3.0** — garoto com estilingue, útil para quebra-cabeça de física)
+- https://opengameart.org/content/endless-midnight-zombie-swarm-assets (**CC0** — pacote de assets de zumbis)
+- https://opengameart.org/content/bevouliin-free-zombie-sprite-sheets-game-character-for-game-developers (**CC0** — folhas de sprite de zumbi)
+- https://opengameart.org/content/animated-top-down-zombie (**CC0** — zumbi animado top-down)
+- https://opengameart.org/content/zombie-character-sprite (**OGA-BY 3.0** — sprite de zumbi, crédito obrigatório)
+- https://opengameart.org/content/zombie-punk-character-sprite (**OGA-BY 3.0** — zumbi punk, crédito obrigatório)
 
 ## Armas e itens
 
@@ -66,6 +71,9 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/blended-textures-of-dirt-and-grass (**CC0** — transições de terra e grama para montar caminhos)
 - https://opengameart.org/content/war-for-the-overworld-tiles (**CC0** — tiles de guerra e fortaleza)
 - https://opengameart.org/content/tank-pack-80 (**CC0** — mais de 80 tanques 2D)
+- https://opengameart.org/content/dead-tree-1 (**CC BY 3.0** — árvore morta 2D, crédito obrigatório)
+- https://opengameart.org/content/dead-tree (**CC BY 3.0** — árvore morta, variante)
+- https://opengameart.org/content/dead-tree-yars-tree-rework (**CC BY 3.0** — releitura de árvore morta)
 
 ## Música e SFX por tema
 
@@ -105,3 +113,10 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 
 - https://opengameart.org/content/monster-sound-effects-2 (**CC0** — efeitos de monstros)
 - https://opengameart.org/content/monster-battle-sounds (**CC BY 3.0** — gritos e impactos de batalha)
+
+### Zumbis e apocalipse
+
+- https://opengameart.org/content/horror-loop (**CC0** — loop de horror)
+- https://opengameart.org/content/horror-atmosphere (**CC0** — atmosfera de horror)
+- https://opengameart.org/content/horror-music (**CC0** — faixa de horror)
+- https://opengameart.org/content/horror-game-menu (**CC BY 3.0** — tema de menu de horror, crédito obrigatório)

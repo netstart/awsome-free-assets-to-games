@@ -23,5 +23,6 @@
 | Super-heróis/cidade (estilo DC) | kenney-assets.itch.io, karsiori.itch.io, aske4.itch.io, 5yvalia.itch.io, moxica.itch.io, opengameart.org |
 | Pássaros/estilingue (estilo Angry Birds) | pulsarcp.itch.io, muteassets.itch.io, pop-shop-packs.itch.io, opengameart.org |
 | Guerra/militar | zintoki.itch.io, tiago-melo.itch.io, kepons.itch.io, bigmack.itch.io, 87accident.itch.io, snowycocoon.itch.io, opengameart.org |
+| Zumbis/apocalipse | ittaimanero.itch.io, 0-mem0ry.itch.io, snowhex.itch.io, bsgamestudio.itch.io, domin-dev.itch.io, jehal.itch.io, assetsmithy.itch.io, yukino1228.itch.io, sceneforgestudio.itch.io, kenney-assets.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |
