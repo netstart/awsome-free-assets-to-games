@@ -134,6 +134,15 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/lpc-fairy (**CC BY 3.0** / CC BY-SA 3.0 / GPL — fada no estilo LPC)
 - https://opengameart.org/content/fairy-npc (**CC BY 3.0** — fada NPC)
 - https://opengameart.org/content/fairy (**CC BY 4.0** / CC BY 3.0 — fada em sprite, do SCaydi)
+- https://opengameart.org/content/space-shooter-redux (**CC0** — naves, inimigos, tiros, power-ups e explosões, do Kenney)
+- https://opengameart.org/content/space-shooter-extension-250 (**CC0** — 250+ peças de space shooter, expansão do pack anterior, do Kenney)
+- https://opengameart.org/content/space-ship-shooter-pixel-art-assets (**CC0** — navinha e inimigos do ansimuz)
+- https://opengameart.org/content/space-shooter-top-down-2d-pixel-art (**CC0** — space shooter top-down, do Bert-o-Naught)
+- https://opengameart.org/content/2d-space-shooter-assets (**CC0** — pack completo de shmup, do pudman)
+- https://opengameart.org/content/2d-spaceship-sprites-with-engines (**CC0** — naves com motores animados, do morgan3d)
+- https://opengameart.org/content/space-shooter-sprites (**CC BY 3.0** — sprites de space shooter, do Blarget2)
+- https://opengameart.org/content/top-down-sci-fi-shooter-pack (**CC BY-SA 3.0** — pack de shooter sci-fi top-down, do Tatermand)
+- https://opengameart.org/content/cozy-space-station-walking-crew-animated-top-down-characters (**CC BY 4.0** — tripulação animada de estação espacial, do roberto mellado)
 
 ## Armas e itens
 
@@ -201,6 +210,10 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/cc0-rune-icons (**CC0** — ícones de runa, do AntumDeluge)
 - https://opengameart.org/content/enchanted-weapon-icons (**CC BY-SA 3.0** — ícones de armas encantadas)
 - https://opengameart.org/content/loyalty-lies-items-magic-objects (**CC BY 3.0** — objetos mágicos e itens de magia)
+- https://opengameart.org/content/asteroid-explosions-rocket-mine-and-laser (**CC BY-SA 3.0** — asteroides, explosões, foguete, mina e laser, do Jonas Wagner)
+- https://opengameart.org/content/asteroids-1 (**CC0** — asteroides em sprite, do BPjr)
+- https://opengameart.org/content/2d-asteroid-sprite (**CC BY 3.0** — asteroide animado, do nightzero)
+- https://opengameart.org/content/pixel-art-2d-asteroid-pack (**CC BY 4.0** — pack de asteroides em pixel art, do Cayden Franklin)
 
 ## Cenários, tilesets e construções
 
@@ -353,6 +366,24 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/hut-bleeds-game-art (**CC BY 3.0** — cabana isométrica, do Bleed)
 - https://opengameart.org/content/collection-of-rune-stones-seamless-tiles (**CC0** — pedras rúnicas sem emenda, do ztn)
 - https://opengameart.org/content/4-glowing-rune-stones-32w-x-49h (**CC0** — quatro pedras rúnicas brilhantes)
+- https://opengameart.org/content/space-station-tileset (**CC BY 3.0** — tileset de estação espacial, do Jesse McCarthy)
+- https://opengameart.org/content/sci-fi-top-down-centrifuge-space-station (**CC0** — planta de estação centrífuga top-down, do ChaosShark)
+- https://opengameart.org/content/sci-fi-top-down-shipyard-space-station (**CC0** — planta de estaleiro espacial top-down, do ChaosShark)
+- https://opengameart.org/content/textured-space-station (**CC BY 3.0** — estação espacial texturizada, do MillionthVector)
+- https://opengameart.org/content/cozy-space-station-top-down-sci-fi-office-sprites (**CC BY 4.0** — interiores de estação com mesas e telas, do roberto mellado)
+- https://opengameart.org/content/space-backgrounds-6 (**CC0** — fundos espaciais, do Rawdanitsu)
+- https://opengameart.org/content/space-backgrounds-7 (**CC0** — mais fundos espaciais, do Rawdanitsu)
+- https://opengameart.org/content/3-layer-parallax-star-and-nebula-field (**CC0** — campo de estrelas e nebulosa em parallax de 3 camadas, do TheClicketyBoom)
+- https://opengameart.org/content/space-nebula-starfield-renders (**CC BY 3.0** / OGA-BY 3.0 — renders de nebulosa e campo estelar, do Jattenalle)
+- https://opengameart.org/content/star-field (**CC0** — campo de estrelas, do Graul98)
+- https://opengameart.org/content/space-backdrop (**CC0** — cenário de espaço, do beren77)
+- https://opengameart.org/content/16-planet-sprites (**CC BY 4.0** / CC BY-SA 3.0 — 16 planetas em sprite)
+- https://opengameart.org/content/17-planet-sprites (**CC BY 4.0** / CC BY-SA 3.0 — 17 planetas em sprite)
+- https://opengameart.org/content/20-planet-sprites (**CC BY 3.0** / GPL 2.0 — 20 planetas em sprite, do Justin Nichol)
+- https://opengameart.org/content/starfury-art-pack (**CC BY 4.0** / CC BY 3.0 / OGA-BY 3.0 — pack de naves e efeitos espaciais, do XCVG)
+- https://opengameart.org/content/cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas (**CC BY 4.0** — planetas girando, asteroides e nebulosas sem emenda, do roberto mellado)
+- https://opengameart.org/content/metal-panel (**CC BY-SA 3.0** / GPL 2.0 / GPL 3.0 — painel de metal, para parede de nave)
+- https://opengameart.org/content/spaceship-hull (**CC BY-SA 3.0** / GPL 2.0 / GPL 3.0 — casco de nave, do schorote)
 
 ## Música e SFX por tema
 
@@ -433,6 +464,18 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/destruction-of-the-alien-spacecrafts (**CC0** — destruição de naves alienígenas)
 - https://opengameart.org/content/space-boss-battle-theme (**CC BY 3.0** — tema de chefe espacial, crédito obrigatório)
 - https://opengameart.org/content/alien-ruins (**CC BY 3.0** — ruínas alienígenas, crédito obrigatório)
+- https://opengameart.org/content/space-shooter-music (**CC BY 3.0** — tema de space shooter, do Oblidivm)
+- https://opengameart.org/content/stereotypical-90s-space-shooter-music (**OGA-BY 3.0** — space shooter estilo anos 90, do Jan125)
+- https://opengameart.org/content/8-bit-epic-space-shooter-music (**CC0** — tema épico 8-bit de space shooter, do HydroGene)
+- https://opengameart.org/content/space-shooter-loop (**CC0** — loop de space shooter, do Pro Sensory)
+- https://opengameart.org/content/space-dimensions-techno-version (**CC BY 3.0** — space dimensions em versão techno, do Matthew Pablo)
+- https://opengameart.org/content/futureshmup (**CC0** — trilha futurista de shmup, do cinameng)
+- https://opengameart.org/content/galaxy-ii (**OGA-BY 3.0** — tema galáxia, do VocalMix)
+- https://opengameart.org/content/outer-space-loop (**CC0** — loop de espaço profundo, do wipics)
+- https://opengameart.org/content/laser-fire (**CC BY 3.0** — disparo de laser, do dklon)
+- https://opengameart.org/content/space-laser (**CC0** — laser espacial, do bart)
+- as explosões **Explosion** (**CC0**) e **Big Explosion** (**CC BY 3.0**) já estão catalogadas na subseção **Guerra e militar** e servem direto para a morte dos inimigos
+- https://opengameart.org/content/chunky-explosion (**CC0** — explosão curta e encorpada, do Joth)
 
 ### Café, cozy e jazz
 

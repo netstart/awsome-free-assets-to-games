@@ -1617,6 +1617,81 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 - https://fakehiking.itch.io/plants-and-more — página sem licença declarada
 - https://milkandbanana.itch.io/cooking-assets, https://vladqc.itch.io/restaurant-assets, https://kaylousberg.itch.io/restaurant-bits, https://cloudycreates.itch.io/cute-low-poly-caf-assets, https://vnbp.itch.io/cafe-set-vnb e https://yumeforge.itch.io/japanese-izakaya-low-poly-3d-asset-pack-free-sampler — packs **3D**
 
+## itch.io — Nave espacial e Galaxy Attack (space shooter) (pesquisado em 22/10/2026)
+
+*Galaxy Attack: Alien Shooter* é jogo da ONEMT: naves, sprites, ícones e trilha do jogo **não entram**, e os clones de "Galaxy Attack" no itch são jogos, não packs de assets. O equivalente legal é o **shmup arcade 2D**: nave do jogador, frotas alienígenas, asteroides, power-ups, fundo estrelado com parallax, estação espacial, laser/explosão e trilha de synthwave/chiptune. Tudo abaixo tem licença verificada na página.
+
+### Naves, pilotos e inimigos
+
+- https://mattwalkden.itch.io/lunar-battle-pack (**CC0** — pack de batalha lunar com naves, marines e cenário; o autor libera comercial e modificação, crédito opcional)
+- https://cluly.itch.io/space-eaters (naves e inimigos do clássico "Space Eaters", com sprite sheet; comercial liberado, proibida revenda)
+- https://disruptorart.itch.io/tiny-ships-free-spaceships (mini naves e ícones espaciais para bullet hell e HUD; comercial liberado, sem crédito, proibida revenda e NFT)
+- https://axassets.itch.io/spaceship-simple-assets (nave do jogador, meteoros, laser, ícone de armadura/power-up, explosão e dois fundos; comercial liberado, proibida revenda)
+- https://pixelsos.itch.io/ass (pack inicial completo: nave, inimigos, asteroides e fundo; comercial liberado, proibida revenda)
+- https://timberlate007.itch.io/shootem-up (starter pack de shoot'em up com naves, inimigos, tiros, HUD e barra de bônus; comercial liberado, proibida revenda)
+- https://grafxkid.itch.io/mini-pixel-pack-3 (**CC0** — mini naves e fundo espacial animado em loop, do GrafxKid)
+- https://greatdocbrown.itch.io/1bitspace (**CC BY-SA 4.0** — pack de space shooter em estilo 1-bit)
+- https://odistudio-games.itch.io/space-pack (**CC BY 4.0** — sprites de shmup 8/16-bit, com crédito apreciado)
+- https://squaremeapixel.itch.io/space-pack (asteroides, inimigos e naves; licença comercial livre — **atenção: as imagens foram geradas pelo gerador Mysticism**, então trate como arte assistida por IA)
+- na OpenGameArt: **Space Shooter Redux** e **Space Shooter Extension** (**CC0**, do Kenney — naves, inimigos, tiros, power-ups e explosões), **Space Ship Shooter Pixel Art Assets** (**CC0**, do ansimuz), **Space Shooter (Top Down) 2D Pixel Art** (**CC0**), **2D Space Shooter Assets** (**CC0**), **2D spaceship sprites with engines** (**CC0**), **Space Shooter Sprites** (**CC BY 3.0**) e **Top-Down Sci-Fi Shooter Pack** (**CC BY-SA 3.0**)
+- na kenney.nl: **Pixel Shmup** e **Simple Space** (**CC0**) — ver `assets/kenney.md`; o **Space Shooter Extension** do Kenney está na OpenGameArt, para não repetir o mesmo pack em dois arquivos
+- para a tripulação a pé dentro da estação, use as **Cozy Space Station: Walking Crew** (**CC BY 4.0**), catalogadas na OpenGameArt
+
+### Mapas, fundos e estações espaciais
+
+- https://virusystem.itch.io/background-space (**CC0** — fundo espacial 1024x600)
+- https://foozlecc.itch.io/void-environment-pack (**CC0** — ambiente "Void" com módulos, corredores e cenário de nave)
+- os **fundos espaciais contínuos** da Screaming Brain Studios (**CC0**) e o **parallax de floresta, deserto, céu e lua** do Bongseng, ambos já catalogados na seção **Metroid**, continuam sendo a melhor base de fundo
+- na kenney.nl: **Simple Space** (48 peças de mapa: módulos, corredores e salas) e **Planets** (50 planetas), ambos **CC0**
+- na OpenGameArt: **Space Station Tileset** (**CC BY 3.0**), **Sci-Fi Top Down Centrifuge Space Station** e **Sci-Fi Top Down Shipyard Space Station** (**CC0**, do ChaosShark), **Star Field**, **Space Backdrop**, **Space Backgrounds 6** e **7** (**CC0**, do Rawdanitsu), **3 Layer Parallax Star and Nebula Field** (**CC0**), **Space, nebula, starfield renders** (**CC BY 3.0** / OGA-BY), **16**, **17** e **20 Planet Sprites** (**CC BY 3.0/4.0**), **Star-FURY Art Pack** (**CC BY 4.0**) e **Cozy Space Backdrops** (**CC BY 4.0**, com planetas girando e nebulosas sem emenda)
+- para o mapa "planetário" do Hyakki, o **Alien Planet Platformer Tileset** e o **Space Scifi RPG Tiles 48x48** (**CC0**) já catalogados dão o chão; os planetas e nebulosas acima fazem o céu
+
+### Casas e construções espaciais
+
+- os módulos, corredores e salas do **Void Environment Pack** (**CC0**) e do **Simple Space** (**CC0**) montam base, hangar e habitat sem precisar de pack extra
+- **Sci-Fi Top Down Centrifuge Space Station** e **Shipyard Space Station** (**CC0**, do ChaosShark) são plantas prontas de estação, boas para um mapa inteiro
+- **Textured Space Station** (**CC BY 3.0**, do MillionthVector) e **Space Station Tileset** (**CC BY 3.0**, do Jesse McCarthy) dão o acabamento de parede e piso
+- para interiores habitados, as **Cozy Space Station: top-down sci-fi office sprites** (**CC BY 4.0**, do roberto mellado) trazem mesas, telas e props de sala de comando
+
+### Flora alienígena (árvores)
+
+- não existe "árvore espacial" boa e barata: o caminho é a **flora alienígena já catalogada** na seção **Metroid** — **Foliage Pack (100x)** e **Alien Planet Platformer Tileset** (**CC0**) — plantada sobre o chão do **Simple Space**
+- para o "jardim de cristal" da estação, reaproveite as gemas e cristais das seções **Velocidade/mascote** e **Magia** (todas CC0 ou CC BY) como árvores luminosas
+
+### Itens: power-ups, lasers e minérios
+
+- https://wenrexa.itch.io/laser2020 (**CC0** — mais de 1120 sprites de laser/bullet, do pack da Wenrexa)
+- na OpenGameArt: **Asteroid, explosions, rocket, mine and laser** (**CC BY-SA 3.0**, do Jonas Wagner), **Asteroids** (**CC0**, do BPjr), **2D asteroid sprite** (**CC BY 3.0**) e **Pixel Art 2D Asteroid Pack** (**CC BY 4.0**)
+- os power-ups, escudos e ícones de HUD vêm dentro do **Space Shooter Redux** e do **Pixel Shmup** (**CC0**)
+- https://hat-tap.itch.io/asteroids-asset-pack e https://dolkyns.itch.io/asteroid-pack-animated-2d-game-assets (asteroides, inclusive animados; comercial liberado, proibida revenda)
+- https://realcreative.itch.io/pixel-art-space-game-asset-pack (pack de space shooter com nave e inimigos; comercial liberado, proibida revenda)
+
+### Texturas de casco e metal
+
+- na OpenGameArt: **Metal panel** (**CC BY-SA 3.0** / GPL) e **Spaceship Hull** (**CC BY-SA 3.0** / GPL) para paredes de nave e casco
+- para o piso metálico interno, o **Industrial Tileset** da seção **Tecnologia** e os tiles de metal **CC0** já catalogados resolvem
+- **Hull Plating Normal Maps** existe na OpenGameArt, mas é mapa de normais (3D) — não entra no catálogo 2D
+
+### Música e SFX
+
+- https://kosmocat.itch.io/space-train-journey (5 faixas eletrônicas espaciais; uso comercial e não comercial sem restrições)
+- https://albesca.itch.io/outer-space-music-pack (**CC0** — faixas "A Long Journey", "A Starless Sky", "Barren Planets" e outras)
+- https://doranarasi.itch.io/shmup-bgm-pack (BGM de shmup; uso livre inclusive comercial)
+- o **Space Music Pack** do Gooseninja já está catalogado na seção **Metroid** e serve de trilha de combate
+- na kenney.nl: **Sci-fi Sounds** (**CC0**, 70 SFX de motor, laser e nave)
+- na OpenGameArt: **Space Shooter Music** (**CC BY 3.0**), **Stereotypical 90's space shooter music** (**OGA-BY 3.0**), **8-bit Epic Space Shooter Music** (**CC0**), **Space Shooter (Loop)** (**CC0**), **Space Dimensions (Techno Version)** (**CC BY 3.0**), **futureshmup** (**CC0**), **Galaxy II** (**OGA-BY 3.0**), **Outer Space Loop** (**CC0**), **Laser Fire** (**CC BY 3.0**), **Space Laser** (**CC0**) e **Chunky Explosion** (**CC0**) — e as explosões **Explosion** e **Big Explosion** da subseção **Guerra e militar**
+- os packs de laser/explosão já catalogados nas seções **Tecnologia** e **Guerra** completam o áudio de tiro e impacto
+
+### Avaliados e não incluídos
+
+- **IP e jogos**: os "Galaxy Attack" do itch são **jogos**, não packs de assets, e *Galaxy Attack: Alien Shooter* é IP da ONEMT — https://ritesh-devloper.itch.io/galaxy-attack-by-ritesh, https://murderhoboshq.itch.io/galaxy-attack, https://bedo-games.itch.io/galaxy-attack, https://akachu-pinchu.itch.io/galaxy-attack-pro, https://fplay.itch.io/galaxy-attack, https://superjk92.itch.io/galaxy-attackers, https://trongtam.itch.io/galaxy-attack-space-battle, https://dracosoft-entertainment.itch.io/galaxy-attack-2d, https://silentstorm09.itch.io/galaxy-attack, https://gjs1025.itch.io/galaxy-attack, https://blkppromotionsllc.itch.io/galaxy-attack-alien-shooter e https://david-stas.itch.io/galaxy-attack-2
+- **pagos**: https://onechimps.itch.io/assetsspaceshootereditable (US$ 1), https://tazzan.itch.io/vulcan-space-shooter (US$ 1), https://blodyavenger.itch.io/2d-retro-space-shooter-assets (US$ 10), https://pozac.itch.io/space-shooter-pack-2d-pixel-art-ships-pack (US$ 3,99 a 19,99), https://appealfoundry.itch.io/planets-asteroids-free (US$ 19,99, com asteroide **assistido por IA**), https://mobileassets101.itch.io/space-shooter-assets-spacejam-invasion-xtreme-001 (US$ 78), https://chiewaters.itch.io/cosmic-vanguard-space-shooter-pack (US$ 9,99), https://chiewaters.itch.io/neon-void-vanguard-bullet-hell-16-bit-space-shooter-assets, https://comshadow.itch.io/complete-spaceship-pixel-art-tileset (US$ 3,99 a 29,99) e https://free-game-assets.itch.io/spaceship-2d-sprites-pixel-art (US$ 6 a 49)
+- **grátis só em parte / não comercial**: https://cuxrie.itch.io/spaceship-shooter-pixel-art-space-pack — o autor proíbe "ganhar dinheiro" com o pack
+- **sem licença declarada**: https://tylerj-game-design.itch.io/space-shooter-assets, https://odayzaod.itch.io/odayzaod-space-shooter-assets, https://cowblossom.itch.io/2d-pixel-space-shooter-assets, https://jillionbits.itch.io/8-bit-space-shooter-assets, https://resus.itch.io/spaceship-pixel-art-64x64, https://zoser.itch.io/pixel-art-spaceship-top-down-pack-01, https://jhawk-studios.itch.io/space-music-pack e https://leohpaz.itch.io/space-music-pack (só diz "free to use", sem confirmar comercial)
+- **pago com CC0 no título**: https://bobkingg.itch.io/chiptune-space-music — declara CC0, mas o download custa US$ 2
+- **3D**: https://beardyluke.itch.io/beardy-lukes-mini-space-pack, https://zenteaseeker.itch.io/black-horned-space-ship, https://maxparata.itch.io/voxel-spaceships e https://kaylousberg.itch.io/space-base-bits
+- já rejeitados na seção **Metroid** e que continuam fora: **Space Shooter Assets (Space Rage)** do Ravenmore (pago por projeto), **Space Backgrounds** e **Spaceship Shooter Environment** do ansimuz (sem licença) e **Pixel Space Background Generator** / **Pixel Planet Generator** do Deep-Fold (sem licença)
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

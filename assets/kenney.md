@@ -11,6 +11,7 @@ Assets da kenney.nl, distribuídos sob licença CC0 / domínio público, livres 
 - https://kenney.nl/assets/particle-pack (80 arquivos 2D VFX)
 - https://kenney.nl/assets/background-elements (110 arquivos 2D: props, parallax)
 - https://kenney.nl/assets/music-jingles (música jingles)
+- https://kenney.nl/assets/sci-fi-sounds (70 arquivos de SFX sci-fi: motores, lasers e naves)
 - https://kenney-assets.itch.io/pixel-platformer (Pixel Platformer 200+ tiles)
 
 ## 2D — Pacotes de cenário e personagens
@@ -22,6 +23,9 @@ Assets da kenney.nl, distribuídos sob licença CC0 / domínio público, livres 
 - https://kenney.nl/assets/input-prompts (2D, série Input Prompts — prompts de controle)
 - https://kenney.nl/assets/crosshair-pack (2D — miras/crosshairs)
 - https://kenney.nl/assets/domino-pack (2D, Board Games — dominó)
+- https://kenney.nl/assets/pixel-shmup (2D — naves, inimigos, tiros, power-ups e fundo de space shooter)
+- https://kenney.nl/assets/simple-space (2D — 48 peças de mapa espacial: módulos, corredores e salas)
+- https://kenney.nl/assets/planets (2D — 50 planetas para mapas e fundos)
 
 ## 3D — Kits modulares e cenários
 
