@@ -54,3 +54,16 @@
 | RTS nórdico / vila viking (estilo Northgard) | bobkingg.itch.io, carbonova.itch.io, mr-pixelz.itch.io, maidolee.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |
+| Casual / Hiper-casual (mobile) | kenney.nl, opengameart.org, freegameassets.com, craftpix.net |
+| Quebra-cabeça / Match-3 / Puzzle (mobile) | kenney.nl (puzzle-pack-1, puzzle-pack-2), opengameart.org, freegameassets.com (stylized-casual-mobile-icons), craftpix.net (quiz game asset kits) |
+| Arcade / Ação / Plataforma (mobile) | kenney.nl (platformer pack, space shooter, shooting gallery), opengameart.org, freegameassets.com |
+| Tiro / Battle Royale / FPS (mobile) | kenney.nl (space shmup, top-down shooter, tanks), opengameart.org, freegameassets.com (modern military icons, sci-fi icons) |
+| Estratégia / Tower Defense / RTS (mobile) | kenney.nl (tower defense, medieval RTS, sci-fi RTS), opengameart.org, craftpix.net (defense game asset kits) |
+| Simulação / Gestão / Tycoon (mobile) | kenney.nl (tiny city, tiny farm, mini market), opengameart.org, craftpix.net (2D game kits, sushi restaurant game kit) |
+| Esportes / Corrida (mobile) | kenney.nl (sports pack, racing pack, racing kit, car kit), opengameart.org |
+| Cartas / Tabuleiro / Cassino (mobile) | kenney.nl (playing cards pack, domino pack, board game pack, casino audio), opengameart.org, freegameassets.com (casino audio) |
+| Música / Ritmo (mobile) | kenney.nl (music jingles), opengameart.org |
+| Idle / Clicker (mobile) | kenney.nl (block pack, generic items), opengameart.org, freegameassets.com |
+| Aventura / Narrativa / Social (mobile) | kenney.nl (emotes pack, ui packs, adventure packs), opengameart.org, freegameassets.com (faction crests) |
+| UI / HUD / Controles touch (mobile) | kenney.nl (mobile controls, UI pack, UI pack pixel adventure, UI pack sci-fi, input prompts), opengameart.org, freegameassets.com (stylized casual mobile icons) |
+| Fontes pixel / tipografia (mobile) | kenney.nl (kenney fonts), github.com/TakWolf, fonts.google.com, fontlibrary.org |
