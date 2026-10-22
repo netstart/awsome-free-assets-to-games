@@ -25,6 +25,10 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/scary-ambient-wind (**CC BY 3.0** — vento assustador, camada de ambiente para cripta)
 - https://opengameart.org/content/monster-sound-effects-2 (**CC0** — efeitos sonoros de monstros)
 - https://opengameart.org/content/monster-sound-pack-volume-1 (**CC0** — pacote de sons de monstros)
+- https://opengameart.org/content/battle-theme-a (**CC0** — tema de batalha, bom para combate de monstros)
+- https://opengameart.org/content/battle-theme-0 (**CC0** — tema de batalha curto, estilo 8-bit)
+- https://opengameart.org/content/rpg-battle-theme-the-last-encounter-0 (**CC BY-SA 3.0** — tema de batalha de RPG, crédito obrigatório)
+- https://opengameart.org/content/monster-battle-sounds (**CC BY 3.0** — gritos e impactos de batalha)
 
 ## Personagens e sprites
 
@@ -53,3 +57,6 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/free-graveyard-platformer-tileset (**CC0** — tileset de cemitério para plataforma, com lápides e árvores mortas)
 - https://opengameart.org/content/graveyard (**CC0** — cenário de cemitério 2D)
 - https://opengameart.org/content/seamless-2d-graveyard-background (**CC0** — fundo de cemitério em loop contínuo)
+- https://opengameart.org/content/seamless-grass (**CC0** — textura de grama sem emendas, para mapas top-down)
+- https://opengameart.org/content/seamless-grass-texture-ii (**CC0** — variante da textura de grama)
+- https://opengameart.org/content/blended-textures-of-dirt-and-grass (**CC0** — transições de terra e grama para montar caminhos)

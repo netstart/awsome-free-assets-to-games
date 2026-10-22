@@ -555,6 +555,52 @@ Assets 2D de selva, macacos, cipós e frutas — o equivalente legal ao visual d
 - https://openpixelproject.itch.io/opp2017jungle — a versão do itch.io não declara licença; usar a da OpenGameArt, que é CC BY 3.0
 - https://elegantcrow.itch.io/cartoon-tropical-nature-pack — pack 3D
 
+## itch.io — Monstros colecionáveis (estilo Pokémon) (pesquisado em 22/10/2026)
+
+Pokémon é propriedade intelectual da Nintendo/Game Freak/ Creatures: sprites, nomes, Pokébolas, fontes e músicas oficiais **não entram** no catálogo. O que segue é o equivalente legal — jogos de captura e criação de monstros (monster taming), com sprites originais e licença verificável.
+
+### Personagens (criaturas e treinadores)
+
+- https://screensmith.itch.io/openmon-monster-sprites-set-7 (**CC0** em parte; alguns sprites vêm do projeto Tuxemon e são **CC BY-SA**, com atribuição em novarangers.com/attributions)
+- https://screensmith.itch.io/openmon-monster-sprites-set-6 (mesma licença do set 7; os sets 1 a 5 e a linha Wolf estão na mesma página do autor)
+- https://screensmith.itch.io/openmon-monster-sprites-set-1 (**CC0** — sprites encomendados pelo autor, sem atribuição)
+- https://screensmith.itch.io/pokemon-style-characters-forest-npcs (**CC0** — NPCs de floresta no estilo GBC)
+- https://screensmith.itch.io/pokemon-style-characters-townspeople (**CC0**, mas o pack é **gerado por IA** e a página exige divulgar isso; os packs Townspeople 2, Water Trainers e Miners seguem o mesmo formato)
+- https://akoro.itch.io/pixel-mons-52-monsters-size-24x24 (52 monstrinhos 24x24; comercial liberado, sem crédito, proibida revenda avulsa)
+- https://aaronsprites.itch.io/aaron-sprites-freebies-6 (5 criaturas em 96 a 512 px, com variante de cor; comercial e edição liberados, revenda avulsa proibida)
+- https://moanaprinz.itch.io/monster-taming-breeding-pixel-asset-pack (monstros para criação/evolução; comercial liberado com crédito apreciado; proibido revender, usar em NFT ou treinar IA)
+- https://scarloxy.itch.io/mpwsp01 (16 monstros animados, 10 personagens, tileset de biomas, efeitos de ataque, fundos de batalha e UI; o autor declara o pack **totalmente original e comercial**)
+- https://jasontomlee.itch.io/fakemon-starter-battle-vfx (efeitos de batalha para golpes iniciais; comercial e edição liberados; proibido revender, NFT ou IA)
+
+### Mapas, casas e árvores
+
+- https://maciaz.itch.io/pokemon-like-top-down-tile-set (3 casas prontas, árvores pequena e grande, 3 NPCs, 2 criaturas, 37 tiles de chão e 51 de objetos, 16x16; comercial **com crédito**, proibido revender o pack modificado)
+- https://axulart.itch.io/axularts-basic-top-down-interior (**CC BY 4.0** — interiores top-down com móveis, ideal para casas e centros de cura)
+- https://axulart.itch.io/axularts-beach-and-caves-tileset (**CC BY 4.0** — praia, cavernas e transições, 16x16)
+- https://anima-nel.itch.io/gbc-edo-forest (floresta estilo GBC com versão gratuita; comercial liberado, proibida redistribuição, NFT e IA — bônus: combina com os mapas de samurai)
+- https://screensmith.itch.io/openmon-pixel-art-backgrounds-set-1 (**CC0** — fundos de batalha)
+- https://screensmith.itch.io/openmon-berry-plants (**CC0** — arbustos de frutinhas animados, feitos por Yan)
+
+### Itens e texturas
+
+- https://screensmith.itch.io/item-icon-sprites-set-1-openmon (**CC0** — ícones de itens genéricos: poções, bolas de captura sem marca, insígnias)
+- https://axulart.itch.io/microscopic-sprites-axulart (**CC BY 4.0** — props e objetos pequenos para preencher mapas)
+- as texturas CC0 de **grama sem emenda** e de **transição de terra e grama** estão em `assets/opengameart.md` (seção Cenários, tilesets e construções)
+
+### Música
+
+- os temas de **batalha CC0** e o tema de batalha de RPG **CC BY-SA 3.0**, além dos gritos de batalha **CC BY 3.0**, estão em `assets/opengameart.md` (seção Sons e música)
+
+### Avaliados e não incluídos
+
+- https://n3cloud.itch.io/pocket-creature-tamer-adventure-kit-16-x16-rpg-asset-pack — a licença **gratuita é só para projetos não comerciais**; uso comercial exige a versão premium paga
+- https://the-pixel-nook.itch.io/rpg-building-pack — página sem licença declarada, apesar de ser o pack de casas mais próximo do estilo
+- https://the-pixel-nook.itch.io/retro-rpg-character-pack — página sem licença declarada
+- https://bellblitzking.itch.io/pokemon-sound-collection — são os efeitos sonoros **originais dos jogos Pokémon**, propriedade da Nintendo/Game Freak
+- https://gibbongl.itch.io/gen-2-pokemon-trainer-sprite-and-portraits — sprites de treinadores de Pokémon, IP da Nintendo
+- https://flinkerflitzer.itch.io/pokemon-gen-3-trainer — sprite de treinador de Pokémon, IP da Nintendo
+- https://screensmith.itch.io/pokemon-style-map-generator — é uma ferramenta geradora de mapas, não um pacote de assets
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

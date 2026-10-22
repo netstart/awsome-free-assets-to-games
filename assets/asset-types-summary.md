@@ -19,5 +19,6 @@
 | Dark fantasy/Diablo | trevor-pupkin.itch.io, foozlecc.itch.io, szadiart.itch.io, krishna-palacio.itch.io, williamqm.itch.io |
 | Plataforma estilo Mario (8/16-bit) | pixelfrog-assets.itch.io, jonathan-so.itch.io, v3x3d.itch.io, axulart.itch.io, rottingpixels.itch.io, balloon-cart.itch.io |
 | Selva/primatas (estilo Donkey Kong) | teo-reat.itch.io, jesse-m.itch.io, lunadrift-studios.itch.io, gooooman.itch.io, freakydayz.itch.io, opengameart.org |
+| Monstros colecionáveis (estilo Pokémon) | screensmith.itch.io, akoro.itch.io, aaronsprites.itch.io, moanaprinz.itch.io, scarloxy.itch.io, maciaz.itch.io, axulart.itch.io, anima-nel.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |
