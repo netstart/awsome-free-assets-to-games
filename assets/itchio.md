@@ -1078,6 +1078,81 @@ Mapa de dragão para o Hyakki: covil vulcânico, santuário/templo do dragão, f
 - https://jesuiscid.itch.io/dragons-cadence (trilha sem licença declarada) e https://tacotry.itch.io/battle-backgrounds-enemies (sem licença)
 - https://quaternius.itch.io/lowpoly-animated-monsters, https://literock-studios.itch.io/wyvern-pack e https://glory-asset.itch.io/wyvern-model — packs **3D**
 
+## itch.io — Terraria (sandbox 2D, mineração e subsolo) (pesquisado em 22/10/2026)
+
+Equivalente legal de Terraria para o Hyakki: mundo 2D visto de lado, blocos escaváveis, cavernas, minérios, forja, casa de NPC e trilha subterrânea. Nada de Terraria, Minecraft ou Starbound — nem arte derivada deles; só packs originais com licença verificada.
+
+### Mapas, tilesets e cenários
+
+- https://slippixel.itch.io/8x8-pixel-sandbox (**CC0** — tileset 8x8 de sandbox com blocos autotile, terra, pedra, minério e decoração; o autor declara **sem IA** e é o pack mais próximo do loop de Terraria)
+- https://the-pixel-nook.itch.io/cave-tileset-free (**CC BY 4.0** — caverna 16-bit com chão, paredes e fundo; autor declara **sem IA**)
+- https://rottingpixels.itch.io/cave-platformer-tileset-16x16free (caverna para plataforma 16x16; uso livre em projetos comerciais, crédito opcional)
+- https://aurusenth.itch.io/shroom-cave-tileset-remastered (caverna de cogumelos 16x16 remasterizada; livre para uso comercial, crédito apreciado)
+- https://graycatgames.itch.io/cave-tileset (tileset de caverna 16x16 com peças flexíveis e decoração; licença libera uso comercial e venda do jogo)
+- https://inklestudios.itch.io/cave-tileset (autotile de caverna; comercial liberado, proibido repostar o asset)
+- https://exploitdev.itch.io/classic-16x16-free-pixel-art-platformer-tileset (tileset clássico 16x16; comercial liberado com **atribuição ao ExploitDev**, proibida redistribuição)
+- https://soulares.itch.io/moonroar-cave-field (tileset de caverna **e** campo aberto com mais de 150 peças 16x16; comercial liberado com **crédito a Studios SoulAres**)
+- na OpenGameArt: **DB32 Cave tileset** (**CC0**), **[M13] Cave Tileset** (**CC0**), **Cave Tileset** (yewt, **CC0**), **Pixel land 1.5** (**CC0**), **Cave tileset** (Beast, **CC BY 3.0** / GPL 2.0), **[M13] Cave Platformer Extension** (**CC BY 3.0**), **Cave tiles-sprites** (**OGA-BY 3.0**), **Seamless cave background** (**CC0**), **Underground sidescroller background** (**CC0**), **Mining Platformer** (**CC BY 3.0**), **[LPC] Mine** (**CC BY 4.0**), **Farm and underground cave tileset** (**CC BY-SA 4.0**) e **[LPC] Mine Carts and Tracks** (**CC BY-SA 3.0** — trilhos e carrinhos)
+
+### Casas, oficina e vila
+
+- https://bruxopixels.itch.io/pixel-journey-fantasy-tileset-free (**CC BY-SA 4.0** — tileset 16x16 com mesa de crafting, caixotes, paredes e chão; autor declara **sem IA**; combina com o pacote de ícones da mesma autora)
+- https://crumpaloo.itch.io/four-leaf-asset-pack16x16 (**CC0** — pack modular 16x16 de terreno e construções, com curvas suaves para montar casa de NPC e vila)
+- o **SmallBurg Town Pack** da almostapixel, já listado em "Assets fofos para jogos infantis", libera o **subset gratuito para uso comercial** — serve como vila de NPCs sem precisar comprar o pack completo
+- para as casas de madeira, reaproveite os packs já catalogados (**kepx 100 houses**, **styloo 2D Village CC0**, **schwarnhild Modular Village Houses**) e os interiores da **shubibubi**
+
+### Personagens e criaturas
+
+- https://blacis.itch.io/pixel-monsters-mega-pack (**CC0** — megapack de monstros 8x8, ótimo para a fauna da caverna e do bioma corrompido; a página sinaliza uso de **IA** em parte da arte)
+- https://evan-le.itch.io/dwarf-character-sprite-sheet (sprite sheet de anão minerador; comercial liberado com **crédito ao autor**)
+- na OpenGameArt: **Dwarves** (**CC BY-SA 3.0**), **Dwarf miner run** (**CC0**), **Bevouliin Underground Worm** (**CC0** — verme gigante de subsolo), **Mining Pixel Game Asset** (**CC0**) e **Miners cave** (**CC0**)
+
+### Itens, minérios e forja
+
+- https://kdrn.itch.io/free-ores-and-minerals-minipack-24 (**CC0** — 24 ícones de minério e mineral, sem atribuição)
+- https://beast-pixels.itch.io/crafting-materials (**CC0** — materiais de crafting com variantes de sombra, sem fundo e com contorno, mais arquivo-fonte)
+- https://karsiori.itch.io/pixel-art-rock-pile-pack (**CC0** — 15 pilhas de pedra em dois tamanhos, para veios e escombros)
+- https://verysmallsquares.itch.io/free-16-bit-ores-sprite-sheet (**CC BY 4.0** — folha de minérios 16-bit, com autor declarando **sem IA**)
+- https://tofame.itch.io/mining-resources-icons (ícones de minério e gema, incluindo diamante e cristal; comercial liberado com **crédito a Tofame**)
+- https://pixel-late.itch.io/stones-nodes-ores-and-bars (pedras, veios de minério e barras fundidas; uso livre, proibida revenda)
+- https://stewv.itch.io/free-mineral-ore-asset-collection (4 folhas 256x192 de minerais e minérios; comercial liberado, **arte assistida por IA** declarada)
+- https://qoupy.itch.io/qoupys-rock-ore-and-gem-nodes (veios de rocha, minério e gema animados; a licença "premium" do autor libera uso comercial e proíbe revenda)
+- na OpenGameArt: **CC0 Mineral Icons** (**CC0**), **Ore Tileset — Eight Ores** (**CC0**), **Various stones and ore/gem veins 16x16** (**CC0**), **GEMS!!!** e **Gems & Jewels** (**CC0** os dois), **RTS Mining Resources 16x16** (**CC BY 3.0** / OGA-BY 3.0) e **[LPC] Ore and Forge** (**CC BY 4.0** / OGA-BY — minério e forja)
+
+### Árvores e vegetação
+
+- https://blacis.itch.io/pixeltrees (**CC0** — megapack de árvores em pixel, com variantes de bioma; a página sinaliza uso de **IA**)
+- na OpenGameArt: **Pine Tree Pack** (**CC BY 3.0**), **Tree variations from Jetrel's Wood tileset** (**CC BY-SA 3.0**), **Gnarled Tree** (**CC BY 3.0**) e **A Tree** (**CC0**)
+- a **árvore morta** e o **Dead Tree (Yar's Tree Rework)** da OpenGameArt já estão catalogados no bloco Floresta e servem para o bioma corrompido
+
+### Texturas de terra, pedra e madeira
+
+- os tilesets do **8x8 Pixel Sandbox**, do **DB32 Cave** e do **Pixel land** já trazem terra, pedra, cascalho e madeira em blocos
+- **Wall, grass, rock, stone, wood and dirt (480)** — na OpenGameArt (**CC0** — 480 texturas de parede, grama, rocha, pedra, madeira e terra)
+- o **Seamless cave background** e o **Underground sidescroller background** da OpenGameArt (**CC0**) cobrem o fundo em parallax do subsolo
+
+### Música e SFX
+
+- https://jhawk-studios.itch.io/cave-music-free-music (**CC BY** — pacote de músicas de caverna; comercial liberado com crédito a JHawk, autor declara 100% humano)
+- https://poltergasm.itch.io/rpg-cave-theme-music (**CC BY 4.0** — tema de caverna/floresta esquecida, autor declara **sem IA**)
+- na OpenGameArt: **Cave Theme** (**CC0** / OGA-BY 3.0), **Crystal Cave** (**CC0**), **Cave Music** (**CC0**), **Cave Explorer** (**CC0**), **Canary** (**CC0**), **Underground** (TAD, **CC BY 4.0**), **Exploring a Cave** (**CC BY 3.0**), **Underground Storm** (**CC BY-SA 3.0**) e **Pumpkin Cave** (**CC BY 3.0**)
+- os SFX de escavação e impacto podem vir do **RPG Sound Pack** e do **512 Sound Effects 8-bit Style**, já catalogados
+
+### Avaliados e não incluídos
+
+- https://chimoltrufio.itch.io/terraria-artstyle-default-spritesheet e https://bordereal-studio.itch.io/sprite-assets-terraria — arte no estilo/derivada de **Terraria** (IP de franquia) — fora
+- https://synkrowngames.itch.io/minecraft-2d-game-maker-source — **Minecraft** (IP de franquia) — fora
+- https://falvey.itch.io/mineshaft-top-down-16x16-mine-underground-tileset-28-pieces (**US$ 3,99**, uso comercial só no pack pago) e https://lsd-gaming.itch.io/ancient-underground-tileset (**US$ 2,00**), https://frulica.itch.io/underground-temple-tileset (**US$ 3,99**), https://oworowo.itch.io/underground-ruins-tileset (**US$ 2,99**), https://caturra.itch.io/sky-island-animated-tileset (**US$ 5,00**), https://eligamer5678.itch.io/16x16-island-tilemap-pack (**US$ 1,00**) e https://rpgai.itch.io/sky-meadow-playground-cozy-platformer-tileset (**US$ 1,00**, ainda por cima **assistido por IA**) — todos pagos
+- https://lyime.itch.io/dwarven-delve-asset-pack — a licença gratuita é **só não comercial**; a comercial custa a partir de US$ 1,99
+- https://elthen.itch.io/2d-pixel-art-dwarf-miner, https://elthen.itch.io/2d-pixel-art-kobold-miner-sprites, https://othur.itch.io/animated-dwarf-sprite (**US$ 5,99**), https://tinytileset.itch.io/animated-fantasy-dwarf-sprite-pack-idle-walk-attack-die-blacksmith-hammering (**US$ 3,99**), https://shaade.itch.io/pixel-trees (**US$ 1,50**), https://gpessoa.itch.io/treesprites (**US$ 1,00**) e https://cloverglade.itch.io/trees (**US$ 2,00**) — pagos ou com licença comercial separada
+- https://jdbrown.itch.io/cave-music (**CC BY-SA 4.0**, mas US$ 1,99) e https://frodonut.itch.io/cave-dungeon (**US$ 5,00**) — pagos
+- https://zoneework.itch.io/underground-tileset, https://eusebiu-sasca.itch.io/free-cave-tileset, https://raynoa.itch.io/bravian-lands-cave-free-24x24-tileset, https://hunter-hawkman.itch.io/mutant-miner-sprite-art-and-tilesetmutant-miner-sprite-art-and-tileset, https://dkproductions.itch.io/16bit-miner-animated-character, https://doumuten.itch.io/animated-pixel-art-dwarf-warrior-character-sprite-pack, https://nosywombat.itch.io/pixel-trees e https://sebasdevartis.itch.io/survival-kit-2d-pixel-art — páginas **sem licença declarada**
+- https://brysiaa.itch.io/trees-4-seasons-16x32px e https://raimundonc.itch.io/platform-dcave-tileset — a licença comercial existe só em resposta nos comentários, o que não é licença verificável
+- https://pzuh.itch.io/bob-the-miner-game-sprites e https://pzuh.itch.io/underground-mine-platformer-tileset — preço zero mas **sem licença declarada** na página; as versões equivalentes da OpenGameArt (**CC0**) são as indicadas
+- https://free-game-assets.itch.io/free-mining-pixel-3232-icons e https://free-game-assets.itch.io/free-icons-for-mine-location-pixel-art — o licença.txt só aponta para os termos do CraftPix, sem licença livre verificável
+- https://assetsmithy.itch.io/32-free-medieval-crafting-material-icons-2d-rpg-survival-sampler — licença comercial própria do vendedor (não é licença livre) e arte assistida por IA
+- https://quaternius.itch.io/resource-bits, https://quaternius.itch.io/rpg-tools-bits, https://kaylousberg.itch.io/block-bits e https://fajik.itch.io/low-poly-ores-ingots-pack — packs **3D**
+
 ## itch.io — Tecnologia (cyberpunk/sci-fi/tech) (pesquisado em 22/10/2026)
 
 Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores futuristas, UI, SFX e techno — tudo com licença verificada. Nada de Cyberpunk 2077, Blade Runner, Ghostrunner, Akira ou Metal Gear: IP de terceiros fica fora.

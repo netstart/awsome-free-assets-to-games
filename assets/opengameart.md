@@ -78,6 +78,11 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/dragon-idle-animation (**CC BY 3.0** — dragão parado em loop, para NPC ou chefe)
 - https://opengameart.org/content/whispers-of-avalon-dragon-npc (**CC BY 3.0** — dragão NPC falante, crédito obrigatório)
 - https://opengameart.org/content/flying-dragon-rework (**CC BY 3.0** — dragão voador refeito, crédito obrigatório)
+- https://opengameart.org/content/dwarves (**CC BY-SA 3.0** — anões mineradores, sprites 2D)
+- https://opengameart.org/content/dwarf-miner-run (**CC0** — anão minerador correndo, para o loop de escavação)
+- https://opengameart.org/content/bevouliin-underground-worm-sprite-sheets-for-game-dev (**CC0** — verme gigante do subsolo, chefe de caverna)
+- https://opengameart.org/content/mining-pixel-game-asset (**CC0** — assets de mineração em pixel art)
+- https://opengameart.org/content/miners-cave (**CC0** — cena/personagens de caverna de mineradores)
 
 ## Armas e itens
 
@@ -100,6 +105,13 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/sea-dragon-eggs (**CC0** / CC BY 3.0 — ovos de dragão marinho da harunatsuko)
 - https://opengameart.org/content/2d-dragon-eggs-set (**CC BY 4.0** — conjunto de ovos de dragão em 2D, crédito obrigatório)
 - https://opengameart.org/content/dragon-egg-bar (**CC BY 4.0** — ícones de ovo de dragão em vetor, crédito obrigatório)
+- https://opengameart.org/content/cc0-mineral-icons (**CC0** — ícones de minerais, do AntumDeluge)
+- https://opengameart.org/content/ore-tileset-eight-ores (**CC0** — tileset com oito minérios, do DavoltC)
+- https://opengameart.org/content/various-stones-and-oregem-veins-16x16 (**CC0** — veios de pedra, minério e gema 16x16, do Senmou)
+- https://opengameart.org/content/gems-2 (**CC0** — ícones de gemas, do Winternaut)
+- https://opengameart.org/content/gems-jewels (**CC0** — gemas e joias, do Cethiel)
+- https://opengameart.org/content/rts-mining-resources-16x16 (**CC BY 3.0** / OGA-BY 3.0 — recursos de mineração 16x16)
+- https://opengameart.org/content/lpc-ore-and-forge (**CC BY 4.0** / OGA-BY — minério, bigorna e forja do LPC)
 
 ## Cenários, tilesets e construções
 
@@ -173,6 +185,24 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/temple-sidescroller-tileset (**CC BY 3.0** — templo lateral, crédito obrigatório)
 - https://opengameart.org/content/temple-entrance (**CC BY-SA 3.0** / GPL 2.0 — entrada de templo de Clint Bellanger)
 - https://opengameart.org/content/elemental-stonesshrines-pixel-art (**CC BY 4.0** — santuários elementais em pedra, crédito obrigatório)
+- https://opengameart.org/content/db32-cave-tileset (**CC0** — tileset de caverna na paleta DB32, do Buch)
+- https://opengameart.org/content/m13-cave-tileset (**CC0** — tileset de caverna [M13], do Beast)
+- https://opengameart.org/content/cave-tileset-2 (**CC0** — tileset de caverna, do yewt)
+- https://opengameart.org/content/pixel-land-15 (**CC0** — tiles de terreno em pixel, do pixel32)
+- https://opengameart.org/content/cave-tileset-0 (**CC BY 3.0** / GPL 2.0 — tileset de caverna, do Beast)
+- https://opengameart.org/content/m13-cave-platformer-extension (**CC BY 3.0** — extensão de caverna para plataforma [M13])
+- https://opengameart.org/content/cave-tiles-sprites (**OGA-BY 3.0** — tiles e sprites de caverna, do chipmunk)
+- https://opengameart.org/content/seamless-cave-background (**CC0** — fundo de caverna sem emendas)
+- https://opengameart.org/content/underground-sidescroller-background (**CC0** / OGA-BY 3.0 — fundo de subsolo para sidescroller)
+- https://opengameart.org/content/mining-platformer (**CC BY 3.0** — cenário de mineração para plataforma, do Bleddyuffles)
+- https://opengameart.org/content/lpc-mine (**CC BY 4.0** — mina completa no estilo LPC, do bluecarrot16)
+- https://opengameart.org/content/farm-and-underground-cave-tileset (**CC BY-SA 4.0** — fazenda e caverna subterrânea no mesmo tileset)
+- https://opengameart.org/content/lpc-mine-carts-and-tracks (**CC BY-SA 3.0** / GPL — carrinhos e trilhos de mina)
+- https://opengameart.org/content/wall-grass-rock-stone-wood-and-dirt-480 (**CC0** — 480 texturas de parede, grama, rocha, pedra, madeira e terra)
+- https://opengameart.org/content/pine-tree-pack (**CC BY 3.0** — pacote de pinheiros, do KnoblePersona)
+- https://opengameart.org/content/tree-variations-from-jetrels-wood-tileset (**CC BY-SA 3.0** — variações de árvore do tileset de madeira do Jetrel)
+- https://opengameart.org/content/gnarled-tree (**CC BY 3.0** — árvore retorcida, do geloescht)
+- https://opengameart.org/content/a-tree (**CC0** — árvore simples em pixel)
 
 ## Música e SFX por tema
 
@@ -283,3 +313,15 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/ancient-dragon-classic-jrpg-music-pack-tiny-pack (**CC BY-SA 4.0** — pack de JRPG clássico com tema de dragão antigo)
 - https://opengameart.org/content/the-fire-dragon (**CC0** — tema do dragão de fogo)
 - https://opengameart.org/content/trycor-dragon-boss (**CC0** — tema de chefe dragão)
+
+### Caverna, mineração e subsolo
+
+- https://opengameart.org/content/cave-theme (**CC0** / OGA-BY 3.0 — tema de caverna, do Brandon75689)
+- https://opengameart.org/content/crystal-cave-song18 (**CC0** — caverna de cristal, do cynicmusic)
+- https://opengameart.org/content/cave-music (**CC0** — faixa de caverna, do hornpipe2)
+- https://opengameart.org/content/cave-explorer (**CC0** — explorador de caverna, do mutantleg)
+- https://opengameart.org/content/canary (**CC0** — tema de mina, do hatmix)
+- https://opengameart.org/content/underground-2 (**CC BY 4.0** — subsolo do TAD, crédito obrigatório)
+- https://opengameart.org/content/exploring-a-cave (**CC BY 3.0** — exploração de caverna, crédito obrigatório)
+- https://opengameart.org/content/underground-storm-chiptune8-bit-influence (**CC BY-SA 3.0** — chiptune de subsolo)
+- https://opengameart.org/content/pumpkin-cave (**CC BY 3.0** — caverna de abóbora, clima de Halloween)
