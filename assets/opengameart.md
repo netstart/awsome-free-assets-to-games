@@ -61,6 +61,8 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/vampire-animations (**CC BY 3.0** — animações de vampiro, crédito obrigatório)
 - https://opengameart.org/content/pixel-vampire (**CC BY 3.0** — vampiro em pixel art, crédito obrigatório)
 - https://opengameart.org/content/rpg-character-vampire (**CC0** — personagem vampiro para RPG)
+- https://opengameart.org/content/platformer-art-xeno-diversity (**CC0** — personagens alienígenas para plataforma)
+- https://opengameart.org/content/3x-updated-32x32-scifi-roguelike-enemies (**CC BY 3.0** / OGA-BY 3.0 — inimigos sci-fi 32x32)
 
 ## Armas e itens
 
@@ -104,6 +106,11 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/lpc-interior-castle-tiles (**CC BY 4.0** — interiores de castelo no estilo LPC)
 - https://opengameart.org/content/castle-tiles-for-rpgs (**CC BY 3.0** — tiles de castelo para RPG, crédito obrigatório)
 - https://opengameart.org/content/isometric-tileset-gothic-archways (**CC BY 4.0** — arcos góticos isométricos, crédito obrigatório)
+- https://opengameart.org/content/sideview-sci-fi-patreon-collection (**CC0** — coleção sidescroller sci-fi do ansimuz)
+- https://opengameart.org/content/space-scifi-rpg-tiles-48x48 (**CC0** — tiles sci-fi 48x48 para RPG)
+- https://opengameart.org/content/alien-planet-platformer-tileset (**CC0** — tileset de planeta alienígena)
+- https://opengameart.org/content/alien-ufo-pack (**CC0** — naves e UFOs do Kenney)
+- https://opengameart.org/content/foliage-pack-100x (**CC0** — folhagem e vegetação do Kenney, serve como flora alienígena)
 
 ## Música e SFX por tema
 
@@ -173,3 +180,14 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/gothic-sound (**CC BY 4.0** — música gótica, crédito obrigatório)
 - https://opengameart.org/content/gothic-horror-symphonic-waltz (**OGA-BY 3.0** — valsa sinfônica de horror gótico)
 - https://opengameart.org/content/dark-gothic-haunted-masquerade (**OGA-BY 3.0** — tema de baile gótico assombrado)
+
+### Espaço, alienígena e sci-fi
+
+- https://opengameart.org/content/another-space-background-track (**CC0** — faixa de fundo espacial)
+- https://opengameart.org/content/background-space-track (**CC0** — faixa de fundo para espaço)
+- https://opengameart.org/content/space-5 (**CC0** — faixa "sPACE")
+- https://opengameart.org/content/alien-fight (**CC0** — tema de combate alienígena)
+- https://opengameart.org/content/alien-blues-8-bit-melody (**CC0** — melodia 8-bit alienígena)
+- https://opengameart.org/content/destruction-of-the-alien-spacecrafts (**CC0** — destruição de naves alienígenas)
+- https://opengameart.org/content/space-boss-battle-theme (**CC BY 3.0** — tema de chefe espacial, crédito obrigatório)
+- https://opengameart.org/content/alien-ruins (**CC BY 3.0** — ruínas alienígenas, crédito obrigatório)

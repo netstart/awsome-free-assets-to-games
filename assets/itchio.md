@@ -1056,6 +1056,56 @@ Castlevania é IP da Konami: Belmont, Alucard, Drácula, mapas e trilha oficiais
 - https://maxparata.itch.io/darksoulsgothic-monogon, https://rg-poly.itch.io/stylized-medieval-village-unity-urp e https://kenney-assets.itch.io/castle-kit — packs **3D**
 - **ToffeeCraft** (Cat Pack Halloween) — uso pessoal, já registrado
 
+## itch.io — Estilo Metroid (metroidvania alienígena) (pesquisado em 22/10/2026)
+
+Metroid é IP da Nintendo: Samus, os metroids, mapas e trilha oficiais **não entram**. O equivalente legal é o metroidvania sci-fi/alien: cavernas orgânicas, estação espacial, caçadora armada, flora alienígena, portas que exigem habilidade e trilha ambiente.
+
+### Personagens
+
+- https://ansimuz.itch.io/warped-caves (**CC0** — o achado da rodada: pack completo declaradamente "Metroid-style", com personagem feminina de 9 animações, 3 inimigos animados, tileset, props e parallax de duas camadas)
+- https://greenbear8.itch.io/pixelart-green-alien-monster (monstro alienígena verde animado; o autor libera uso pessoal e comercial)
+- os packs sci-fi da seção **Tecnologia** (Penusbmic de três sabres, robôs CC0 do 0x72 e do MattWalkden) servem de caçadora, drones e inimigos mecânicos
+- na OpenGameArt: **Platformer Art: Xeno Diversity** (**CC0** — personagens alienígenas) e **3X 32x32 Sci-Fi Roguelike Enemies** (**CC BY 3.0**/OGA-BY 3.0)
+
+### Mapas, cavernas e estações
+
+- o próprio **Warped Caves** já traz o tileset de caverna alienígena, então mapa e personagem vêm no mesmo estilo
+- https://bongseng.itch.io/parallax-forest-desert-sky-moon (parallax de floresta, deserto, céu e lua; comercial liberado, proibida revenda — bom para o fundo de um planeta)
+- https://screamingbrainstudios.itch.io/seamless-space-backgrounds (**CC0** — fundos espaciais contínuos, ótimos para o exterior da estação)
+- para interiores de estação e laboratório, o **Industrial Tileset** (Atomic Realm), o **Minimal Futureset** do Samvieten e o **Tech Dungeon** (demo) da seção Tecnologia encaixam direto
+- na OpenGameArt: **Sideview Sci-Fi — Patreon Collection** (**CC0**, do ansimuz), **Space Scifi RPG Tiles 48x48** (**CC0**, do Hyptosis), **Alien Planet Platformer Tileset** (**CC0**, do rubberduck) e **Alien UFO Pack** (**CC0**, do Kenney)
+
+### Árvores e flora alienígena
+
+- **Foliage Pack (100x)** do **Kenney** (**CC0**) — o pacote de folhagem que resolve o mapa alienígena sem virar floresta terrestre
+- **Alien Planet Platformer Tileset** (**CC0**) também traz vegetação e rochas extraterrestres
+- para o lado "templo samurai tomado por alien", use a folhagem do Kenney por cima dos tiles de templo já catalogados e o parallax do Bongseng ao fundo
+
+### Itens, naves e UI
+
+- https://gm-lazarus.itch.io/open-spacecraft-icons (**MIT** — ícones de sistemas de nave no estilo das marcações de Alien, para mapas e HUD)
+- **Alien UFO Pack** (**CC0**), **Space Scifi RPG Tiles 48x48** (**CC0**) e os props do **Tech Dungeon** cobrem naves, terminais e caixas
+- a UI sci-fi da **SunGraphica** (**CC BY 4.0**) e o **UI for a Cyberpunk Game** (**CC BY 3.0**) já catalogados servem de HUD
+
+### Música e SFX
+
+- https://gooseninja.itch.io/space-music-pack (faixas e SFX, incluindo "Alien Talk"; comercial liberado, proibida revenda)
+- https://shapeforms.itch.io/shapeforms-audio-free-sfx (biblioteca royalty-free para uso comercial, sem crédito obrigatório)
+- na OpenGameArt: **Another space background track** (**CC0**), **Background space track** (**CC0**), **sPACE** (**CC0**), **Alien Fight** (**CC0**), **Alien Blues 8-bit melody** (**CC0**), **Destruction Of The Alien Spacecrafts** (**CC0**), **Space Boss Battle Theme** (**CC BY 3.0**) e **Alien Ruins** (**CC BY 3.0**)
+
+### Avaliados e não incluídos
+
+- **Metroid** e derivados (Samus, metroids, mapas, trilha, remakes de fã) — IP da Nintendo
+- https://michaelgames.itch.io/metroidvania-forge — página sem licença declarada
+- https://o-lobster.itch.io/platformmetroidvania-pixel-art-asset-pack — página sem licença declarada
+- as outras páginas do **ansimuz** no itch (**Space Backgrounds**, **Spaceship Shooter Environment**, **Super Grotto Escape**, **GothicVania**) não declaram licença; o **Warped Caves** é a exceção confirmada (**CC0**), e na OpenGameArt o autor mantém o *Sideview Sci-Fi* e o *Warped Caves Pixel Art Pack*, ambos **CC0**
+- https://ravenmore.itch.io/space-shooter-assets-space-rage — licença paga **por projeto comercial**
+- https://spritebase.itch.io/graphicset-alien — página sem licença declarada
+- https://wenrexa.itch.io/holoui — página sem licença declarada (os outros packs do autor entram)
+- https://deep-fold.itch.io/space-background-generator — gerador sem licença declarada na página
+- https://frostwindz.itch.io/pixel-art-sci-fi-spaceships — autor já registrado sem licença na página
+- https://repeatloader.itch.io/alien-female-hq-for-unreal-unity-and-blender, https://maxparata.itch.io/voxel-spaceships, https://kaylousberg.itch.io/space-base-bits e https://niko-3d-models.itch.io/halo-inspired-alien-handgun — packs **3D**
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)
