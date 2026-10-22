@@ -951,6 +951,59 @@ Stardew Valley é IP da ConcernedApe: sprites, retratos, mapas e trilha do jogo 
 - **ToffeeCraft** (Cat UI, Cat Mega Bundle, UI Cozy) e **Clockwork Raven** já estão registrados como uso pessoal; **Butter Milk Tiny Wonder Farm** já está registrado como free não comercial
 - os packs 8x8/16x16 do **Maeve (Tiny Farm RPG)** continuam fora pelo mesmo motivo da rodada de RPG: só a licença da versão paga está declarada
 
+## itch.io — Tecnologia (cyberpunk/sci-fi/tech) (pesquisado em 22/10/2026)
+
+Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores futuristas, UI, SFX e techno — tudo com licença verificada. Nada de Cyberpunk 2077, Blade Runner, Ghostrunner, Akira ou Metal Gear: IP de terceiros fica fora.
+
+### Personagens
+
+- https://penusbmic.itch.io/sci-fi-character-pack-12 (personagem sci-fi que controla três sabres por telecinese, com animações de ataque; comercial liberado, proibida revenda individual)
+- https://0x72.itch.io/16x16-robot-tileset (**CC0** — tileset 16x16 **com 9+ robôs jogáveis**, lasers e botões; sem crédito obrigatório)
+- https://mattwalkden.itch.io/free-robot-warfare-pack (**CC0** — 5 robôs inseto, 6 classes de soldado e efeitos de tiro; o autor libera explicitamente uso comercial)
+- https://aralepixel.itch.io/mech-robot-pixel-art (mech 200x150 com caminhada e camadas recolhíveis; comercial liberado, sem crédito)
+- **3 Cyberpunk Characters** (**OGA-BY 3.0**, crédito obrigatório) e os demais personagens tech estão em `assets/opengameart.md`
+
+### Mapas, casas e construções
+
+- https://everlywritesgames.itch.io/retro-cyberpunk-streets-tileset (ruas cyberpunk em pixel, com letreiros e fachadas; comercial liberado, proibida revenda)
+- https://samvieten.itch.io/minimal-futureset-pixelart-2d (**CC BY 4.0** — 176 tiles 8x8 de cidade futurista minimalista, sem crédito obrigatório mas apreciado)
+- https://livingtheindie.itch.io/pixel-cyberpunk-interior (interiores cyberpunk 32x32 para RPG; comercial liberado, crédito apreciado, proibida revenda)
+- https://atomicrealm.itch.io/industrial-tileset (galpões, tubulações e chão industrial; comercial liberado **com crédito obrigatório**)
+- https://xenophero.itch.io/sci-fi-furniture-sprites (móveis sci-fi com monitores e radar animados, teleporte e portas; comercial liberado com crédito)
+- https://trevor-pupkin.itch.io/tech-dungeon-roguelite (**demo gratuita** com tileset 32x32, props, UI, 2 jogadores, 5 inimigos e chefe; a licença do pack libera uso comercial, mas o pack completo é pago)
+- na OpenGameArt entraram **Cyberpunk Tiles** (**CC BY 4.0**), **Cyberpunk Tileset and Assets — Slim Version** (**CC0**) e **24x Sci-Fi Cyberpunk Tiles** (**CC0**) — ver `assets/opengameart.md`
+
+### Itens, UI e texturas
+
+- https://sungraphica.itch.io/sci-fi-game-ui-collection-free-version (**CC BY 4.0** — painéis, botões e HUD sci-fi)
+- o **UI for a Cyberpunk Game** (**CC BY 3.0**, HUD e molduras) está em `assets/opengameart.md`
+- os robôs **CC0** do 0x72 e do MattWalkden, os props animados do Tech Dungeon e os móveis do Xenophero cobrem inventário, máquinas e cenário interno
+- para solo e paredes metálicas, o Industrial Tileset e os tiles **CC0** da OpenGameArt se encaixam direto no grid 16x16 e 32x32
+
+### Música e SFX
+
+- https://davidkbd.itch.io/code-injection-dark-techno-music-pack (**CC BY 4.0** — 14 loops de techno sombrio para estética hacker/glitch)
+- https://heltonyan.itch.io/retro-mecha-sfx (**CC BY 4.0** — 265 arquivos de SFX mecha retrô)
+- https://hoveaudio.itch.io/free-sci-fi-ui-sound-effects-pack (mais de 100 bleeps, cliques, glitches e impactos; royalty-free para uso comercial, sem crédito obrigatório)
+- na OpenGameArt: **T & T Free Cyberpunk Pack** (**CC0**), **Cyberpunk Menu Music** (**CC0**) e **Cyberpunk City (Looping)** (**CC BY 4.0**)
+
+### Cyber-samurai (ponte com os mapas de samurai do Hyakki)
+
+- a combinação que funciona: samurais e ninjas já catalogados (seções **Samurai/Japão feudal** e **Ninja/shinobi**) + o personagem de **três sabres** do Penusbmic + robôs **CC0** + ruas neon da everlywritesgames + techno do David KBD
+- para o "templo tomado pela tecnologia", o Industrial Tileset e o Tech Dungeon dão o contraste metal/madeira sem precisar de asset novo
+
+### Avaliados e não incluídos
+
+- fan art e rips de **Cyberpunk 2077, Blade Runner, Ghostrunner, Akira, Metal Gear** e afins — IP de terceiros
+- https://yaninyunus.itch.io/neo-zero-cyberpunk-city-tileset — o tileset é excelente e top-down, mas a **versão gratuita é só não comercial**; a comercial exige pagar o pack completo
+- https://ansimuz.itch.io/cyberpunk-street-environment, https://ansimuz.itch.io/warped-city e https://ansimuz.itch.io/warped-city-2 — páginas sem licença declarada
+- https://wrabitart.itch.io/sci-fi-platformer-asset-pack — a **versão gratuita é só não comercial**
+- https://styloo.itch.io/robot-character — o autor declara CC0 em outros packs, mas este não traz termos na página
+- https://tortor-collective.itch.io/cybersamurai — cyber-samurai **3D** low-poly
+- https://quaternius.itch.io/modular-sci-fi-megakit, https://kaylousberg.itch.io/space-base-bits, https://maxparata.itch.io/voxel-mechas e https://niko-3d-models.itch.io/low-poly-futuristic-city-assets — packs **3D**
+- https://free-game-assets.itch.io/free-3-cyberpunk-sprites-pixel-art e https://free-game-assets.itch.io/free-city-backgrounds-pixel-art — páginas sem licença declarada
+- https://atomicrealm.itch.io/post-apocalyptic-world — pack **3D** do mesmo autor do Industrial Tileset (que este sim entrou)
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

@@ -7,6 +7,7 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 ## Ícones
 
 - https://opengameart.org/content/496-pixel-art-icons-for-medievalfantasy-rpg (496 ícones pixel medieval/fantasy)
+- https://opengameart.org/content/ui-for-a-cyberpunk-game (**CC BY 3.0** — HUD e molduras de interface cyberpunk, crédito obrigatório)
 
 ## Sons e música
 
@@ -56,6 +57,7 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/orc-hero (**OGA-BY 3.0** — orc herói, crédito obrigatório)
 - https://opengameart.org/content/hunter-orc (**CC BY 3.0** — orc caçador, crédito obrigatório)
 - https://opengameart.org/content/lpc-style-farm-animals (**CC BY 3.0** — galinhas, vacas, porcos e ovelhas no estilo LPC, crédito obrigatório)
+- https://opengameart.org/content/3-cyberpunk-characters (**OGA-BY 3.0** — três personagens cyberpunk 2D, crédito obrigatório)
 
 ## Armas e itens
 
@@ -91,6 +93,9 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/farming-crops-16x16 (**CC0** — plantações 16x16 com estágios de crescimento, ideal para fazenda top-down)
 - https://opengameart.org/content/crops-cc0 (**CC0** — outra coleção de plantações, sem atribuição)
 - https://opengameart.org/content/lpc-crops (**CC BY-SA 4.0** — plantações do projeto LPC, com estágios de crescimento)
+- https://opengameart.org/content/cyberpunk-tiles (**CC BY 4.0** — tiles cyberpunk, crédito obrigatório)
+- https://opengameart.org/content/cyberpunk-tileset-and-assets-slim-version (**CC0** — tileset cyberpunk com props, versão slim)
+- https://opengameart.org/content/24-x-scifi-cyberpunk-tiles (**CC0** — 24 tiles sci-fi/cyberpunk para RPG)
 
 ## Música e SFX por tema
 
@@ -145,3 +150,11 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/forest-1 (**CC BY-SA 3.0** — variação de tema de floresta)
 - https://opengameart.org/content/loop-house-in-a-forest (**CC BY 3.0** — loop calmo de casa na floresta)
 - https://opengameart.org/content/cabin-fever (**CC0** — tema de cabana)
+
+### Tecnologia, cyberpunk e sci-fi
+
+- https://opengameart.org/content/t-t-free-cyberpunk-pack (**CC0** — pacote de música cyberpunk)
+- https://opengameart.org/content/cyberpunk-menu-music (**CC0** — tema de menu cyberpunk)
+- https://opengameart.org/content/cyberpunk-city-looping (**CC BY 4.0** — loop de cidade cyberpunk, crédito obrigatório)
+- https://opengameart.org/content/bluebeat-01-loop-cyberpunk-lab-music (**CC BY 3.0** — loop de laboratório cyberpunk, crédito obrigatório)
+- https://opengameart.org/content/post-apocalyptic-and-cyberpunk-melodies (**CC BY 4.0** — melodias cyberpunk e pós-apocalípticas, crédito obrigatório)
