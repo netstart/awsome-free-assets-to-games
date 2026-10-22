@@ -1938,6 +1938,66 @@ Northgard é IP da Shiro Games: os clãs (Stag, Wolf, Raven, Bear…), personage
 - **autores com histórico de licença problemática**: https://falvey.itch.io/fjordheim-top-down-16x16-viking-village-tileset-47-pieces-animated, https://mutterpixel-studio.itch.io/viking-village-buildings-pixel-art-asset-pack, https://ventilatore.itch.io/the-fantasy-tileset-snow-adventures, https://penzilla.itch.io/hexagon-winter-tileset e https://abyssalhunter.itch.io/pixel-art-tileset-snow-land
 - **3D**: https://t-allen-studios.itch.io/nordic-tavern-assets (o longship do mesmo autor já foi recusado por ser 3D na rodada anterior)
 
+## itch.io — Super-heróis e quadrinhos (estilo Marvel Comics) (pesquisado em 22/10/2026)
+
+Homem-Aranha, Vingadores, X-Men e todo o resto da Marvel são propriedade da Disney: sprites, logotipos, uniformes, veículos e trilhas oficiais **não entram**, mesmo de graça. O equivalente legal é o **super-herói genérico de quadrinhos**: herói mascarado de capa, cidade noturna, arranha-céus, onomatopeias, power-ups e trilha heroica. A rodada **estilo DC** (seção acima) já cobre herói/anti-herói do aske4, personagens urbanos do 5yvalia, o **RPG Urban Kit** do Kenney, o pack de fundos de cidade da karsiori e as medalhas da moxica — esses não se repetem aqui.
+
+### Personagens: heróis, heroínas e capangas
+
+- na OpenGameArt: **LPC Major Triumph** (**CC BY-SA 3.0**, do Baŝto sobre a base do wulax e do Redshrike — o herói mascarado de uniforme, feito para montar super-herói com capa e máscara), **Classic Hero** (**CC0**, do GrafxKid — "Mr. Man" corre, pula, chuta, soca, nada e usa paraquedas) e **Classic Hero and Baddies Pack** (**CC0**, do GrafxKid — herói verde com soco, chute, empurrar objetos e dois capangas)
+- ainda na OpenGameArt: **2D Hero** (**CC BY 3.0** / GPL 3.0, do tokka), **Red-Bot Hero** (**CC0**, do MikeMac2D — herói robô para o parceiro tecnológico), **Shift [Animated] — Classic Hero Edit** (**CC BY 3.0**, do Umz), **Isometric Hero and Heroine** (**CC BY 3.0**, do Clint Bellanger) e **Hero Dress and Accessories** (**CC BY 3.0**, da yinakoSGA — roupa e acessórios para trocar o visual do herói)
+- os capangas de rua **CC0** do Chasersgaming (Soldier, Renegade, Ranger, Vigilante), o **Urban Character Pack** (**CC0**) e o **Streets of Fight** (**CC0**) já catalogados servem de exército de vilões e civis
+- para o chefe gigante, os monstros **CC0** da seção **Monstros e yōkai** e as feras coloridas do CraftPix (**OGA-BY 3.0**) funcionam como "vilão monstruoso" sem tocar em IP
+
+### Mapas: cidade, céu noturno e horizonte
+
+- https://pixelfranek.itch.io/parallax-city-looping (parallax de cidade futurista em loop infinito, 630x360; comercial liberado, sem revenda)
+- https://edermunizz.itch.io/free-futuristic-city (**CC BY 4.0** — cidade futurista em 13 camadas com PSD; proibida redistribuição)
+- https://gandalfhardcore.itch.io/free-pixel-art-sidescroller-asset-pack-32x32-city (cidade 32x32 para sidescroller, com fundo em 3 camadas de parallax; comercial liberado, sem revenda)
+- https://venicemenacebakingco.itch.io/modern-city-topdown-pack-free-sampler (**CC0** — amostra top-down com 16 tiles grandes — grama, calçada, faixa de pedestre, asfalto e cruzamento —, 3 props de rua e o NPC raposa)
+- na OpenGameArt: **City Parallax Pixel Art** (**CC0**, do Gustavo Saraiva), **City Parallax Background with Buildings** (**OGA-BY 3.0**, do CraftPix), **Skyline** (**CC0**, do John2k), **Skyline Background** (**CC0**, do FabinhoSC), **Simple City Silhouette/Skyline with Clouds** (**CC0**, do Gariot), **City Night — Background** (**CC0**, do andersen), **Night City Pixel Art Background** (**OGA-BY 3.0**, do CraftPix), **Background Dark City** (**CC BY 3.0**, do gfx0), **Urban Landscape** (**CC0**, do ansimuz), **Street Tiles — Cartoonish** (**CC0**, do TinyWorlds) e **Roguelike Modern City Pack** (**CC0**, do Kenney)
+- os fundos e tiles de cidade já catalogados (asfalto **CC0**, **Half a City**, **City Skyline**, **Urban Tiles**, **2D Tileset — City and Suburbs at Night**, **Parallax City Night**) completam os dois mapas sem repetir download
+
+### Casas: arranha-céus, prédios e fachadas
+
+- na OpenGameArt: **Skyscraper** (**CC0**, do enprogames — arranha-céus simples com janelas barricadas, bons para o alto da cidade) e **Drawn Comic House** (**CC BY-SA 3.0**, do Kirill Krysov — casa desenhada em estilo gibi, 144px)
+- os prédios e lojas já catalogados — **Brick Building**, **Pixel Brick House**, **citybuildings**, **Shop**, **2D Shop Set** e o **RPG Urban Kit** do Kenney (**CC0**) — formam o quarteirão
+- o **Brawler Secret Service Building** (**CC0**, do Chasersgaming) vira a sede da agência ou o QG do vilão
+
+### Árvores e praça
+
+- na OpenGameArt: **Park — Mini Sprite Pack** (**CC0**, do Gerald Burke — grama, árvore e arbusto para a praça central)
+- a **Free Pixel Art Tree Pack** da karsiori (**CC0**), o **Sunshine City Building and Tree** (**CC0**) e o **Foliage Pack (100x)** do Kenney (**CC0**), já catalogados, fecham o paisagismo urbano
+- as árvores do **Bleed** (**CC BY 3.0**) servem para o parque grande do mapa
+
+### Itens: onomatopeias, power-ups, moedas e vida
+
+- na OpenGameArt: **Comic Speech Balloons** (**CC0**, do Rawdanitsu) e **2D Speech Bubbles** (**CC0**, do Parriah) para os balões de fala, **Comic Explosion (Kaboom)** (**CC BY 3.0**, do Pompei2) para o impacto estilo gibi e a fonte **Comic Air** (**CC BY 4.0**, do Houston "1AC" Boxler) para os letreiros "POW!" e "ZAP!"
+- ainda na OpenGameArt: **Powerup (Animated Orb)** (**CC0**, do jcrow41), **Powerup Stone** (**CC0**, do pechvogel), **Powerup Bubble** e **Powerup Bottles** (**CC BY 3.0**, do Ouren e do pechvogel), **Assorted Powerups** (**CC0**, do ZaninDevelopers), **PickUp Items — Icons** (**CC0**, do Cethiel) e **Head Icons & Medikit** (**CC0**, do Camus)
+- vida e placar: **Health Bar and Heart Icon** (**CC0**, do LokiF), **Heart Icon** (**CC BY 4.0**, do RedWololoBlue), **Heart (Full and Empty for Health)** (**CC BY 4.0**, do ChickenTeddy), **Spinning Gold Coin** (**CC BY 3.0**, do morgan3d) e **Gold Coin** (**CC BY 3.0**, do Tweetfold)
+- os ícones de UI **CC0** do Kenney e as medalhas da moxica (seção **estilo DC**) completam o HUD
+
+### Texturas: tijolo, concreto e papel de gibi
+
+- na OpenGameArt: **Free Urban Textures: Walls, Brick, Stone (Part 1)** (**CC0**, do Scouser), **Brick Wall — Batch of Seamless Textures with Normalmap** (**CC BY 3.0**, do Keith333), **Construction Paper Backgrounds** (**CC0**, do jbp4444) e **Old Paper Texture** (**CC BY 4.0** / CC BY 3.0, do Dugi — papel envelhecido para a moldura de HQ)
+- o **asfalto** (**CC0**, do PagDev), o **brick patterns** (**CC0**) e as **brick walls** (**CC BY-SA 3.0**) já catalogados cobrem calçada, beco e fachada
+- para a textura de meio-tom (halftone) não há pack livre verificado: o caminho é gerar o padrão de pontos no próprio engine ou usar o **Old Paper Texture** como base
+
+### Música e SFX
+
+- na OpenGameArt: **Hero Immortal** e **A Hero Is Born** (**CC BY-SA 3.0**, de Trevor Lentz e quantumelle), **Fallen Hero** (**CC BY 4.0**, do Machine), **8 Bit The Hero** (**CC0**, do Sygil), **Action Music Pack** (**CC BY 3.0**, do marcelofg55), **Action Theme Song** (**CC0**, do Ogrebane), **Dream Raid — Cinematic Action Soundtrack** (**CC BY 3.0**, do Matthew Pablo), **Adventure Theme** (**CC0**, do CleytonKauffman) e **Kung Fu Hero** (**OGA-BY 3.0**, do Spring Spring)
+- SFX: **Punch** (**CC0**, do qubodup), **Punch, Slap 'n Kick** (**CC BY 3.0**, do CGEffex), **37 Hits/Punches** (**CC0**, do Independent.nu), **Air Whoosh** (**CC0**, do pyranostudios — para o voo do herói) e as explosões **Explosion** (**CC0**, do TinyWorlds) e **Big Explosion** (**CC BY 3.0**, da Blender Foundation), já catalogadas na seção **Guerra e militar**
+- as três variações de **Heroic Demise** e **Heroic Minority** (**CC BY 3.0**) já catalogadas continuam sendo o tema de abertura
+
+### Avaliados e não incluídos
+
+- **IP da Marvel/Disney**: fan games, sprites do Homem-Aranha, Vingadores, X-Men, uniformes e trilhas oficiais
+- **sem licença declarada**: https://336961.itch.io/2d-pixelated-superhero-character-asset-pack, https://gamingdroid4004.itch.io/a-simple-3232-pixel-character-sprite-sheet e https://greywyrd.itch.io/lo-bit-city
+- **pagos**: https://xiixassets.itch.io/modern-heroes-pixel-art-pack-40-sprites (US$ 7,90, mesmo declarando CC0), https://momongaa.itch.io/2d-beat-em-up-hero-character-sprite (US$ 3,50), https://badrebadre.itch.io/2d-pixel-character-animation-pack (US$ 7,99), https://riekahq.itch.io/modern-exteriors-tileset (US$ 93,59), https://khaledpng.itch.io/ultimate-city-nature-tileset-rpg-asset-pack-32x32 (US$ 53), https://peanutparade.itch.io/comic-book-background-pack (US$ 1), https://livingtheindie.itch.io/pixel-sidescroller-background-city (US$ 500), https://morphonaut.itch.io/cartoon-comic-sound-pack (US$ 2, apesar do texto "CC0"), https://moodfrog.itch.io/superhero-powers-sfx-pack e https://reivisualstudio.itch.io/halftone-print-ink-textures-20-designs-60-jpgs (US$ 6,99)
+- **não comercial**: https://dlou-saiyan.itch.io/urban-city-tileset-basic-2d-pixel-art-street-environment (edição gratuita proíbe uso comercial)
+- **IA sem licença clara**: https://berserkerbones.itch.io/comic-book-style-micro-01-pack (US$ 5,99 e gerado por IA)
+- **autores com histórico de licença problemática**: https://sakpix.itch.io/superhero-legends-original-superhero-character-pack, https://comshadow.itch.io/cyberpunk-city-tileset-pixel-art-asset-pack, https://penzilla.itch.io/neon-cyber-city-builder, https://v3su.itch.io/modern-town-city-tileset-16x16-pixel-art-cars, https://bubbabba.itch.io/neon-city-tileset e https://free-game-assets.itch.io/free-city-backgrounds-pixel-art
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

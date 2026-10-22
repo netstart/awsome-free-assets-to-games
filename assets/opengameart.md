@@ -178,6 +178,14 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/germanic-worker (**CC BY-SA 3.0** / GPL 2.0 — trabalhador/aldeão germânico, do b_o)
 - https://opengameart.org/content/js-actor-lifa (**CC BY 3.0** — atriz nórdica "Lifa" com animações de RPG, do JosephSeraph)
 - https://opengameart.org/content/js-actor-eir (**CC BY 3.0** — atriz nórdica "Eir" com animações de RPG, do JosephSeraph)
+- https://opengameart.org/content/lpc-major-triumph (**CC BY-SA 3.0** — super-herói mascarado no estilo LPC, base para montar herói com capa, do Baŝto sobre base do wulax e do Redshrike)
+- https://opengameart.org/content/classic-hero (**CC0** — herói "Mr. Man" com corrida, pulo, chute, soco, nado e paraquedas, do GrafxKid)
+- https://opengameart.org/content/classic-hero-and-baddies-pack (**CC0** — herói verde com soco, chute, empurrar objetos e dois capangas, do GrafxKid)
+- https://opengameart.org/content/2d-hero (**CC BY 3.0** / GPL 3.0 — herói 2D animado, do tokka)
+- https://opengameart.org/content/red-bot-hero (**CC0** — herói robô, bom como parceiro tecnológico, do MikeMac2D)
+- https://opengameart.org/content/shift-animated-classic-hero-edit (**CC BY 3.0** — herói clássico animado, do Umz)
+- https://opengameart.org/content/isometric-hero-and-heroine (**CC BY 3.0** — herói e heroína isométricos, do Clint Bellanger)
+- https://opengameart.org/content/game-assets-hero-dress-and-accessories (**CC BY 3.0** — roupa e acessórios de herói para trocar o visual, da yinakoSGA)
 
 ## Armas e itens
 
@@ -275,6 +283,22 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/runes-2d (**CC0** — runas 2D para magia e interface, do Paul Wortmann)
 - https://opengameart.org/content/futhark-runic-symbol-alphabet (**CC BY 3.0** / CC BY-SA 3.0 — alfabeto rúnico futhark, do hc)
 - https://opengameart.org/content/viking-helmet (**CC0** — elmo viking, do bevouliin.com)
+- https://opengameart.org/content/comic-speech-balloons (**CC0** — balões de fala de quadrinhos, do Rawdanitsu)
+- https://opengameart.org/content/2d-speech-bubbles (**CC0** — balões de fala 2D, do Parriah)
+- https://opengameart.org/content/comic-explosion-kaboom (**CC BY 3.0** — explosão estilo gibi para o impacto, do Pompei2)
+- https://opengameart.org/content/comic-air (**CC BY 4.0** — fonte de quadrinhos para letreiros "POW!" e "ZAP!", do Houston "1AC" Boxler)
+- https://opengameart.org/content/powerup-animated-orb (**CC0** — orbe de power-up animado, do jcrow41)
+- https://opengameart.org/content/powerup-stone (**CC0** — pedra de power-up, do pechvogel)
+- https://opengameart.org/content/powerup-bubble (**CC BY 3.0** — bolha de power-up, do Ouren)
+- https://opengameart.org/content/powerup-bottles (**CC BY 3.0** — frascos de power-up, do pechvogel)
+- https://opengameart.org/content/assorted-powerups (**CC0** — conjunto variado de power-ups, do ZaninDevelopers)
+- https://opengameart.org/content/pickup-items-icons (**CC0** — ícones de itens coletáveis, do Cethiel)
+- https://opengameart.org/content/head-icons-medikit (**CC0** — ícones de cabeça e kit médico, do Camus)
+- https://opengameart.org/content/health-bar-and-heart-icon (**CC0** — barra de vida e ícone de coração, do LokiF)
+- https://opengameart.org/content/heart-icon (**CC BY 4.0** — ícone de coração, do RedWololoBlue)
+- https://opengameart.org/content/heart-full-and-empty-for-health (**CC BY 4.0** — coração cheio e vazio para vida, do ChickenTeddy)
+- https://opengameart.org/content/spinning-gold-coin (**CC BY 3.0** — moeda de ouro girando, do morgan3d)
+- https://opengameart.org/content/gold-coin-0 (**CC BY 3.0** — moeda de ouro, do Tweetfold)
 
 ## Cenários, tilesets e construções
 
@@ -525,6 +549,24 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/wood-planks (**CC0** — tábuas de madeira, da Starry Skydancer)
 - https://opengameart.org/content/wooden-planks-0 (**CC0** — tábuas de madeira, do Fupi)
 - https://opengameart.org/content/cc0-texture-resources-3-wood (**CC0** — texturas de madeira, do rubberduck)
+- https://opengameart.org/content/city-parallax-pixel-art (**CC0** — parallax de cidade em pixel art, do Gustavo Saraiva)
+- https://opengameart.org/content/city-parallax-background-with-buildings-pixel-art (**OGA-BY 3.0** — fundo de cidade com prédios em parallax, do CraftPix)
+- https://opengameart.org/content/skyline (**CC0** — horizonte de cidade, do John2k)
+- https://opengameart.org/content/skyline-background (**CC0** — fundo de skyline, do FabinhoSC)
+- https://opengameart.org/content/simple-city-silhouetteskyline-with-clouds (**CC0** — silhueta de cidade com nuvens, do Gariot)
+- https://opengameart.org/content/city-night-background (**CC0** — fundo de cidade à noite, do andersen)
+- https://opengameart.org/content/night-city-pixel-art-background (**OGA-BY 3.0** — cidade noturna em pixel art, do CraftPix)
+- https://opengameart.org/content/background-dark-city (**CC BY 3.0** — cidade escura de fundo, do gfx0)
+- https://opengameart.org/content/urban-landscape (**CC0** — paisagem urbana para plataforma, do ansimuz)
+- https://opengameart.org/content/street-tiles-cartoonish (**CC0** — tiles de rua em estilo cartoon, do TinyWorlds)
+- https://opengameart.org/content/roguelike-modern-city-pack (**CC0** — cidade moderna em tiles para roguelike, com prédios e ruas, do Kenney)
+- https://opengameart.org/content/skyscraper (**CC0** — arranha-céus com janelas barricadas, do enprogames)
+- https://opengameart.org/content/drawn-comic-house-144px-square (**CC BY-SA 3.0** — casa desenhada em estilo gibi, 144px, do Kirill Krysov)
+- https://opengameart.org/content/park-mini-sprite-pack (**CC0** — praça com grama, árvore e arbusto, do Gerald Burke)
+- https://opengameart.org/content/free-urban-textures-walls-brick-stone-part-1 (**CC0** — texturas urbanas de parede, tijolo e pedra, do Scouser)
+- https://opengameart.org/content/brick-wall-batch-of-textures-seamless-textures-with-normalmap (**CC BY 3.0** — lote de tijolos sem emenda com normalmap, do Keith333)
+- https://opengameart.org/content/construction-paper-backgrounds (**CC0** — fundos de papel colorido, do jbp4444)
+- https://opengameart.org/content/old-paper-texture (**CC BY 4.0** / CC BY 3.0 — papel envelhecido para moldura de HQ, do Dugi)
 
 ## Música e SFX por tema
 
@@ -535,6 +577,19 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/heroic-demise-updated-version (**CC BY 3.0** — tema heroico orquestral, crédito obrigatório)
 - https://opengameart.org/content/heroic-minority (**CC BY 3.0** — variação heroica em tom menor)
 - https://opengameart.org/content/heroic-demise-hero-theme (**CC BY 3.0** — versão curta para menu ou trailer)
+- https://opengameart.org/content/hero-immortal (**CC BY-SA 3.0** — tema heroico imortal, do Trevor Lentz)
+- https://opengameart.org/content/a-hero-is-born (**CC BY-SA 3.0** — nascimento do herói, do quantumelle)
+- https://opengameart.org/content/fallen-hero (**CC BY 4.0** — herói caído, para derrota ou memória, do Machine)
+- https://opengameart.org/content/8-bit-the-hero (**CC0** — tema de herói em chiptune, do Sygil)
+- https://opengameart.org/content/action-music-pack (**CC BY 3.0** — pacote de música de ação, do marcelofg55)
+- https://opengameart.org/content/action-theme-song (**CC0** — tema de ação, do Ogrebane)
+- https://opengameart.org/content/dream-raid-cinematic-action-soundtrack (**CC BY 3.0** — trilha de ação cinematográfica, do Matthew Pablo)
+- https://opengameart.org/content/adventure-theme (**CC0** — tema de aventura, do CleytonKauffman)
+- https://opengameart.org/content/kung-fu-hero (**OGA-BY 3.0** — tema de herói de kung fu, do Spring Spring)
+- https://opengameart.org/content/punch (**CC0** — som de soco, do qubodup)
+- https://opengameart.org/content/punch-slap-n-kick (**CC BY 3.0** — socos, tapas e chutes, do CGEffex)
+- https://opengameart.org/content/37-hitspunches (**CC0** — 37 impactos e socos, do Independent.nu)
+- https://opengameart.org/content/air-whoosh (**CC0** — whoosh de ar para o voo do herói, do pyranostudios)
 
 ### Guerra e militar
 

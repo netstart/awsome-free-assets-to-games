@@ -22,6 +22,7 @@
 | Selva/primatas (estilo Donkey Kong) | teo-reat.itch.io, jesse-m.itch.io, lunadrift-studios.itch.io, gooooman.itch.io, freakydayz.itch.io, opengameart.org |
 | Monstros colecionáveis (estilo Pokémon) | screensmith.itch.io, akoro.itch.io, aaronsprites.itch.io, moanaprinz.itch.io, scarloxy.itch.io, maciaz.itch.io, axulart.itch.io, anima-nel.itch.io, opengameart.org |
 | Super-heróis/cidade (estilo DC) | kenney-assets.itch.io, karsiori.itch.io, aske4.itch.io, 5yvalia.itch.io, moxica.itch.io, opengameart.org |
+| Super-heróis e quadrinhos (estilo Marvel Comics) | venicemenacebakingco.itch.io, pixelfranek.itch.io, edermunizz.itch.io, gandalfhardcore.itch.io, opengameart.org |
 | Pássaros/estilingue (estilo Angry Birds) | pulsarcp.itch.io, muteassets.itch.io, pop-shop-packs.itch.io, opengameart.org |
 | Guerra/militar | zintoki.itch.io, tiago-melo.itch.io, kepons.itch.io, bigmack.itch.io, 87accident.itch.io, snowycocoon.itch.io, opengameart.org |
 | Zumbis/apocalipse | ittaimanero.itch.io, 0-mem0ry.itch.io, snowhex.itch.io, bsgamestudio.itch.io, domin-dev.itch.io, jehal.itch.io, assetsmithy.itch.io, yukino1228.itch.io, sceneforgestudio.itch.io, kenney-assets.itch.io, opengameart.org |
