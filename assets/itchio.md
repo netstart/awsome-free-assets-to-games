@@ -2428,3 +2428,122 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 
 ### 16-bit Pixel Art (ansimuz)
 - https://ansimuz.itch.io/ (Legacy Collection — FREE 16-bit Pixel Art Assets: sprites, tilesets e fundos para platformers e RPGs; gratuito; ver página do criador para o link direto do pack e confirmar a licença na página de download.)
+
+---
+
+## itch.io — Categorias de jogos indie (assets por gênero)
+
+### Plataforma / Platformer
+
+- https://itch.io/game-assets/free/genre-platformer (assets grátis para jogos de plataforma)
+- https://pixelfrog-assets.itch.io/pixel-adventure-1 (personagens e itens pixel para platformer)
+- https://pixelfrog-assets.itch.io/treasure-hunters (personagens e itens para aventura)
+- https://zerie.itch.io/tiny-rpg-character-asset-pack (22 personagens animados, adequado para platformer)
+- https://zerie.itch.io/tiny-rpg-character-asset-pack-02 (20 personagens animados)
+- https://vnitti.itch.io/glacial-mountains-parallax-background (fundo parallax para platformer)
+- https://adamatomic.itch.io/cavernas (tileset de aventura-platforming, domínio público)
+- https://admurin.itch.io/parallax-backgrounds-caves (fundos parallax de cavernas)
+
+### Roguelike / Roguelite
+
+- https://itch.io/game-assets/free/tag-roguelike (assets grátis com tag roguelike)
+- https://kenney.nl/assets/roguelike-characters (450+ sprites de personagem roguelike, CC0) — ver `assets/kenney.md`
+- https://kenley.nl/assets/roguelike-caves-dungeons (cenários de caverna e masmorra roguelike, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/roguelike-indoors (cenários internos roguelike, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/roguelike-rpg-pack (pack roguelike/RPG, CC0) — ver `assets/kenney.md`
+- https://thkaspar.itch.io/tth-animals (16×16 sprites de animais animados, adequado para roguelike)
+- https://oisougabo.itch.io/gap-i (Gabo's Adventurers Pack I — três personagens totalmente animados para RPG side scroller)
+- https://not-jam.itch.io/haunted-hotel-asset-pack (Haunted Hotel — sprites de jogador, zumbis, monstros, tileset 8×8, itens, ícones UI e FX em CC0)
+
+### Metroidvania
+
+- https://itch.io/game-assets/free/tag-metroidvania (assets grátis com tag metroidvania)
+- https://pixel-boy.itch.io/ninja-adventure-asset-pack (base do jogo, CC0: personagens, monstros, chefes, tilesets, itens, VFX, ícones, UI, música e SFX — adequado para metroidvania)
+- https://ansimuz.itch.io/ (Legacy Collection — FREE 16-bit Pixel Art Assets: sprites, tilesets e fundos para platformers e RPGs, adequado para metroidvania)
+
+### Quebra-cabeça / Puzzle
+
+- https://itch.io/game-assets/free/genre-puzzle (assets grátis para jogos de quebra-cabeça)
+- https://ci.itch.io/puzzle-games-graphics-pack (Puzzle Games Graphics Pack — 506 sprites, FREE for commercial use, por Chequered Ink)
+- https://kenney.nl/assets/puzzle-pack-1 (pack de quebra-cabeça 1, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/puzzle-pack-2 (pack de quebra-cabeça 2, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/sokoban (quebra-cabeça sokoban, CC0) — ver `assets/kenney.md`
+- https://gamedev-kitty.itch.io/8-cute-sleeping-kittens-sprites (8 gatinhos dormindo, sprites fofos para puzzle cozy)
+
+### Aventura narrativa / Walking Simulator
+
+- https://itch.io/game-assets/free/tag-adventure (assets grátis para jogos de aventura)
+- https://kenney.nl/assets/ui-pack-adventure (UI para aventura, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/scribble-dungeons (masmorras no estilo rabisco, CC0) — ver `assets/kenney.md`
+- https://seliel-the-shaper.itch.io/character-base (base de personagem pixel — demo gratuito comercial)
+
+### Simulação / Gestão / Tycoon
+
+- https://itch.io/game-assets/free/genre-simulation (assets grátis para jogos de simulação)
+- https://kenney.nl/assets/tiny-city (cidade estilo Tiny, CC0 — adequado para city builder/simulação) — ver `assets/kenney.md`
+- https://kenney.nl/assets/tiny-farm (fazenda estilo Tiny, CC0 — adequado para farming sim) — ver `assets/kenney.md`
+- https://kenney.nl/assets/mini-market (mercado 3D estilo Mini, CC0) — ver `assets/kenney.md`
+- https://ladyluck.itch.io/fortuna-map (Fortuna - Tileset Map para city simulation)
+- https://xeeh.itch.io/farm-set (Free Voxel Farm Set — 60 modelos com tema de fazenda)
+- https://craftpix.net/freebies/free-sushi-restaurant-game-asset-kit/ (kit de restaurante de sushi, adequado para simulação de gestão)
+
+### Souls-like / Action RPG
+
+- https://itch.io/game-assets/free/tag-rpg (assets grátis para RPG de ação)
+- https://kenney.nl/assets/rpg-base (base RPG 2D, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/rpg-urban-pack (pack urbano RPG, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/rpg-audio (áudio RPG, CC0) — ver `assets/kenney.md`
+- https://kenley.nl/assets/dark-fantasy (assets dark fantasy, CC0) — ver `assets/kenney.md`
+- https://pixel-boy.itch.io/ninja-adventure-asset-pack (CC0 — adequado para action RPG)
+- https://zerie.itch.io/tiny-rpg-character-asset-pack (personagens animados para RPG)
+- https://zerie.itch.io/tiny-rpg-character-asset-pack-02 (personagens animados para RPG)
+
+### Jogo de ritmo / Música
+
+- https://itch.io/game-assets/free/tag-music (assets grátis de música)
+- https://kenley.nl/assets/music-jingles (jingles de música, CC0) — ver `assets/kenney.md`
+- https://davidkbd.itch.io/hexapuppies-synthwave-music-pack (Synthwave Music Pack)
+- https://davidkbd.itch.io/code-injection-dark-techno-music-pack (EDM/Dark Techno/Electronic Music Pack)
+- https://megumi-ryu.itch.io/ (劉 恵 Megumi Ryu — música kawaii japonesa)
+- https://zonezonezonebgm.itch.io/ (zøne — Yume Kawaii BGM)
+- https://not-jam.itch.io/not-jam-music-pack (Not Jam Music Pack — faixas CC0 para jogos)
+
+### Tiro / Shmup / Bullet Hell
+
+- https://itch.io/game-assets/free/tag-shoot-em-up (assets grátis para shoot 'em up)
+- https://kenley.nl/assets/pixel-shmup (naves, inimigos, tiros, power-ups, fundo de space shooter, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/space-shooter-remastered (space shooter remastered, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/space-shooter-extension (extensão space shooter, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/shooting-gallery (galeria de tiro, CC0) — ver `assets/kenney.md`
+- https://anim86.itch.io/space-shoter-starter-pack (Space Shooter - Starter pack, arte para protótipo)
+- https://kenley.nl/assets/alien-ufo-pack (alienígenas e UFOs, CC0) — ver `assets/kenney.md`
+
+### Estratégia / Tático
+
+- https://itch.io/game-assets/free/genre-strategy (assets grátis para jogos de estratégia)
+- https://kenney.nl/assets/sci-fi-rts (RTS sci-fi 2D, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/medieval-rts (RTS medieval 2D, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/tower-defense (tower defense 2D, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/tower-defense-top-down (tower defense top-down, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/tower-defense-kit (kit tower defense 3D, CC0) — ver `assets/kenney.md`
+- https://xeeh.itch.io/free-hexagon-tileset (Free Hexagon Tileset — 45+ tiles hexagonais 3D e isométricos)
+- https://andelrodis.itch.io/tank-pack (Tank Pack — para jogos de estratégia com tanques)
+
+### Terror / Horror
+
+- https://itch.io/game-assets/free/tag-horror (assets grátis com tag horror)
+- https://kenley.nl/assets/graveyard-kit (kit cemitério 3D, CC0) — ver `assets/kenney.md`
+- https://kenley.nl/assets/dark-ambient-loop-13 (ambiência sombria em loop, CC BY 3.0) — ver `assets/opengameart.md`
+- https://not-jam.itch.io/haunted-hotel-asset-pack (Haunted Hotel — sprites de zumbis, monstros, tileset 8×8 em CC0)
+- https://rgsdev.itch.io/free-modular-low-poly-dungeon-pack-by-rgsdev (Free Modular Low Poly Dungeon Pack — para jogos de terror/dungeon)
+- https://doctor-sci3nce.itch.io/psx-shotgun-asset-pack (PSX Shotgun Asset Pack — estilo retrô de terror)
+- Ver também `assets/horror-dark-fantasy-free-assets.md` para catálogo dedicado
+
+### Idle / Incremental
+
+- https://itch.io/game-assets/free/tag-idle (assets grátis com tag idle)
+- https://kenley.nl/assets/block-pack (peças de bloco para terreno, vila e construção, CC0) — ver `assets/kenney.md`
+- https://kenley.nl/assets/generic-items (itens genéricos, CC0) — ver `assets/kenney.md`
+- https://kenley.nl/assets/animal-pack (animais, CC0) — ver `assets/kenney.md`
+- https://caz-bee.itch.io/cute-chicken-2-character-sprite (Cute Chicken 2 — sprite de personagem para idle/cozy)
+- https://pascal99.itch.io/man (Man — personagem simples, adequado para idle)

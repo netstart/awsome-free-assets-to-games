@@ -67,3 +67,20 @@
 | Aventura / Narrativa / Social (mobile) | kenney.nl (emotes pack, ui packs, adventure packs), opengameart.org, freegameassets.com (faction crests) |
 | UI / HUD / Controles touch (mobile) | kenney.nl (mobile controls, UI pack, UI pack pixel adventure, UI pack sci-fi, input prompts), opengameart.org, freegameassets.com (stylized casual mobile icons) |
 | Fontes pixel / tipografia (mobile) | kenney.nl (kenney fonts), github.com/TakWolf, fonts.google.com, fontlibrary.org |
+| Plataforma / Platformer (indie) | kenney.nl (platformer pack, pixel platformer, scribble platformer), itch.io (pixelfrog-assets, zerite, ansimuz, adamatomic), opengameart.org |
+| Roguelike / Roguelite (indie) | kenney.nl (roguelike-characters, roguelike-caves-dungeons, roguelike-indoors, roguelike-rpg-pack), itch.io (thkaspar, oisougabo, not-jam), opengameart.org |
+| Metroidvania (indie) | kenney.nl (scribble-dungeons, platformer packs), itch.io (pixel-boy, ansimuz, pixelfrog-assets), opengameart.org |
+| Quebra-cabeça / Puzzle (indie) | kenney.nl (puzzle-pack-1, puzzle-pack-2, sokoban), itch.io (ci.itch.io, gamedev-kitty), opengameart.org, freegameassets.com |
+| Aventura narrativa / Walking Simulator (indie) | kenney.nl (ui-pack-adventure, scribble-dungeons), itch.io (seliel-the-shaper), opengameart.org |
+| Simulação / Gestão / Tycoon (indie) | kenney.nl (tiny-city, tiny-farm, mini-market), itch.io (ladyluck, xeeh), opengameart.org, craftpix.net (sushi restaurant kit) |
+| Souls-like / Action RPG (indie) | kenney.nl (rpg-base, rpg-urban-pack, rpg-audio), itch.io (pixel-boy, zerite), opengameart.org |
+| Jogo de ritmo / Música (indie) | kenney.nl (music-jingles), itch.io (davidkbd, megumi-ryu, zonezonezonebgm, not-jam), opengameart.org, freegameassets.com |
+| Tiro / Shmup / Bullet Hell (indie) | kenney.nl (pixel-shmup, space-shooter-remastered, shooting-gallery, alien-ufo-pack), itch.io (anim86), opengameart.org |
+| Estratégia / Tático (indie) | kenney.nl (sci-fi-rts, medieval-rts, tower-defense, tower-defense-kit), itch.io (xeeh,andelrodis), opengameart.org, craftpix.net (defense kits) |
+| Terror / Horror (indie) | kenney.nl (graveyard-kit), itch.io (not-jam, rgsdev, doctor-sci3nce), opengameart.org, ver assets/horror-dark-fantasy-free-assets.md |
+| Idle / Incremental (indie) | kenney.nl (block-pack, generic-items, animal-pack), itch.io (caz-bee, pascal99), opengameart.org |
+| Estilos visuais indie — Pixel art | lospec.com, lospec.com/palette-list, itch.io (tag-pixel-art), opengameart.org, kenney.nl |
+| Estilos visuais indie — Hand-drawn / 2D desenhado à mão | itch.io (ansimuz, toffeecraft), opengameart.org |
+| Estilos visuais indie — Low-poly 3D | kenney.nl (mini-dungeon, mini-forest, mini-arcade), polyhaven.com, ambientcg.com |
+| Estilos visuais indie — Voxel | kenney.nl (voxel-pack), itch.io (xeeh farm-set), opengameart.org |
+| Estilos visuais indie — Minimalista / abstrato | kenney.nl (1-bit-pack, abstract-platformer), lospec.com |

@@ -252,3 +252,23 @@ Assets da kenney.nl, distribuídos sob licença CC0 / domínio público, livres 
 - https://kenney.nl/assets/rpg-audio (Áudio — áudio RPG)
 - https://kenney.nl/assets/digital-audio (Áudio — áudio digital)
 - https://kenney.nl/assets/ui-audio (Áudio — áudio de UI)
+
+---
+
+## Referência cruzada — Assets da kenney.nl por categoria de jogo indie
+
+| Categoria indie | Assets da kenney.nl (CC0) |
+|-----------------|---------------------------|
+| Plataforma / Platformer | platformer-pack-*, pixel-platformer-*, scribble-platformer-*, pico-8-platformer, jumper-pack, tappy-plane, abstract-platformer |
+| Roguelike / Roguelite | roguelike-characters, roguelike-caves-dungeons, roguelike-indoors, roguelike-rpg-pack, tiny-dungeon |
+| Metroidvania | scribble-dungeons, platformer-pack-*, pixel-platformer-*, tiny-dungeon |
+| Quebra-cabeça / Puzzle | puzzle-pack-1, puzzle-pack-2, sokoban, letter-tiles |
+| Aventura narrativa | ui-pack-adventure, scribble-dungeons, tiny-town |
+| Simulação / Gestão / Tycoon | tiny-city, tiny-farm, mini-market, tiny-factory |
+| Souls-like / Action RPG | rpg-base, rpg-urban-pack, rpg-audio, tiny-battle |
+| Jogo de ritmo / Música | music-jingles, sci-fi-sounds, interface-sounds, impact-sounds |
+| Tiro / Shmup / Bullet Hell | pixel-shmup, space-shooter-remastered, space-shooter-extension, shooting-gallery, alien-ufo-pack, top-down-shooter |
+| Estratégia / Tático | sci-fi-rts, medieval-rts, tower-defense, tower-defense-top-down, tower-defense-kit, top-down-tanks |
+| Terror / Horror | graveyard-kit, dark-ambient (via opengameart.org) |
+| Idle / Incremental | block-pack, generic-items, animal-pack, medals, ranks-pack |
+
