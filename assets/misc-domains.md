@@ -85,6 +85,8 @@ Sites novos localizados nesta rodada, com foco em 2D e uso comercial liberado. L
 - https://craftpix.net/freebies/filter/sprites/ (só personagens e sprites)
 - https://craftpix.net/freebies/filter/gui/ (só GUI/UI)
 - https://craftpix.net/freebies/free-kids-math-game-ui-kit-numbers-counting/ (UI infantil — números e contagem, gratuito)
+- https://craftpix.net/freebies/free-samurai-pixel-art-sprite-sheets/ (3 samurais pixel — armadura azul com katana, arqueiro com arco longo e comandante com estandarte; 10 sprite sheets com idle, andar, correr, ataque, dano, morte, salto e defesa; licença Freebie: uso comercial ilimitado, proibida revenda dos arquivos)
+- https://craftpix.net/freebies/free-ruined-temple-top-down-location-pixel-art/ (templo em ruínas top-down: árvores e arbustos, construções do templo, estátuas de gárgula, obeliscos, potes, caveiras, baú, fogo, fantasma e armadilhas animadas; licença Freebie)
 - https://www.gamedevmarket.net/category/2d/ (GameDev Market — marketplace 2D com filtro Free + gênero "Childrens"; licença é definida por asset, verificar cada página antes de usar)
 - https://www.gamedevmarket.net/category/2d/vegetation/trees/ (filtro árvores 2D)
 - https://www.gamedevmarket.net/category/2d/characters/animals/ (filtro animais 2D)

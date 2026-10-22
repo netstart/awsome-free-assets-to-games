@@ -14,7 +14,7 @@
 | VFX/Shaders | itch.io/c/1124621/pixel-art-fx, untiedgames.itch.io, godotshaders.com, binbun3d.itch.io |
 | Fofos/infantis | cupnooble.itch.io, kenmi-art.itch.io, shubibubi.itch.io, toffeecraft.itch.io, tinytreats.itch.io, last-tick.itch.io, bobkingg.itch.io, bowpixel.itch.io |
 | Doces/confeitaria | bobkingg.itch.io, uchimama.itch.io, danaida.itch.io, jennpixel.itch.io, luminleveret.itch.io, itsblubrry.itch.io |
-| Samurai/Japão feudal | momongaa.itch.io, paulthepirateking.itch.io, mmorwynn.itch.io, lyniadesign.itch.io, favi-gmdv.itch.io, nanasha.itch.io |
+| Samurai/Japão feudal | momongaa.itch.io, paulthepirateking.itch.io, mmorwynn.itch.io, lyniadesign.itch.io, favi-gmdv.itch.io, nanasha.itch.io, willyee.itch.io, arma-labs.itch.io, nacl1234.itch.io, opengameart.org, craftpix.net |
 | Dark fantasy/Diablo | trevor-pupkin.itch.io, foozlecc.itch.io, szadiart.itch.io, krishna-palacio.itch.io, williamqm.itch.io |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |

@@ -19,3 +19,8 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 
 - https://opengameart.org/content/the-zombie-free-sprites (zumbis, sprites gratuitos)
 - https://opengameart.org/content/glitch-sprite-assets-huge-collection (coleção enorme de sprites)
+- https://opengameart.org/content/samurai-sprites (**CC0** — sprites de samurai 48x48 do jogo Seppuku Jisei: caminhada, ataque e morte nas 4 direções, animação de seppuku, sangue, gore e corte de espada)
+
+## Cenários, tilesets e construções
+
+- https://opengameart.org/content/japanese-buildings-isometric-strategy-game-mockup (**CC0** — casas e construções japonesas isométricas com terreno, estilo estratégia feudal)

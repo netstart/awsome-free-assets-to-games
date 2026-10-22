@@ -296,10 +296,20 @@ Packs 2D para mapas de vila, templo, floresta de bambu e duelo. Licença verific
 - https://10kstudios.itch.io/free-2d-ninja-sidescroller-character (ninja 165x165 com idle, ataque, caminhada, corrida, morte e salto; uso comercial liberado)
 - https://xzany.itch.io/samurai-2d-pixel-art (já listado acima — samurai pixel, licença custom: comercial OK)
 - https://xzany.itch.io/free-knight-2d-pixel-art (cavaleiro do mesmo autor, útil como inimigo; comercial OK)
+- https://willyee.itch.io/sengoku-pixel-pack (**CC0** — 41 personagens, 8 senhores da guerra, 120 armas, yōkai, chefes, terreno e UI; imagens geradas por IA, corte e montagem manuais)
+- https://arma-labs.itch.io/bushido-main-character-pack (Bushido v2.0 — personagem principal samurai com animações; uso comercial e pessoal liberado)
+- https://arma-labs.itch.io/bushido-enemies (inimigos do mesmo pack Bushido v2.0; uso comercial e pessoal liberado)
+- https://suzereign.itch.io/kettle-samurai (samurai em pixel com animações; **CC BY 4.0** — crédito ao criador do modelo 3D original, indicado na página)
+- https://seryhugostudios.itch.io/samurai-2d-assets (samurai com animações; uso comercial liberado, crédito não obrigatório, proibida revenda)
+- https://kiyoz.itch.io/fallen-order-enemy-1 (inimigo [Severed Fang] com animações; uso comercial liberado, proibido usar em IA e revender como pack)
 
 ### Mapas, casas, templos e árvores
 
 - https://momongaa.itch.io/bamboo-forest-basic-tiles (**CC0** — 4 fundos em camadas 320x180, terreno, bambu, grama, pedras, torii, estátua e lampião)
+- https://nacl1234.itch.io/top-down-feudal-japan-complete-2d-mega-pack (vila, santuário, jardim, mercado, casa, castelo e acampamento de guerra em top-down; **amostra grátis de 24 de 240 peças**, uso comercial liberado, proibida revenda — o pack completo é pago)
+- https://glowcompany.itch.io/tokyo-matsuri-mini (mini pack de festival de verão: 32 ícones, 15 tiles e 22 sons — barracas yatai, yukata, shrine path, caixa de oferendas; uso comercial liberado, sem crédito, proibida revenda isolada)
+- https://nanasha.itch.io/nashas-samurai-tales-free-ronins-camp (acampamento de ronin, gratuito; uso comercial liberado, crédito apreciado, proibida revenda, proibido uso em IA)
+- https://nanasha.itch.io/nashas-samurai-tales-free-winter-pass (variante de inverno da mesma série; termos completos no LICENSE.txt do pack, mesmos do Ronin's Camp)
 - https://paulthepirateking.itch.io/japanese-themed-tilesets (**CC BY 3.0** — 17 tilesets + 8 sprites de personagem, formato RPG Maker MV; crédito a "Damian Gasinski (Gassasin)" e "Paul Barden")
 - https://mmorwynn.itch.io/east-free-sample (amostra com bambu, casas, jardins, cercas e santuários; uso comercial liberado, proibida revenda como pack)
 - https://nanasha.itch.io/nashas-samurai-tales-free-autumn-maples (bordos de bordo de outono; uso comercial liberado, proibida revenda; o pack completo tem 1131 objetos de vila samurai)
@@ -307,14 +317,19 @@ Packs 2D para mapas de vila, templo, floresta de bambu e duelo. Licença verific
 - https://the-outlander.itch.io/free-japanese-backgrounds (**CC0** — 4 cenários japoneses em 1536x1024)
 - https://bubbabba.itch.io/sakura-shrine-village (já listado — cenário de santuário com cerejeiras 16x16)
 
+### Itens e armas
+
+- https://spikerman.itch.io/katana-pack (katanas em pixel para ícone/item; uso comercial liberado, sem crédito necessário)
+- https://willyee.itch.io/sengoku-pixel-pack (o pack CC0 acima inclui 120 armas e ícones de UI prontos para inventário)
+
 ### Texturas japonesas
 
-- https://rekkimaru.itch.io/32-pixel-art-japanese-themed-textures (32 texturas 32x32 de tema japonês; uso comercial liberado)
+- https://rekkimaru.itch.io/32-pixel-art-japanese-themed-textures (32 texturas 32x32 de tema japonês; página libera explicitamente uso comercial e não comercial)
 - https://rekkimaru.itch.io/paper-pixel-art (papel japonês em pixel; verificar licença na página)
 
 ### Música de tema japonês
 
-- https://megumi-ryu.itch.io/mp3onejapanese-mood (música japonesa de clima/samurai; ler as restrições — proibido revender faixas ou treinar IA)
+- https://megumi-ryu.itch.io/mp3onejapanese-mood (música japonesa de clima/samurai; BGM gratuita para uso pessoal e comercial, **crédito obrigatório** a "YUKARINOTI"/"ゆかりのてぃ"; proibido revender faixas ou usar em IA)
 - https://megumi-ryu.itch.io/mp3onejapanese-chiptune (versão chiptune do mesmo tema)
 - https://megumi-ryu.itch.io/mp3onegoing-to-battle (faixa de batalha, útil para duelo de samurai)
 - https://megumi-ryu.itch.io/free-japanese-folklore-loops-music-asset-tanuki-strategy-bgm (já listado — loops folclóricos japoneses)
@@ -325,6 +340,9 @@ Packs 2D para mapas de vila, templo, floresta de bambu e duelo. Licença verific
 - https://pzuh.itch.io/ninja-adventure-free-sprites — página sem licença declarada
 - https://garebearproductionz.itch.io/japanese-dojo-tileset-free — página sem licença declarada
 - https://rg-poly.itch.io/stylized-asia-enviroment-megapack-unity-urp — 3D/Unity URP, fora do escopo 2D
+- https://deltasquib.itch.io/pix-realms-shiba-samurai-pack-1 — página sem licença declarada
+- https://seartsy.itch.io/warrior-in-red — página sem licença declarada
+- https://kaztogo.itch.io/japanese-farm-house-tileset-32x32 — só declara direitos autorais de Kaz Togo, sem licença de uso comercial
 
 ## itch.io — Dark fantasy estilo Diablo (pesquisado em 22/10/2026)
 

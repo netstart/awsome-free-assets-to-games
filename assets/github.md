@@ -29,3 +29,4 @@ Repositórios do GitHub com assets (fontes, ícones, listas CC0, etc.).
 - https://github.com/mstill3/SunnyLand (MIT — jogo 2D Unity usando o SunnyLand Asset Pack)
 - https://github.com/CompleteBlenderCreator/07.Game.Asset.Pack-Original (MIT — modelos 3D Blender para jogos; 188 MB, tags: 3d-models, blend-files, game-assets, uv-mapping)
 - https://github.com/arenahub-gg/arenahub-assets (MIT — 207 pacotes CC0 de assets para jogos de navegador; engine Canvas/TypeScript, templates de jogo; tags: cc0, game-assets, kenney)
+- https://github.com/SpriteCook/spritecook-free-game-assets (**CC0 1.0** — assets gerados por IA liberados: personagens pixel, personagens de anime detalhados, construções isométricas, ícones de magia e inventário, texturas seamless e logos de título; cada pasta traz o prompt original)
