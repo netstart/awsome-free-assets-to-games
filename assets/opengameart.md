@@ -55,6 +55,7 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/orc-parts-updated (**CC BY 3.0** — orc 2D montável, crédito obrigatório)
 - https://opengameart.org/content/orc-hero (**OGA-BY 3.0** — orc herói, crédito obrigatório)
 - https://opengameart.org/content/hunter-orc (**CC BY 3.0** — orc caçador, crédito obrigatório)
+- https://opengameart.org/content/lpc-style-farm-animals (**CC BY 3.0** — galinhas, vacas, porcos e ovelhas no estilo LPC, crédito obrigatório)
 
 ## Armas e itens
 
@@ -87,6 +88,9 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/whispers-of-avalon-grassland-tileset (**CC BY 3.0** — campo de Avalon com árvores e vegetação)
 - https://opengameart.org/content/dungeon-tileset (**CC0** — tileset de masmorra)
 - https://opengameart.org/content/sewer-tileset (**CC BY 3.0** — tileset de esgoto, ótimo para masmorra urbana)
+- https://opengameart.org/content/farming-crops-16x16 (**CC0** — plantações 16x16 com estágios de crescimento, ideal para fazenda top-down)
+- https://opengameart.org/content/crops-cc0 (**CC0** — outra coleção de plantações, sem atribuição)
+- https://opengameart.org/content/lpc-crops (**CC BY-SA 4.0** — plantações do projeto LPC, com estágios de crescimento)
 
 ## Música e SFX por tema
 

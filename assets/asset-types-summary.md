@@ -27,5 +27,6 @@
 | Floresta | karsiori.itch.io, zedpxl.itch.io, immunitys.itch.io, fawf-art.itch.io, harning.itch.io, ariaflenz.itch.io, devkidd.itch.io, wenrexa.itch.io, edermunizz.itch.io, firepious.itch.io, snowhex.itch.io, superdark.itch.io, lyaseek.itch.io, itsdavalen.itch.io, farbeyond-studio.itch.io, opengameart.org |
 | RPG | vryell.itch.io, pipoya.itch.io, immunitys.itch.io, butterymilk.itch.io, snowhex.itch.io, frosty-rabbid.itch.io, angeler1234.itch.io, escalonamusic.itch.io, obsydianx.itch.io |
 | Alta fantasia (estilo WoW) | kiyoz.itch.io, lyaseek.itch.io, rekkimaru.itch.io, thkaspar.itch.io, vryell.itch.io, cosmeleites.itch.io, leohpaz.itch.io, opengameart.org |
+| Farming/life sim (estilo Stardew Valley) | aquumgifts.itch.io, styloo.itch.io, vraizen.itch.io, nanasha.itch.io, sakpix.itch.io, kepx.itch.io, lakiah.itch.io, kinodev.itch.io, roleymoth.itch.io, uit-games.itch.io, cupnooble.itch.io, snowhex.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |

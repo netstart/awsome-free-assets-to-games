@@ -896,6 +896,61 @@ World of Warcraft é propriedade da Blizzard: personagens, mapas, ícones, textu
 - https://cazwolf.itch.io/pixel-fantasy-tiles-basics — o EULA está num Google Docs externo, não verificável na página
 - https://standout7.itch.io/orc-low-poly, https://quaternius.itch.io/medieval-village-megakit e https://polyyai.itch.io/3d-orc-weapons-pack — packs **3D**
 
+## itch.io — Estilo Stardew Valley (farming/life sim cozy) (pesquisado em 22/10/2026)
+
+Stardew Valley é IP da ConcernedApe: sprites, retratos, mapas e trilha do jogo **não entram**. O equivalente legal é o farming/life sim cozy 16x16 — fazenda, vila, estações, animais, NPCs e música calma.
+
+### Kit principal
+
+- https://aquumgifts.itch.io/cozy-farm (**Cozy Farm Lite — gratuito**: 282 PNG com grama, solo arado seco e molhado, autotiles de caminho, cenoura, tomate e trigo em 4 estágios, fazendeiro andando, galinha, carvalho, cercas com portão, 6 ícones e 6 props; o autor libera uso em jogos pessoais **e comerciais**. Só a versão Lite é gratuita: a Complete é paga)
+- https://styloo.itch.io/farm (**CC0** — celeiros, construções rurais, ferramentas e props de fazenda; "faça o que quiser")
+
+### Personagens e NPCs
+
+- https://sakpix.itch.io/cozy-village-animated-girl-free (garota de vila com idle, caminhada, aceno e coleta em 4 direções; uso comercial liberado)
+- https://vraizen.itch.io/cozy-farmer (fazendeiro em sprite sheet horizontal, compatível com Unity, Godot, GameMaker e RPG Maker; comercial liberado, sem crédito)
+- https://nanasha.itch.io/nashas-cozy-villagers-character-pack (**demo gratuito** com 3 villagers e variação de roupa; licença permite uso comercial, proíbe revenda e treino de IA — o pack completo é pago)
+- os **Sprout Lands** (Cup Nooble) já catalogados na seção de assets fofos continuam sendo a melhor opção de paleta pastel para o mesmo estilo
+
+### Mapas, casas e árvores
+
+- https://kepx.itch.io/pixel-houses-rpg-top-down-pixel-art-asset-pack-16x16 (**100 casas** 16x16 com porta abrindo e fechando; comercial liberado, proibida revenda mesmo modificado)
+- https://lakiah.itch.io/cozy-rpg-16x16-pixel-art-topdown-tileset (terreno, casas e decoração, declaradamente inspirado em Stardew; comercial liberado, proibida redistribuição)
+- https://kinodev.itch.io/valley-of-ruin-free-pixel-game-asset (vila e ruínas 16x16, ótimo para a parte "abandonada" do mapa; comercial liberado, proibido uso em IA e NFT)
+- o **Pixel Plains** da SnowHex (4 estações) e o **Tiny Ranch** do Gustavo Vituri já estão catalogados e foram verificados agora: ambos liberam uso comercial, o primeiro com crédito obrigatório, o segundo sem
+- para árvores, o carvalho do Cozy Farm Lite, o Pixel Plains e os packs da seção **Floresta** cobrem o mapa inteiro
+
+### Itens, interiores e interface
+
+- https://vraizen.itch.io/cozy-farm-icon-pack-vol-4 (ícones de fazenda para inventário e loja; comercial sem crédito, proibida revenda; ícones gerados por IA e retocados — o autor declara isso na página)
+- https://roleymoth.itch.io/cozyland (interiores top-down: móveis, lareira animada e decoração; comercial liberado, proibida revenda, proibido uso em IA e NFT)
+- o **Cozy UI Pack** (dobo_ui) e o **Pixel Interior** (bitglow) já estão catalogados; ambos liberam uso comercial e proíbem revenda
+- na OpenGameArt entraram **Farming crops 16x16** (**CC0**), **Crops CC0** (**CC0**), **[LPC] Crops** (**CC BY-SA 4.0**) e **LPC style farm animals** (**CC BY 3.0**) — ver `assets/opengameart.md`
+
+### Música e SFX
+
+- https://aquumgifts.itch.io/cozy-farm-music (8 loops sazonais com versões calmas; comercial e pessoal, sem royalties e sem crédito, proibida revenda como música)
+- https://uit-games.itch.io/cozy-farm-days-free-game-music (3 faixas com loops; comercial liberado sem crédito, proibido redistribuir ou registrar no Content ID)
+- https://aquumgifts.itch.io/cozy-sfx-complete (**Free Lite** com sons de ferramentas, colheita, passos, portões e ambiência; royalty-free para uso comercial)
+- os temas calmos da OpenGameArt e da escalonamusic já catalogados completam a trilha
+
+### Avaliados e não incluídos
+
+- o jogo **Stardew Valley** e tudo que saiu dele (sprites, retratos, mapas, trilha) — IP da ConcernedApe; o **Stardew Valley Item RePixel** da misnina e a **Abigail** da Anima Studios são derivados do jogo e ficam de fora
+- https://starmixu.itch.io/little-dreamyland-asset-pack — a licença declarada é só da **versão paga**; a gratuita não tem termos
+- https://jordizzle.itch.io/farming-game-asset-pack-1 — 70 frutas e legumes 32x32, mas **sem licença** na página
+- https://ghostwithkelp.itch.io/cozy-farmer-player-pixel-sprite e https://ghostwithkelp.itch.io/cozy-pixel-npc-cottage-core-girl — páginas sem licença declarada
+- https://aryanbhaiyago.itch.io/house-pack-cozy-pixel-art — página sem licença declarada
+- https://tmecat.itch.io/hay-bale-buddy-cozy-pixel-art-character-sprite — página sem licença declarada
+- https://vraizen.itch.io/cozy-companions — o autor licencia os outros packs, mas este não traz termos na página
+- https://netherzapdos.itch.io/pixel-spaces — a demo gratuita é **só não comercial**
+- a série **Tiny Treats** (House Plants, Charming Kitchen, Pretty Park, Baked Goods) é **CC0** e linda, mas é **3D** — não serve para os mapas 2D do Hyakki
+- https://bitglow.itch.io/pixel-world-complete-pack-pixel-art-assets — pago (US$ 2,99)
+- as versões **Complete/Ultimate** da Spaceyyy (Cozy Farm Complete, Cozy Ultimate, Cozy World Bundle) são pagas; só as Lite entram
+- **Solaria** (Farming & Crafting e Exteriors, do Jamie Brownhill) tem demo gratuita e é o pack mais parecido com Stardew, mas a licença fica num carrd externo que não abriu — fica pendente de verificação
+- **ToffeeCraft** (Cat UI, Cat Mega Bundle, UI Cozy) e **Clockwork Raven** já estão registrados como uso pessoal; **Butter Milk Tiny Wonder Farm** já está registrado como free não comercial
+- os packs 8x8/16x16 do **Maeve (Tiny Farm RPG)** continuam fora pelo mesmo motivo da rodada de RPG: só a licença da versão paga está declarada
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)
