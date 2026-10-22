@@ -1013,9 +1013,7 @@ Castlevania é IP da Konami: Belmont, Alucard, Drácula, mapas e trilha oficiais
 - https://creativekind.itch.io/necromancer-free (necromante 128x128 com idle, ataque, dano e morte; comercial liberado, proibida revenda)
 - https://creativekind.itch.io/nightborne-warrior (cavaleiro sombrio do mesmo autor e mesma licença — serve de chefe de ala)
 - https://pixel-moon-studio.itch.io/wight-knight-vampire-pixel-art-sprite-pack (cavaleiro vampiro com caminhada e ataque; comercial liberado, proibida revenda e NFT)
-- https://opengameart.org/content/vampire-animations (**CC BY 3.0** — animações de vampiro)
-- https://opengameart.org/content/pixel-vampire (**CC BY 3.0** — vampiro em pixel art)
-- https://opengameart.org/content/rpg-character-vampire (**CC0** — personagem vampiro para RPG)
+- os vampiros 2D da OpenGameArt — **Vampire animations** e **Pixel Vampire** (**CC BY 3.0**) e **RPG Character 'Vampire'** (**CC0**) — estão em `assets/opengameart.md`
 
 ### Mapas, castelos e interiores
 

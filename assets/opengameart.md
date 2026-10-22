@@ -58,6 +58,9 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/hunter-orc (**CC BY 3.0** — orc caçador, crédito obrigatório)
 - https://opengameart.org/content/lpc-style-farm-animals (**CC BY 3.0** — galinhas, vacas, porcos e ovelhas no estilo LPC, crédito obrigatório)
 - https://opengameart.org/content/3-cyberpunk-characters (**OGA-BY 3.0** — três personagens cyberpunk 2D, crédito obrigatório)
+- https://opengameart.org/content/vampire-animations (**CC BY 3.0** — animações de vampiro, crédito obrigatório)
+- https://opengameart.org/content/pixel-vampire (**CC BY 3.0** — vampiro em pixel art, crédito obrigatório)
+- https://opengameart.org/content/rpg-character-vampire (**CC0** — personagem vampiro para RPG)
 
 ## Armas e itens
 
@@ -96,6 +99,11 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/cyberpunk-tiles (**CC BY 4.0** — tiles cyberpunk, crédito obrigatório)
 - https://opengameart.org/content/cyberpunk-tileset-and-assets-slim-version (**CC0** — tileset cyberpunk com props, versão slim)
 - https://opengameart.org/content/24-x-scifi-cyberpunk-tiles (**CC0** — 24 tiles sci-fi/cyberpunk para RPG)
+- https://opengameart.org/content/spooky-castle-tileset (**CC0** — tileset de castelo assombrado)
+- https://opengameart.org/content/castle-platformer (**CC0** — kit de castelo para plataforma)
+- https://opengameart.org/content/lpc-interior-castle-tiles (**CC BY 4.0** — interiores de castelo no estilo LPC)
+- https://opengameart.org/content/castle-tiles-for-rpgs (**CC BY 3.0** — tiles de castelo para RPG, crédito obrigatório)
+- https://opengameart.org/content/isometric-tileset-gothic-archways (**CC BY 4.0** — arcos góticos isométricos, crédito obrigatório)
 
 ## Música e SFX por tema
 
@@ -158,3 +166,10 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/cyberpunk-city-looping (**CC BY 4.0** — loop de cidade cyberpunk, crédito obrigatório)
 - https://opengameart.org/content/bluebeat-01-loop-cyberpunk-lab-music (**CC BY 3.0** — loop de laboratório cyberpunk, crédito obrigatório)
 - https://opengameart.org/content/post-apocalyptic-and-cyberpunk-melodies (**CC BY 4.0** — melodias cyberpunk e pós-apocalípticas, crédito obrigatório)
+
+### Gótico, castelo e vampiro
+
+- https://opengameart.org/content/vampires-piano (**CC0** — piano de vampiro, ótimo para salão do castelo)
+- https://opengameart.org/content/gothic-sound (**CC BY 4.0** — música gótica, crédito obrigatório)
+- https://opengameart.org/content/gothic-horror-symphonic-waltz (**OGA-BY 3.0** — valsa sinfônica de horror gótico)
+- https://opengameart.org/content/dark-gothic-haunted-masquerade (**OGA-BY 3.0** — tema de baile gótico assombrado)

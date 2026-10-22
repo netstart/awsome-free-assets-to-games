@@ -29,5 +29,6 @@
 | Alta fantasia (estilo WoW) | kiyoz.itch.io, lyaseek.itch.io, rekkimaru.itch.io, thkaspar.itch.io, vryell.itch.io, cosmeleites.itch.io, leohpaz.itch.io, opengameart.org |
 | Farming/life sim (estilo Stardew Valley) | aquumgifts.itch.io, styloo.itch.io, vraizen.itch.io, nanasha.itch.io, sakpix.itch.io, kepx.itch.io, lakiah.itch.io, kinodev.itch.io, roleymoth.itch.io, uit-games.itch.io, cupnooble.itch.io, snowhex.itch.io, opengameart.org |
 | Tecnologia/cyberpunk | 0x72.itch.io, mattwalkden.itch.io, penusbmic.itch.io, everlywritesgames.itch.io, samvieten.itch.io, livingtheindie.itch.io, atomicrealm.itch.io, xenophero.itch.io, trevor-pupkin.itch.io, sungraphica.itch.io, davidkbd.itch.io, heltonyan.itch.io, hoveaudio.itch.io, opengameart.org |
+| Gótico (estilo Castlevania) | creativekind.itch.io, pixel-moon-studio.itch.io, studio-schneeya.itch.io, rottingpixels.itch.io, pixel-1992.itch.io, xenophero.itch.io, hypnobius.itch.io, butterhands.itch.io, tiopalada.itch.io, davidkbd.itch.io, eric-the-funny-baron.itch.io, ateliermagicae.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |
