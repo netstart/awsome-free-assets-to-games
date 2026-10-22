@@ -323,7 +323,7 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 - https://dreamgryphon.itch.io/cute-little-things (tilesets e sprites fofos 8x8/16x16, paleta Game Boy; **CC0**)
 - https://michael-jay-rov.itch.io/ocean-creatures (criaturas marinhas em spritesheet; **CC BY 4.0**)
 - https://michael-jay-rov.itch.io/savanna-creatures (criaturas de savana; verificar licença na página)
-- https://michael-jay-rov.itch.io/pixel-dragons (dragões pixel; verificar licença na página)
+- https://michael-jay-rov.itch.io/pixel-dragons (dragões pixel; **CC BY 4.0**, com **arte assistida por IA** declarada pelo autor)
 - https://pixivan.itch.io/top-down-forest-tileset (tileset top-down de floresta com árvores, arbustos, flores e cogumelos; uso comercial liberado, proibida revenda)
 
 ---
@@ -1016,6 +1016,67 @@ Complementa o bloco **Estilo Stardew Valley** acima: lá o foco é o life sim co
 - https://cecixp.itch.io/2d-farmer-sprites-leftright-18x18 — **CC BY-NC-SA 4.0**, uso comercial proibido
 - https://vertexcat.itch.io/farm-animals-set (**CC0**), https://quaternius.itch.io/lowpoly-farm-buildings e https://polyyai.itch.io/3d-scarecrows-pack — packs **3D**
 - o **Cozy Farm Lite** que aparece na OpenGameArt é o mesmo pack da aquumgifts já catalogado no bloco Stardew — não foi duplicado
+
+## itch.io — Dragões, covil e santuário (pesquisado em 22/10/2026)
+
+Mapa de dragão para o Hyakki: covil vulcânico, santuário/templo do dragão, floresta queimada, dragões e filhotes, ovos, escamas e HUD temática. Nada de IP de franquia (Spyro, Dragon Ball, Como Treinar o Seu Dragão, Pokémon) — só arte original com licença verificada.
+
+### Mapas, tilesets e cenários
+
+- https://kbpixelart.itch.io/dragon-lands (tileset 24x24 de **Dragon Lands**, com chão de terra queimada, árvores carbonizadas, props e camadas de parallax; uso comercial liberado, proibida revenda)
+- https://biloumaster.itch.io/free-rpg-asset (**CC BY-SA 4.0** — pacote de RPG com dragões, floresta e tileset, feito para a Ludum Dare; o autor declara que não há conteúdo gerado por IA)
+- na OpenGameArt: **2D Platformer Volcano Pack 1.1** (**CC0**), **Free Volcano Platform Tileset** (**CC BY 3.0**), **Volcano Pack** (**CC BY 4.0**), **Volcano Background** (**CC BY 3.0**), **Lava tileset** (**CC0**), **Seamless Lava Animated Tile** (**CC BY 3.0**), **16x16 and animated lava tile (45 frames)** (**CC0**) e **Lava river** (**OGA-BY 3.0**) montam o covil vulcânico
+- para o santuário do dragão, a OpenGameArt tem **Classical Temple Tiles** (**CC0**), **Minimalist Chinese Temple tileset** (**CC BY 3.0**), **Sunset Temple Tiles** (**CC0**), **2D Temple Platformer Tileset 16x16** (**CC0**), **Temple Sidescroller Tileset** (**CC BY 3.0**), **Temple Entrance** (**CC BY-SA 3.0** / GPL 2.0) e **Elemental Stones/Shrines** (**CC BY 4.0**)
+- para as casas e a vila ao redor do covil, reaproveite os packs de vila já catalogados (**kepx 100 houses**, **styloo 2D Village CC0**, **schwarnhild Modular Village Houses**, **vryell Tiny Village**); nada de duplicar
+
+### Personagens e criaturas
+
+- https://deepdivegamestudio.itch.io/dragon-asset-pack (pack de dragões 16x16 com cerca de 45 sprites; uso comercial liberado, proibida revenda)
+- https://originum.itch.io/comodo-dragon (dragão de Komodo animado, em estilo pixel; comercial liberado com **crédito ao autor**)
+- https://browser-games-plus.itch.io/tiny-dragon-sprite-pack (dragõezinhos minúsculos com animação de voo; comercial liberado e **proibido usar em treino de IA**)
+- https://engvee.itch.io/isometric-three-head-dragon (dragão de três cabeças **isométrico** animado, ótimo como chefe; comercial liberado)
+- https://goblinportal.itch.io/dragon-sprite-sheet (sprite sheet de dragão com animações; o autor libera uso comercial e proíbe revenda como asset solto)
+- https://michael-jay-rov.itch.io/characterbirddragon-sprites (**CC BY-SA 4.0** — sprites de personagem, pássaro e dragão; o autor declara **arte assistida por IA**)
+- o **Pixel Dragons** da michael-jay-rov, já listado em "Animais fofos para mapas", teve a licença confirmada na página: **CC BY 4.0**, com **arte assistida por IA** declarada
+- na OpenGameArt: **Dragon 1** (**CC0**, richtaur), **Dragon 9** (**CC0**, kotnaszynce), **Flappy Dragon Sprite Sheets** (**CC0**, bevouliin), **Dragon animated sprite** (**CC BY-SA 3.0**), **Red Dragon** (**CC BY 3.0**), **Baby Dragon Sprites** (**CC BY 3.0**), **Dragon Idle Animation** (**CC BY 3.0**), **Whispers of Avalon dragon NPC** (**CC BY 3.0**) e **Flying Dragon Rework** (**CC BY 3.0**)
+
+### Itens, ovos e tesouro
+
+- na OpenGameArt: **Dragon Eggs** (**CC0**, MELLE), **Dragon/Monster eggs** (**CC0**, Fadesta), **Sea dragon eggs** (**CC0** / CC BY 3.0), **2D Dragon Eggs Set** (**CC BY 4.0**) e **Dragon Egg Bar** (**CC BY 4.0**)
+- para o tesouro do covil, complete com o **496 pixel art icons for medieval/fantasy RPG** já catalogado; os ícones de loot de dragão do free-game-assets ficaram de fora por falta de licença (ver abaixo)
+
+### Texturas de escama, lava e rocha
+
+- na OpenGameArt: **Reptile Skin** (**CC0** — textura de pele de réptil, serve como escama de dragão em tile ou overlay)
+- os tilesets de lava e vulcão da lista de mapas já trazem terra queimada, rocha e lava animada em várias resoluções
+- as texturas sem emenda da OpenGameArt (**Seamless Grass**, **Blended Textures of Dirt and Grass**) continuam valendo para a clareira ao redor do covil
+
+### Árvores e vegetação
+
+- o **Dragon Lands** da kbpixelart já traz as árvores carbonizadas e troncos retorcidos do covil
+- para a clareira viva e a mata ao redor, reaproveite o **Free Pixel Art Tree Pack** da karsiori (**CC0**) e o **Foliage Pack** do Kenney (**CC0**) já catalogados; para a mata morta, o **Free Graveyard Platformer Tileset** e o **Graveyard** da OpenGameArt (**CC0**) têm árvores secas
+
+### Interface e HUD
+
+- https://kibyra.itch.io/ui-fonts-dragon-huds-pack (fontes de UI e molduras de HUD com tema de dragão, com barras de vida e menu de chefe; comercial liberado, **arte assistida por IA** declarada pelo autor)
+
+### Música e SFX
+
+- na OpenGameArt: **Dragon's Village** (**CC BY 3.0/4.0**), **Great Dragon Appearance 35sec Loop** (**CC BY 3.0/4.0**), **Dragon Mountain** (**CC BY 3.0**), **Dragon King's Dungeon** (**CC BY 3.0/CC BY-SA 3.0**), **WGS Music 26 — Dragon King Loops** (**CC BY 3.0**), **Ancient Dragon Classic JRPG Music Pack** (**CC BY-SA 4.0**), **The Fire Dragon** (**CC0**) e **Trycor Dragon Boss** (**CC0** — tema de chefe)
+- os gritos e impactos de monstro da OpenGameArt (**Monster Sound Effects 2** e **Monster Battle Sounds**, já catalogados) servem de rugido do dragão
+
+### Avaliados e não incluídos
+
+- https://kokororeflections.itch.io/kr-legendary-palaces-dragon-tileset-for-rpgs — **pago** (US$ 8,99), apesar de aparecer na listagem "free"
+- https://comshadow.itch.io/dragon-cave-pixel-art-tileset-pack, https://comshadow.itch.io/ancient-dragon-shrine-topdown-pixel-art-tileset e https://comshadow.itch.io/dragon-shrine-topdown-pixel-art-tileset — **pagos** (US$ 3,99 o pack, US$ 29,99 o bundle); a licença comercial só vale para quem compra
+- https://nanasha.itch.io/nashas-dark-dungeons-dragons-lair — **pago** (US$ 8 a US$ 20), só o demo é gratuito
+- https://joelsteudler.itch.io/dragons-den-resource-pack (**US$ 24,99**), https://assetsmithy.itch.io/50-fantasy-2d-game-backgrounds (**US$ 6,99+**), https://brightridge.itch.io/dragon-sprites (**US$ 7,99**) e https://ryyyuk.itch.io/dragon-sprite-pack (**US$ 3,50**, ainda por cima **assistido por IA**) — todos pagos
+- https://lphitori.itch.io/dt-1-dragon-graveyard, https://raou.itch.io/lil-dragon, https://cethiel.itch.io/dragon-sprite-animated, https://jaqmarti.itch.io/dragon-spriters, https://inaruna3565.itch.io/dragon-sprites-32 e https://diednight.itch.io/dragon-spritesheet-16x16-arzkan — páginas **sem licença declarada**
+- https://theartofnemo.itch.io/free-dragon-pack-1 e https://theartofnemo.itch.io/free-rpg-dragon-boss-kamedran — a página não traz licença; a permissão comercial do Kamedran existe só numa resposta do autor nos comentários, o que não é licença verificável
+- https://shinobugaen.itch.io/pixel-abyss-lugia — usa o nome e o desenho de **Lugia, personagem de Pokémon** (IP de franquia) — fora
+- https://free-game-assets.itch.io/dragon-2d-game-character-sprite-sheet, https://free-game-assets.itch.io/dragon-pixel-art-character-sprite-sheets-pack, https://free-game-assets.itch.io/free-rpg-dragon-loot-icons e https://free-game-assets.itch.io/dragon-dungeon-battle-backgrounds — a página não declara licença nem uso comercial
+- https://jesuiscid.itch.io/dragons-cadence (trilha sem licença declarada) e https://tacotry.itch.io/battle-backgrounds-enemies (sem licença)
+- https://quaternius.itch.io/lowpoly-animated-monsters, https://literock-studios.itch.io/wyvern-pack e https://glory-asset.itch.io/wyvern-model — packs **3D**
 
 ## itch.io — Tecnologia (cyberpunk/sci-fi/tech) (pesquisado em 22/10/2026)
 

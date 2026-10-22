@@ -69,6 +69,15 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/farmer-bleeds-game-art (**CC BY 3.0** — fazendeiro de Bleed, crédito apreciado)
 - https://opengameart.org/content/pagesofadventure-farmer-sprite-sheet (**CC BY-SA 3.0** — sprite sheet de fazendeiro)
 - https://opengameart.org/content/farmer (**CC BY 3.0** / CC BY 4.0 — fazendeiro simples)
+- https://opengameart.org/content/dragon-1 (**CC0** — dragão de richtaur, sprite em pixel art)
+- https://opengameart.org/content/dragon-9 (**CC0** — dragão de kotnaszynce, estilo 8-bit/C64)
+- https://opengameart.org/content/flappy-dragon-sprite-sheets (**CC0** — dragão voador de bevouliin, com folhas de sprite para animar)
+- https://opengameart.org/content/dragon-animated-sprite (**CC BY-SA 3.0** — dragão animado da Nirdia Entertainment, crédito obrigatório)
+- https://opengameart.org/content/red-dragon (**CC BY 3.0** — dragão vermelho de ZaPaper, crédito obrigatório)
+- https://opengameart.org/content/baby-dragon-sprites (**CC BY 3.0** — filhotes de dragão de Alekei, crédito obrigatório)
+- https://opengameart.org/content/dragon-idle-animation (**CC BY 3.0** — dragão parado em loop, para NPC ou chefe)
+- https://opengameart.org/content/whispers-of-avalon-dragon-npc (**CC BY 3.0** — dragão NPC falante, crédito obrigatório)
+- https://opengameart.org/content/flying-dragon-rework (**CC BY 3.0** — dragão voador refeito, crédito obrigatório)
 
 ## Armas e itens
 
@@ -86,6 +95,11 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/drinks-and-beverages-32%C3%9732 (**OGA-BY 4.0** — bebidas 32x32, crédito obrigatório)
 - https://opengameart.org/content/ms-makotos-cafe-finished-food-pack-1 (**CC BY 3.0** — pratos finalizados de café, crédito obrigatório)
 - https://opengameart.org/content/food-items-from-crosstown-smash (**CC BY 3.0** — itens de comida em pixel, crédito obrigatório)
+- https://opengameart.org/content/dragon-eggs (**CC0** — ovos de dragão de MELLE, para loot ou chocadeira)
+- https://opengameart.org/content/dragonmonster-eggs (**CC0** — ovos de dragão/monstro em pixel, do Fadesta)
+- https://opengameart.org/content/sea-dragon-eggs (**CC0** / CC BY 3.0 — ovos de dragão marinho da harunatsuko)
+- https://opengameart.org/content/2d-dragon-eggs-set (**CC BY 4.0** — conjunto de ovos de dragão em 2D, crédito obrigatório)
+- https://opengameart.org/content/dragon-egg-bar (**CC BY 4.0** — ícones de ovo de dragão em vetor, crédito obrigatório)
 
 ## Cenários, tilesets e construções
 
@@ -96,6 +110,7 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/seamless-grass (**CC0** — textura de grama sem emendas, para mapas top-down)
 - https://opengameart.org/content/seamless-grass-texture-ii (**CC0** — variante da textura de grama)
 - https://opengameart.org/content/blended-textures-of-dirt-and-grass (**CC0** — transições de terra e grama para montar caminhos)
+- https://opengameart.org/content/reptile-skin (**CC0** — textura de pele de réptil do RooMan93, serve como escama de dragão)
 - https://opengameart.org/content/war-for-the-overworld-tiles (**CC0** — tiles de guerra e fortaleza)
 - https://opengameart.org/content/tank-pack-80 (**CC0** — mais de 80 tanques 2D)
 - https://opengameart.org/content/dead-tree-1 (**CC BY 3.0** — árvore morta 2D, crédito obrigatório)
@@ -143,6 +158,21 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/alien-ufo-pack (**CC0** — naves e UFOs do Kenney)
 - https://opengameart.org/content/foliage-pack-100x (**CC0** — folhagem e vegetação do Kenney, serve como flora alienígena)
 - https://opengameart.org/content/cafe-and-tea-shop-pixel-art (**CC BY 3.0** — cafeteria e casa de chá em pixel art)
+- https://opengameart.org/content/2d-platformer-volcano-pack-11 (**CC0** — pacote de plataforma vulcânica: chão, rocha e lava)
+- https://opengameart.org/content/free-volcano-platform-tileset (**CC BY 3.0** — tileset de vulcão, crédito obrigatório)
+- https://opengameart.org/content/volcano-pack (**CC BY 4.0** — pack de vulcão com cenário e props, crédito obrigatório)
+- https://opengameart.org/content/volcano-background (**CC BY 3.0** — fundo de vulcão em chamas, crédito obrigatório)
+- https://opengameart.org/content/lava-tileset (**CC0** — tileset de lava para o chão do covil)
+- https://opengameart.org/content/seamless-lava-animated-tile (**CC BY 3.0** — lava animada sem emenda)
+- https://opengameart.org/content/16x16-and-animated-lava-tile-45-frames (**CC0** — lava animada 16x16 em 45 quadros)
+- https://opengameart.org/content/lava-river (**OGA-BY 3.0** — rio de lava para o covil do dragão)
+- https://opengameart.org/content/classical-temple-tiles (**CC0** — tiles de templo clássico, base do santuário)
+- https://opengameart.org/content/minimalist-chinese-temple-tileset (**CC BY 3.0** — templo chinês minimalista, ótimo como santuário oriental)
+- https://opengameart.org/content/sunset-temple-tiles (**CC0** — templo ao pôr do sol)
+- https://opengameart.org/content/2d-temple-platformer-tileset-16x16 (**CC0** — templo para plataforma 16x16, do RottingPixels)
+- https://opengameart.org/content/temple-sidescroller-tileset (**CC BY 3.0** — templo lateral, crédito obrigatório)
+- https://opengameart.org/content/temple-entrance (**CC BY-SA 3.0** / GPL 2.0 — entrada de templo de Clint Bellanger)
+- https://opengameart.org/content/elemental-stonesshrines-pixel-art (**CC BY 4.0** — santuários elementais em pedra, crédito obrigatório)
 
 ## Música e SFX por tema
 
@@ -242,3 +272,14 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/sunny-side-up-updated-version (**CC0** — tema alegre de campo)
 - https://opengameart.org/content/gone-fishin (**CC0** — faixa descontraída de pescaria)
 - https://opengameart.org/content/windle-pixel-and-his-banjo-buddies-looping (**CC BY 3.0** — banjo em loop, crédito obrigatório)
+
+### Dragões, covil e montanha
+
+- https://opengameart.org/content/dragons-village (**CC BY 3.0** / CC BY 4.0 — tema da vila dos dragões, crédito obrigatório)
+- https://opengameart.org/content/great-dragon-appearance-35sec-loop (**CC BY 3.0** / CC BY 4.0 — aparição do grande dragão em loop de 35s, ideal para cutscene ou entrada de chefe)
+- https://opengameart.org/content/dragon-mountain (**CC BY 3.0** — tema de montanha do dragão, crédito obrigatório)
+- https://opengameart.org/content/dragon-kings-dungeon (**CC BY 3.0** / CC BY-SA 3.0 — masmorra do rei dragão)
+- https://opengameart.org/content/wgs-music-26-dragon-king-loops (**CC BY 3.0** — loops do rei dragão, da WGS)
+- https://opengameart.org/content/ancient-dragon-classic-jrpg-music-pack-tiny-pack (**CC BY-SA 4.0** — pack de JRPG clássico com tema de dragão antigo)
+- https://opengameart.org/content/the-fire-dragon (**CC0** — tema do dragão de fogo)
+- https://opengameart.org/content/trycor-dragon-boss (**CC0** — tema de chefe dragão)
