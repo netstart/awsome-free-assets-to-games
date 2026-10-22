@@ -43,5 +43,6 @@
 | Brinquedo de montar (estilo Lego) | kenney.nl, screamingbrainstudios.itch.io, devilsworkshop.itch.io, shallow-lagoon.itch.io, mewki.itch.io, sandstormdev.itch.io, juliovii.itch.io, opengameart.org |
 | Beat 'em up urbano (estilo Streets of Rage) | rancic.itch.io, oonquil.itch.io, retropixie.itch.io, jkllin.itch.io, rgsdev.itch.io, kenney.nl, opengameart.org |
 | Fantasia bárbara / hack 'n slash (estilo Golden Axe) | blobfishdev.itch.io, pixel-moon-studio.itch.io, helianthus-games.itch.io, hugues-laborde.itch.io, caz-bee.itch.io, kbpixelart.itch.io, the-pixel-nook.itch.io, bobkingg.itch.io, zoneework.itch.io, pitiit.itch.io, alkakrab.itch.io, ivanduch.itch.io, opengameart.org |
+| RTS nórdico / vila viking (estilo Northgard) | bobkingg.itch.io, carbonova.itch.io, mr-pixelz.itch.io, maidolee.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |

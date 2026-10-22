@@ -171,6 +171,13 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/assassin-mage-viking-sprites-pixel-art (**OGA-BY 3.0** — trio assassino/mago/viking, do CraftPix)
 - https://opengameart.org/content/woman-warrior-2d-sprite (**OGA-BY 3.0** — guerreira 2D para o papel de amazona, do CraftPix)
 - https://opengameart.org/content/beast-2d-pixelart (**CC BY 3.0** — fera em pixel art, para montaria ou inimigo, do TheFunnySide)
+- https://opengameart.org/content/animated-nordic-warrior-sprite-bust (**CC BY 4.0** — guerreiro nórdico animado com busto para diálogo, do Sevarihk)
+- https://opengameart.org/content/shieldmaiden-character-sprite-and-busts (**CC BY 4.0** — donzela-escudeira animada com bustos, do Sevarihk)
+- https://opengameart.org/content/germanic-warrior (**CC BY-SA 3.0** / GPL 2.0 — guerreiro germânico para RTS, do b_o)
+- https://opengameart.org/content/germanic-archer (**CC BY-SA 3.0** / GPL 2.0 — arqueiro germânico, do b_o)
+- https://opengameart.org/content/germanic-worker (**CC BY-SA 3.0** / GPL 2.0 — trabalhador/aldeão germânico, do b_o)
+- https://opengameart.org/content/js-actor-lifa (**CC BY 3.0** — atriz nórdica "Lifa" com animações de RPG, do JosephSeraph)
+- https://opengameart.org/content/js-actor-eir (**CC BY 3.0** — atriz nórdica "Eir" com animações de RPG, do JosephSeraph)
 
 ## Armas e itens
 
@@ -264,6 +271,10 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/round-shields-pixel-art (**CC0** — escudos redondos em pixel art, do ScratchIO)
 - https://opengameart.org/content/16x16-animated-campfire (**CC0** — fogueira animada 16x16, do krial)
 - https://opengameart.org/content/campfire-pixel-art-animated (**CC0** — fogueira animada em pixel art, do ArlanTR)
+- https://opengameart.org/content/viking-ship (**CC0** — drakkar/longship para doca e fase de invasão, do nightm4re)
+- https://opengameart.org/content/runes-2d (**CC0** — runas 2D para magia e interface, do Paul Wortmann)
+- https://opengameart.org/content/futhark-runic-symbol-alphabet (**CC BY 3.0** / CC BY-SA 3.0 — alfabeto rúnico futhark, do hc)
+- https://opengameart.org/content/viking-helmet (**CC0** — elmo viking, do bevouliin.com)
 
 ## Cenários, tilesets e construções
 
@@ -484,6 +495,36 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/sandstone-ornament-256px (**CC BY 3.0** — ornamento de arenito 256px, do qubodup)
 - https://opengameart.org/content/sand-texture-sand-seamless-texture-with-normalmap (**CC BY 3.0** — areia sem emenda com normalmap, do Keith333)
 - https://opengameart.org/content/hand-painted-sand-texture-0 (**CC BY 3.0** — areia pintada à mão, da Chloe Wolfe)
+- https://opengameart.org/content/nordic-tileset (**CC BY 4.0** — tileset nórdico top-down, do Sevarihk)
+- https://opengameart.org/content/viking-village-town-center-level-1 (**CC0** — salão do chefe viking isométrico animado, o "mead hall" do mapa, do City Building Game Art)
+- https://opengameart.org/content/snow-tileset-for-rpgs (**CC BY 3.0** — tileset de neve para RPG, do 2DPIXX)
+- https://opengameart.org/content/very-basic-32x32-topdown-snow-tileset (**CC0** — tileset básico de neve top-down 32x32, do Spring Spring)
+- https://opengameart.org/content/lpc-winter-tiles (**CC BY 3.0** / OGA-BY 3.0 / GPL 3.0 — tiles de inverno no estilo LPC, do Demetrius)
+- https://opengameart.org/content/winter-tilesets (**CC BY-SA 3.0** — tilesets de inverno, do AdebGameSoft)
+- https://opengameart.org/content/isometric-snow-tileset-flare (**CC BY-SA 3.0** — tileset isométrico de neve, do rubberduck)
+- https://opengameart.org/content/mountain-tileset (**CC0** — tileset de montanha, do ImpossibleReal)
+- https://opengameart.org/content/tiny-rpg-mountain-tileset (**CC0** — montanha em estilo RPG tiny, do ansimuz)
+- https://opengameart.org/content/dark-mountain-tileset (**CC BY 4.0** — montanha sombria, do 2DPIXX)
+- https://opengameart.org/content/top-down-village-elements (**CC BY 3.0** — elementos de vila top-down, do Warlock's Gauntlet team)
+- https://opengameart.org/content/rpg-town-tileset (**CC BY 3.0** — tileset de cidade para RPG, do 2DPIXX)
+- https://opengameart.org/content/log-cabin (**CC BY-SA 3.0** / GPL 2.0 — cabana de toras, do Varkalandar)
+- https://opengameart.org/content/isometric-log-cabins (**CC0** — cabanas de toras isométricas, do rubberduck)
+- https://opengameart.org/content/32-pixel-set-log-cabin (**CC0** — conjunto de cabana de toras 32px, do cyanowl)
+- https://opengameart.org/content/cottage-top-down-asset-pack (**CC BY 4.0** — casas top-down, do Lexaei)
+- https://opengameart.org/content/tavern (**CC0** — taverna medieval, do nicubunu)
+- https://opengameart.org/content/isometric-medieval-tavern (**CC BY 4.0** / CC BY 3.0 — taverna medieval isométrica, do Bleed)
+- https://opengameart.org/content/tavern-background (**CC BY-SA 3.0** — fundo de taverna, da Nila122)
+- https://opengameart.org/content/lpc-tavern (**CC BY-SA 3.0** — interior de taverna no estilo LPC, do bluecarrot16)
+- https://opengameart.org/content/pixel-pine-tree-assets-10-pack (**CC0** — 10 pinheiros em pixel art, do pistachio)
+- https://opengameart.org/content/pine-tree-png (**CC0** — pinheiro em PNG, do jcrow41)
+- https://opengameart.org/content/snow-and-ice-batch-of-15-seamless-textures-with-normalmaps (**CC BY 3.0** — 15 texturas de neve e gelo com normalmap, do Keith333)
+- https://opengameart.org/content/tomeks-seamless-snow-textures (**CC BY 3.0** — neve sem emenda, do tomek)
+- https://opengameart.org/content/seamless-snow-texture (**CC BY 3.0** / OGA-BY 3.0 — neve sem emenda, do erxer1)
+- https://opengameart.org/content/snow-texture (**CC BY 3.0** — textura de neve, do Downdate)
+- https://opengameart.org/content/snow-on-trees (**CC BY 3.0** — neve sobre árvores, do Saroman)
+- https://opengameart.org/content/wood-planks (**CC0** — tábuas de madeira, da Starry Skydancer)
+- https://opengameart.org/content/wooden-planks-0 (**CC0** — tábuas de madeira, do Fupi)
+- https://opengameart.org/content/cc0-texture-resources-3-wood (**CC0** — texturas de madeira, do rubberduck)
 
 ## Música e SFX por tema
 
@@ -697,3 +738,18 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/desert-overworld (**CC0** — deserto para mapa de mundo, do KarateStudios)
 - https://opengameart.org/content/dacoit-desert-theme (**CC BY 3.0** / CC BY 4.0 — tema de deserto com clima de saqueadores, do Spring Spring)
 - https://opengameart.org/content/simple-desert (**CC BY 3.0** — deserto simples em loop, do Spring Spring)
+
+### RTS nórdico, inverno e taverna
+
+- https://opengameart.org/content/ragnar%C3%B6k-epic-fight-music (**CC BY 4.0** — combate épico nórdico, do William Hector)
+- https://opengameart.org/content/tavern-0 (**CC0** — tema de taverna em loop, do yd)
+- https://opengameart.org/content/the-rowdy-tavern (**CC BY 3.0** — taverna agitada, do Snabisch)
+- https://opengameart.org/content/dragon-tail-tavern (**CC BY 4.0** — taverna "Dragon Tail", do Jan125)
+- https://opengameart.org/content/medieval-kings-feast (**CC0** — banquete de rei, para o salão do chefe, do RandomMind)
+- https://opengameart.org/content/village-of-snow (**CC0** — vila nevada, do zesona)
+- https://opengameart.org/content/battle-in-the-winter (**CC BY 3.0** / OGA-BY 3.0 — batalha no inverno, do jobromedia)
+- https://opengameart.org/content/winter-solstice (**CC BY 4.0** — solstício de inverno, do Yubatake)
+- https://opengameart.org/content/snowy-winters-night (**CC BY 3.0** — noite de inverno nevada, do Spring Spring)
+- https://opengameart.org/content/great-pagan-epoch (**CC0** — era pagã, clima nórdico, do The Oracle)
+- https://opengameart.org/content/novoletie (**CC BY 4.0** — tema folclórico eslavo/nórdico, do divjedrevo)
+- https://opengameart.org/content/british-shores (**CC BY 4.0** — costas e navegação, do divjedrevo)

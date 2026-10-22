@@ -1881,6 +1881,63 @@ Golden Axe é IP da SEGA: Ax Battler, Tyris Flare, Gilius Thunderhead, as feras 
 - **pagos**: https://free-game-assets.itch.io/2d-barbarian-character-sprites (US$ 5), https://free-game-assets.itch.io/desert-village-2d-tileset (US$ 6), https://maffalapolous.itch.io/retro-barbarian-warrior-sprite (US$ 1,75), https://oni-studios.itch.io/barbarian-character-sprite-animated (US$ 2), https://mtk.itch.io/2d-metroidvania-desert-tileset-16x16 (US$ 2,49, **CC BY 4.0** mas pago), https://bioma2d.itch.io/desert-nomad-pixel-art-pack-post-apocalyptic-tileset-character (US$ 200), https://2dpixx.itch.io/wild-platforms-game-kit-desert-tileset (US$ 5) e https://pzuh.itch.io/barbarian-assault-game-sprites (pzuh só entra via página **CC0** da OpenGameArt)
 - **3D**: https://repeatloader.itch.io/malefighter-for-unreal-unity-blender-free, https://rg-poly.itch.io/medieval-props-small-pack-low-poly, https://t-allen-studios.itch.io/free-low-poly-longship, https://makovice.itch.io/cold-biome-voxel-asset-pack e https://thecgworld.itch.io/viking-asset-pack
 
+## itch.io — RTS nórdico e vila viking (estilo Northgard) (pesquisado em 22/10/2026)
+
+Northgard é IP da Shiro Games: os clãs (Stag, Wolf, Raven, Bear…), personagens, arte, nomes e trilha ficam fora, mesmo de graça. O equivalente legal é o **RTS nórdico 2D / vila viking top-down**: nórdicos, salão do chefe, doca de drakkar, pedras rúnicas, pinheiros nevados, tundra, fjord, lobos, hidromel e recursos de madeira e pedra. Todos os itens abaixo têm licença verificada na página.
+
+### Personagens: nórdicos, guerreiros e trabalhadores
+
+- na OpenGameArt: **Animated Nordic Warrior Sprite + Bust** e **Shieldmaiden Character Sprite and Busts** (**CC BY 4.0**, do Sevarihk — herói e escudeira com busto para diálogo), **Germanic Warrior**, **Germanic Archer** e **Germanic Worker** (**CC BY-SA 3.0** / GPL 2.0, do b_o — o trio completo para RTS) e **JS Actor — Lifa** e **JS Actor — Eir** (**CC BY 3.0**, do JosephSeraph)
+- os vikings da rodada **Fantasia bárbara** (Shieldmaiden, Viking Warrior, Viking Man, Viking Sprite e o trio Assassin/Mage/Viking) completam o elenco sem repetir packs
+- para o chefe de clã em tamanho maior, use o **Barbarian estático 64x64** (**CC0**) e o **Cute Barbarian** (**CC BY-SA 3.0**) já catalogados
+
+### Mapas: fjord, tundra, montanha e vila
+
+- https://bobkingg.itch.io/viking-fjord-tileset (**CC0** — o pack que fecha o tema: pinheiros, docas de longboat, pedras rúnicas, neve, água de fjord, costas direcionais e variantes de grama)
+- https://carbonova.itch.io/viking-village-rpg-tileset (374 tiles de 64x64 da vila viking; uso comercial liberado, **crédito pedido**, proibida revenda)
+- https://mr-pixelz.itch.io/16x16-pixel-snow-environment (ambiente de neve top-down 16x16 com itens; comercial liberado, sem revenda)
+- https://maidolee.itch.io/pixel-art-ice-snow-platformer-tileset (gelo e neve para plataforma; comercial liberado, sem revenda)
+- na OpenGameArt: **Nordic Tileset** (**CC BY 4.0**, do Sevarihk), **Snow Tileset for RPGs** (**CC BY 3.0**, do 2DPIXX), **Very Basic 32x32 Topdown Snow Tileset** (**CC0**, do Spring Spring), **LPC Winter Tiles** (**CC BY 3.0** / OGA-BY 3.0 / GPL 3.0), **Winter Tilesets** (**CC BY-SA 3.0**), **Isometric Snow Tileset (flares)** (**CC BY-SA 3.0**), **Mountain Tileset** (**CC0**), **Tiny RPG Mountain Tileset** (**CC0**, do ansimuz), **Dark Mountain Tileset** (**CC BY 4.0**, do 2DPIXX), **Top Down Village Elements** (**CC BY 3.0**) e **RPG Town Tileset** (**CC BY 3.0**)
+- o **Viking Village — Part 1** do kbpixelart (**comercial liberado**) e o **Viking Environment Pack** do hugues-laborde, já catalogados na rodada **Fantasia bárbara**, entram como quarteirão pronto
+
+### Casas: salão do chefe, cabanas e taverna
+
+- na OpenGameArt: **Viking Village Town Center — Level 1** (**CC0** — salão do chefe isométrico animado, o "mead hall" do mapa), **Isometric Log Cabins** (**CC0**), **32-pixel Set — Log Cabin** (**CC0**), **Log Cabin** (**CC BY-SA 3.0** / GPL 2.0), **Cottage Top-down Asset Pack** (**CC BY 4.0**, do Lexaei), **Tavern** (**CC0**, do nicubunu), **Tavern Background** (**CC BY-SA 3.0**, da Nila122) e **LPC Tavern** (**CC BY-SA 3.0**, do bluecarrot16)
+- a **Viking Village — Part 1** já catalogada traz a casa grande e o parallax da aldeia
+- as cabanas de madeira da seção **Caverna** e as casas de pedra da seção **Combate medieval** completam o vilarejo
+
+### Árvores e vegetação nevada
+
+- na OpenGameArt: **Pixel Pine Tree Assets (10 Pack)** (**CC0**, do pistachio) e **Pine Tree (png)** (**CC0**, do jcrow41)
+- a textura **Snow on Trees** (**CC BY 3.0**) cobre a copa dos pinheiros já catalogados para dar o clima de inverno
+- o **Viking Fjord Tileset** (**CC0**) já inclui pinheiros nevados no mesmo estilo do chão
+- para a floresta ao redor da vila, use as árvores do **Bleed** (**CC BY 3.0**), da **karsiori** (**CC0**) e o **Foliage Pack (100x)** do Kenney (**CC0**)
+
+### Itens: drakkar, runas e recursos
+
+- na OpenGameArt: **Viking Ship** (**CC0**, do nightm4re — drakkar para a doca e para a fase de invasão), **Runes 2D** (**CC0**, do Paul Wortmann), **FUTHARK Runic Symbol Alphabet** (**CC BY 3.0** / CC BY-SA 3.0) e **Viking Helmet** (**CC0**, do bevouliin.com)
+- o **Rune Pack** do Kenney, os **CC0 Rune Icons**, as **Collection of Rune Stones** e os **4 Glowing Rune Stones** (**CC0**) já estão catalogados e servem de pedra rúnica no mapa
+- machados e escudos **CC0** da rodada **Fantasia bárbara** e as moedas/recursos do Kenney (**CC0**) fecham o inventário
+
+### Texturas de neve, gelo e madeira
+
+- na OpenGameArt: **Snow and Ice — Batch of 15 Seamless Textures** e **tomek's Seamless Snow Textures** (**CC BY 3.0**), **Seamless Snow Texture** (**CC BY 3.0** / OGA-BY 3.0), **Snow Texture** (**CC BY 3.0**), **Snow on Trees** (**CC BY 3.0**), **Wood Planks** (**CC0**, da Starry Skydancer), **Wooden Planks** (**CC0**, do Fupi) e **CC0 Texture Resources 3 — Wood** (**CC0**, do rubberduck)
+- o arenito **CC0**, a areia e as texturas de tijolo das rodadas anteriores cobrem pedra, cais e fundação
+
+### Música e SFX
+
+- na OpenGameArt: **Ragnarök — Epic Fight Music** (**CC BY 4.0**, do William Hector), **Tavern** (**CC0**, do yd), **The Rowdy Tavern** (**CC BY 3.0**, do Snabisch), **Dragon Tail Tavern** (**CC BY 4.0**), **Medieval: King's Feast** (**CC0**, do RandomMind), **Village of Snow** (**CC0**, do zesona), **Battle in the Winter** (**CC BY 3.0** / OGA-BY 3.0), **Winter Solstice** (**CC BY 4.0**, do Yubatake), **Snowy Winter's Night** (**CC BY 3.0**), **Great Pagan Epoch** (**CC0**, do The Oracle), **Novoletie** e **British Shores** (**CC BY 4.0**, do divjedrevo)
+- o folk viking do **alkakrab** e do **Ivan Duch**, o **Viking Tales** e o **Viking March** (**CC0**) já estão catalogados na rodada **Fantasia bárbara**
+- os **jingles** do Kenney (**CC0**) cobrem o clique de construção, a coleta de madeira e a promoção de aldeão
+
+### Avaliados e não incluídos
+
+- **IP da Shiro Games**: qualquer fan game, arte ou trilha de Northgard
+- **pagos**: https://godboyhappy.itch.io/fjordhold-viking-village-tileset (US$ 8,99 e **gerado por IA** — o zip traz `PROMPTS.md` e `PROVENANCE.txt`), https://bubbabba.itch.io/viking-fjord-village (US$ 69,87), https://snoblin.itch.io/winter-top-down-tileset-pixel-rpg (US$ 6), https://alb-pixel-store.itch.io/top-down-tileset-snow-region (US$ 2), https://v3su.itch.io/medieval-village-tileset-16x16-pixel-art-fantasy (US$ 47,93), https://eduardscarpato.itch.io/snow-tileset-16x16-fantasy-pack (US$ 4), https://free-game-assets.itch.io/snow-tileset-pixel-art (Free Game Assets cobra pelo download; o pacote de vila no deserto da mesma conta já foi recusado na rodada anterior), https://eamon-music.itch.io/nordic-rpg-music (US$ 9,99), https://marika-schanz.itch.io/nordic-exploration-cinematic-nordic-music-pack (US$ 35), https://joelsteudler.itch.io/viking-music-pack (US$ 14,99) e https://blackmid.itch.io/nordic-viking-folk-music (US$ 1,23+)
+- **sem licença declarada**: https://celestialfacade.itch.io/free-16x16-tileset-grass-snow-tileset-simple-pixel-art, https://ormspryde.itch.io/snowy-tileset, https://alxn3.itch.io/snow-nature-tileset-32x32-pixel-art, https://sanctumpixel.itch.io/snow-top-down-pixel-art-tileset e https://valeriopellegri.itch.io/nordiccinematicbeds (preço e licença ambíguos)
+- **autores com histórico de licença problemática**: https://falvey.itch.io/fjordheim-top-down-16x16-viking-village-tileset-47-pieces-animated, https://mutterpixel-studio.itch.io/viking-village-buildings-pixel-art-asset-pack, https://ventilatore.itch.io/the-fantasy-tileset-snow-adventures, https://penzilla.itch.io/hexagon-winter-tileset e https://abyssalhunter.itch.io/pixel-art-tileset-snow-land
+- **3D**: https://t-allen-studios.itch.io/nordic-tavern-assets (o longship do mesmo autor já foi recusado por ser 3D na rodada anterior)
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)
