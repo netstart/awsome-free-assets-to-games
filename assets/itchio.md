@@ -1106,6 +1106,74 @@ Metroid é IP da Nintendo: Samus, os metroids, mapas e trilha oficiais **não en
 - https://frostwindz.itch.io/pixel-art-sci-fi-spaceships — autor já registrado sem licença na página
 - https://repeatloader.itch.io/alien-female-hq-for-unreal-unity-and-blender, https://maxparata.itch.io/voxel-spaceships, https://kaylousberg.itch.io/space-base-bits e https://niko-3d-models.itch.io/halo-inspired-alien-handgun — packs **3D**
 
+## itch.io — Cafeland (café, padaria e cozinha cozy) (pesquisado em 22/10/2026)
+
+Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espresso, vitrine de doces, clientes e atendentes, fachada de esquina, praça arborizada e trilha jazz. Serve tanto para um mapa "cidade" quanto para o intervalo entre os mapas de samurai.
+
+### Personagens e atendentes
+
+- https://renrenbear.itch.io/cafe-staff-free (2 personagens gratuitos de equipe de café em estilo VN; uso pessoal e **comercial** liberado, **crédito obrigatório** a "Character assets by Angel (@roleangels)", proibida redistribuição avulsa)
+- https://pompack.itch.io/brown-haired-cafe-staff-character-sprite (NPC de atendente de café com 7 expressões; uso comercial liberado, proibida revenda/redistribuição)
+- https://cecixp.itch.io/bartenderbarista-icon-pack (**CC BY-ND 4.0** — 246 ícones de bebidas, 4 animações de gato bartender, 5 clientes gatos, mesa e cadeiras; crédito obrigatório e **sem direito a modificação**)
+- os personagens top-down do **Cozy Town** (abaixo) e os clientes das coleções de personagens já catalogadas (LimeZu, snowhex, Pop Shop) completam o salão
+
+### Mapas, interiores e casas
+
+- https://aquumgifts.itch.io/cozy-town (tileset top-down 16x16 de cidade moderna com lojas, **cafés**, interiores, autotiles e personagem andando — versão **Lite gratuita**; uso pessoal e **comercial**, proibida revenda como tileset)
+- https://venicemenacebakingco.itch.io/bakery-exterior-topdown-pack-free-sampler (**CC0** — amostra top-down de fachada de padaria: 16 tiles de calçada, rua, vitrine, porta e toldos + 3 props; a versão completa é paga)
+- https://chuckyassets.itch.io/bakery-cafe-interiors (Sugar & Sage — interior de padaria/café 16x16 com mesas, vitrine e balcão; uso livre em projetos comerciais, proibida redistribuição)
+- https://bubbabba.itch.io/cozy-cafe-bakery (café e padaria top-down 32x32; uso comercial liberado, proibida redistribuição e uso para treinar IA)
+- https://zeschpix.itch.io/2d-pixel-art-caf-pack (interior de café top-down com mesas, cadeiras, máquinas e doces; uso comercial liberado, proibida redistribuição)
+- https://thirdangle.itch.io/restaurant-kitchen-starter (cozinha de restaurante **isométrica** 64x32, 15 sprites gratuitos; uso comercial e não comercial, proibida revenda)
+- https://oddblotstudios.itch.io/basic-coffee-shop-pack (balcão, máquina de espresso, vitrine e janela em estilo pintado à mão; comercial liberado, proibida revenda avulsa)
+- https://lornn.itch.io/backgrounds-restaurants-and-cafes (fundos de restaurantes e cafés 2432x1664 para VN/narrativa; uso comercial liberado com restrição de conteúdo — **arte gerada em Midjourney e repintada pelo autor**, vale conferir o resultado antes de usar)
+- na OpenGameArt: **Cafe and tea shop Pixel Art** (**CC BY 3.0**)
+
+### Itens de café, comida e bebida
+
+- https://karsiori.itch.io/free-pixel-art-bar-and-cafe-items-pack (**CC0** — o achado da rodada: balcão de bar/café, máquina de espresso, xícaras, garrafas, doces e utensílios; uso comercial livre, sem atribuição)
+- https://yaninyunus.itch.io/16x16-specialtycoffee (300+ sprites 16x16 de cafés especiais e panificação, com estágios de preparo; uso comercial liberado, proibida revenda)
+- https://2yeet.itch.io/foodassets (400+ ícones de comida 160x160; uso comercial liberado, sem atribuição)
+- https://mysty25.itch.io/cute-cozy-cafe-beverages-and-food (bebidas, doces e pratos em 16x16 e 32x32, com PNG e .aseprite; uso comercial liberado, proibida revenda das folhas)
+- https://love-in-rar.itch.io/coffee-machine-pack (máquinas de café em pixel; uso comercial liberado, proibida redistribuição)
+- o pack **Mugs** da Pop Shop Packs, já catalogado na seção "Armas e ícones", cobre as canecas
+- na OpenGameArt: **Food** (AntumDeluge, **CC0**), **64 16x16 food sprites** (**CC0**), **Icons: Food** (**CC0**), **Cartoon Food** (**CC0**), **Food Items 16x16** (**CC0**), **32px Food Items** (**CC0**), **cozy café icons** (**CC BY 4.0**), **Ms. Makoto's Cafe - Finished Food Pack 1** (**CC BY 3.0**), **Food items from Crosstown Smash** (**CC BY 3.0**) e **Drinks and Beverages 32×32** (**OGA-BY 4.0**)
+
+### Texturas de piso e parede
+
+- os tilesets do **Cozy Town** e do **Sugar & Sage** já trazem piso de madeira, ladrilho de café, parede com lambri e vitrine
+- a amostra **CC0** da VeniceMenaceBakingCo cobre calçada, paralelepípedo e asfalto para a rua em frente
+- para mesa de madeira e azulejo, reaproveite as texturas sem emenda da OpenGameArt já catalogadas em "Cenários, tilesets e construções"
+
+### Árvores e jardim
+
+- https://flarevindle.itch.io/80-free-cozy-world-props (Brew & Bloom — 80 props de café, cozinha **e jardim**, com licença de uso comercial e crédito opcional)
+- para a pracinha em volta da cafeteria, use o **Foliage Pack** do Kenney (**CC0**, na OpenGameArt) e o **Free Pixel Art Tree Pack** da karsiori (**CC0**, já catalogado)
+- a versão **Garden Cafe interiors theme** da AbyssalHunter tem o tema ideal, mas a licença comercial só vale pagando — não entrou
+
+### Música e SFX
+
+- https://wafusoundworks.itch.io/wafu-vol50-japanese-restaurant-music-pack (Steam Over the Counter — 12 faixas de restaurante japonês, com loop contínuo, WAV e OGG; **grátis para uso comercial**, sem crédito e sem reivindicação de Content ID — casa perfeitamente com o café de temática japonesa)
+- https://lolurio.itch.io/jazz-bossa-nova-music (**CC BY 4.0** — jazz e bossa nova para o salão; crédito obrigatório ao autor)
+- https://aquumgifts.itch.io/cozy-cafe-sfx (46 efeitos de café e cozinha, sintetizados; uso comercial sem royalties, proibida revenda dos sons)
+- https://moneywithjjcom.itch.io/free-kitchen-sounds (6 SFX de cozinha royalty-free, comercial e sem atribuição)
+- na OpenGameArt: **jazz slower** (**CC0**), **Acoustic Jazz** (**CC BY 3.0**), **Jazzy Vibes #36 — Smooth Jazz** (**CC BY 4.0**), **A Cloudy Morning (Jazz)** (**CC BY 3.0**), **Solo Jazz Guitar — Riverline** (**CC BY 4.0**) e **Jazz Lost in Time** (**CC BY 3.0**)
+
+### Avaliados e não incluídos
+
+- https://falvey.itch.io/main-street-10-animated-4-direction-16x16-town-cafe-characters-40-walk-cycles e https://falvey.itch.io/corner-cafe-top-down-16x16-cozy-coffee-shop-tileset-25-pieces-animated — a **demo gratuita é só para uso não comercial**; uso comercial exige comprar o pack completo
+- https://abyssalhunter.itch.io/cafe (300+ Cafe interiors) — licença comercial **somente pagando US$ 6**
+- https://maygetsu.itch.io/cozy-cafe-interior-3232-pixel-art-asset-pack — pago (US$ 19,99)
+- https://penzilla.itch.io/cafe-game — pago (US$ 8)
+- https://myfatesaber.itch.io/warm-cafe-cozy-pixel-art — pago (US$ 2,99)
+- https://nacl1234.itch.io/top-down-food-drink-2d-mega-pack — página **sem licença formal** (o autor só responde "sim" sobre uso comercial nos comentários) e arte com **AI assistida**
+- https://summerpixl.itch.io/cozy-coffee-shop-free-directional-furniture-add-on — página sem licença declarada
+- https://mutterpixel-studio.itch.io/cozy-coffee-shop-pixel-art-assets — não publica o texto da licença (só um asterisco em "projetos comerciais")
+- https://winechan.itch.io/toon-barista — página sem licença declarada
+- https://yuukipudding.itch.io/bartender-sprite — **CC BY-NC-SA 3.0**, uso comercial proibido
+- https://fakehiking.itch.io/plants-and-more — página sem licença declarada
+- https://milkandbanana.itch.io/cooking-assets, https://vladqc.itch.io/restaurant-assets, https://kaylousberg.itch.io/restaurant-bits, https://cloudycreates.itch.io/cute-low-poly-caf-assets, https://vnbp.itch.io/cafe-set-vnb e https://yumeforge.itch.io/japanese-izakaya-low-poly-3d-asset-pack-free-sampler — packs **3D**
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

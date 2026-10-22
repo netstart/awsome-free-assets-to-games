@@ -70,6 +70,16 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/throwing-stars-pixel-art (**CC0** — shurikens em pixel art)
 - https://opengameart.org/content/shuriken-pixel-art (**CC0** / GPL 2.0 — shuriken em pixel art)
 - https://opengameart.org/content/2d-ninja-sub-weapons-pack (**CC BY 4.0** — armas secundárias ninja)
+- https://opengameart.org/content/food (**CC0** — ícones de comida variados, do AntumDeluge)
+- https://opengameart.org/content/64-16x16-food-sprites (**CC0** — 64 sprites de comida 16x16)
+- https://opengameart.org/content/icons-food (**CC0** — ícones de comida para inventário)
+- https://opengameart.org/content/cartoon-food (**CC0** — comida em estilo cartoon)
+- https://opengameart.org/content/food-items-16x16 (**CC0** — itens de comida 16x16)
+- https://opengameart.org/content/32px-food-items (**CC0** — itens de comida 32px)
+- https://opengameart.org/content/cozy-caf%C3%A9-icons (**CC BY 4.0** — ícones de café aconchegante, crédito obrigatório)
+- https://opengameart.org/content/drinks-and-beverages-32%C3%9732 (**OGA-BY 4.0** — bebidas 32x32, crédito obrigatório)
+- https://opengameart.org/content/ms-makotos-cafe-finished-food-pack-1 (**CC BY 3.0** — pratos finalizados de café, crédito obrigatório)
+- https://opengameart.org/content/food-items-from-crosstown-smash (**CC BY 3.0** — itens de comida em pixel, crédito obrigatório)
 
 ## Cenários, tilesets e construções
 
@@ -111,6 +121,7 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/alien-planet-platformer-tileset (**CC0** — tileset de planeta alienígena)
 - https://opengameart.org/content/alien-ufo-pack (**CC0** — naves e UFOs do Kenney)
 - https://opengameart.org/content/foliage-pack-100x (**CC0** — folhagem e vegetação do Kenney, serve como flora alienígena)
+- https://opengameart.org/content/cafe-and-tea-shop-pixel-art (**CC BY 3.0** — cafeteria e casa de chá em pixel art)
 
 ## Música e SFX por tema
 
@@ -191,3 +202,12 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/destruction-of-the-alien-spacecrafts (**CC0** — destruição de naves alienígenas)
 - https://opengameart.org/content/space-boss-battle-theme (**CC BY 3.0** — tema de chefe espacial, crédito obrigatório)
 - https://opengameart.org/content/alien-ruins (**CC BY 3.0** — ruínas alienígenas, crédito obrigatório)
+
+### Café, cozy e jazz
+
+- https://opengameart.org/content/jazz-slower (**CC0** — jazz calmo, ideal para o salão da cafeteria)
+- https://opengameart.org/content/acoustic-jazz (**CC BY 3.0** — jazz acústico de violão e guitarra, crédito a "Joe Reynolds - Professorlamp")
+- https://opengameart.org/content/jazzy-vibes-36-loop-smooth-jazz (**CC BY 4.0** — smooth jazz em loop, crédito obrigatório)
+- https://opengameart.org/content/a-cloudy-morning-jazz (**CC BY 3.0** — jazz de manhã nublada, crédito obrigatório)
+- https://opengameart.org/content/solo-jazz-guitar-riverline (**CC BY 4.0** — guitarra jazz solo, crédito obrigatório)
+- https://opengameart.org/content/jazz-lost-in-time (**CC BY 3.0** — jazz melancólico, crédito obrigatório)
