@@ -1213,6 +1213,62 @@ Mapa de magia para o Hyakki: torre do mago, academia arcana, biblioteca proibida
 - https://nonokaatm.itch.io/magical-forest-asset-pack-16x16 — só **preview**, o pacote completo é pago
 - https://standout7.itch.io/lowpo-wizard e https://assetsdotfun.itch.io/wizard-tower-study-01 — modelos **3D**
 
+## itch.io — Gigantes e titãs (colosso, ogro e golem) (pesquisado em 22/10/2026)
+
+Mapa de escala colossal para o Hyakki: titãs de pedra e fogo, ogros, trolls, ciclopes, golems, ruínas de civilizações que moraram nas costas de gigantes, árvores do tamanho de torres, ossadas que viraram cavernas e música épica de confronto. Nada de IP de franquia (Godzilla, Attack on Titan, Shadow of the Colossus, Kaiju, Pokémon) — só arte original com licença verificada.
+
+### Personagens e criaturas
+
+- https://bontt.itch.io/giant-pixel-art-asset (gigante em pixel art 64x64 com animação de caminhada em duas vistas, feito no Piskel; o autor libera para qualquer uso **desde que você dê o crédito**)
+- na OpenGameArt: **Troll Sprites** (**CC BY 3.0**), **Troll Character Sprites** (**OGA-BY 3.0**, do CraftPix), **Top down troll, animated** (**CC BY 3.0**), **[LPC] Female Orc/Ogre/Goblin/Troll (base walkcycle)** (**OGA-BY 3.0**), **Ogre** (ogre-2, **CC BY-SA 3.0**), **Muscleman Ogre Minotaur** (**CC BY 3.0**), **Orc, Ogre and Goblin Chibi Sprites** (**OGA-BY 3.0**) e **Top Down Ogre Fighters, Animated** (**CC BY 3.0**)
+- golems na OpenGameArt: **[LPC] Golem** (**CC BY 4.0** / CC BY 3.0 / GPL), **Golem Animations** (**CC BY 3.0**), **Ice Golem RPG Enemy Sprite** (**CC BY 3.0** / OGA-BY 3.0), **Fire Golem** (**CC0**) e **Mechanical Giant (vectorized)** (**CC BY 3.0** / GPL), que é um robô-titã gigante
+- ciclopes na OpenGameArt: **Cyclops** (**GPL 2.0** / GPL 3.0), **Cyclops Monster 2D** (**CC BY 3.0** / CC BY-SA 3.0 / GPL) e **Jade Cyclops** (**CC BY 4.0** / CC BY 3.0 / CC0)
+- bichos gigantes na OpenGameArt: **Giant Spider 32x32** (**CC BY 3.0**), **Giant Snake** (**CC BY-SA 4.0** / GPL) e **Summoning the Fire Titan** (**CC0**, do AnvilHouse — cena pronta de invocação de um titã de fogo)
+- reaproveite o **behemoth** do **Dark Enemies Pack** da williamqm e o **troll** do **Enchanted Forest Characters** da superdark, já catalogados nas rodadas de terror e de floresta
+
+### Mapas, cenários e escala colossal
+
+- na OpenGameArt: **Mountain at Dusk Background** (**CC0**, do ansimuz — fundo de montanha perfeito para enquadrar um colosso no horizonte), **Parallax Mountain Background** (**CC0**), **LPC Additional Mountain and Cave Opening Tiles** (**CC0**), **Bevouliin Free Mountain Game Background** (**CC0**) e **Mountain Background** (**CC BY 3.0**) para as camadas de paralaxe
+- ruínas de gigantes na OpenGameArt: **Mythical Ruins Tileset** (**CC0**, do voec), **Free isometric ruins** (**CC0**, do rubberduck) e **Old ruins tileset** (**CC BY-SA 3.0**)
+- ossadas e cavernas: **15 Pixel Bones and skeletons** (**CC0** — está na coleção de arte assistida por IA do site, o autor não declara IA no item, mas trate como referência de ossada e redesenhe se necessário)
+- para o chão de escala titânica, os tilesets de montanha acima já cobrem o terreno; some a eles as **480 tiles de parede, grama, rocha, pedra, madeira e terra** (**CC0**) já catalogadas na rodada de mineração
+
+### Árvores gigantes e flora de escala
+
+- na OpenGameArt: **Big Tree** (**CC BY 4.0**, do Aeynit — árvore enorme para servir de "torre" natural), **Tree Trunk Tileset** (**CC BY 4.0**, do Sevarihk — tiles de tronco gigante, ideal para escalar ou atravessar por dentro) e **Tree Collection v2.6** (**CC BY 3.0**, do Bleed, em versão isométrica)
+- para a mata ao redor, reaproveite o **Free Pixel Art Tree Pack** da karsiori (**CC0**) e o **Foliage Pack** do Kenney (**CC0**), já catalogados
+
+### Casas e fortalezas de gigantes
+
+- na OpenGameArt: **Mountain hause and trees** (**CC0** — casa de montanha, boa como casa de gigante pacífico), **Medieval Stone Guard Tower (Isometric 2.5D)** (**CC0**), **Broken Tower** (**CC BY 3.0**, do Clint Bellanger — torre quebrada por um titã) e **Hut — Bleed's Game Art** (**CC BY 3.0**)
+- a vila, a hospedaria e o castelo em escala humana saem das **100 houses** da kepx, do **LPC Interior Castle Tiles** (**CC BY 4.0**) e dos interiores da **shubibubi**, todos já catalogados — para a vila dos gigantes, basta ampliar 3x ou 4x esses tiles
+- a **Old tower** e a **Tower v2** (**CC0**) catalogadas na rodada de magia também servem de torre avançada do gigante
+
+### Itens, ossadas e texturas
+
+- na OpenGameArt: **Weathered Rock Pack** (**CC0**), **Handpainted Rock Walls** (**CC0**), **Rock Seamless Textures** (**CC0**), **Mossy Rocks** (**CC BY 3.0**), **Tiling Moss Carpet Texture with Heightmap** (**CC BY 3.0**) e **2D Cave Textures** (**CC BY 3.0**) — pedra, musgo e caverna na escala de um punho de titã
+- as **480 tiles** de parede/rocha/madeira (**CC0**) já catalogadas completam as texturas de ruína e de osso fossilizado
+- para as correntes, âncoras e armas abandonadas de um gigante, use os ícones de arma e os props de masmorra já catalogados nas rodadas de RPG e de Terraria
+
+### Música e SFX
+
+- na OpenGameArt: **Titan in the Distance** (**CC BY-SA 4.0**, do Emrakull — tema sombrio de titã ao longe), **Titan Powerplant** (**CC BY 3.0**, do Eric Matyas), **Titan 4** (**CC BY 4.0**, do Yubatake), **The Nihilore Collection** (**CC BY 3.0**), **Giant Robots Fighting** (**CC BY-SA 3.0**), **THE FRIENDLY GIANT** (**CC BY-SA 4.0**, do VoiceBosch — tema orquestral de gigante amigo), **Orchestral Epic Fantasy Music** (**CC BY-SA 3.0** / GPL), **Final Epic Battle** (**GPL 2.0**, do Telaron) e **The Fall of Arcana** (**CC BY 3.0**, do Matthew Pablo)
+- para os impactos de passo e rugido, use o **512 Sound Effects 8-bit Style** e o **RPG Sound Pack** (**CC0**) já catalogados, com o pitch bem grave
+
+### Avaliados e não incluídos
+
+- https://elthen.itch.io/2d-pixel-art-frost-giant-sprites, https://elthen.itch.io/2d-pixel-art-hill-giant-sprites, https://elthen.itch.io/2d-pixel-art-giant-golem-sprites, https://elthen.itch.io/2d-pixel-art-cyclops-sprites e https://elthen.itch.io/2d-pixel-art-umber-hulk-sprites — pacotes pagos com licença externa por faixa de preço (o mesmo problema dos pacotes de arcano do elthen)
+- https://pozac.itch.io/giant-boss-pack-skeleton-king-orc-warlords-2d-pixel-art-boss-collection e os demais **Giant Boss Pack 1, 2 e 3** da pozac — **sem licença declarada** na página
+- https://sovdigital.itch.io/rock-giant-boss (**US$ 5,99**), https://pixel-bestiary.itch.io/fire-giant-boss-animated-pixel-art (**US$ 3,99**), https://elvgames.itch.io/rogue-adventure-boss-titan-guard (**US$ 2,49**), https://chiewaters.itch.io/colossus-climb-tethered-ascent-16-bit-platformer-assets (**US$ 14,99**), https://cbornbrand.itch.io/cborn-boss-pack-01-10-fantasy-bosses (**US$ 4,99**), https://garagem-golem.itch.io/kaiju-cut-outs (**US$ 1,00**) e https://vill8tion.itch.io/dark-fantasy-bestiary-vol-2-orcs-spiders-golems-4k (**US$ 3,99**, ainda por cima **assistida por IA**) — todos **pagos**
+- https://lonewolfdev.itch.io/aztec-boss — botão **Buy Now** com texto dizendo que é livre, informação conflitante; descartado
+- https://ginkgogames.itch.io/blood-golem-pixel-sprites — declara "Creative Commons" **sem versão**, então não dá para saber se permite uso comercial com ou sem crédito
+- https://penzilla.itch.io/giant-npc-pack — licença em **EULA externa** fora da página
+- https://georgekee.itch.io/beau-the-blind-giant — a licença só é perguntada nos comentários e o autor **não responde**
+- https://cenullum.itch.io/ellie-the-giant-golem — download gratuito, mas **sem licença declarada**
+- https://ateliermagicae.itch.io/fantasy-monsters-sfx-vol1 — SFX de monstros gratuito, mas a licença só aparece em comentários, não na página
+- https://fadelpermanaa.itch.io/giants, https://freestorm-dev.itch.io/free-titan-pack, https://sandial.itch.io/blocky-zombies e https://slightlypurplish.itch.io/godzilla-1984 — modelos **3D** (os últimos ainda são IP de franquia: Godzilla, Gigan e Anguirus)
+- https://cicadahuman.itch.io/kaiju-in-sukagawa — é um **jogo**, não um pacote de assets
+
 ## itch.io — Tecnologia (cyberpunk/sci-fi/tech) (pesquisado em 22/10/2026)
 
 Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores futuristas, UI, SFX e techno — tudo com licença verificada. Nada de Cyberpunk 2077, Blade Runner, Ghostrunner, Akira ou Metal Gear: IP de terceiros fica fora.
