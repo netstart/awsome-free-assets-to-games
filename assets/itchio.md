@@ -1213,6 +1213,55 @@ Mapa de magia para o Hyakki: torre do mago, academia arcana, biblioteca proibida
 - https://nonokaatm.itch.io/magical-forest-asset-pack-16x16 — só **preview**, o pacote completo é pago
 - https://standout7.itch.io/lowpo-wizard e https://assetsdotfun.itch.io/wizard-tower-study-01 — modelos **3D**
 
+## itch.io — Velocidade e mascote (estilo Sonic) (pesquisado em 22/10/2026)
+
+Sonic é IP da SEGA: personagens, tilesets do Green Hill, trilha, sprites ripados e modelos de fã **não entram** no catálogo, nem de graça. O equivalente legal é o **plataforma de mascote veloz**: colinas verdes com loops e rampas, palmeiras tropicais, molas, anéis e gemas colecionáveis, vilarejo colorido e trilha de rock/arcade. Tudo abaixo é arte original com licença verificável.
+
+### Personagens mascotes e velocistas
+
+- na OpenGameArt: **Bevouliin Free Running and Jumping Mascot Sprite Sheets** (**CC0** — mascote correndo e pulando, exatamente o papel de herói velocista), **Mascot Bunny Character** (**CC0**), **Speed Runners** e **Speed Runners 2** (**CC BY 4.0** / CC BY 3.0 / GPL — corredores em sprite), **Animated Runner Character** (**CC BY 3.0** / CC0), **Harvett Fox — Player Character Sheet** (**CC BY 4.0** / CC BY 3.0 / OGA-BY 3.0 — mascote raposa original, com folha de personagem completa), **Fox (animated)** (**CC0**), **Fox Sprite** (**CC BY 3.0**) e **Cute raccoon 2d game sprite and animations** (**CC BY 4.0**)
+- já catalogados e no tom certo: **Pixel Adventure**, **Kings and Pigs** e **Treasure Hunters** da Pixel Frog (**CC0**), o **Creator Pack** do Jonathan So (**CC0**) e o pacote overworld da gandalfhardcore
+- para o vilão/chefe, use o **Hooded Knight** e o **Mud Knight** da rodada de combate medieval, ou o **Necromancer (Free)** da creativekind
+
+### Mapas e tilesets de colinas verdes, rampas e loops
+
+- na OpenGameArt: **Blue Hill Zone** (**CC BY 3.0** / CC BY-SA 4.0 / CC BY-SA 3.0 — tileset de colinas verdes com rampas, ondulações e loop, arte original do bcsilva; é a peça central de uma fase "green hill" sem tocar em IP da SEGA) e **Regular Grassland Tileset — Hills/Slopes/Ramps** (**CC BY-SA 3.0** — tiles de campo com colinas, ladeiras e rampas, do WithinAmnesia)
+- na OpenGameArt: **2D Background Castle on Hill** (**CC0** — fundo de castelo na colina, do Dan Ryder)
+- complete o chão com os tilesets de terra e grama do **axulart** (**CC BY 4.0**), o **Nature Platformer Tileset** da rottingpixels, o **Block Land** e o **Paper Pixels** do v3x3d (**CC0**), todos já catalogados na rodada de plataforma
+- para o chão xadrez das "zonas", **Stone Tiles — Checkered** (**CC BY-SA 4.0** / GPL) e as texturas de tijolo e pedra **CC0** já catalogadas
+
+### Casas, vilas e acampamentos coloridos
+
+- na OpenGameArt: **Straw hut** (**CC0** — cabana de palha, do prushik), **Fisher's Hut Tileset** (**CC BY 4.0**, do Sevarihk), **Hut** (do PepperRacoon, **CC BY 3.0**) e **Hut** (hut-0, **CC BY 3.0**)
+- para a vila do mascote, reaproveite as **100 houses** da kepx e o **Pixel Art Top Down — Basic** do Cainos, já catalogados
+- os interiores saem dos packs cozy da **shubibubi** e da **styloo**, também já catalogados
+
+### Árvores e palmeiras
+
+- na OpenGameArt: **Palm Tree** (palm-tree-1, **CC BY 3.0**), **Palm Tree** (palm-tree-2, **CC BY-SA 4.0**), **Oasis Palm Trees** (**CC0**), **Palm/Jungle trees for 32x32 tileset** (**CC BY 3.0**) e **Animated Palm Tree Sprite** (**CC BY 4.0**)
+- para a mata de fundo, reaproveite o **Free Pixel Art Tree Pack** da karsiori (**CC0**) e o **Big Tree** (**CC BY 4.0**) da rodada de gigantes
+
+### Itens: anéis, gemas e molas
+
+- na OpenGameArt: **2D GEM Set 32x32** (**CC0**), **Gem Icons** (**CC BY-SA 3.0**), **Colorful Gem Crystals** (**CC BY 3.0**), **Various gem stone animations** (**CC BY 3.0**), **Gem tiles** (**CC BY 3.0**) e **Spring** (spring-0, **CC BY 3.0** — mola de plataforma)
+- as gemas acima fazem o papel dos anéis colecionáveis; para as moedas e blocos, o **Creator Pack** (**CC0**) e os tiles **Paper Pixels** (**CC0**) já catalogados resolvem
+- para os painéis de "boost" e os checkpoints, use os ícones de UI e os cristais de energia já catalogados nas rodadas de tech e de magia
+
+### Música
+
+- https://davidkbd.itch.io/mach-overdrive-32-bit64-bit-high-octane-rock-music-pack (rock de alta octanagem em estilo 32/64-bit; comercial liberado **com crédito a DavidKBD**, proibida revenda avulsa)
+- na OpenGameArt: **Arcade Racing Tune** (**CC BY 3.0**), **Wild West Coast Racing (Looping)** (**CC BY 4.0**, do Eric Matyas), **Techno DRIVE!!!** (**CC BY 4.0**), **Fast, high music** (**CC BY-SA 3.0**), **Arcade fast flow Sound** (**CC BY 3.0**), **Chiptune Music for Arcade Games** (**CC BY 4.0**) e **Short Theme [Rock/Metal]** (**CC0**)
+- para os SFX de mola, anel e dash, use o **512 Sound Effects 8-bit Style** e o **RPG Sound Pack** (**CC0**) já catalogados
+
+### Avaliados e não incluídos
+
+- **IP da SEGA** — tudo abaixo é fã-arte, sprite ripado, modelo de fã ou trilha rearranjada, então fica fora mesmo sendo gratuito: https://momentsonline.itch.io/sonic-spritesheets, https://irregularhunter.itch.io/sonic-1-tileset-for-smile-game-builder, https://aeriavelocity.itch.io/green-hill-zone-simulator, https://workertr23.itch.io/green-hill-rush, https://reassembler68k.itch.io/aonic, https://facetgames.itch.io/aoghz, https://future2k.itch.io/unity-edition-green-hill-zone-act-1, https://loneliiii.itch.io/sonic-green-hill-blocks-stinger-scene-transition-video-transition, https://snabisch.itch.io/sonic-green-hill-theme-reimagined, https://thegamerdownloader2020.itch.io/sonic-3d-in-2d-100-save, https://greenie2.itch.io/sonic-rsdk-files, https://recrafted-studios.itch.io/sonic-recrafted-skin-pack, https://dash-the-cat.itch.io/sonic-pixeltoon-template, https://xenfar.itch.io/cshud, https://frequentgamer.itch.io/sonic-space-boss e https://rodrigues-estudios.itch.io/exclusive-1-of-1-cyber-dash-complete-sonic-inspired-game-kit
+- **modelos 3D de fã** (incluindo personagens de creepypasta): https://darksartworks.itch.io/2011x-v2-model-release, https://darksartworks.itch.io/lord-model-release e https://ziyanthus.itch.io/sonic-idw-kitsunami-fan-model
+- https://fauzanaztera.itch.io/letsfast — a própria página declara **licença paga**
+- https://fatcatgamesstudio.itch.io/green-island-16-x-16-plastic-retro-platformer-tilest — a **versão gratuita é só não comercial**; uso comercial fica na versão de US$ 4,99
+- https://danieltelesost.itch.io/mascot-themes (**US$ 15,00**), https://astora-sound.itch.io/super-side-scroller-music-pack (**US$ 24,99**), https://digitalforge.itch.io/2d-pixel-art-asset-pack-platformer (**US$ 3,00**), https://keltonwu.itch.io/platformer-tilesest-series (**US$ 5,00** e **CC BY-ND**, que proíbe obra derivada) e https://chiewaters.itch.io/momentum-forge-neon-caverns-16-bit-platformer-assets (**US$ 14,99**, com **arte assistida por IA**) — pagos
+- https://oleteras.itch.io/loop-towers-tileset, https://kevins-moms-house.itch.io/volcanic-spring-pico-platformer-tileset e https://herio.itch.io/cutemascots — **sem licença declarada**
+
 ## itch.io — Combate medieval (cavaleiro, torneio e cerco) (pesquisado em 22/10/2026)
 
 Mapa de guerra medieval para o Hyakki: cavaleiros e paladinos, infantaria, arqueiros, torneio e arena, campo de batalha, castelo sitiado, catapultas e trabucos, estandartes de casa nobre, armaduras, forja, taverna e tambores de guerra. Sem IP de franquia — só arte original com licença verificada.
