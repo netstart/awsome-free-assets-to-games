@@ -1815,6 +1815,72 @@ Streets of Rage é IP da SEGA: personagens (Axel, Blaze, Adam), nomes, sprites, 
 - **sem licença declarada**: https://seartsy.itch.io/warrior-in-red e https://fridge99.itch.io/beat-them-pack (sem preço nem licença claros)
 - **música GPL 3.0 pura**: o **Hip Hop Boss Man** da OpenGameArt é GPL 3.0 puro — fora
 
+## itch.io — Fantasia bárbara / hack 'n slash (estilo Golden Axe) (pesquisado em 22/10/2026)
+
+Golden Axe é IP da SEGA: Ax Battler, Tyris Flare, Gilius Thunderhead, as feras montáveis, as fases e os fan games ficam fora, mesmo de graça. O equivalente legal é a **fantasia bárbara / sword & sorcery 2D**: herói bárbaro, amazona, anão, ruínas ancestrais, deserto e oásis, vila tribal, tendas, machados, fogueira de acampamento e magia. Todos os itens abaixo têm licença verificada na página.
+
+### Personagens: bárbaros, vikings e amazonas
+
+- https://blobfishdev.itch.io/barbarian (bárbaro desenhado à mão em vários tamanhos; uso comercial liberado, crédito não obrigatório, proibida revenda)
+- https://pixel-moon-studio.itch.io/barbarian-pixel-art (bárbaro em pixel art; comercial liberado, crédito opcional, proibida revenda como asset)
+- https://helianthus-games.itch.io/axe-warrior (**189 arquivos**, guerreiro com machado e animações; comercial liberado, crédito não obrigatório)
+- https://hugues-laborde.itch.io/cartoon-viking-character-pack (pacote de vikings em 64x64, 199 frames; comercial liberado, **crédito obrigatório** ao autor)
+- https://caz-bee.itch.io/knight (cavaleiro 40x40 com folha de sprites e `.aseprite`; comercial liberado, crédito opcional)
+- na OpenGameArt: **LPC Barbarian Sprite Base** (**CC BY-SA 3.0** — base de bárbaro no estilo LPC), **Cute Barbarian** (**CC BY-SA 3.0** / GPL 3.0), **Barbarian** e **Barbarian [static] 64x64** (**CC0**), **Viking Shieldmaiden [Animated]** (**CC0** — a amazona do trio), **Viking Warrior** (**CC0**), **Viking Man** e **Viking Sprite** (**CC BY 3.0**), **Assassin, Mage, Viking Sprites** (**OGA-BY 3.0**, do CraftPix), **Woman Warrior 2D Sprite** (**OGA-BY 3.0**, do CraftPix) e **Beast 2D pixelart** (**CC BY 3.0** — fera para montaria/inimigo)
+- para o anão do trio, use os **dwarfs** do Tiny Swords e o **Dwarf Warrior** do doumuten (**CC0**), já catalogados nas seções **Combate medieval** e **Caverna**
+
+### Mapas: deserto, oásis, ruínas e vila tribal
+
+- https://bobkingg.itch.io/desert-oasis-tileset (**CC0** — areia, dunas, água de oásis, palmeira, cactos, ossos e tendas, 32x32)
+- https://zoneework.itch.io/desert-oasis-tilemap (deserto e oásis com dia/noite; comercial liberado, sem revenda)
+- https://kbpixelart.itch.io/viking-village-part-1 (vila viking com parallax, casa grande e tileset; comercial liberado, sem revenda)
+- https://the-pixel-nook.itch.io/gb-studio-viking-tiles (**CC BY 4.0** — tiles nórdicos em estilo Game Boy)
+- https://hugues-laborde.itch.io/viking-environment-pack-pixel-art (ambiente viking com props animados e chefe; comercial liberado)
+- https://pitiit.itch.io/free-2d-fantasy-platformer-asset-pack (pack de plataforma de fantasia com casas e terreno; comercial liberado, sem revenda)
+- na OpenGameArt: **Free Desert Platformer Tileset** (**CC0**, do pzUH), **Desert Assets** (**CC0**, do Cethiel), **Desert Tileset** (**CC BY 3.0**, do Beast) e **Desert Tileset** (**CC BY-SA 3.0**, do Amstrad), **Ancient Ruins Pixel Art** (**CC BY 3.0**, do CraftPix), **Ruins** (**CC0**, do nicubunu) e **City Ruins** (**CC BY-SA 4.0**)
+- já catalogados e prontos para reuso: **Old Ruins Tileset**, **Mythical Ruins Tileset**, **Free Isometric Ruins**, **Classical Temple Tiles**, **Temple Sidescroller Tileset**, **Temple Entrance** e o **2D Temple Platformer Tileset** do RottingPixels (**CC0**)
+
+### Casas, tendas e acampamento
+
+- na OpenGameArt: **Merchant Tent** e **Tent** (**CC0**), **Straw Hut** (**CC0**), **Hut** e **Hut — Bleed's Game Art** (**CC BY 3.0**) — todos já catalogados; a vila tribal se monta com eles
+- a **Viking Village — Part 1** (**comercial liberado**) traz a casa grande do chefe e o parallax da aldeia
+- o pack de plataforma do **pitiit** (**comercial liberado**) completa com casas e telhados de fantasia
+- para a cabana do anão e a forja, reaproveite os interiores da seção **Caverna** e as casas de pedra da seção **Combate medieval**
+
+### Árvores e vegetação
+
+- já catalogados na OpenGameArt: **Palm Tree** (**CC BY 3.0**), **Palm Tree** (**CC BY-SA 4.0**), **Palm/Jungle Trees 32x32** (**CC BY 3.0**) e **Oasis Palm Trees** (**CC0**)
+- o **Desert Oasis Tileset** do bobkingg (**CC0**) já inclui palmeira e cactos no mesmo estilo do chão
+- para a floresta ao redor das ruínas, use as árvores do **Bleed** (**CC BY 3.0**), da **karsiori** (**CC0**) e o **Foliage Pack (100x)** do Kenney (**CC0**), todos já catalogados
+
+### Itens: machados, escudos e fogueira
+
+- na OpenGameArt: **Tiny Viking Battleaxe** (**CC0**), **War Axe 64x64** (**CC0**), **CC0 Axe Icons** (**CC0**), **Battle Axe (Weapons Rework)** (**CC0**), **Shields CC0** (**CC0**) e **Round Shields (Pixel Art)** (**CC0**)
+- **16x16 Animated Campfire** e **Campfire Pixel Art Animated** (**CC0**) para o ponto de descanso entre fases
+- para poções, pergaminhos e magia (o especial da amazona), use os itens **CC0** da seção **Magia**
+
+### Texturas de areia e pedra
+
+- na OpenGameArt: **Sand Texture — Seamless (com normalmap)** e **Hand Painted Sand Texture** (**CC BY 3.0**), **Sandstone Tiles** (**CC0**) e **Sandstone Ornament 256px** (**CC BY 3.0**)
+- os tijolos e plásticos **CC0** das seções **Brinquedo de montar** e **Guerra medieval** servem para muro de ruína e piso de templo
+- o **Stone Tiles — Checkered** (**CC BY-SA 4.0**, já catalogado) resolve o piso cerimonial
+
+### Música e SFX
+
+- https://alkakrab.itch.io/free-viking-folk-music-pack (folk viking original, **grátis para uso comercial**, sem IA)
+- https://ivanduch.itch.io/northlanders (pacote nórdico gratuito; **crédito a Ivan Duch obrigatório**, termos em ivanduch.com/licensing)
+- na OpenGameArt: **Viking Tales** (**CC0**), **Viking March** (**CC0**), **Blood Rage** (**CC BY 3.0**, do Alexandr Zhelanov), **Desert Theme** (**CC0**, do yd), **Desert Overworld** (**CC0**, do KarateStudios), **Dacoit ~ Desert Theme** (**CC BY 3.0** / CC BY 4.0) e **Simple Desert** (**CC BY 3.0**, do Spring Spring)
+- para a batalha contra o chefe, use as faixas épicas **CC0**/**CC BY** já catalogadas na seção **Guerra medieval**
+- os **jingles** e o **512 Sound Effects 8-bit Style** do Kenney (**CC0**) cobrem corte de machado, impacto e moeda
+
+### Avaliados e não incluídos
+
+- **IP da SEGA**: qualquer fan game, remake, sprite ou trilha de Golden Axe
+- **licença só em comentário**: https://jeresikstus.itch.io/roman-barbarian-roguelike-characters-32x32 ("dê os créditos" apenas em resposta), https://joe-idaho.itch.io/side-scrolling-hack-n-slash-character ("faça o que quiser" apenas em resposta) e https://helianthus-games.itch.io/pixel-art-viking-ship-16-directions (permissão comercial apenas em comentário)
+- **sem licença declarada**: https://sanctumpixel.itch.io/viking-axe-pixel-art-character e https://seartsy.itch.io/warrior-in-red
+- **pagos**: https://free-game-assets.itch.io/2d-barbarian-character-sprites (US$ 5), https://free-game-assets.itch.io/desert-village-2d-tileset (US$ 6), https://maffalapolous.itch.io/retro-barbarian-warrior-sprite (US$ 1,75), https://oni-studios.itch.io/barbarian-character-sprite-animated (US$ 2), https://mtk.itch.io/2d-metroidvania-desert-tileset-16x16 (US$ 2,49, **CC BY 4.0** mas pago), https://bioma2d.itch.io/desert-nomad-pixel-art-pack-post-apocalyptic-tileset-character (US$ 200), https://2dpixx.itch.io/wild-platforms-game-kit-desert-tileset (US$ 5) e https://pzuh.itch.io/barbarian-assault-game-sprites (pzuh só entra via página **CC0** da OpenGameArt)
+- **3D**: https://repeatloader.itch.io/malefighter-for-unreal-unity-blender-free, https://rg-poly.itch.io/medieval-props-small-pack-low-poly, https://t-allen-studios.itch.io/free-low-poly-longship, https://makovice.itch.io/cold-biome-voxel-asset-pack e https://thecgworld.itch.io/viking-asset-pack
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

@@ -160,6 +160,17 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/gangster-1 (**CC0** — gângster, do EZduzziteh)
 - https://opengameart.org/content/business-of-rage-characeter-beatemup-2d (**CC0** — personagem de beat 'em up, arte original do DidiGameB; o nome é trocadilho, não usa IP da SEGA)
 - https://opengameart.org/content/universal-prototype-2-for-scrolling-beat-em-up-or-mugen (**CC0** — base universal para beat 'em up ou MUGEN, do Puffolotti)
+- https://opengameart.org/content/lpc-barbarian-sprite-base (**CC BY-SA 3.0** — base de bárbaro no estilo LPC, do dalonedrau)
+- https://opengameart.org/content/cute-barbarian (**CC BY-SA 3.0** / GPL 3.0 — bárbaro em estilo chibi, do Justin Nichol)
+- https://opengameart.org/content/barbarian-static-64x64 (**CC0** — bárbaro estático 64x64, do LordNeo)
+- https://opengameart.org/content/barbarian-0 (**CC0** — bárbaro em pixel art, do Ian Peter)
+- https://opengameart.org/content/viking-shieldmaiden-animated (**CC0** — donzela-escudeira animada, a amazona do trio, do DezrasDragons)
+- https://opengameart.org/content/viking-warrior-kind-of (**CC0** — guerreiro viking, do Chupup Games)
+- https://opengameart.org/content/viking-man (**CC BY 3.0** — viking com animações, do gfx0)
+- https://opengameart.org/content/viking-sprite (**CC BY 3.0** — sprite de viking, do MindChamber)
+- https://opengameart.org/content/assassin-mage-viking-sprites-pixel-art (**OGA-BY 3.0** — trio assassino/mago/viking, do CraftPix)
+- https://opengameart.org/content/woman-warrior-2d-sprite (**OGA-BY 3.0** — guerreira 2D para o papel de amazona, do CraftPix)
+- https://opengameart.org/content/beast-2d-pixelart (**CC BY 3.0** — fera em pixel art, para montaria ou inimigo, do TheFunnySide)
 
 ## Armas e itens
 
@@ -245,6 +256,14 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/pipe (**CC0** — cano, do bhu1c)
 - https://opengameart.org/content/2d-metal-fence (**OGA-BY 3.0** — grade metálica, do Pillarist)
 - https://opengameart.org/content/2d-platformer-side-scroller-stone-fence-street-lamp (**CC0** — muro de pedra e poste de luz de rua, do Parriah)
+- https://opengameart.org/content/tiny-viking-battleaxe (**CC0** — machado de batalha viking pequeno, do Spring Spring)
+- https://opengameart.org/content/war-axe-64x64 (**CC0** — machado de guerra 64x64, do LordNeo)
+- https://opengameart.org/content/cc0-axe-icons (**CC0** — ícones de machado, do AntumDeluge)
+- https://opengameart.org/content/battle-axe-weapons-rework (**CC0** — machado de batalha com animação, do AntumDeluge)
+- https://opengameart.org/content/shields-cc0 (**CC0** — escudos, do SnoopethDuckDuck)
+- https://opengameart.org/content/round-shields-pixel-art (**CC0** — escudos redondos em pixel art, do ScratchIO)
+- https://opengameart.org/content/16x16-animated-campfire (**CC0** — fogueira animada 16x16, do krial)
+- https://opengameart.org/content/campfire-pixel-art-animated (**CC0** — fogueira animada em pixel art, do ArlanTR)
 
 ## Cenários, tilesets e construções
 
@@ -452,6 +471,19 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/2d-shop-set (**CC0** — conjunto de lojas para rua, do jcrow41)
 - https://opengameart.org/content/asphalt (**CC0** — textura de asfalto, do PagDev)
 - https://opengameart.org/content/real-asphalt-texture-pack (**CC0** — asfalto realista em alta resolução, do para)
+- https://opengameart.org/content/free-desert-platformer-tileset (**CC0** — tileset de deserto para plataforma, do pzUH)
+- https://opengameart.org/content/desert-assets (**CC0** — conjunto de assets de deserto, do Cethiel)
+- https://opengameart.org/content/desert-tileset-0 (**CC BY 3.0** — tileset de deserto, do Beast)
+- https://opengameart.org/content/desert-tileset (**CC BY-SA 3.0** — tileset de deserto, do Amstrad)
+- https://opengameart.org/content/ancient-ruins-pixel-art (**CC BY 3.0** — ruínas ancestrais em pixel art, do CraftPix)
+- https://opengameart.org/content/ruins (**CC0** — ruínas 2D, do nicubunu)
+- https://opengameart.org/content/city-ruins (**CC BY-SA 4.0** — ruínas urbanas, do bcsilva)
+- https://opengameart.org/content/merchant-tent (**CC0** — tenda de mercador, do yd)
+- https://opengameart.org/content/tent (**CC0** — tenda de acampamento, do nicubunu)
+- https://opengameart.org/content/sandstone-tiles (**CC0** — tiles de arenito, do Uruktos)
+- https://opengameart.org/content/sandstone-ornament-256px (**CC BY 3.0** — ornamento de arenito 256px, do qubodup)
+- https://opengameart.org/content/sand-texture-sand-seamless-texture-with-normalmap (**CC BY 3.0** — areia sem emenda com normalmap, do Keith333)
+- https://opengameart.org/content/hand-painted-sand-texture-0 (**CC BY 3.0** — areia pintada à mão, da Chloe Wolfe)
 
 ## Música e SFX por tema
 
@@ -655,3 +687,13 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/urban-theme (**CC0** — tema urbano de fase, do MintoDog)
 - https://opengameart.org/content/urban-0 (**CC BY 4.0** — tema urbano, do Jan125)
 - https://opengameart.org/content/urban-jungle-2061 (**CC BY 3.0** — cidade futurista e suja, do Eric Matyas)
+
+### Fantasia bárbara, deserto e vikings
+
+- https://opengameart.org/content/viking-tales (**CC0** — tema viking narrativo, do Eldritch Grim)
+- https://opengameart.org/content/viking-march (**CC0** — marcha viking para avanço de horda, do nightm4re)
+- https://opengameart.org/content/blood-rage (**CC BY 3.0** — fúria de batalha, do Alexandr Zhelanov)
+- https://opengameart.org/content/desert-theme (**CC0** — tema de deserto, do yd)
+- https://opengameart.org/content/desert-overworld (**CC0** — deserto para mapa de mundo, do KarateStudios)
+- https://opengameart.org/content/dacoit-desert-theme (**CC BY 3.0** / CC BY 4.0 — tema de deserto com clima de saqueadores, do Spring Spring)
+- https://opengameart.org/content/simple-desert (**CC BY 3.0** — deserto simples em loop, do Spring Spring)
