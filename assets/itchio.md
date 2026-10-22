@@ -235,6 +235,71 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 - https://godotshaders.com/ (shaders Godot)
 - https://deep-fold.itch.io/pixel-planet-generator (shader código Godot)
 
+## itch.io — Efeitos, brilhos, bombas e luzes (VFX 2D) (pesquisado em 22/10/2026)
+
+Pacotes verificados para explosões, projéteis, magias, escudos, impactos, brilhos, bombas, partículas e luzes. Todos com licença declarada na página (CC0, CC BY, CC BY-SA ou comercial livre sem revenda).
+
+### Explosões e impactos
+
+- https://xyezawr.itch.io/free-pixel-effects-pack-4-explosions (explosões pixel 100x100, 9 cores, 30/60 FPS; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-9-mini-fires (fogos miniatura 9 variações; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-13-fireballs (fireballs animados 9 cores, 30/60 FPS; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-2 (pack base 6 efeitos; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-3 (pack 3; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-7-fire-aura (aura de fogo; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-10-mini-magick-shoots2 (tiros mágicos miniatura; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-11-mini-blood-splats (respingos de sangue 64x64; **comercial livre, não revender**)
+- https://xyezawr.itch.io/free-pixel-effects-pack-14-mini-magick-shoots-4 (tiros mágicos v4; **comercial livre, não revender**)
+- https://codemanu.itch.io/pixelart-effect-pack (**CC0** — 20 efeitos 100x100, Pixel FX Designer; sem IA)
+- https://gennai.itch.io/arcbit-explosion-lite (explosão sprite sheet + Unity package; **comercial livre, não revender pack**)
+- https://untiedgames.itch.io/five-free-pixel-explosions (5 estilos explosão; **CC BY** — atribuição, não revender asset)
+- https://juliusschmidt.itch.io/pixel-vfx-pack-lite (5 efeitos 2-4 cores, RPG Maker sheets; **comercial livre, não revender**, IA assistida)
+- https://hinoko-fx.itch.io/pixel-vfx-free-sampler (4 efeitos sampler; **comercial livre, não redistribuir pack**)
+- https://free-game-assets.itch.io/11-free-pixel-art-explosion-sprites (11 explosões; licença CraftPix Freebie — **comercial livre, não revender**)
+- https://pixelfrog-assets.itch.io/pirate-bomb (**CC0** — bomba pirata animada, Aseprite incluso)
+- https://zenos-the-stalker.itch.io/8-pixel-bomb (8 bombas animadas pavio aceso; **comercial livre, atribuição apreciada**, explosão separada)
+
+### Magias, projéteis e efeitos elementais
+
+- https://xyezawr.itch.io/free-pixel-effects-pack8 (efeitos pixel base; **comercial livre, não revender**)
+- https://nogitsunegurl.itch.io/free-elemental-spellcraft-pack (69 efeitos elementais + portais; **comercial livre, não revender**, crédito apreciado)
+- https://nogitsunegurl.itch.io/free-crowns-of-frost-and-flame-pack (46 assets gelo/fogo decor + feitiços; **comercial livre, não revender**)
+- https://nogitsunegurl.itch.io/free-halloween-witch-pack (25 assets bruxa decor + feitiços; **comercial livre, não revender**)
+- https://willosuna.itch.io/magic-spells-vfx-lite (17 feitiços pixel; **royalty-free comercial, sem atribuição**, sem IA)
+- https://willosuna.itch.io/magic-circles-vfx-lite (24 círculos mágicos animados; **comercial livre, sem atribuição**, sem IA)
+- https://serhan885.itch.io/moonroot-magic-vfx-free-pack (starter pack magia; **comercial livre, não revender**)
+- https://glintapps.itch.io/cozy-pixel-vfx-lite-free (VFX cozy construídos em código; **comercial livre, não revender**, sem IA)
+- https://chuckyassets.itch.io/elemental-spells-free-sample (coluna fogo, espinhos gelo, raio; **comercial livre, não revender**)
+- https://obsidiansirens.itch.io/pixel-impact-fx (30 VFX combate/magia 64x64; **comercial livre, não revender**, IA assistida)
+- https://pewas.itch.io/pixel-rpg-vfx-pack-free-animated-effects (VFX RPG animados; **comercial livre, não revender**, IA assistida)
+- https://riekahq.itch.io/arcade-vfx-lite (8 efeitos arcade 32x32; **comercial livre, crédito apreciado**, IA assistida)
+
+### Brilhos, glows, escudos e luzes
+
+- https://darkart3d.itch.io/free-24-animated-pixel-shields-8-frame-light-beam-fx (24 escudos animados 8 frames + light beam; **comercial livre**)
+- https://warsvault.itch.io/low-fantasy-light-magic-pack (magia luz low fantasy; gratuito)
+- https://glintapps.itch.io/cozy-pixel-vfx-lite-free (VFX cozy em código; **comercial livre, não revender**, sem IA)
+
+### Bombas e explosivos
+
+- https://pixelfrog-assets.itch.io/pirate-bomb (**CC0** — bomba pirata animada, Aseprite)
+- https://zenos-the-stalker.itch.io/8-pixel-bomb (8 bombas animadas pavio; **comercial livre, atribuição apreciada**, explosão separada)
+
+### Partículas, slashes, hits, raios e VFX gerais
+
+- https://pimen.itch.io/battle-vfx-hit-spark (Battle VFX hit/spark; gratuito)
+- https://binbun3d.itch.io/hit-fx (Hit FX Godot; gratuito)
+- https://untiedgames.itch.io/super-pixel-effects-gigapack (Gigapack efeitos; gratuito)
+- **Free Elemental Spellcraft**, **Free Crowns of Frost and Flame**, **Free Halloween Witch Pack**, **Magic Spells VFX Lite**, **Magic Circles VFX Lite**, **Moonroot Magic VFX**, **Cozy Pixel VFX Lite**, **Elemental Spells Free Sample**, **Pixel Impact FX**, **Pixel RPG VFX Pack**, **Arcade VFX Lite** — já catalogados acima nas subseções correspondentes
+
+### Avaliados e não incluídos
+
+- **pagos**: https://bobkingg.itch.io/glow-particle-sprites (US$ 2-12, embora CC0), https://jholdev.itch.io/pixel-bomb-fx-pack-effects (US$ 1), https://aiyi1.itch.io/pixel-bomb-explosive-props-pack (US$ 5,85), https://metpxl.itch.io/pixel-art-bomb-explosion-vfx (US$ 24,59), https://aklingon.itch.io/explosions-vfx (US$ 29,99), https://free-game-assets.itch.io/top-down-fire-and-explosion-sprites (US$ 7-49)
+- **pago com CC0 no título**: https://bobkingg.itch.io/glow-particle-sprites (declara CC0 mas cobra)
+- **sem licença declarada**: https://xyezawr.itch.io/free-pixel-effects-pack-15-magick-arrows (404), https://entugrulko.itch.io/holy-light-fx (404), https://denialmedia.itch.io/free-pixel-planets-with-explosion-animation (sem licença), https://hauntedhollow.itch.io/halloween-pixel-art-sampler-free (sem licença)
+- **IA assistida declarada**: https://juliusschmidt.itch.io/pixel-vfx-pack-lite, https://obsidiansirens.itch.io/pixel-impact-fx, https://pewas.itch.io/pixel-rpg-vfx-pack-free-animated-effects, https://riekahq.itch.io/arcade-vfx-lite — todos permitem uso comercial mas marcados como IA assistida
+- **Free Game Assets / CraftPix Freebie**: licença restritiva (não revender, crédito obrigatório em alguns casos) — usar com cautela
+
 ---
 
 ## itch.io — Assets fofinhos para jogos infantis (kawaii/cute/cozy)

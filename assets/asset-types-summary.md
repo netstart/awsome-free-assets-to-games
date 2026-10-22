@@ -12,6 +12,7 @@
 | Música | hydrogene.itch.io, tallbeard.itch.io, maou.audio, amachamusic.chagasi.com, megumi-ryu.itch.io, xdeviruchi.itch.io, opengameart.org |
 | Fontes | github.com/TakWolf, not-jam.itch.io, ggbot.itch.io, fontlibrary.org, fonts.google.com |
 | VFX/Shaders | itch.io/c/1124621/pixel-art-fx, untiedgames.itch.io, godotshaders.com, binbun3d.itch.io |
+| Efeitos/brilhos/bombas/luzes (VFX 2D) | xyezawr.itch.io, codemanu.itch.io, gennai.itch.io, untiedgames.itch.io, juliusschmidt.itch.io, nogitsunegurl.itch.io, willosuna.itch.io, serhan885.itch.io, glintapps.itch.io, chuckyassets.itch.io, obsidiansirens.itch.io, pewas.itch.io, riekahq.itch.io, pimen.itch.io, binbun3d.itch.io, untiedgames.itch.io, pixelfrog-assets.itch.io, zenos-the-stalker.itch.io, free-game-assets.itch.io, hinoko-fx.itch.io, xyezawr.itch.io, codemanu.itch.io, opengameart.org |
 | Fofos/infantis | cupnooble.itch.io, kenmi-art.itch.io, shubibubi.itch.io, toffeecraft.itch.io, tinytreats.itch.io, last-tick.itch.io, bobkingg.itch.io, bowpixel.itch.io |
 | Doces/confeitaria | bobkingg.itch.io, uchimama.itch.io, danaida.itch.io, jennpixel.itch.io, luminleveret.itch.io, itsblubrry.itch.io, opengameart.org |
 | Match-3 / Candy Crush | opengameart.org |
