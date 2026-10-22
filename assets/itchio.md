@@ -817,6 +817,41 @@ Assets 2D de floresta temperada: tilesets top-down e de plataforma, árvores sol
 - https://elegantcrow.itch.io/psx-retro-style-tree-pack — **CC0**, mas são modelos 3D
 - https://dark-hallways.itch.io/mythical-woods-music — página sem licença declarada
 
+## itch.io — RPG (pesquisado em 22/10/2026)
+
+Packs 2D de RPG clássico: personagens, vila, masmorra, árvores, itens, ícones e trilha. Tudo com licença verificada na página.
+
+### Personagens e kits completos
+
+- https://vryell.itch.io/pocket-rpg (4 personagens principais com caminhada e skate, 7 NPCs com dois tons de pele, mais de 10 construções, tiles internos e externos, móveis e GUI; comercial liberado, proibida revenda, NFT e treino de IA)
+- https://angeler1234.itch.io/basic-character-female-pack-for-free-64 (personagem 64x128 com caminhada; comercial liberado, sem crédito, proibida revenda, proibido treinar IA)
+- os packs da **Zerie**, **Kenmi** e **Seliel** já catalogados nas seções de personagens e fofos continuam valendo
+
+### Mapas, casas e árvores
+
+- https://pipoya.itch.io/pipoya-rpg-tileset-32x32 (tileset 32x32 de vila com casas, árvores, chão e arquivos do Tiled; comercial liberado, proibida redistribuição)
+- https://immunitys.itch.io/fm32x32 (Forgotten Memories 32x32: grama, terra, cercas e props; comercial liberado, proibida redistribuição)
+- https://butterymilk.itch.io/tiny-wonder-forest (floresta 16x16 com árvores, arbustos e props; comercial liberado, proibida revenda e NFT)
+- https://snowhex.itch.io/dungeon-gathering (masmorra sob o castelo, com tiles e itens atualizados; comercial liberado, proibida revenda)
+
+### Itens e interface
+
+- https://frosty-rabbid.itch.io/rpg-ability-icons (**CC0** — coleção de ícones de habilidades, sem atribuição)
+- https://obsydianx.itch.io/interface-sfx-pack-1 (**CC0** — sons de confirmação e navegação de menu)
+
+### Música
+
+- https://escalonamusic.itch.io/action-rpg-music-free (faixas de RPG de ação em loop, incluindo tema heroico orquestral; comercial liberado)
+
+### Avaliados e não incluídos
+
+- https://alexs-assets.itch.io/16x16-rpg-item-pack — página sem licença declarada
+- https://cazwolf.itch.io/caz-pixel-free — os ícones são ótimos, mas o EULA está num Google Docs externo e não dá para verificar na página
+- https://maevedevs.itch.io/farm-rpg — só a licença da **versão paga** está declarada; a gratuita não tem termos
+- https://butterymilk.itch.io/tiny-wonder-farm-asset-pack — a **versão gratuita é só não comercial**; a completa é paga
+- https://jdsherbert.itch.io/ambiences-music-pack — página sem licença declarada
+- https://clockworkraven.itch.io/raven-fantasy-pixel-art-tileset-green-forest — página sem licença declarada (os ícones do mesmo autor já tinham sido rejeitados por serem de uso pessoal)
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)
