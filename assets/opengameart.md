@@ -1,4 +1,4 @@
-# opengameart.org — Assets gratuitos
+﻿# opengameart.org — Assets gratuitos
 
 Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comercial (muitos são CC0 ou CC-BY).
 
@@ -1046,3 +1046,10 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 Todas as faixas abaixo já estão catalogadas em seções anteriores (Castlevania, RTS Nórdico, Match-3, PK XD, Gótico, Guerra Medieval) — referenciadas por nome:
 
 - **Dark Ambient** / **Dark Ambient 0** / **Dark Ambient Loop 13** (**CC BY 3.0**), **Scary Ambient Wind** (**CC BY 3.0**), **Menace — Fast Gothic Metal Track** (**CC BY 4.0**), **Final Boss Appearance Dark Fantasy** (**OGA-BY 3.0**), **Ghost Mansion Dungeon Synth** (**CC BY 4.0**), **Celtic Dungeon Synth** (**CC BY 4.0**), **Hard Dungeon** (**CC0**), **Zelda-like Dungeon Theme** (**CC0**), **MonsterVania Ghost Land** (**CC0**), **Into the Ruins** (**CC BY 3.0**), **Spooky Action Loop [Hallow Quest]** (**CC0**), **8-bit MonsterVania #1 / #2** (**CC0**), **Purgatory** (**CC BY-SA 4.0**), **8-bit Mechanical Complex** (**CC0**), **Colossal Boss Battle Theme** / **Wasteland Showdown** / **Revenge Boss Battle** (**CC BY 3.0**), **Dark Intro** (**CC0**)
+
+### Space Opera / Frota Estelar (estilo Star Trek) — orquestral, synth ambiente, bridge/tema principal (pesquisado em 22/10/2026)
+
+Todas as faixas abaixo já estão catalogadas em seções anteriores (Nave espacial, Metroid, Tecnologia, VFX, RTS Nórdico, PK XD, Gótico, Guerra Medieval) — referenciadas por nome:
+
+- **Another space background track** / **Background space track** / **sPACE** / **Space 5** / **Outer Space Loop** (**CC0**), **Alien Fight** / **Alien Blues 8-bit** / **Destruction of the Alien Spacecrafts** / **Alien Ruins** (**CC0**), **Space Boss Battle Theme** (**CC BY 3.0**), **Space Shooter Music** (**CC BY 3.0**), **Stereotypical 90s Space Shooter Music** (**OGA-BY 3.0**), **8-bit Epic Space Shooter Music** (**CC0**, HydroGene), **Space Shooter Loop** (**CC0**, Pro Sensory), **Space Dimensions Techno Version** (**CC BY 3.0**, Matthew Pablo), **futureshmup** / **Galaxy II** (**CC0** / **OGA-BY 3.0**), **Laser Fire** / **Space Laser** / **Chunky Explosion** (**CC BY 3.0** / **CC0**)
+- itch (gratuitos): **Outer Space Music Pack** do albesca (**CC0** — "A Long Journey", "Starless Sky", "Barren Planets"), **Space Train Journey** do kosmocat (5 faixas; **comercial livre**), **Shmup BGM Pack** do doranarasi (**livre, comercial**), **Dark Ambient Piano** do rustedstudio (**CC BY 4.0**), **Spectral Dusk** do carloshcowell (**CC BY 4.0**), **Erased Places** do drmseq (**comercial livre, crédito apreciado**), **Dark Ambient packs** do juanjosound (**comercial livre**), **Free Horror Ambient** do arthur-heize (**comercial livre, sem crédito**), **Darkeyes Ambient** do robcaw (**comercial livre, não revender áudio**), **Space Music Pack** do Gooseninja (seção **Metroid**), **Code Injection** do davidkbd (**CC BY 4.0**), **Retro Mecha SFX** do heltonyan (**CC BY 4.0**), **Free Sci-Fi UI SFX** do hoveaudio (**royalty-free**), **Chronicles of Midnight** do davidkbd, **Barons Music Pack** do eric-the-funny-baron, **Era of Vampires** / **Be Not Afraid UI SFX** do ateliermagicae, **Demons Realm** do maxstack (**CC BY-SA 4.0**)
