@@ -1,4 +1,4 @@
-﻿# opengameart.org — Assets gratuitos
+# opengameart.org — Assets gratuitos
 
 Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comercial (muitos são CC0 ou CC-BY).
 
@@ -30,6 +30,20 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/battle-theme-0 (**CC0** — tema de batalha curto, estilo 8-bit)
 - https://opengameart.org/content/rpg-battle-theme-the-last-encounter-0 (**CC BY-SA 3.0** — tema de batalha de RPG, crédito obrigatório)
 - https://opengameart.org/content/monster-battle-sounds (**CC BY 3.0** — gritos e impactos de batalha)
+
+#### Música alien / sci-fi (OpenGameArt — busca “alien”, tipo Música — pesquisado em 22/10/2026)
+
+Busca fonte: https://opengameart.org/art-search-advanced?keys=alien&field_art_type_tid%5B%5D=12 (74 resultados, 4 páginas)  
+Efeitos sonoros equivalente: https://opengameart.org/art-search-advanced?keys=alien&field_art_type_tid%5B%5D=13
+
+- https://opengameart.org/content/alien-swamp (**CC-BY 3.0 / CC-BY-SA 3.0** — Spring Spring, tema lento de pântano alienígena, piano e sintetizador; crédito obrigatório)
+- https://opengameart.org/content/alien-ruins (**CC-BY 3.0** — bart, ambiente creepy sci-fi/fantasy; crédito obrigatório com link para o opengameart.org)
+- https://opengameart.org/content/alien-blues-8-bit-melody (**CC0** — sauer2, chiptune blues 8-bit feito no MilkyTracker; domínio público)
+- https://opengameart.org/content/alien-fight (**CC0** — MegaJackie, eletrônica house de alta energia para batalha/perseguição)
+- https://opengameart.org/content/alien-ship-1 (**CC-BY 4.0** — tcarisland, música atonal/dissonante para nave alienígena deserta; crédito obrigatório)
+- https://opengameart.org/content/alien-world (**CC0** — Tsorthan Grove, loop de mistério espacial/planeta, OGG e FLAC incluídos)
+- https://opengameart.org/content/alien-realm-alt-8-bit-loopable (**CC-BY 4.0** — Drakiah, chiptune loopável 8-bit (BeepBox) com versão alternativa; crédito: Drakiah / Piece of Pie Software)
+- https://opengameart.org/content/nocydex-station (**CC0** — Tozan, mistério de mundo alienígena para RPG, MIDI + OGG)
 
 ## Personagens e sprites
 

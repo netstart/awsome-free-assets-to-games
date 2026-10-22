@@ -84,3 +84,5 @@
 | Estilos visuais indie — Low-poly 3D | kenney.nl (mini-dungeon, mini-forest, mini-arcade), polyhaven.com, ambientcg.com |
 | Estilos visuais indie — Voxel | kenney.nl (voxel-pack), itch.io (xeeh farm-set), opengameart.org |
 | Estilos visuais indie — Minimalista / abstrato | kenney.nl (1-bit-pack, abstract-platformer), lospec.com |
+| Folclore brasileiro (Saci, Curupira, etc.) | ver assets/folclore-brasileiro.md (nenhum asset encontrado nos sites catalogados em 22/10/2026) |
+| Chaves / Kiko / Seu Madruga | NÃO incluir — propriedade intelectual da Televisa/Warner Bros., sem licença livre para uso comercial |
