@@ -2317,6 +2317,46 @@ Final Fantasy é IP da Square Enix: personagens (Cloud, Sephiroth, Terra, etc.),
 - **sem licença declarada**: https://haruka-apps-games.itch.io/infinite-jrpg-assets-ai-prompts-recipes, https://haruka-apps-games.itch.io/jrpg-asset-prompts-vol-2-battle-edition, https://xflimbox.itch.io/free-pixel-3d-game-assets (3D), https://seventhsolution.itch.io/jrpg-mecha-shield-game-assets, https://sempressimo.itch.io/hero-town-kit (3D, US$ 5), https://penzilla.itch.io/top-down-hex-tiles (pago, hex tiles), https://free-game-assets.itch.io/fantasy-rpg-icons-pack (US$ 19-29), https://free-game-assets.itch.io/free-rpg-fantasy-avatar-icons (licença CraftPix Freebie), https://free-game-assets.itch.io/fantasy-rpg-user-interface (licença CraftPix Freebie), https://free-game-assets.itch.io/fantasy-rpg-loot-icons-512512 (pago), https://free-game-assets.itch.io/game-icons-of-fantasy-alchemy/books (licença CraftPix Freebie), https://penzilla.itch.io/top-down-hex-tiles (pago, hex), https://lovelyassets.itch.io/jrpg-mobile-assets-backgrounds (IA assistida), https://timberlate007.itch.io/hell-fantasy-asset-pack-for-jrpg (licença não clara na página)
 - **autores problemáticos**: https://penzilla.itch.io/top-down-hex-tiles, https://penzilla.itch.io/bird-game-assets, https://penzilla.itch.io/neon-cyber-city-builder, https://penzilla.itch.io/japanse-kawaii-city-tileset, https://penzilla.itch.io/ultimate-protagonist, https://penzilla.itch.io/ultimate-protagonist, https://free-game-assets.itch.io (múltiplos packs sem licença / pagos), https://assetsmithy.itch.io (pago, IA), https://chiewaters.itch.io (pago, 3D)
 
+## itch.io — Puzzle Bobble / Bubble Shooter (estilo Bubble Bobble) (pesquisado em 22/10/2026)
+
+Bubble Bobble / Puzzle Bobble / Bust-a-Move são IP da Taito/Square Enix: personagens (Bub, Bob), bolhas coloridas, inimigos (Monsta, Mighta, etc.), níveis, trilha e mecânica de "estourar bolhas" **não entram**, mesmo de graça. O equivalente legal é o **puzzle de bolhas / bubble shooter 2D**: lançador de bolhas, bolhas coloridas que estouram em grupos, grade hexagonal/retangular, power-ups, bolhas especiais (fogo, gelo, bomba, estrela), trilha alegre estilo arcade.
+
+### Personagens: lançador, bolhas e inimigos
+
+- na OpenGameArt: **Puzzle Bobble** (**CC BY 3.0**, do chipmunk — sprites estilo Puzzle Bobble), **Triple Bubble Sprites** (**CC BY 4.0**, do Vircon32 — 3 bolhas coloridas animadas), **Tamago Concept Art** (**CC0**, do darkagent — conceito arte fofa), **Kymi's Bubbly Story** (**CC BY 3.0** / OGA-BY 3.0, do Spring Spring — história de bolhas), **Hayden the Malicious Little Puppydog** (**CC BY 3.0** / CC BY-SA 3.0, do Spring Spring — personagem fofo estilo bolha), **BEVOULIIN Free Orange Bubble Land Monster Sprite Sheets** (**CC0**, do bevouliin.com — monstros terra de bolhas laranja), **Platform Pixel Art Assets** (**CC0**, do ansimuz — assets plataforma, útil para base do lançador)
+- itch (gratuitos, licença na página): https://bitmagine.itch.io/bubblebobble-mathtrap (Bubble Bobble Math Trap WIP, **gratuito**), https://fearfulelephants.itch.io/bubble-up (Bubble Up, **gratuito**), https://kinteyoi.itch.io/bubble-girl-freeze (Bubble Girl Freeze, **comercial livre, nome seu preço**), https://bigcatstudios.itch.io/bubble-bunny-animal-forest (Bubble Bunny Animal Forest Shooter, **gratuito**), https://pzuh.itch.io/free-bubble-game-button-pack (Free Bubble Game Button Pack, **comercial livre**, autor confirmou "yes you can"), https://jibplaysgames.itch.io/free-soft-color-bubble-ui-pack (Free Soft Color Bubble UI Pack, **gratuito**), https://pixfree.itch.io/bubble-shooter-ocean (Bubble Shooter Ocean, **gratuito**), https://beefsupremelatteking.itch.io/danglepop (Danglepop: Cozy Bubble Shooter, **gratuito**), https://msrana.itch.io/fruit-bubbles-shooter-match-3 (FREE Fruit Bubbles Shooter Match 3, **gratuito**), https://zoomy-cat-games.itch.io/bubble-shooter-but-in-space-and-incremental (Bubble Shooter in Space, **gratuito**), https://werdi-09.itch.io/bubbleshooter (Bubble Shooter, **gratuito**)
+
+### Mapas: grade de bolhas, fundos e cenários
+
+- na OpenGameArt: **Platform Pixel Art Assets** (**CC0**, do ansimuz — base plataforma), **Kymi's Bubbly Story** (cenário bolha), **Tamago Concept Art** (**CC0** — arte conceitual fofa)
+
+### Casas / interiores: lançador, base, UI
+
+- na OpenGameArt: **Free Bubble Game Button Pack** (**CC0**, do pzUH — botões UI bolha), **Bubble Tile Char and Tiles** (**CC BY 3.0** / GPL 2.0 / GPL 3.0, do qubodup — personagem bolha + tiles), **Pixel Art User Interface - Bubble Theme** (cmski, **verificar licença** — UI tema bolha)
+
+### Itens: bolhas coloridas, power-ups, explosões, escudos
+
+- na OpenGameArt: **Bejeweled Candy Crush Puzzle Balls** (**CC0**, do BdRGames — bolhas puzzle coloridas), **Egg Blast** (**CC0**, do OnTheBus — explosão ovo/bolha), **Shiny Orbs 64x64** (**CC0**, do Mumu — orbes brilhantes), **Bubble Explosion** (**OGA-BY 3.0** / CC0, do Tiao Ferreira), **Bubble Explosion 0** (**CC0**, do bongbonggun), **Transparent Bubble (Soap Bubble)** (**CC0**, do aloknarula — bolha sabão transparente), **Bubble** / **Bubble 0** / **Bubble 1** / **Bubble 2** (**CC0** / CC BY 3.0, vários autores), **Bubble Shield** (**CC BY 4.0**, do Wahsoo — escudo bolha), **Powerup Bubble** (**CC BY 3.0**, do Ouren — bolha power-up), **Animated Emote Bubbles** (**CC0**, Game Dev Alliance — emotes bolha animados), **Free Bubble Game Button Pack** (**CC0**, do pzUH — botões UI)
+- itch: https://vefects.itch.io/bubbles-vfx-godot (Bubbles VFX Godot, **comercial livre, não revender VFX**), https://thetgi.itch.io/bubble-buttons (Bubble Buttons, **free: comercial livre, não revender**)
+
+### Texturas: bolhas, sabão, brilho, reflexo
+
+- na OpenGameArt: **Transparent Bubble (Soap Bubble)** (**CC0**, do aloknarula), **Bubble** / **Bubble 0/1/2** (**CC0** / CC BY 3.0), **Bubble Shield** (**CC BY 4.0**), **Bubble Explosion** / **Bubble Explosion 0** (**CC0** / OGA-BY 3.0), **Powerup Bubble** (**CC BY 3.0**)
+- para textura de "sabão/bolha" em fundos, use **Transparent Bubble** + shaders de reflexo (Godot shaders na seção **VFX/Shaders**)
+
+### Música: alegre, chiptune, arcade, bolha pop
+
+- na OpenGameArt: **Bubble Cub Theme** (**CC0**, do Spring Spring — tema cubo bolha), **Triple Bubble Music** (**CC BY 4.0**, do Vircon32 — música triple bubble), **Bubble Gum Groovin' Looping** (**CC BY 3.0**, do Eric Matyas — loop chiclete), **Bubble 2** (**CC0**, do Guy G. Gamerson), **Underwater Arena** (**CC BY 3.0**, do jdee — arena subaquática), **BubbleBobble** (**CC BY 3.0**, do ShoeGeezer — trilha estilo Bubble Bobble), **Bobble of Love** / **Bobble of Love (Gundatsch)** (**CC BY 3.0**, do Gundatsch/glitchart — amor bolha), **8-bit Theme Intensity** (**CC BY 3.0**, do Wolfgang_)
+
+### Avaliados e não incluídos
+
+- **IP Taito/Square Enix / Bubble Bobble / Puzzle Bobble / Bust-a-Move**: Bub, Bob, Monsta, Mighta, Drunk, Beluga, Hullaballoon, Super Drunk, bolhas coloridas icônicas, grade hexagonal, mecânica "match 3 bolhas", trilha oficial, personagens
+- **pagos**: https://thetgi.itch.io/bubble-buttons (versão completa US$ 1), https://hcgamestudios.itch.io/bubble-shooter-game-assets (US$ 5,99), https://yanako-rpgs.itch.io/retro-boy-emotes (US$ 4,40), https://cmski.itch.io/pixel-art-user-interface-bubble-theme (429 no teste, licença não verificada)
+- **sem licença declarada**: https://cmski.itch.io/pixel-art-user-interface-bubble-theme (429), https://sergilazaro.itch.io/bubble-freeze (429), https://werdi-09.itch.io/bubbleshooter (sem licença na página), https://zoomy-cat-games.itch.io/bubble-shooter-but-in-space-and-incremental (sem licença na página), https://hcgamestudios.itch.io/bubble-shooter-game-assets (pago US$ 5,99), https://free-game-assets.itch.io/bubble-shooter-game-user-interface (US$ 6-49, CraftPix Freebie), https://kinteyoi.itch.io/bubble-girl-freeze (sem licença clara na página), https://sergilazaro.itch.io/bubble-freeze (429)
+- **não comercial**: https://yanako-rpgs.itch.io/retro-boy-emotes (US$ 4,40, licença restritiva — não revender, não fan games)
+- **IA sem licença clara**: (nenhum detectado nos packs gratuitos)
+- **autores problemáticos**: https://free-game-assets.itch.io (múltiplos packs pagos / sem licença)
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)
