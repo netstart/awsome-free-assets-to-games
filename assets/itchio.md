@@ -951,6 +951,72 @@ Stardew Valley é IP da ConcernedApe: sprites, retratos, mapas e trilha do jogo 
 - **ToffeeCraft** (Cat UI, Cat Mega Bundle, UI Cozy) e **Clockwork Raven** já estão registrados como uso pessoal; **Butter Milk Tiny Wonder Farm** já está registrado como free não comercial
 - os packs 8x8/16x16 do **Maeve (Tiny Farm RPG)** continuam fora pelo mesmo motivo da rodada de RPG: só a licença da versão paga está declarada
 
+## itch.io — Farm (fazenda, celeiro e vila rural) (pesquisado em 22/10/2026)
+
+Complementa o bloco **Estilo Stardew Valley** acima: lá o foco é o life sim cozy pastel; aqui o foco é a fazenda aberta — celeiro, curral, horta, pomar, animais, vila rural e trilha de campo. Nada se repete entre os dois blocos.
+
+### Mapas, fazendas e celeiros
+
+- https://kenney-assets.itch.io/pixel-platformer-farm-expansion (**CC0** — mais de 110 sprites de fazenda em estilo de plataforma, com tilesheets e sprites separados; sem atribuição)
+- https://styloo.itch.io/2d-village (**CC0** — pacote grande de vila rural 2D; o autor confirma CC0 e libera uso comercial sem restrição)
+- https://vectoraith.itch.io/farming-sim-asset-pack (tileset de farming sim com celeiro, horta, cercas e props; uso livre em projetos comerciais, proibida revenda)
+- https://hcg-digital-arts.itch.io/farmgarden-tileset (tileset de fazenda e jardim 32x32; o autor declara uso comercial **sem restrições**)
+- https://pixeljad.itch.io/ranch (rancho top-down com curral, celeiro e terreno; comercial liberado, **crédito obrigatório** a "Pixeljad" / @pixeljad)
+- https://oddblotstudios.itch.io/free-the-great-farm-isometric (fazenda **isométrica** pintada à mão, com construções e props; comercial liberado, proibido treinar IA)
+- https://vgdr.itch.io/farm-field-background-pack (22 fundos de fazenda e campos 1536x832, livres para qualquer uso inclusive comercial — **gerados por IA e declarados como tal** pelo autor)
+- na OpenGameArt: **Farm** (**CC0**, do nicubunu), **Pixel farm and shack** (**CC0**), **Farm spritesheet** (**CC0**), **Farm sprites** (**CC0**), **Vector Farm Pack** (**CC0**), **Corn Farm Isometric Tile** (**CC0**), **Free Farm Assets 2D** (**CC0**) e **Isometric Farm Shed** (**CC BY 3.0**, crédito a Michael J Pierce)
+
+### Casas, celeiros e vila
+
+- https://schwarnhild.itch.io/modular-village-houses-32x32 (casas modulares de vila 32x32, com telhados e paredes combináveis; comercial liberado, proibida revenda e treino de IA)
+- https://trislin.itch.io/pixel-lands-village (vila com casas, árvores, fonte e cais; a licença do **demo** já libera uso comercial, proibida redistribuição)
+- https://vryell.itch.io/tiny-village-pack (vila minúscula com casas e props; uso pessoal e comercial, crédito opcional, proibida revenda)
+- para interiores de celeiro, o **Simple Barn Interior and Animals Pack** (abaixo) e o **Cozy Interior** da shubibubi já catalogado cobrem o estábulo e a casa do fazendeiro
+
+### Personagens e animais
+
+- https://imepa.itch.io/farmerplayerpack (fazendeiro jogável com idle, caminhada, agachar, escalar, pular e escorregar; comercial liberado, proibida revenda)
+- https://alpatyk.itch.io/free-asset-farmer-story-sprites-and-backgrounds (**CC BY 4.0** — sprites de fazendeiro + fundos e tileset 16x16; crédito obrigatório)
+- https://fleuffstudios.itch.io/farm-animals-pixel-art (animais de fazenda animados, com filhotes, GIFs de preview e README; comercial liberado, proibida revenda dos sprites)
+- na OpenGameArt: **Pixel Farmer** (**CC0**), **Little farmer guy** (**CC0**), **Medieval Citizens Vol.1 — Free Sample (Farmer)** (**CC0**), **Farmer — Bleed's Game Art** (**CC BY 3.0**), **PagesOfAdventure farmer sprite sheet** (**CC BY-SA 3.0**) e **farmer** (**CC BY 3.0/4.0**)
+
+### Itens, colheita e produtos
+
+- https://hogfrog.itch.io/farm-items-pack (frutas, legumes e produtos animais para inventário; comercial liberado, proibida revenda)
+- https://hayaya.itch.io/farm-products-asset-16x16 (ovos, leite, queijo, mel, geleia, conserva, suco e vinho em 16x16; comercial liberado, proibida revenda)
+- https://pixelgnome.itch.io/crops (12 plantações essenciais com estágios, incluindo cenoura, trigo, milho, abóbora e melancia; comercial liberado, proibida revenda e treino de IA)
+- https://sondanielson.itch.io/simplecrop (**CC BY** — pacote simples de plantações, crédito obrigatório)
+- https://lefrataxa.itch.io/40-colorful-fantasy-crops-weird-plants-carrot-variants-pack (40 plantações fantásticas em vetor, com fonte .ai editável; licença royalty-free para uso comercial)
+- https://welledgecreative.itch.io/cozy-orchard-harvest-free-starter-10 (10 ícones gratuitos de pomar e colheita, com PNG em 64–512 px e licença de projeto comercial no pacote)
+- https://mattyg763.itch.io/simple-farm-assets (Simple Barn Interior and Animals Pack — interior de celeiro e animais; o autor libera "para o que quiser")
+- na OpenGameArt: **32 pixels tomato plants** (**CC0**) soma às plantações já catalogadas em "Cenários, tilesets e construções" (**Farming crops 16x16**, **Crops CC0** e **[LPC] Crops**)
+
+### Árvores e pomares
+
+- na OpenGameArt: **[LPC] All Seasons Apple Tree** (**CC BY-SA 3.0** — macieira nas quatro estações), **Apple Tree (Remix)** (**CC BY-SA 4.0**), **Pixel Apple trees** (**CC BY 3.0/CC BY-SA 3.0**), **Scenery with Apple Trees** (**CC BY 4.0**), **Apple Tree** (**CC BY 4.0**) e **[LPC] Fruit Trees** (**CC BY-SA 4.0/3.0**)
+- para a cerca viva e a mata em volta da fazenda, reaproveite o **Free Pixel Art Tree Pack** da karsiori (**CC0**) e o **Foliage Pack** do Kenney (**CC0**), já catalogados
+
+### Texturas de terra, grama e curral
+
+- os tilesets do **Kenney Farm Expansion**, do **styloo 2D Village** e do **HCG Farm/Garden** já trazem grama, terra arada, canteiro, cerca e piso de celeiro
+- as texturas sem emenda da OpenGameArt (**Seamless Grass**, **Blended Textures of Dirt and Grass**) continuam valendo para o terreno aberto
+
+### Música e SFX
+
+- na OpenGameArt: **Farm Music** (**OGA-BY 4.0**), **Fields of Cabbage** (**CC0**), **Apple Cider** (**CC0**), **Country** (**CC0**), **Sunny Side Up** (**CC0**), **Gone Fishin'** (**CC0**) e **Windle Pixel and His Banjo Buddies** (**CC BY 3.0** — banjo em loop)
+- o **Cozy Farm Music** da aquumgifts e o **Cozy Farm Days** da uit-games já estão no bloco Stardew e cobrem a versão mais calma da trilha
+
+### Avaliados e não incluídos
+
+- https://abyssalhunter.itch.io/haven-farmstead-version-10 — a licença gratuita é **só não comercial**; a comercial custa US$ 9,99
+- https://aztrakatze.itch.io/simple-cute-farm — a licença fala em uso "após comprar", apesar do "name your own price"
+- https://rbatistadelima.itch.io/pico8-farm — página sem licença declarada
+- https://kale-game.itch.io/2d-pixel-art — uso comercial só com consentimento por Instagram
+- https://spectrecz.itch.io/farmer-sprite-with-animation, https://layau.itch.io/cozy-cat-farmer-character-sprite-pack-tileset, https://soulherder.itch.io/farm-animals-character-pack e https://108hvs.itch.io/animated-the-blossom-big-tree — páginas sem licença declarada
+- https://cecixp.itch.io/2d-farmer-sprites-leftright-18x18 — **CC BY-NC-SA 4.0**, uso comercial proibido
+- https://vertexcat.itch.io/farm-animals-set (**CC0**), https://quaternius.itch.io/lowpoly-farm-buildings e https://polyyai.itch.io/3d-scarecrows-pack — packs **3D**
+- o **Cozy Farm Lite** que aparece na OpenGameArt é o mesmo pack da aquumgifts já catalogado no bloco Stardew — não foi duplicado
+
 ## itch.io — Tecnologia (cyberpunk/sci-fi/tech) (pesquisado em 22/10/2026)
 
 Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores futuristas, UI, SFX e techno — tudo com licença verificada. Nada de Cyberpunk 2077, Blade Runner, Ghostrunner, Akira ou Metal Gear: IP de terceiros fica fora.

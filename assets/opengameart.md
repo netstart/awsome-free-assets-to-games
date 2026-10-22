@@ -63,6 +63,12 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/rpg-character-vampire (**CC0** — personagem vampiro para RPG)
 - https://opengameart.org/content/platformer-art-xeno-diversity (**CC0** — personagens alienígenas para plataforma)
 - https://opengameart.org/content/3x-updated-32x32-scifi-roguelike-enemies (**CC BY 3.0** / OGA-BY 3.0 — inimigos sci-fi 32x32)
+- https://opengameart.org/content/pixel-farmer (**CC0** — fazendeiro em pixel art com animação)
+- https://opengameart.org/content/little-farmer-guy (**CC0** — fazendeiro pequeno para animar)
+- https://opengameart.org/content/medieval-citizens-vol1-%E2%80%94-free-sample-farmer-down-direction (**CC0** — amostra de cidadão medieval/fazendeiro)
+- https://opengameart.org/content/farmer-bleeds-game-art (**CC BY 3.0** — fazendeiro de Bleed, crédito apreciado)
+- https://opengameart.org/content/pagesofadventure-farmer-sprite-sheet (**CC BY-SA 3.0** — sprite sheet de fazendeiro)
+- https://opengameart.org/content/farmer (**CC BY 3.0** / CC BY 4.0 — fazendeiro simples)
 
 ## Armas e itens
 
@@ -108,6 +114,21 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/farming-crops-16x16 (**CC0** — plantações 16x16 com estágios de crescimento, ideal para fazenda top-down)
 - https://opengameart.org/content/crops-cc0 (**CC0** — outra coleção de plantações, sem atribuição)
 - https://opengameart.org/content/lpc-crops (**CC BY-SA 4.0** — plantações do projeto LPC, com estágios de crescimento)
+- https://opengameart.org/content/32-pixels-tomato-plants (**CC0** — pés de tomate 32px)
+- https://opengameart.org/content/farm (**CC0** — kit de fazenda do nicubunu)
+- https://opengameart.org/content/pixel-farm-and-shack (**CC0** — fazenda e casebre em pixel, tiles isométricos)
+- https://opengameart.org/content/farm-spritesheet (**CC0** — spritesheet de fazenda)
+- https://opengameart.org/content/farm-sprites (**CC0** — sprites de fazenda)
+- https://opengameart.org/content/vector-farm-pack (**CC0** — fazenda em vetor)
+- https://opengameart.org/content/corn-farm-isometric-tile (**CC0** — tile isométrico de milharal)
+- https://opengameart.org/content/isometric-farm-shed (**CC BY 3.0** — celeiro isométrico, crédito a Michael J Pierce)
+- https://opengameart.org/content/free-farm-assets-2d-2d-game (**CC0** — pack de fazenda 2D)
+- https://opengameart.org/content/lpc-all-seasons-apple-tree (**CC BY-SA 3.0** — macieira nas quatro estações)
+- https://opengameart.org/content/apple-tree-remix (**CC BY-SA 4.0** — macieira em remix)
+- https://opengameart.org/content/pixel-apple-trees (**CC BY 3.0** / CC BY-SA 3.0 — macieiras em pixel)
+- https://opengameart.org/content/scenery-with-apple-trees (**CC BY 4.0** — cenário com macieiras)
+- https://opengameart.org/content/apple-tree-0 (**CC BY 4.0** — macieira isolada)
+- https://opengameart.org/content/lpc-fruit-trees (**CC BY-SA 4.0** / 3.0 — árvores frutíferas do LPC)
 - https://opengameart.org/content/cyberpunk-tiles (**CC BY 4.0** — tiles cyberpunk, crédito obrigatório)
 - https://opengameart.org/content/cyberpunk-tileset-and-assets-slim-version (**CC0** — tileset cyberpunk com props, versão slim)
 - https://opengameart.org/content/24-x-scifi-cyberpunk-tiles (**CC0** — 24 tiles sci-fi/cyberpunk para RPG)
@@ -211,3 +232,13 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/a-cloudy-morning-jazz (**CC BY 3.0** — jazz de manhã nublada, crédito obrigatório)
 - https://opengameart.org/content/solo-jazz-guitar-riverline (**CC BY 4.0** — guitarra jazz solo, crédito obrigatório)
 - https://opengameart.org/content/jazz-lost-in-time (**CC BY 3.0** — jazz melancólico, crédito obrigatório)
+
+### Fazenda, campo e interior rural
+
+- https://opengameart.org/content/farm-music (**OGA-BY 4.0** — tema de fazenda, crédito obrigatório)
+- https://opengameart.org/content/fields-of-cabbage (**CC0** — faixa campestre, ótima para a horta)
+- https://opengameart.org/content/apple-cider (**CC0** — tema acústico de pomar)
+- https://opengameart.org/content/country (**CC0** — tema country)
+- https://opengameart.org/content/sunny-side-up-updated-version (**CC0** — tema alegre de campo)
+- https://opengameart.org/content/gone-fishin (**CC0** — faixa descontraída de pescaria)
+- https://opengameart.org/content/windle-pixel-and-his-banjo-buddies-looping (**CC BY 3.0** — banjo em loop, crédito obrigatório)
