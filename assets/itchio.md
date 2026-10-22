@@ -910,7 +910,7 @@ Stardew Valley é IP da ConcernedApe: sprites, retratos, mapas e trilha do jogo 
 - https://sakpix.itch.io/cozy-village-animated-girl-free (garota de vila com idle, caminhada, aceno e coleta em 4 direções; uso comercial liberado)
 - https://vraizen.itch.io/cozy-farmer (fazendeiro em sprite sheet horizontal, compatível com Unity, Godot, GameMaker e RPG Maker; comercial liberado, sem crédito)
 - https://nanasha.itch.io/nashas-cozy-villagers-character-pack (**demo gratuito** com 3 villagers e variação de roupa; licença permite uso comercial, proíbe revenda e treino de IA — o pack completo é pago)
-- os **Sprout Lands** (Cup Nooble) já catalogados na seção de assets fofos continuam sendo a melhor opção de paleta pastel para o mesmo estilo
+- os **Sprout Lands** (Cup Nooble) já catalogados na seção de assets fofos continuam sendo a melhor opção de paleta pastel para o mesmo estilo — **atenção**: a versão gratuita do pack é **só não comercial** (a premium de US$ 3,99 libera uso comercial)
 
 ### Mapas, casas e árvores
 
