@@ -148,6 +148,18 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/brickhead-vs-the-blocky-bastards (**CC0** — kit de plataforma com herói e inimigos em blocos, do surt)
 - https://opengameart.org/content/toy-pirates-art-pack (**CC BY-SA 3.0** — piratas e cenário em estilo brinquedo, do rrcaseyr)
 - https://opengameart.org/content/bubble-tile-char-and-tiles (**CC BY 3.0** / GPL 2.0 / GPL 3.0 — personagem e tiles em blocos bolha, do qubodup)
+- https://opengameart.org/content/streets-of-fight (**CC0** — pack completo de beat 'em up urbano: personagens, rua noturna e HUD, do ansimuz)
+- https://opengameart.org/content/urban-character-pack (**CC0** — personagens urbanos com caminhada e ataque, do Doodle)
+- https://opengameart.org/content/brawler-asset-character-soldier-nes (**CC0** — capanga "Soldier" em estilo NES, do Chasersgaming)
+- https://opengameart.org/content/brawler-asset-character-vigilante-sms (**CC0** — herói "Vigilante" estilo Master System, do Chasersgaming)
+- https://opengameart.org/content/brawler-asset-character-renegade-sms (**CC0** — capanga "Renegade", do Chasersgaming)
+- https://opengameart.org/content/brawler-asset-character-ranger-sms (**CC0** — lutador "Ranger", do Chasersgaming)
+- https://opengameart.org/content/virgil-8bit-brawler (**CC0** — lutador 8-bit para briga de rua, do Chasersgaming)
+- https://opengameart.org/content/gangster (**CC0** — capanga de terno, do software_atelier)
+- https://opengameart.org/content/gangster-0 (**CC0** — gângster, do David Harrington)
+- https://opengameart.org/content/gangster-1 (**CC0** — gângster, do EZduzziteh)
+- https://opengameart.org/content/business-of-rage-characeter-beatemup-2d (**CC0** — personagem de beat 'em up, arte original do DidiGameB; o nome é trocadilho, não usa IP da SEGA)
+- https://opengameart.org/content/universal-prototype-2-for-scrolling-beat-em-up-or-mugen (**CC0** — base universal para beat 'em up ou MUGEN, do Puffolotti)
 
 ## Armas e itens
 
@@ -224,6 +236,15 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/numbers-blocks-set-01 (**CC BY 3.0** — blocos com números, do GameArtForge)
 - https://opengameart.org/content/breakout-brick-breaker-tile-set-free (**CC0** — tijolos de quebra-bloco, do imaginelabs)
 - https://opengameart.org/content/brick-border (**CC0** — moldura de tijolos para UI, do nicubunu)
+- https://opengameart.org/content/pixel-wooden-crate (**CC0** — caixote de madeira, do PolygonixGames)
+- https://opengameart.org/content/pixel-barrel (**CC0** — barril em pixel art, do truezipp)
+- https://opengameart.org/content/barrel (**CC0** — barril, do manenwolf)
+- https://opengameart.org/content/10-pixel-weapons-0 (**CC0** — 10 armas brancas de rua: cano, taco, faca e afins, do pixelmannen)
+- https://opengameart.org/content/2d-baseball-pack (**CC0** — taco e bola de beisebol, do looneybits)
+- https://opengameart.org/content/knife-4 (**CC0** — faca, do kotnaszynce)
+- https://opengameart.org/content/pipe (**CC0** — cano, do bhu1c)
+- https://opengameart.org/content/2d-metal-fence (**OGA-BY 3.0** — grade metálica, do Pillarist)
+- https://opengameart.org/content/2d-platformer-side-scroller-stone-fence-street-lamp (**CC0** — muro de pedra e poste de luz de rua, do Parriah)
 
 ## Cenários, tilesets e construções
 
@@ -406,6 +427,31 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/brick-walls (**CC BY-SA 3.0** — paredes de tijolo, do delconis)
 - https://opengameart.org/content/plastic-batch-of-9-seamless-textures-with-normalmaps (**CC BY 3.0** — 9 texturas de plástico sem emenda, do Keith333)
 - https://opengameart.org/content/yellow-painted-plastic-seamless-tileable-texture-1744x3039 (**CC BY 3.0** — plástico amarelo pintado, sem emenda)
+- https://opengameart.org/content/street-sprites (**CC0** — calçada, lixo, hidrante e mobiliário de rua, do Fleurman)
+- https://opengameart.org/content/urban-tiles (**CC0** — tiles urbanos para rua e calçada, do Some Weirdo)
+- https://opengameart.org/content/8-bit-city-tile-set (**CC0** — cidade em tiles 8-bit, do devurandom)
+- https://opengameart.org/content/lpc-streets (**CC BY-SA 3.0** / GPL 3.0 — ruas no estilo LPC, do Baŝto)
+- https://opengameart.org/content/pixel-night-city (**CC BY 4.0** — cidade à noite em pixel art, da fridaruiz)
+- https://opengameart.org/content/parallax-city-night-4-colors (**CC0** — parallax de cidade noturna em 4 cores, do FisherG)
+- https://opengameart.org/content/2d-tileset-city-and-suburbs-at-night (**CC BY 4.0** — cidade e subúrbio noturnos em tiles, do 2DPIXX)
+- https://opengameart.org/content/brawler-asset-tile-set-market-street-sms (**CC0** — "Market Street": rua comercial de beat 'em up, do Chasersgaming)
+- https://opengameart.org/content/brawler-assets-tile-set-secret-service-building-sms (**CC0** — prédio do serviço secreto, sede da organização, do Chasersgaming)
+- https://opengameart.org/content/brawler-asset-tile-set-oriental-gardens-gamboy (**CC0** — jardim oriental em tiles, do Chasersgaming)
+- https://opengameart.org/content/brawler-asset-tile-set-military-base-nes (**CC0** — base militar em tiles NES, do Chasersgaming)
+- https://opengameart.org/content/half-a-city-background (**CC BY 4.0** — fundo de cidade em parallax, do Spring Spring)
+- https://opengameart.org/content/city-skyline (**CC BY 4.0** — horizonte de cidade, do Tucan Games)
+- https://opengameart.org/content/american-asian-european-city-tilesets (**CC0** — tilesets de cidade americana, asiática e europeia, do MirceaKitsune)
+- https://opengameart.org/content/abandon-city-seamless-background (**CC0** — cidade abandonada sem emenda, do acasas)
+- https://opengameart.org/content/city-street (**CC0** — rua da cidade, do Triangle Ace)
+- https://opengameart.org/content/8-bit-city (**OGA-BY 3.0** — cidade 8-bit, do LD)
+- https://opengameart.org/content/city-pixel-tileset (**CC0** — tileset de cidade em pixel art, do software_atelier)
+- https://opengameart.org/content/2d-pixel-city-pack (**CC BY 4.0** — pacote de cidade em pixel art, do laavis)
+- https://opengameart.org/content/citybuildings (**CC0** — prédios urbanos, do sickobird)
+- https://opengameart.org/content/sunshine-city-building-and-tree (**CC0** — prédio com árvore de calçada, do Darius Guerrero)
+- https://opengameart.org/content/shop (**CC0** — loja de rua, do SilicaAndPina)
+- https://opengameart.org/content/2d-shop-set (**CC0** — conjunto de lojas para rua, do jcrow41)
+- https://opengameart.org/content/asphalt (**CC0** — textura de asfalto, do PagDev)
+- https://opengameart.org/content/real-asphalt-texture-pack (**CC0** — asfalto realista em alta resolução, do para)
 
 ## Música e SFX por tema
 
@@ -443,8 +489,7 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 
 ### Monstros e yōkai
 
-- https://opengameart.org/content/monster-sound-effects-2 (**CC0** — efeitos de monstros)
-- https://opengameart.org/content/monster-battle-sounds (**CC BY 3.0** — gritos e impactos de batalha)
+- os SFX de monstro (**CC0** / **CC BY 3.0**) já estão catalogados na seção **Sons e música** no topo deste arquivo
 
 ### Zumbis e apocalipse
 
@@ -594,3 +639,19 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/8-bit-quirky-waltz (**CC BY 4.0** — valsa 8-bit engraçada, do Wolfgang_)
 - https://opengameart.org/content/nintendo-style-quirky-music-loop-01 (**CC BY 4.0** — loop lúdico estilo 8-bit, do PlayOnLoop)
 - https://opengameart.org/content/arcade-oddities-looping (**CC BY 3.0** — loop arcade excêntrico, do Eric Matyas)
+
+### Rua, briga de rua e beat 'em up urbano
+
+- https://opengameart.org/content/jazz-funk (**CC BY 3.0** — jazz funk de rua, do professorlamp)
+- https://opengameart.org/content/funk-collection (**CC0** — coleção de faixas funk, do Holizna)
+- https://opengameart.org/content/midnight-cruiser (**CC0** — tema noturno de direção, do Zane Little Music)
+- https://opengameart.org/content/wednesday-night-funk-fusion (**CC0** — funk fusion para fase de rua, do Zane Little Music)
+- https://opengameart.org/content/simple-serious-electro-loop (**CC BY 3.0** — loop electro sério, do qubodup)
+- https://opengameart.org/content/energetic-electro-tune (**CC0** — electro enérgico para perseguição, do TinyWorlds)
+- https://opengameart.org/content/funky-hip-hop-lofi-jam (**CC0** — hip hop lo-fi com funk, do omfgdude)
+- https://opengameart.org/content/street-justice (**CC BY 3.0** — tema de justiça na rua, do Macro)
+- https://opengameart.org/content/thug-street (**CC0** — tema de rua com capangas, do KarateStudios)
+- https://opengameart.org/content/urban-boss-battle (**CC0** — batalha contra chefe urbano, do MintoDog)
+- https://opengameart.org/content/urban-theme (**CC0** — tema urbano de fase, do MintoDog)
+- https://opengameart.org/content/urban-0 (**CC BY 4.0** — tema urbano, do Jan125)
+- https://opengameart.org/content/urban-jungle-2061 (**CC BY 3.0** — cidade futurista e suja, do Eric Matyas)

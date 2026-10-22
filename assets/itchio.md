@@ -1752,6 +1752,69 @@ LEGO é marca da LEGO Group, e minifigures, sets, logos e jogos licenciados são
 - **sem licença declarada**: https://pucci-games.itch.io/stones-brick-textures, https://eustace.itch.io/texture-pack-brick, https://sing-kong.itch.io/bricks-block-ultimate-character, https://mhdev.itch.io/pixel-brick-textures, https://sillyshrimp.itch.io/rubber-duck, https://derademislight.itch.io/little-train-toys, https://laredgames.itch.io/toy-plane-free e https://mewki.itch.io/isometric-blocks
 - **3D**: https://kenney.nl/assets/brick-kit (o "Brick Kit" é 3D — o 2D equivalente é o **Brick Pack**), https://loafbrr.itch.io/brick-buildings-re, https://kaylousberg.itch.io/block-bits, https://retrovandal.itch.io/cutesy-toy-3d-models, https://sneznyj.itch.io/animated-blocky-people e https://gomesrotwang.itch.io/blocky-low-poly-character
 
+## itch.io — Beat 'em up urbano (estilo Streets of Rage) (pesquisado em 22/10/2026)
+
+Streets of Rage é IP da SEGA: personagens (Axel, Blaze, Adam), nomes, sprites, remakes e fan games ficam fora, mesmo de graça. O equivalente legal é o **beat 'em up urbano 2D dos anos 90**: rua à noite, beco, bar, metrô, porto e prédios, capangas de terno, armas de rua (cano, taco, faca), caixotes e barris, e trilha funk/electro. Todos os itens abaixo têm licença verificada na página.
+
+### Personagens e capangas
+
+- https://rancic.itch.io/martial-arts-fighter (**CC BY 4.0** — lutador marcial com animações de soco, chute e dano; crédito obrigatório)
+- https://oonquil.itch.io/bancho (versão gratuita — chefe de gangue; uso comercial liberado, proibida revenda)
+- https://oonquil.itch.io/brute-arms (versão gratuita — brutamontes; uso comercial liberado, proibida revenda)
+- https://oonquil.itch.io/batting-girl (versão gratuita — garota com taco de beisebol; comercial liberado, crédito opcional, proibida revenda)
+- https://retropixie.itch.io/kung-fu-platformer-character (personagem de kung fu com animações; comercial liberado, proibida revenda)
+- https://jkllin.itch.io/mrj-melee-fighter (lutador corpo a corpo; comercial liberado, **crédito "JKLLIN" obrigatório**, proibida revenda)
+- https://rgsdev.itch.io/animated-stick-figure-character-2d-free-cc0 (**CC0 declarado no título do pack** — boneco palito animado, base rápida para beat 'em up)
+- na OpenGameArt: **Streets of Fight** (**CC0**, do ansimuz — pack completo de beat 'em up com personagens, rua noturna e HUD), **Urban Character Pack** (**CC0**), os capangas **Soldier** (NES), **Vigilante**, **Renegade** e **Ranger** (SMS) e **Virgil 8bit Brawler** (**CC0**, do Chasersgaming), **Gangster** (três variações, **CC0**), **Sci Fi Brawler Character** (**OGA-BY 3.0**), **Business of Rage** (**CC0** — arte original; o nome é trocadilho, não usa IP da SEGA) e **Universal Prototype 2** (**CC0** — base para beat 'em up/MUGEN)
+- o **Martial Hero** do LuizMelo (**CC0**, já catalogado) e o **Ninja** do kelano-studio completam o elenco jogável
+
+### Mapas e cenários de rua
+
+- na OpenGameArt: **Brawler Asset Tile Set "Market Street"** (**CC0**, do Chasersgaming — rua comercial de beat 'em up), **Secret Service Building** (SMS), **Oriental Gardens** (Game Boy) e **Military Base** (NES) (**CC0**), **Street Sprites** (**CC0** — calçada, lixo e mobiliário), **Urban Tiles** (**CC0**), **8-bit City Tile Set** (**CC0**), **LPC Streets** (**CC BY-SA 3.0** / GPL 3.0), **Pixel Night City** (**CC BY 4.0**), **Parallax City Night — 4 Colors** (**CC0**), **2D Tileset City and Suburbs at Night** (**CC BY 4.0**), **Half a City Background** (**CC BY 4.0**), **City Skyline** (**CC BY 4.0**), **American/Asian/European City Tilesets** (**CC0**), **Abandon City Seamless Background** (**CC0**), **City Street** (**CC0**), **8-Bit City** (**OGA-BY 3.0**), **City Pixel Tileset** (**CC0**), **2D Pixel City Pack** (**CC BY 4.0**) e **CityBuildings** (**CC0**)
+- o **Tiny City** do Kenney (**CC0**, já catalogado em `assets/kenney.md`) monta quarteirões inteiros em miniatura
+- para o beco com muro pichado, use o **Urban Jungle** (**CC0**, já catalogado como textura) e as texturas de tijolo da seção **Brinquedo de montar**
+- a fase de porto/píer reaproveita os tilesets de água e doca da seção **Velocidade/mascote**; a fase de metrô usa os tiles de interior da seção **Cafeland**
+
+### Casas, lojas e fachadas
+
+- na OpenGameArt: **Sunshine City Building and Tree** (**CC0**, do Darius Guerrero — prédio com árvore de calçada), **Shop** (**CC0**), **2D Shop Set** (**CC0**, do jcrow41) e **Cafe and Tea Shop Pixel Art** (**CC BY 3.0**, já catalogado)
+- para quarteirões residenciais, reaproveite as fachadas das seções **Farm**, **Stardew** e **Cafeland**, todas já catalogadas
+- o **Market Street** (**CC0**) já traz vitrines e letreiros prontos para a rua principal
+
+### Árvores e vegetação urbana
+
+- na OpenGameArt: **Sunshine City Building and Tree** (**CC0** — árvore de calçada no mesmo pack do prédio), **Tree Collection v2.6** (**CC BY 3.0**, do Bleed, já catalogada) e **Urban Jungle** (**CC0**, já catalogado — vegetação crescendo em muro)
+- as árvores **CC0** da **karsiori** e o **Foliage Pack (100x)** do Kenney, já catalogados, servem para praça e parque
+- para a fase de praia/porto, use os coqueiros **CC0** da seção **Velocidade/mascote**
+
+### Itens, armas de rua e obstáculos
+
+- na OpenGameArt: **Pixel Wooden Crate** (**CC0**, do PolygonixGames), **Pixel Barrel** (**CC0**, do truezipp), **Barrel** (**CC0**, do manenwolf), **10 Pixel Weapons** (**CC0** — cano, taco, faca e outras armas brancas), **2D Baseball Pack** (**CC0**, do looneybits), **Knife** (**CC0**), **Pipe** (**CC0**), **2D Metal Fence** (**OGA-BY 3.0**) e **Stone Fence + Street Lamp** (**CC0** — poste de luz de rua)
+- para a comida que recupera vida, use os itens de comida **CC0** já catalogados nas seções **Cafeland** e **Farm**
+- os power-ups de dinheiro/brinde saem dos packs **CC0** do Kenney já catalogados
+
+### Texturas de asfalto, tijolo e muro
+
+- na OpenGameArt: **Asphalt** (**CC0**, do PagDev) e **Real Asphalt Texture Pack** (**CC0**)
+- o **Urban Jungle** (**CC0**, já catalogado) serve de muro com vegetação e pichação gasta
+- as texturas de tijolo **CC0**/**CC BY-SA** da seção **Brinquedo de montar** e a textura de tijolo da seção **Guerra medieval** cobrem parede de beco, prédio e estação
+- o piso xadrez **Stone Tiles — Checkered** (**CC BY-SA 4.0**, já catalogado) resolve o saguão do prédio da organização criminosa
+
+### Música e SFX
+
+- na OpenGameArt: **Jazz Funk** (**CC BY 3.0**), **Funk Collection** (**CC0**, do Holizna), **Midnight Cruiser** e **Wednesday Night [Funk Fusion]** (**CC0**, do Zane Little Music), **Simple Serious Electro Loop** (**CC BY 3.0**), **Energetic Electro Tune** (**CC0**), **Funky Hip Hop Lofi Jam** (**CC0**), **Street Justice** (**CC BY 3.0**), **Thug Street** (**CC0**), **Urban Boss Battle** e **Urban Theme** (**CC0**, do MintoDog), **Urban** (**CC BY 4.0**) e **Urban Jungle 2061** (**CC BY 3.0**, do Eric Matyas)
+- para o chefe final, o **Hip Hop Boss Man** existe mas é **GPL 3.0 puro** — fora; use **Urban Boss Battle** (**CC0**)
+- os **jingles** do Kenney (**CC0**) e o **512 Sound Effects 8-bit Style** (**CC0**) já catalogados cobrem soco, impacto, vidro e moeda
+
+### Avaliados e não incluídos
+
+- **IP da SEGA**: qualquer fan game, remake, sprite ou template com Streets of Rage no nome — inclusive o template **"Construct 2 Streets Of Rage Character Select"** (CC0, mas usa personagens e nome da série)
+- https://ansimuz.itch.io/streets-of-fight (a página do itch não declara licença — use a versão **CC0** publicada na OpenGameArt, listada acima)
+- **licença só em comentário**: https://chroma-dave.itch.io/simple-beat-em-up-assets (o autor responde "pode usar em comercial" mas não há arquivo nem campo de licença) e https://chasersgaming.itch.io/brawler-asset-character (CC0 apenas em resposta nos comentários — as versões **CC0** da OpenGameArt estão listadas acima)
+- **pagos**: https://nappingcloud.itch.io/jamkit-pixel-beat-em-up-asset-pack (US$ 1), https://gowldev.itch.io/beat-em-up (US$ 100), https://pondako.itch.io/ultimate-beat-em-up-characters-asset-pack (US$ 1), https://avidgame.itch.io/beat-em-up-pack-urban-fighters (US$ 3,99, **CC BY-NC**), https://mrnekopixels.itch.io/food-assets-for-beat-em-up-project (US$ 5), https://rohhsa.itch.io/beat-em-up-sfx-volume-one (US$ 9,96), https://pozac.itch.io/street-brawler-urban-2d-beat-em-up-character-pack (US$ 4,99), https://fassous.itch.io/2d-brawler-game-character (US$ 3), https://overcrafted.itch.io/stickman-fighter-spine-2d-game-character-sprites (US$ 7) e https://cascadeplay.itch.io/brawler-2d-character-animation (US$ 2,50)
+- **sem licença declarada**: https://seartsy.itch.io/warrior-in-red e https://fridge99.itch.io/beat-them-pack (sem preço nem licença claros)
+- **música GPL 3.0 pura**: o **Hip Hop Boss Man** da OpenGameArt é GPL 3.0 puro — fora
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

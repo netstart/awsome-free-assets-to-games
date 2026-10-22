@@ -41,5 +41,6 @@
 | Metroid (sci-fi alien metroidvania) | ansimuz.itch.io, greenbear8.itch.io, bongseng.itch.io, screamingbrainstudios.itch.io, gm-lazarus.itch.io, gooseninja.itch.io, shapeforms.itch.io, opengameart.org |
 | Nave espacial / Galaxy Attack (space shooter) | mattwalkden.itch.io, cluly.itch.io, disruptorart.itch.io, axassets.itch.io, pixelsos.itch.io, timberlate007.itch.io, grafxkid.itch.io, greatdocbrown.itch.io, odistudio-games.itch.io, squaremeapixel.itch.io, virusystem.itch.io, foozlecc.itch.io, wenrexa.itch.io, hat-tap.itch.io, dolkyns.itch.io, realcreative.itch.io, kosmocat.itch.io, albesca.itch.io, doranarasi.itch.io, kenney.nl, opengameart.org |
 | Brinquedo de montar (estilo Lego) | kenney.nl, screamingbrainstudios.itch.io, devilsworkshop.itch.io, shallow-lagoon.itch.io, mewki.itch.io, sandstormdev.itch.io, juliovii.itch.io, opengameart.org |
+| Beat 'em up urbano (estilo Streets of Rage) | rancic.itch.io, oonquil.itch.io, retropixie.itch.io, jkllin.itch.io, rgsdev.itch.io, kenney.nl, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |
