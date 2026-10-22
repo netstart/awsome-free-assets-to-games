@@ -52,6 +52,9 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/animated-top-down-zombie (**CC0** — zumbi animado top-down)
 - https://opengameart.org/content/zombie-character-sprite (**OGA-BY 3.0** — sprite de zumbi, crédito obrigatório)
 - https://opengameart.org/content/zombie-punk-character-sprite (**OGA-BY 3.0** — zumbi punk, crédito obrigatório)
+- https://opengameart.org/content/orc-parts-updated (**CC BY 3.0** — orc 2D montável, crédito obrigatório)
+- https://opengameart.org/content/orc-hero (**OGA-BY 3.0** — orc herói, crédito obrigatório)
+- https://opengameart.org/content/hunter-orc (**CC BY 3.0** — orc caçador, crédito obrigatório)
 
 ## Armas e itens
 
@@ -80,6 +83,10 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/a-platformer-in-the-forest (**CC0** — kit de plataforma na floresta)
 - https://opengameart.org/content/16x16-forest-tiles (**CC BY 4.0** — tiles de floresta 16x16, crédito obrigatório)
 - https://opengameart.org/content/lpc-forest-tiles (**CC BY-SA 3.0** — tiles de floresta do projeto LPC)
+- https://opengameart.org/content/32x32-fantasy-tileset (**CC BY-SA 3.0** — tileset de fantasia 32x32, crédito obrigatório)
+- https://opengameart.org/content/whispers-of-avalon-grassland-tileset (**CC BY 3.0** — campo de Avalon com árvores e vegetação)
+- https://opengameart.org/content/dungeon-tileset (**CC0** — tileset de masmorra)
+- https://opengameart.org/content/sewer-tileset (**CC BY 3.0** — tileset de esgoto, ótimo para masmorra urbana)
 
 ## Música e SFX por tema
 

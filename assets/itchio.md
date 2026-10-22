@@ -343,8 +343,8 @@ Packs 2D para mapas de vila, templo, floresta de bambu e duelo. Licença verific
 - https://bytebox.itch.io/samurai-character (samurai com idle, hit e animações extras; uso comercial liberado, proibida revenda)
 - https://kbpixelart.itch.io/ninja-enemy-pack (ninjas amarelo, azul, verde e vermelho com idle, caminhada, ataque, dano e morte; uso comercial liberado, proibida revenda)
 - https://10kstudios.itch.io/free-2d-ninja-sidescroller-character (ninja 165x165 com idle, ataque, caminhada, corrida, morte e salto; uso comercial liberado)
-- https://xzany.itch.io/samurai-2d-pixel-art (já listado acima — samurai pixel, licença custom: comercial OK)
-- https://xzany.itch.io/free-knight-2d-pixel-art (cavaleiro do mesmo autor, útil como inimigo; comercial OK)
+- o **samurai** e o **cavaleiro** do xzany já estão listados acima (seção de personagens), ambos com licença custom que libera uso comercial
+- o **cavaleiro fantasy** da aamatniekss também serve como inimigo ou aliado; está na mesma seção de personagens
 - https://willyee.itch.io/sengoku-pixel-pack (**CC0** — 41 personagens, 8 senhores da guerra, 120 armas, yōkai, chefes, terreno e UI; imagens geradas por IA, corte e montagem manuais)
 - https://arma-labs.itch.io/bushido-main-character-pack (Bushido v2.0 — personagem principal samurai com animações; uso comercial e pessoal liberado)
 - https://arma-labs.itch.io/bushido-enemies (inimigos do mesmo pack Bushido v2.0; uso comercial e pessoal liberado)
@@ -851,6 +851,50 @@ Packs 2D de RPG clássico: personagens, vila, masmorra, árvores, itens, ícones
 - https://butterymilk.itch.io/tiny-wonder-farm-asset-pack — a **versão gratuita é só não comercial**; a completa é paga
 - https://jdsherbert.itch.io/ambiences-music-pack — página sem licença declarada
 - https://clockworkraven.itch.io/raven-fantasy-pixel-art-tileset-green-forest — página sem licença declarada (os ícones do mesmo autor já tinham sido rejeitados por serem de uso pessoal)
+
+## itch.io — Alta fantasia (estilo World of Warcraft) (pesquisado em 22/10/2026)
+
+World of Warcraft é propriedade da Blizzard: personagens, mapas, ícones, texturas, trilha e efeitos oficiais **não entram** no catálogo. O que segue é o equivalente legal — alta fantasia com orcs, elfos, cavaleiros, vila medieval, masmorra e esgoto, toda com licença verificável.
+
+### Personagens
+
+- https://kiyoz.itch.io/duskborne-enemy-1 (elfo inimigo animado; comercial liberado, proibido usar em IA e revender como pack)
+- https://lyaseek.itch.io/minifvillagers (NPCs de vila; o autor libera "usar como quiser", proíbe revenda e aprecia crédito)
+- os **orcs 2D** da OpenGameArt (*Orc [parts updated]*, *Orc Hero* e *Hunter Orc*) estão em `assets/opengameart.md` (seção Personagens e sprites)
+- o **cavaleiro fantasy** da aamatniekss e o **cavaleiro** do xzany já estão catalogados na seção de personagens; servem como herói/paladino
+
+### Mapas, casas e árvores
+
+- https://rekkimaru.itch.io/dungeon-rpg-tileset (masmorra de RPG com paredes, chão e props; comercial liberado)
+- https://thkaspar.itch.io/micro-tileset-overworld-dungeon (**CC0** — tiles de mundo aberto e masmorra, sem atribuição)
+- https://vryell.itch.io/tiny-dungeon-pack (masmorra compacta; comercial liberado, proibida revenda)
+- o **32x32 Fantasy Tileset** (**CC BY-SA 3.0**), o **Whispers of Avalon: Grassland** (**CC BY 3.0**), o **Dungeon Tileset** (**CC0**) e o **Sewer Tileset** (**CC BY 3.0**) estão em `assets/opengameart.md` (seção Cenários)
+- para vila e floresta, os tilesets do **Pipoya** (seção RPG), da **Butter Milk** (seção Floresta) e o **Tiny Swords** (já catalogado) completam o cenário
+
+### Itens e texturas
+
+- os **ícones de habilidade CC0** da frosty_rabbid, os ícones do **game-icons.net** e os props do **Dungeon Tileset CC0** da OpenGameArt já catalogados cobrem armas, poções e equipamento
+
+### Música e SFX
+
+- https://cosmeleites.itch.io/warcraft-style-music (pacote **original** de música inspirada em Warcraft; comercial liberado com **crédito a Oscar Leites**, proibida redistribuição)
+- https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack (SFX de masmorra; comercial liberado, crédito apreciado)
+- os temas heroicos e de batalha **CC0/OGA-BY** da OpenGameArt estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+### Avaliados e não incluídos
+
+- qualquer fan art da tag **world of warcraft** e rips de personagens, mapas, ícones ou trilha — IP da Blizzard
+- https://sorthen.itch.io/lord-of-the-rings-pack-2 — IP do Tolkien Estate, além de não declarar licença
+- https://sorthen.itch.io/orcs-and-goblins-sprite-pack e https://sorthen.itch.io/elven-lpc-pack — páginas sem licença declarada
+- https://ventilatore.itch.io/the-fantasy-tileset — a **versão gratuita é só não comercial**; a completa é paga
+- https://fertile-soil-productions.itch.io/modular-village-pack — página sem licença declarada, apesar de ser o pack de vila mais próximo do estilo
+- https://leanpus.itch.io/fable-town-npc — a versão gratuita é **só para desenvolvimento**, não para jogo comercial
+- https://raou.itch.io/dark-dun — página sem licença declarada
+- https://incolgames.itch.io/dungeon-platformer-tile-set-pixel-art — libera usar e modificar, mas não afirma uso comercial
+- https://clockworkraven.itch.io/free-rpg-icon-pack-100-accessories-and-armor-clockwork-raven-studios e https://clockworkraven.itch.io/free-rpg-icon-pack-100-weapons-and-po-clockwork-raven-studios — a versão gratuita do autor é de **uso pessoal**
+- https://free-game-assets.itch.io/free-top-down-orc-game-character-pixel-art e https://free-game-assets.itch.io/free-dark-elf-pixel-art-asset-pack — páginas sem licença declarada
+- https://cazwolf.itch.io/pixel-fantasy-tiles-basics — o EULA está num Google Docs externo, não verificável na página
+- https://standout7.itch.io/orc-low-poly, https://quaternius.itch.io/medieval-village-megakit e https://polyyai.itch.io/3d-orc-weapons-pack — packs **3D**
 
 ## itch.io — Bundles e coleções
 
