@@ -43,6 +43,10 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/blue-land-monster-sprites (**CC0** — variante azul dos monstros terrestres)
 - https://opengameart.org/content/limbo-land-monster-sprites (**CC0** — variante limbo dos monstros terrestres)
 - https://opengameart.org/content/red-horn-land-monster (**CC0** — monstro de chifre vermelho)
+- https://opengameart.org/content/2d-soldier (**CC0** — soldado 2D para tema de guerra)
+- https://opengameart.org/content/space-soldier-m484-games (**CC0** — soldado de ficção científica)
+- https://opengameart.org/content/beast-soldier (**CC BY 4.0** — soldado bestial, crédito obrigatório)
+- https://opengameart.org/content/boy-with-a-slingshot (**CC BY 3.0** — garoto com estilingue, útil para quebra-cabeça de física)
 
 ## Armas e itens
 
@@ -60,3 +64,44 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/seamless-grass (**CC0** — textura de grama sem emendas, para mapas top-down)
 - https://opengameart.org/content/seamless-grass-texture-ii (**CC0** — variante da textura de grama)
 - https://opengameart.org/content/blended-textures-of-dirt-and-grass (**CC0** — transições de terra e grama para montar caminhos)
+- https://opengameart.org/content/war-for-the-overworld-tiles (**CC0** — tiles de guerra e fortaleza)
+- https://opengameart.org/content/tank-pack-80 (**CC0** — mais de 80 tanques 2D)
+
+## Música e SFX por tema
+
+Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
+
+### Super-heróis e cidade
+
+- https://opengameart.org/content/heroic-demise-updated-version (**CC BY 3.0** — tema heroico orquestral, crédito obrigatório)
+- https://opengameart.org/content/heroic-minority (**CC BY 3.0** — variação heroica em tom menor)
+- https://opengameart.org/content/heroic-demise-hero-theme (**CC BY 3.0** — versão curta para menu ou trailer)
+
+### Guerra e militar
+
+- https://opengameart.org/content/the-battlefield (**CC0** — tema de campo de batalha)
+- https://opengameart.org/content/battlefield-ouverture (**CC0** — abertura orquestral de batalha)
+- https://opengameart.org/content/epic-cinematic-battlefield-theme (**OGA-BY 3.0** — tema épico, crédito obrigatório)
+- https://opengameart.org/content/gunshot-sounds (**CC0** — pacote de tiros)
+- https://opengameart.org/content/gunshot-sound-effect (**CC0** — tiro único)
+- https://opengameart.org/content/explosion-0 (**CC0** — explosão)
+- https://opengameart.org/content/big-explosion (**CC BY 3.0** — explosão grande, crédito obrigatório)
+
+### Samurai, ninja e combate corpo a corpo
+
+- https://opengameart.org/content/20-sword-sound-effects-attacks-and-clashes (**CC0** — 20 sons de espada, ataques e choques)
+- https://opengameart.org/content/rpg-sound-pack (**CC0** — pacote de sons de RPG, inclui golpes e magia)
+
+### Selva e primatas (estilo Donkey Kong)
+
+- https://opengameart.org/content/tribal-drums (**CC BY-SA 3.0** — tambores tribais em loop, base rítmica de selva)
+
+### Pássaros e quebra-cabeça de estilingue (estilo Angry Birds)
+
+- https://opengameart.org/content/cute-cartoon-jump-sound-effect (**CC BY 3.0** — pulo cartoon)
+- https://opengameart.org/content/funny-comic-cartoon-bounce-sound (**CC BY 3.0** — quique cômico de desenho animado)
+
+### Monstros e yōkai
+
+- https://opengameart.org/content/monster-sound-effects-2 (**CC0** — efeitos de monstros)
+- https://opengameart.org/content/monster-battle-sounds (**CC BY 3.0** — gritos e impactos de batalha)

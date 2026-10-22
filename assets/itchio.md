@@ -181,6 +181,24 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 - https://elvgames.itch.io/free-8-bit-collection-pack (tema de menu, vila, exploração e batalha; comercial liberado com **crédito** a Pegonthetrack & ElvGames, proibida revenda e NFT)
 - https://ragnarrandom.itch.io/retro-game-music (**CC0** — fakebit/chiptune com influência de NES, C-64 e Mega Drive)
 
+**Selva e primatas (estilo Donkey Kong)**
+- os tambores tribais em loop e as camadas de percussão da OpenGameArt estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+**Monstros colecionáveis (estilo Pokémon)**
+- os temas de batalha CC0 e CC BY-SA e os gritos de batalha CC BY 3.0 estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+**Super-heróis e cidade (estilo DC Comics)**
+- as três variações de **Heroic Demise** e **Heroic Minority** (**CC BY 3.0**) estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+**Pássaros e quebra-cabeça de estilingue (estilo Angry Birds)**
+- os loops alegres já catalogados servem bem: **Caketown Cute/Playful** (ver `assets/opengameart.md`), **Three Red Hearts** (tallbeard, CC0) e **MP3OneKawaii Comical** (Megumi Ryu) listados acima
+
+**Guerra e militar**
+- os temas **The Battlefield** e **Battlefield Ouverture** (**CC0**) e o **Epic Cinematic Battlefield Theme** (**OGA-BY 3.0**) estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+**SFX por tema**
+- os pacotes de espadas, tiros, explosões, pulos cartoon e tambores tribais verificados estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
 ### Avaliados e não incluídos (música)
 
 - https://littlenoseismybro.itch.io/epic-japanese-battle-bgm-vol1-creator — a licença gratuita é só para criadores de vídeo e **proíbe uso em jogos**; licença comercial é paga
@@ -600,6 +618,109 @@ Pokémon é propriedade intelectual da Nintendo/Game Freak/ Creatures: sprites, 
 - https://gibbongl.itch.io/gen-2-pokemon-trainer-sprite-and-portraits — sprites de treinadores de Pokémon, IP da Nintendo
 - https://flinkerflitzer.itch.io/pokemon-gen-3-trainer — sprite de treinador de Pokémon, IP da Nintendo
 - https://screensmith.itch.io/pokemon-style-map-generator — é uma ferramenta geradora de mapas, não um pacote de assets
+
+## itch.io — Super-heróis e cidade (estilo DC Comics) (pesquisado em 22/10/2026)
+
+Batman, Superman, Mulher-Maravilha e demais personagens da DC são propriedade da Warner Bros. Discovery: sprites, logotipos, veículos e músicas oficiais **não entram** no catálogo. O que segue é o equivalente legal — heróis mascarados genéricos, cidade noturna e visual de quadrinhos.
+
+### Personagens
+
+- https://aske4.itch.io/antihero-character (herói/anti-herói animado em pixel art; uso comercial liberado sem crédito, proibida revenda isolada ou em compilação)
+- https://5yvalia.itch.io/rpg-type-retro-top-down-urban-characters-spritesheet (personagens urbanos top-down; licença não exclusiva para projeto pessoal ou comercial, proibida redistribuição)
+
+### Mapas, casas e cidade
+
+- https://kenney-assets.itch.io/rpg-urban-kit (**CC0** — quarteirões top-down com prédios, ruas, calçadas, carros, postes e props; base para uma cidade tipo Gotham)
+- https://karsiori.itch.io/free-pixel-art-city-background-pack (**CC0** — fundos parallax de cidade, céu e silhuetas noturnas)
+
+### Itens
+
+- https://moxica.itch.io/medals (medalhas e insígnias para conquistas e ranking; comercial liberado, proibida revenda)
+
+### Música
+
+- as faixas heroicas **CC BY 3.0** da OpenGameArt estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+### Avaliados e não incluídos
+
+- https://galacticgod.itch.io/rpg-maker-batman-character-sets-sv-battlers — personagens da DC, propriedade da Warner
+- https://dk-happy.itch.io/batman — sprite do Batman, IP da DC
+- https://p3ct0.itch.io/bat-man-hat-v2 — item com a marca do Batman, IP da DC
+- https://dreamloft3d.itch.io/bat-mobile-1989 — veículo da DC e ainda por cima **3D**
+- https://istari.itch.io/guide-for-lego-batman-2-dc — é um guia, não um asset
+- https://yasso3mk.itch.io/spider-man — modelo **3D** de personagem da Marvel
+- https://bach20019.itch.io/wonder-woman-character — personagem da DC
+- https://redmaver.itch.io/marvel-character-pack — personagens da Marvel
+- https://toffeecraft.itch.io/superhero-cats — a licença da ToffeeCraft é **só para uso pessoal**
+- https://isiahgames.itch.io/super-hero-mini-music-pack — página sem licença declarada
+- https://najjar320.itch.io/pixel-facades-100-building-textures — página sem licença declarada, apesar de servir bem como fachada de prédio
+
+## itch.io — Pássaros e quebra-cabeça de estilingue (estilo Angry Birds) (pesquisado em 22/10/2026)
+
+Angry Birds é propriedade da Rovio: personagens, nomes, slingshot e trilha oficial **não entram** no catálogo. O que segue é o equivalente legal — pássaros cartoon, aves animadas e cenário alegre para física de estilingue.
+
+### Personagens (aves)
+
+- https://pulsarcp.itch.io/free-pixel-art-animals-birds (**CC0** — 34 animais e pássaros animados, sem atribuição)
+- https://muteassets.itch.io/pixel-critters (15 peixes, pássaros e insetos em 16x16 com 4 direções; comercial liberado, proibida revenda)
+- https://pop-shop-packs.itch.io/pigeons-2d-pixel-asset-pack (pombos animados + galinheiro, cochos e três casinhas de pássaro; comercial liberado, proibida redistribuição como asset)
+
+### Mapas, casas e árvores
+
+- o **Kenney RPG Urban Kit** (**CC0**, seção de super-heróis acima) resolve casas e cenário urbano
+- as **árvores e arbustos** do pack de selva de Jesse Munguia (seção Selva) e os tiles de madeira/pedra do templo em ruínas da CraftPix (`assets/misc-domains.md`) servem como estrutura destrutível
+- o **garoto com estilingue** (**CC BY 3.0**) está em `assets/opengameart.md` (seção Personagens e sprites)
+
+### Música e SFX
+
+- os loops alegres da seção **Pássaros e quebra-cabeça de estilingue** em `## itch.io — Sons e música`, acima
+- os pulos e quiques cartoon **CC BY 3.0** da OpenGameArt estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+### Avaliados e não incluídos
+
+- https://mshezikhan.itch.io/angry-rock-asset-pack — o asset mais parecido com o tema, mas a página **não declara licença**
+- https://yoursuka.itch.io/angry-birds-like — é um jogo pronto, não um pacote de assets
+- https://csaf.itch.io/farmstead-00-the-yard-flock — aves de fazenda, mas a página não declara licença
+- https://meowsterpiece-07.itch.io/background-assets — árvores e fundo de "Bird Valley" sem licença declarada
+- https://thespriteshop.itch.io/dark-owl-sprites — página sem licença declarada
+- https://2dvillshop.itch.io/cartoon-game-background — fundo vetorial gratuito, mas sem autorização comercial explícita
+- qualquer fan art da tag **angry-birds** — personagens da Rovio
+
+## itch.io — Guerra e militar (pesquisado em 22/10/2026)
+
+Guerra é tema, não franquia: aqui entram soldados, veículos, armas e cenário de conflito com licença verificável — útil para campanha, mapa de cerco ou batalha histórica.
+
+### Personagens e veículos
+
+- https://tiago-melo.itch.io/httpstiago-meloitchiofree-assets-soldier-version-two (soldado com idle, corrida, saque de arma, tiro, guarda e morte; comercial liberado com **crédito** aos autores)
+- https://87accident.itch.io/top-down-military-humvee-vehicle-16-directions-free-sprite-pack (**CC BY 4.0** — veículo militar top-down em 16 direções, com permissão de recolorir e editar)
+- o **soldado 2D**, o **soldado de ficção científica** e o **soldado bestial** da OpenGameArt (**CC0** e **CC BY 4.0**) estão em `assets/opengameart.md` (seção Personagens e sprites)
+
+### Armas e itens
+
+- https://zintoki.itch.io/pixwep (**CC0** — armas modulares para montar rifles e pistolas)
+- https://kepons.itch.io/world-war-2-weapons (ícones de armas da 2ª Guerra; comercial liberado, proibida redistribuição)
+- https://bigmack.itch.io/wwii-mega-gun-pack (armas da 2ª Guerra em pixel art; comercial liberado, crédito apreciado)
+- o **Tank Pack (80+)** da OpenGameArt (**CC0**) está em `assets/opengameart.md` (seção Cenários, tilesets e construções)
+
+### Mapas e texturas
+
+- https://snowycocoon.itch.io/camouflage-texture-pack-1 (**CC0** — texturas de camuflagem para veículos, roupas e UI)
+- os **tiles de guerra/fortaleza** da OpenGameArt (**CC0**) estão em `assets/opengameart.md` (seção Cenários, tilesets e construções)
+- para ruínas e casas destruídas, usar o templo em ruínas da CraftPix (`assets/misc-domains.md`) e as catacumbas da seção dark fantasy
+
+### Música e SFX
+
+- as faixas de campo de batalha **CC0/OGA-BY 3.0** e os pacotes de tiros e explosões **CC0** estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+### Avaliados e não incluídos
+
+- https://free-game-assets.itch.io/free-2d-tank-game-assets — página sem licença declarada
+- https://free-game-assets.itch.io/free-top-down-military-boats-pixel-art — página sem licença declarada
+- https://chasersgaming.itch.io/rpg-militarybasesms — tileset de base militar perfeito para o tema, mas **sem licença declarada** na página (o autor costuma publicar em CC0 na OpenGameArt, vale procurar lá antes de usar)
+- https://voicebosch.itch.io/radio-soldier-announcer-audio-pack — pacote de locução militar, mas os termos de licença não estão na página
+- https://zsky2000.itch.io/military-base-pack — pack **3D**
+- https://oxygen3d.itch.io/game-ready-military-base-asset-pack — pack **3D**
 
 ## itch.io — Bundles e coleções
 
