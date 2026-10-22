@@ -932,7 +932,6 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/cozy-puzzle-in-game-1 (**CC0** — em jogo puzzle cozy 1, do MintoDog)
 - https://opengameart.org/content/cozy-puzzle-in-game-2 (**CC0** — em jogo puzzle cozy 2, do MintoDog)
 - https://opengameart.org/content/funky-house (**CC0** — house funky, do Of Far Different)
-- https://opengameart.org/content/loop-house-in-a-forest (**CC BY 3.0** — loop casa na floresta, do HorrorPen)
 - https://opengameart.org/content/doll-house (**CC BY 4.0** — casa de boneca, do Alexandr Zhelanov)
 - as faixas **Funny and Cute Town Theme**, **Cute March Music**, **Happy Tune**, **Happy Arcade Tune**, **Talking Cute**, **Cute Bytes OST**, **Happy Adventure Loop**, **Puppydogs Playful**, **Happy Synths Loop** já estão catalogadas na seção **Match-3 / Candy Crush** e servem para o clima cozy
 - os **jingles** do Kenney (**CC0**) e o **KitFit Soundtrack** (**CC BY 3.0** / CC BY 4.0) já catalogados servem para UI, notificações e minigames
