@@ -74,6 +74,12 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/dead-tree-1 (**CC BY 3.0** — árvore morta 2D, crédito obrigatório)
 - https://opengameart.org/content/dead-tree (**CC BY 3.0** — árvore morta, variante)
 - https://opengameart.org/content/dead-tree-yars-tree-rework (**CC BY 3.0** — releitura de árvore morta)
+- https://opengameart.org/content/woodcutter-cabin-2 (**CC0** — cabana de lenhador 2D, casa de floresta)
+- https://opengameart.org/content/forest-tiles (**CC0** — tiles de floresta)
+- https://opengameart.org/content/forest-background (**CC0** — fundo de floresta)
+- https://opengameart.org/content/a-platformer-in-the-forest (**CC0** — kit de plataforma na floresta)
+- https://opengameart.org/content/16x16-forest-tiles (**CC BY 4.0** — tiles de floresta 16x16, crédito obrigatório)
+- https://opengameart.org/content/lpc-forest-tiles (**CC BY-SA 3.0** — tiles de floresta do projeto LPC)
 
 ## Música e SFX por tema
 
@@ -120,3 +126,11 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/horror-atmosphere (**CC0** — atmosfera de horror)
 - https://opengameart.org/content/horror-music (**CC0** — faixa de horror)
 - https://opengameart.org/content/horror-game-menu (**CC BY 3.0** — tema de menu de horror, crédito obrigatório)
+
+### Floresta
+
+- https://opengameart.org/content/forest-ambience (**CC0** — ambiência de floresta)
+- https://opengameart.org/content/forest (**CC BY 3.0** — tema de floresta, crédito obrigatório)
+- https://opengameart.org/content/forest-1 (**CC BY-SA 3.0** — variação de tema de floresta)
+- https://opengameart.org/content/loop-house-in-a-forest (**CC BY 3.0** — loop calmo de casa na floresta)
+- https://opengameart.org/content/cabin-fever (**CC0** — tema de cabana)

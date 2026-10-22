@@ -24,5 +24,6 @@
 | Pássaros/estilingue (estilo Angry Birds) | pulsarcp.itch.io, muteassets.itch.io, pop-shop-packs.itch.io, opengameart.org |
 | Guerra/militar | zintoki.itch.io, tiago-melo.itch.io, kepons.itch.io, bigmack.itch.io, 87accident.itch.io, snowycocoon.itch.io, opengameart.org |
 | Zumbis/apocalipse | ittaimanero.itch.io, 0-mem0ry.itch.io, snowhex.itch.io, bsgamestudio.itch.io, domin-dev.itch.io, jehal.itch.io, assetsmithy.itch.io, yukino1228.itch.io, sceneforgestudio.itch.io, kenney-assets.itch.io, opengameart.org |
+| Floresta | karsiori.itch.io, zedpxl.itch.io, immunitys.itch.io, fawf-art.itch.io, harning.itch.io, ariaflenz.itch.io, devkidd.itch.io, wenrexa.itch.io, edermunizz.itch.io, firepious.itch.io, snowhex.itch.io, superdark.itch.io, lyaseek.itch.io, itsdavalen.itch.io, farbeyond-studio.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |

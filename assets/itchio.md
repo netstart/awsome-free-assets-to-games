@@ -81,7 +81,6 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://game-endeavor.itch.io/mystic-woods (Mystic Woods 16x16 pixel art)
 - https://farm-animal.itch.io/farm (pack fazenda, animais, personagens, UI, música)
 - https://maaot.itch.io/mossy-cavern (caverna atmosférica 2D HD)
-- https://toffeecraft.itch.io/forest-nature-pack (300+ itens natureza)
 - https://jamiebrownhill.itch.io/solaria-exteriors (exteriors tileset 16x16 top-down)
 - https://jamiebrownhill.itch.io/solaria-farming-crafting (farming crafting 16x16)
 - https://snowhex.itch.io/harvest-summer-forest-pack (floresta verão para farming/RPG)
@@ -768,6 +767,55 @@ Zumbi é tema livre, então dá para usar packs de apocalipse com licença clara
 - https://atomicrealm.itch.io/post-apocalyptic-world — pack **3D** low-poly
 - https://maxparata.itch.io/voxel-zombies, https://maxparata.itch.io/isometriczombieapocalypse-monogon e https://maxparata.itch.io/voxelzombieapocalypse — voxel/3D
 - https://majadroid.itch.io/3d-apocalyptic-building-city-cc0 — **CC0**, mas é 3D
+
+## itch.io — Floresta (pesquisado em 22/10/2026)
+
+Assets 2D de floresta temperada: tilesets top-down e de plataforma, árvores soltas, fundos em parallax, personagens e música. Vale para mapa de travessia, vila na mata ou floresta amaldiçoada.
+
+### Personagens
+
+- https://superdark.itch.io/enchanted-forest-characters (16x16: bandido da floresta, lobo, urso, povo-cogumelo em três tamanhos, troll, centauros e guardião dourado; comercial liberado, sem crédito)
+- https://lyaseek.itch.io/miniffanimals (animais da floresta com idle, andar, ataque e morte; o autor libera "usar como quiser", proíbe revenda e aprecia crédito)
+- os **monstros de floresta** da MonoPixelArt já catalogados na seção **Monstros e yōkai** completam os inimigos
+
+### Mapas, casas e árvores
+
+- https://karsiori.itch.io/woods-tileset-and-background (**CC0** — tileset de mata + fundo, sem restrições)
+- https://karsiori.itch.io/free-pixel-art-tree-pack (**CC0** — pack de árvores para montar bosques)
+- https://zedpxl.itch.io/pixelart-forest-asset-pack (top-down de RPG com tiles e objetos de quatro estações; comercial liberado, proibida revenda e uso em IA)
+- https://immunitys.itch.io/resurected-rpg-tile (top-down 32x32 com chão, árvores e props; comercial liberado, proibida redistribuição)
+- https://fawf-art.itch.io/16x16-forest-tileset (tileset 16x16; comercial liberado, proibida revenda)
+- https://harning.itch.io/tiny-forest-tileset (plataforma 32x32; comercial liberado, proibida revenda e NFT)
+- https://ariaflenz.itch.io/forest-mini-tileset (mini tileset de floresta; comercial em projetos ilimitados, proibida redistribuição avulsa)
+- https://devkidd.itch.io/pixel-tree-asset-pack (árvores em vários tamanhos; comercial liberado, proibida revenda avulsa)
+- https://wenrexa.itch.io/pack-natural-decoration-trees (27 árvores PNG de 220 px a 249 px; comercial liberado)
+- https://edermunizz.itch.io/free-pixel-art-forest (fundo em 9 camadas de parallax, PSD + PNG; comercial **com crédito**, proibido NFT/crypto)
+- https://firepious.itch.io/wyrdwood (fundos de floresta sombria e noturna em 16:9; comercial liberado, proibida revenda avulsa; **IA assistida** e retocada à mão)
+- o **Harvest Summer Forest Pack** da SnowHex (comercial liberado, proibida revenda, NFT e treino de IA) já está listado na seção **Mapas, tilesets e cenários**, acima
+- https://itsdavalen.itch.io/free-forest-locations (**CC BY** — 20 mapas de floresta 30x30 em PNG, ótimos como referência de composição ou cenário de VTT)
+- a **cabana do lenhador** (**CC0**), os **Forest Tiles** (**CC0**), o **Forest Background** (**CC0**), o **A platformer in the forest** (**CC0**), os **16x16 Forest Tiles** (**CC BY 4.0/3.0**) e os **[LPC] Forest tiles** (**CC BY-SA 3.0**) estão em `assets/opengameart.md`
+
+### Itens
+
+- os **arbustos de frutinhas** da Openmon (**CC0**), os **props pequenos** do AxulArt (**CC BY 4.0**) e os **ícones de sobrevivência** do Jehal (**CC BY 3.0**) já catalogados servem para coleta, cogumelos e itens de acampamento
+
+### Música e SFX
+
+- https://farbeyond-studio.itch.io/atmos (**CC BY 4.0** — loops de floresta escura, chuva e ambiências; **crédito obrigatório** a FarBeyond Studio)
+- as faixas **Forest Ambience** (**CC0**), **forest** (**CC BY 3.0**), **forest** (**CC BY-SA 3.0**), **Loop — House In a Forest** (**CC BY 3.0**) e **Cabin Fever** (**CC0**) estão em `assets/opengameart.md` (seção Música e SFX por tema)
+
+### Avaliados e não incluídos
+
+- https://toffeecraft.itch.io/forest-nature-pack — a licença da ToffeeCraft é **só para uso pessoal**
+- https://shubibubi.itch.io/nature-things — a **versão gratuita é só para projetos não comerciais**; a completa é paga
+- https://jestan.itch.io/trees — página sem licença declarada
+- https://georgec.itch.io/tree-pack — página sem licença declarada
+- https://sythpixie.itch.io/pixel-cabin-interiors — interiores de cabana lindos, mas sem licença declarada
+- https://aleprite.itch.io/cabin-2d — página sem licença declarada
+- https://axolotie.itch.io/axolotie-2h1s — página sem licença declarada
+- https://seliel-the-shaper.itch.io/gentle-forest — a licença é a **Mana Seed User License**, externa e não declarada na página; verificar antes de usar
+- https://elegantcrow.itch.io/psx-retro-style-tree-pack — **CC0**, mas são modelos 3D
+- https://dark-hallways.itch.io/mythical-woods-music — página sem licença declarada
 
 ## itch.io — Bundles e coleções
 
