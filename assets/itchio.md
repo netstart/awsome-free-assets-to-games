@@ -155,6 +155,38 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://comigo.itch.io/music-loops (CoMiGo's Short Music Loops [CC0] - loops de música CC0)
 - https://pudretediablo.itch.io/butterfly (Butterfly - Looped Ambience Sounds Pack - sons ambiente em loop)
 
+### Música por tema (pesquisado em 22/10/2026)
+
+Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já estavam catalogadas acima aparecem só como referência, sem repetir a URL.
+
+**Doces, algodão-doce e clima infantil**
+- https://tallbeard.itch.io/three-red-hearts-prepare-to-dev (**CC0** — loops chiptune alegres e curtos, bons para fase de doce/nuvem)
+
+**Samurai e Japão feudal**
+- https://t-studio-tst.itch.io/free-music-tokaido-gojusan-tsugi (faixa gratuita inspirada nas 53 estações do Tōkaidō; crédito desejável a "みんなの創作支援サイトＴスタ")
+- https://tandess.itch.io/free-songs-pack (72 músicas e instrumentais japoneses royalty-free; **crédito e link obrigatórios**, termos em tandess.com, algumas faixas têm restrição de conteúdo adulto)
+- https://megumi-ryu.itch.io/free-japanese-fusion-loops-music-asset-omatsuri-techno-bgm (loop de festival japonês; comercial liberado com **crédito** a "YUKARINOTI")
+- https://megumi-ryu.itch.io/japanese-music-box2 (caixinha de música japonesa, boa para cena calma; mesmo crédito)
+
+**Ninja**
+- a BGM de fase ninja da Megumi Ryu está listada na seção **Ninja e shinobi**; as faixas de taiko e de batalha da OpenGameArt estão em `assets/opengameart.md`
+
+**Dark fantasy / Diablo**
+- https://crowshade.itch.io/horror-music-pack (**CC BY** — ambiência de horror; uso comercial com crédito a Crow Shade)
+- https://clement-panchout.itch.io/yet-another-free-music-pack (**CC BY 4.0** — pack variado para tensão e exploração; crédito "Music by Clement Panchout", proibida revenda e uso em IA)
+
+**Retrô / plataforma estilo Mario**
+- https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack (10 faixas 8-bit/NES em loop; **CC BY-SA 4.0**, uso comercial liberado)
+- https://xdeviruchi.itch.io/16-bit-fantasy-adventure-music-pack (versão 16-bit/SNES, mesma licença)
+- https://elvgames.itch.io/free-8-bit-collection-pack (tema de menu, vila, exploração e batalha; comercial liberado com **crédito** a Pegonthetrack & ElvGames, proibida revenda e NFT)
+- https://ragnarrandom.itch.io/retro-game-music (**CC0** — fakebit/chiptune com influência de NES, C-64 e Mega Drive)
+
+### Avaliados e não incluídos (música)
+
+- https://littlenoseismybro.itch.io/epic-japanese-battle-bgm-vol1-creator — a licença gratuita é só para criadores de vídeo e **proíbe uso em jogos**; licença comercial é paga
+- https://chillmindscapes.itch.io/free-chiptune-music-pack-3-chillmindscapes — página sem licença declarada (só links de streaming)
+- https://tiptoptomcat.itch.io/8-bit-gameboy-songs-gb-studio — página sem licença declarada
+
 ---
 
 ## itch.io — Fontes (tipografia)
@@ -410,6 +442,53 @@ Assets 2D para masmorra isométrica, catacumbas e loot, no clima de Diablo II.
 - https://free-game-assets.itch.io/free-cursed-land-top-down-pixel-art-tileset (tileset top-down de terra amaldiçoada 16x16; licença Freebie da CraftPix)
 - https://maxstack.itch.io/demons-realm (12 faixas de música dark fantasy, 44 min, em loop; **CC BY-SA 4.0**)
 - https://monopixelart.itch.io/dark-fantasy-enemies-asset-pack (inimigos dark fantasy pixel; verificar licença na página)
+
+## itch.io — Plataforma estilo Mario (8/16-bit) (pesquisado em 22/10/2026)
+
+Assets 2D de plataforma clássica (blocos, tubos, moedas, colinas, nuvens) sem usar propriedade intelectual da Nintendo. Licença verificada na página de cada asset.
+
+### Personagens e packs de plataforma
+
+- https://jonathan-so.itch.io/creatorpack (**CC0** — pack grande de plataforma: blocos, inimigos, itens e cenários)
+- os três packs da Pixel Frog (Pixel Adventure, Kings and Pigs e Treasure Hunters) já estão listados na seção **Multi-categoria** e são **CC0**
+- https://v3x3d.itch.io/block-land (tileset 16x16 "Mario/Minecraft-like"; **CC0 declarado no título do pack**, proibida revenda)
+- https://v3x3d.itch.io/paper-pixels (tileset 8x8 de plataforma simples; **CC0 declarado no título**, proibida revenda)
+- https://gandalfhardcore.itch.io/free-pixel-art-sidescroller-asset-pack-32x32-overworld (pacote overworld 32x32 com personagem, tiles e objetos; comercial liberado, proibida revenda e uso em IA)
+- https://balloon-cart.itch.io/reactor-man-asset-pack (fase completa estilo Mega Man: personagens, tiles, itens; comercial liberado, proibida revenda/compartilhamento)
+- https://balloon-cart.itch.io/elemental-zone (outra fase no mesmo estilo e licença)
+
+### Tilesets de chão, caverna e masmorra
+
+- https://axulart.itch.io/dirt-and-grass-2d-platform-tileset (**CC BY 4.0** — terra e grama, base para fase inicial)
+- https://axulart.itch.io/dirt-grass-2d-platform-tileset-ver-2 (**CC BY 4.0** — versão 2 do mesmo tileset)
+- https://rottingpixels.itch.io/nature-platformer-tileset (tileset de natureza 16x16; comercial liberado, crédito apreciado)
+- https://rottingpixels.itch.io/platformer-dungeon-tileset (tileset de masmorra 16x16; mesma licença)
+- https://itchabop.itch.io/trapmoor-an-8bit-platformer-tileset (tileset 8-bit de masmorra; comercial liberado, proibida redistribuição)
+
+### Música
+
+As faixas retrô/chiptune para esse estilo estão na seção **Música por tema** de `## itch.io — Sons e música`.
+
+### Avaliados e não incluídos
+
+Os packs abaixo são **propriedade intelectual da Nintendo** (personagens, fontes e modelos de Mario, Mario 64 e derivados). Não entram no catálogo mesmo sendo distribuídos de graça, porque uso comercial e redistribuição violam direito autoral e marca:
+
+- https://sachira-madhushan.itch.io/super-mario-game-assets
+- https://nineal3.itch.io/character-mario
+- https://webfussel.itch.io/more-bit-8-bit-mario
+- https://scarloxy.itch.io/mpo
+- https://batthecatgames.itch.io/super-mario-unity
+- https://thewolfbunny64.itch.io/super-mario-bros-nes
+- https://lemonlover110.itch.io/gamma-shade-super-mario-64-beta-font
+- https://debugerror.itch.io/sm64-pipe-remake
+
+Sem licença declarada (página só descreve o conteúdo):
+
+- https://juhosprite.itch.io/simple-platformer-16
+- https://juhosprite.itch.io/super-mango-2d-pixelart-platformer-asset-pack16x16
+- https://anokolisa.itch.io/action
+- https://shackhal.itch.io/multi-platformer-tileset
+- https://koji-marumugi.itch.io/nes-style-free-graphics
 
 ## itch.io — Bundles e coleções
 

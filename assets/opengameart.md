@@ -14,6 +14,15 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/5-chiptunes-action (5 chiptunes action — Juhani Junkala / SubspaceAudio)
 - https://opengameart.org/content/oriental-somber (Oriental Somber — Tozan)
 - https://opengameart.org/content/512-sound-effects-8-bit-style (512 SFX 8-bit)
+- https://opengameart.org/content/taiko-drums-seamless-loop (**CC BY 3.0** — taiko em loop contínuo, base rítmica de samurai)
+- https://opengameart.org/content/blackmoor-ninjas-battle-theme (**CC BY 3.0** — Matthew Pablo, tema de batalha de ninjas)
+- https://opengameart.org/content/samurai (**CC BY 4.0** — TAD, tema de samurai)
+- https://opengameart.org/content/revenge (**CC BY 4.0** — TAD, tema de vingança/duelo)
+- https://opengameart.org/content/drums-of-dawn (**CC BY 3.0** — tambores épicos para batalha)
+- https://opengameart.org/content/tokyo-chase (**CC BY-SA 3.0** — perseguição urbana japonesa, boa para fuga nos telhados)
+- https://opengameart.org/content/caketown-cuteplayful (**CC BY-SA 3.0** — tema doce e brincalhão, feito para fase de doces)
+- https://opengameart.org/content/dark-ambient-loop-13 (**CC BY 3.0** / OGA-BY 3.0 — ambiência sombria em loop para masmorra)
+- https://opengameart.org/content/scary-ambient-wind (**CC BY 3.0** — vento assustador, camada de ambiente para cripta)
 
 ## Personagens e sprites
 

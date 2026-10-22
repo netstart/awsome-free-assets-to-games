@@ -9,7 +9,7 @@
 | Ícones | game-icons.net, merchant-shade.itch.io, kettoman.itch.io, gvesster.itch.io |
 | UI/Interface | kibyra.itch.io, dobo-ui.itch.io, toffeecraft.itch.io, humblepixel.itch.io, elvgames.itch.io |
 | Sons/SFX | heltonyan.itch.io, leohpaz.itch.io, freesound.org, zapsplat.com, soundeffect-lab.info |
-| Música | hydrogene.itch.io, tallbeard.itch.io, maou.audio, amachamusic.chagasi.com, megumi-ryu.itch.io |
+| Música | hydrogene.itch.io, tallbeard.itch.io, maou.audio, amachamusic.chagasi.com, megumi-ryu.itch.io, xdeviruchi.itch.io, opengameart.org |
 | Fontes | github.com/TakWolf, not-jam.itch.io, ggbot.itch.io, fontlibrary.org, fonts.google.com |
 | VFX/Shaders | itch.io/c/1124621/pixel-art-fx, untiedgames.itch.io, godotshaders.com, binbun3d.itch.io |
 | Fofos/infantis | cupnooble.itch.io, kenmi-art.itch.io, shubibubi.itch.io, toffeecraft.itch.io, tinytreats.itch.io, last-tick.itch.io, bobkingg.itch.io, bowpixel.itch.io |
@@ -17,5 +17,6 @@
 | Samurai/Japão feudal | momongaa.itch.io, paulthepirateking.itch.io, mmorwynn.itch.io, lyniadesign.itch.io, favi-gmdv.itch.io, nanasha.itch.io, willyee.itch.io, arma-labs.itch.io, nacl1234.itch.io, opengameart.org, craftpix.net |
 | Ninja/shinobi | luizmelo.itch.io, styloo.itch.io, finalgatestudios.itch.io, kelano-studio.itch.io, bikegol.itch.io, seiyouh.itch.io, megumi-ryu.itch.io, opengameart.org, craftpix.net |
 | Dark fantasy/Diablo | trevor-pupkin.itch.io, foozlecc.itch.io, szadiart.itch.io, krishna-palacio.itch.io, williamqm.itch.io |
+| Plataforma estilo Mario (8/16-bit) | pixelfrog-assets.itch.io, jonathan-so.itch.io, v3x3d.itch.io, axulart.itch.io, rottingpixels.itch.io, balloon-cart.itch.io |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |
