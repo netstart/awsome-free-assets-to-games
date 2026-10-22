@@ -279,6 +279,67 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 
 ---
 
+## itch.io — Samurai, ninja e Japão feudal (pesquisado em 22/10/2026)
+
+Packs 2D para mapas de vila, templo, floresta de bambu e duelo. Licença verificada na página de cada asset.
+
+### Personagens samurai e ninja
+
+- https://hugues-laborde.itch.io/pixelartsamurai (samurai com idle, corrida, ataque, dash, parry e morte + 2 inimigos e cenário animado; uso comercial liberado)
+- https://cyanglaz.itch.io/samuri-spritesheet-64x64 (samurai fofo 64x64 com idle, ataque e defesa; **CC0**)
+- https://favi-gmdv.itch.io/samurai-fighter-asset-pack (6 ataques, cura, dano, morte, idle, corrida, salto e postura zen + tileset + fundo parallax; **CC0**, proibida revenda)
+- https://lyniadesign.itch.io/tiny-pixel-japan-samurai-character-pack (samurai 23x25 com 11 animações, incluindo 3 ataques; uso comercial liberado, proibida revenda)
+- https://lyniadesign.itch.io/tiny-pixel-japan-male-character-pack (personagens masculinos do mesmo estilo; mesma licença)
+- https://lyniadesign.itch.io/tiny-pixel-japan-female-character-pack (personagens femininas do mesmo estilo; mesma licença)
+- https://bytebox.itch.io/samurai-character (samurai com idle, hit e animações extras; uso comercial liberado, proibida revenda)
+- https://kbpixelart.itch.io/ninja-enemy-pack (ninjas amarelo, azul, verde e vermelho com idle, caminhada, ataque, dano e morte; uso comercial liberado, proibida revenda)
+- https://10kstudios.itch.io/free-2d-ninja-sidescroller-character (ninja 165x165 com idle, ataque, caminhada, corrida, morte e salto; uso comercial liberado)
+- https://xzany.itch.io/samurai-2d-pixel-art (já listado acima — samurai pixel, licença custom: comercial OK)
+- https://xzany.itch.io/free-knight-2d-pixel-art (cavaleiro do mesmo autor, útil como inimigo; comercial OK)
+
+### Mapas, casas, templos e árvores
+
+- https://momongaa.itch.io/bamboo-forest-basic-tiles (**CC0** — 4 fundos em camadas 320x180, terreno, bambu, grama, pedras, torii, estátua e lampião)
+- https://paulthepirateking.itch.io/japanese-themed-tilesets (**CC BY 3.0** — 17 tilesets + 8 sprites de personagem, formato RPG Maker MV; crédito a "Damian Gasinski (Gassasin)" e "Paul Barden")
+- https://mmorwynn.itch.io/east-free-sample (amostra com bambu, casas, jardins, cercas e santuários; uso comercial liberado, proibida revenda como pack)
+- https://nanasha.itch.io/nashas-samurai-tales-free-autumn-maples (bordos de bordo de outono; uso comercial liberado, proibida revenda; o pack completo tem 1131 objetos de vila samurai)
+- https://lyniadesign.itch.io/tiny-pixel-japan-parallax-background (fundo parallax de Japão no mesmo estilo pixel)
+- https://the-outlander.itch.io/free-japanese-backgrounds (**CC0** — 4 cenários japoneses em 1536x1024)
+- https://bubbabba.itch.io/sakura-shrine-village (já listado — cenário de santuário com cerejeiras 16x16)
+
+### Texturas japonesas
+
+- https://rekkimaru.itch.io/32-pixel-art-japanese-themed-textures (32 texturas 32x32 de tema japonês; uso comercial liberado)
+- https://rekkimaru.itch.io/paper-pixel-art (papel japonês em pixel; verificar licença na página)
+
+### Música de tema japonês
+
+- https://megumi-ryu.itch.io/mp3onejapanese-mood (música japonesa de clima/samurai; ler as restrições — proibido revender faixas ou treinar IA)
+- https://megumi-ryu.itch.io/mp3onejapanese-chiptune (versão chiptune do mesmo tema)
+- https://megumi-ryu.itch.io/mp3onegoing-to-battle (faixa de batalha, útil para duelo de samurai)
+- https://megumi-ryu.itch.io/free-japanese-folklore-loops-music-asset-tanuki-strategy-bgm (já listado — loops folclóricos japoneses)
+
+### Avaliados e não incluídos
+
+- https://toffeecraft.itch.io/ninja-asset-pack — o pack gratuito é **apenas uso pessoal**; a versão comercial é paga
+- https://pzuh.itch.io/ninja-adventure-free-sprites — página sem licença declarada
+- https://garebearproductionz.itch.io/japanese-dojo-tileset-free — página sem licença declarada
+- https://rg-poly.itch.io/stylized-asia-enviroment-megapack-unity-urp — 3D/Unity URP, fora do escopo 2D
+
+## itch.io — Dark fantasy estilo Diablo (pesquisado em 22/10/2026)
+
+Assets 2D para masmorra isométrica, catacumbas e loot, no clima de Diablo II.
+
+- https://trevor-pupkin.itch.io/lords-of-pain (inspirado em Diablo II e Halls of Torment; uso comercial liberado, proibida redistribuição/revenda)
+- https://foozlecc.itch.io/rpg-ui-set-1 (UI de RPG estilo Diablo; **CC0**)
+- https://szadiart.itch.io/rogue-fantasy-catacombs (catacumbas 16x16 com tochas e velas animadas; domínio público, proibida revenda)
+- https://krishna-palacio.itch.io/minifantasy-dungeon (masmorra minifantasy; uso comercial liberado, **crédito obrigatório** a Krishna Palacio + envio de link do projeto)
+- https://krishna-palacio.itch.io/minifantasy-creatures (criaturas no mesmo estilo; mesma licença)
+- https://williamqm.itch.io/dark-enemies-pack (inimigos 32x32 e 64x64: ceifador, behemoth, paragon; uso comercial liberado, proibida revenda avulsa)
+- https://free-game-assets.itch.io/free-cursed-land-top-down-pixel-art-tileset (tileset top-down de terra amaldiçoada 16x16; licença Freebie da CraftPix)
+- https://maxstack.itch.io/demons-realm (12 faixas de música dark fantasy, 44 min, em loop; **CC BY-SA 4.0**)
+- https://monopixelart.itch.io/dark-fantasy-enemies-asset-pack (inimigos dark fantasy pixel; verificar licença na página)
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)
