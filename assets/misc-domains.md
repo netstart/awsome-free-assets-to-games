@@ -69,6 +69,74 @@ Agregadores e bancos de assets variados (música, sons, imagens, fontes, vetores
 - https://musopen.org/ (partituras e música domínio público)
 - https://soundimage.org/ (músicas, sons e imagens gratuitas)
 
+## Música — Novos sites descobertos (2024-2026)
+
+### Itch.io — Music Packs por Criador
+
+- https://tallbeard.itch.io/music-loop-bundle — [CC-0 (Domínio Público)] 200+ música loops para jogos, atualizado recentemente; uso comercial livre sem atribuição obrigatória; suporta modificação e redistribuição
+- https://not-jam.itch.io/not-jam-music-pack — [CC-0] 70+ tracks across multiple genres; CC0 public domain dedication; attribution not required
+- https://not-jam.itch.io/not-jam-music-pack-2 — [CC-0] Pack 2 com tracks chiptune e 41 sound effects Gameboy/NES style
+- https://not-jam.itch.io/possessor-ost — [CC-0] OST do jogo Possessor; tracks standalone e looping
+- https://hydrogene.itch.io/high-quality-8-bit-musics — [CC-0] 18 tracks 8-bit/chiptune; loops seamless; uso comercial livre sem crédito
+- https://hydrogene.itch.io/high-quality-16-bit-music — [CC-0] 28 tracks 16-bit/SNES-style RPG music; loops seamless
+- https://superbachboy.itch.io/super-bach-boy — [CC-0] 11 tracks Bach rearrangements Game Boy style; crédito não obrigatório
+- https://skyeash.itch.io/skyetunes — [CC-0] 300+ tracks não polidos; CC0 universal; attribution optional
+- https://tallshortgames.itch.io/super-bach-boy — [CC-0] J.S. Bach arr. Game Boy; CC0 public domain
+- https://safetystoatstudios.itch.io/free-vgms — [CC-0] Música VGM para Sega Genesis/Mega Drive; .vgm, .wav, .dmf formats
+- https://nightwolfuk.itch.io/free-cc0-background-music-for-indie-games — [CC0/Pixabay License] música cinematográfica/trip-hop; uso comercial com crédito
+- https://alkakrab.itch.io/free-sci-fi-game-music-pack — [CC-0] 8 tracks sci-fi style; absolutamente livre para uso comercial
+- https://alkakrab.itch.io/free-10-rpg-game-ambient-tracks-music-pack-no-copyright — [CC-0] 10 tracks ambient RPG
+- https://thebishop.itch.io/freeloopablemusic — [CC-0 1.0] loops retro NDS/PS1/Windows; crédito não obrigatório
+- https://lonepeakmusic.itch.io/no-copyright-music-pack-1 — [CC-BY 3.0] 8 tracks multi-genre; crédito obrigatório
+- https://lonepeakmusic.itch.io/free-ambient-music — [CC-BY 4.0] quase 3 horas ambient; crédito obrigatório
+- https://lonepeakmusic.itch.io/free-retro-gaming-music-pack — [CC-BY] 11 tracks retro gaming MIDI; crédito obrigatório
+- https://lonepeakmusic.itch.io/free-ambient-music-pack-1 — [CC-BY 4.0] 7 tracks ambient; crédito obrigatório
+- https://lonepeakmusic.itch.io/free-retro-16-bit-music-pack-1 — [CC-BY] 10 tracks retro 16-bit; crédito obrigatório
+- https://composerscout.com/free-game-music/ — [CC-0] 10 tracks hand-picked CC0 para jogos indie; crédito não obrigatório
+- https://itsthebishop.itch.io/freeloopablemusic — [CC-0 1.0] loops retro; crédito não obrigatório, mas apreciado
+- https://freepd.com/ — [CC-0] catálogo público domínio de música; busca por licença
+
+### OpenGameArt.org — Music Sections
+
+- https://opengameart.org/content/free-music-0 — [atribuição não requerida] música para jogos sem atribuição necessária
+- https://opengameart.org/content/cc0-music — [CC-0] coleção de música CC0 do OpenGameArt
+- https://opengameart.org/content/royalty-free-game-music-loops — [CC-0] loops de música para jogos (DnB, Dubstep, EDM, Downtempo, 80s retro)
+- https://opengameart.org/content/chiptune-battle-music — [CC-0] música de batalha estilo RPG
+- https://opengameart.org/content/10-free-chiptune-tracks-a-bag-of-chips — [CC-0] 10 tracks chiptune
+- https://opengameart.org/content/two-simple-game-music-loops — [CC-0] 2 loops simples (menu e gameplay)
+- https://opengameart.org/content/background-music-loop — [CC-0] loop de música de fundo
+- https://opengameart.org/content/elective-cave — [CC-0] 8-bit chiptune comercial ok
+- https://opengameart.org/content/indiscriminate-midi-music — [CC-0] colección de MIDIs públicos domínio
+- https://opengameart.org/content/chase — [CC-0] tema de perseguição eletrônico/synth
+- https://opengameart.org/content/free-music-pack — [CC-0] 7 tracks orquestral, rock e experimental
+- https://opengameart.org/content/cc0-remakes — [CC-0] remakes CC0 de músicas antigas
+- https://opengameart.org/content/cozy-puzzle-in-game-1 — [CC-BY-SA 4.0] música puzzle cozy (mix de licenças)
+- https://opengameart.org/content/four-original-midi-loops — [CC-0] 4 loops MIDI para jogos
+
+### GitHub — Repositórios CC0 Music
+
+- https://github.com/jfpx/cc0-media-library — [CC-0] 118 tracks originais Ogg Vorbis; versão catalogada
+- https://github.com/btahir/open-lofi — [CC-0 1.0] 150+ tracks lo-fi across 10 categorias; uso comercial sem atribuição
+- https://github.com/Beatscribe/homebrew_vgm — [CC-0] jingles e fanfares para homebrew games
+- https://github.com/0lhi/freepd — [CC-0] Free Public Domain Music catalog
+- https://github.com/btahir/open-lofi — [CC-0] 150+ lo-fi tracks public domain
+
+### Sites Específicos Adicionais
+
+- https://aquumgifts.github.io/cozy-game-assets/cozy-music-lite/ — [Royalty-free] 16 loops musicais para jogos "cozy" + versões calm (16 OGG); crédito não necessário
+- https://aquumgifts.github.io/cozy-game-assets/cozy-music-sampler/ — [CC-BY 4.0] 7 loops musicais cozy; crédito obrigatório
+- https://aquumgifts.itch.io/cozy-farm-music — [Royalty-free] 8 loops seasons farm + calm versions
+- https://aquumgifts.itch.io/cozy-music-complete — [Royalty-free] 126 seamless loops + calm versions for farming & RPG games
+- https://zapsplat.com/ — [ZapSplat Standard] 750+ música tracks free for commercial & non-commercial use
+- https://pixabay.com/music/ — [Pixabay Content License] 17,840+ music tracks; comercial use sem atribuição (exceto redistribuição standalone)
+- https://soundza.com/packs/electronic-game-music-loops — [CC-0] 33 loops eletrônico para jogos; royalty-free, sem atribuição
+- https://soundza.com/packs/rpg-chiptunes — [CC-0] 12 chiptune RPG loops; royalty-free, sem atribuição
+- https://soundza.com/packs/town-and-exploration-music — [CC-0] 25 town/exploration themes; OGG format; CC0
+- https://nullrights.com/track/06mqi5wjpt — [CC-0 1.0] pack loopable game music; public domain dedication
+- https://coyotl.com/ — [verificar licença] músicas para jogos (pesquisar posteriormente)
+- https://jordanwinslow.me/ — [Free Commercial Use With Attribution] biblioteca pessoal de hundreds tracks eletronic & orchestral
+- https://joshwoodward.com/ — [Commercial Use With Attribution] 200+ songs primarily guitar-driven; tags de mood/style
+
 ## SourceForge (busca por assets)
 
 - https://sourceforge.net/directory/games/?q=game+assets+free&license=public-domain (43 projetos Jogos com licença Public Domain — verificar cada projeto individualmente para assets reutilizáveis)

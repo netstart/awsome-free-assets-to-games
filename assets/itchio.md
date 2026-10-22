@@ -110,6 +110,10 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pop-shop-packs.itch.io/lilly-2d-pixel-assett-pack (personagem feminino pixel)
 - https://pop-shop-packs.itch.io/frogs-pixel-asset-pack (sapos pixel)
 - https://innerchildstudio.itch.io/100-happy-trees-icon-pack (100 ícones árvores felizes)
+- https://leckie1989.itch.io/witch-night-bits-free-pack-spoopy-jam-8 (Witch Night Bits — bruxas, vassouras, luas, familiars, grimórios, cristais, caldeirões; singles/sheets 1x/2x/4x; **CC0**, uso livre sem crédito; IA assistida, código não geradores de imagem)
+- https://leckie1989.itch.io/cold-haunt-icons-free-pack (Cold Haunt Icons — ícones horror 16x16 paleta azul/cinza: lanternas, névoa, portas trancadas, máscaras, figuras sombrias, facas, relógios; **CC0**, uso livre sem crédito; IA assistida, código não geradores de imagem)
+- https://leckie1989.itch.io/argon-neon-bits-free-pack (Argon Neon Bits — sprites neon ciano/magenta: orbes energia, drones, portais, chips, armas, escudos, coroas, UI bits; **CC0**, uso livre sem crédito; IA assistida, código não geradores de imagem)
+- https://v3x3d.itch.io/micro-classics-snake (Micro Classics Snake — kit Snake-like 8x8 e 16x16: 7 cores cobra, 2 estilos, 5 backgrounds, 6 walls, 11 comidas, coletáveis cogumelos/ovos/crânios, decorações, interativos boost/conveyor, partículas, UI score/length/level/time; **CC BY 4.0**, crédito apreciado, uso comercial livre; sem IA generativa)
 
 ---
 
@@ -304,6 +308,44 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 - https://kyukei-dot.itch.io/japanese-sweets-pixel-pack (doces japoneses wagashi em pixel; verificar licença na página antes de usar)
 - https://mogawa.itch.io/japanese-sweets-1616-asset-pack (doces japoneses 16x16; verificar licença na página antes de usar)
 
+#### Match-3 / Candy Crush — packs prontos (OpenGameArt, todos verificados — URLs só em `assets/opengameart.md`)
+
+- **Candy Pack 1** (**CC0**, da lumimae — doces coloridos variados)
+- **Candy Jam Pixel Candy** (**CC0**, do xhunterko)
+- **Super Candy Set** (**CC0**, da M484 Games — grande conjunto de doces)
+- **Candy Stuff** (**CC0**, da M484 Games)
+- **More Candy** (**CC0**, da M484 Games)
+- **LPC Candy** (**CC BY 3.0** / CC BY-SA 3.0, do caeles — doces no estilo LPC)
+- **8x8 Platformer Tileset: Candy Land** (**CC BY 3.0**, do MadByte — tileset micro)
+- **Candy Match-3 Animated Spinning Sprites** (**CC BY 3.0**, do codeinfernogames — doces girando animados)
+- **Gem Match-3 Set** (**CC0**, da Sylly — gemas para match-3)
+- **Match-3 Tiles** (**CC0**, do Matriax — tiles de match-3)
+- **Match-3 Assets** (**CC0**, do taftcreates — kit completo)
+- **Match-3** (**CC0**, do Buch — peças de match-3)
+- **Match-3 GUI** (**CC0**, do vk — interface pronta)
+- **Vector Match Three Blocks** (**CC0**, do ChiliGames — blocos vetoriais)
+- **Gem Icons** (**CC BY-SA 3.0**, do Clint Bellanger — ícones de gemas)
+- **Gem Tiles** (**CC BY 3.0**, do brooss — tiles de gemas)
+- **Match-3 Donut Graphics** (**CC0**, do psychicparrot — donuts para match-3)
+- **Donut Pack** (**CC0**, do William — donuts variados)
+- **Cupcake Character Walk and Jump** (**CC0**, do PWL — personagem cupcake animado)
+- **The Sweet Tooth** (**CC BY 3.0**, do PepperRacoon — kit de doces)
+- **Donut** (**CC0**, do joa — donut simples)
+- **Ice Cream** (**CC0**, do Xom Adept — sorvete)
+- **Ice Pops** (**CC BY 3.0**, do Game Developer S — picolés)
+- **Sweets** (**CC0**, da MELLE — doces variados)
+- **16x16 Sweets** (**CC BY-SA 3.0**, do magdum — doces 16x16)
+- **Cute Cakes** (**GPL 3.0**, da SCaydi — bolos fofos)
+- **Blinking Candy** (**CC BY 3.0**, do magdum — doces piscando)
+- **Creepy Cake Land** (**CC BY-SA 3.0**, do madmarcel — terra de bolos assustadora)
+- **Gingerbread Man** (**CC BY 3.0** / OGA-BY 3.0, do AntumDeluge — homem de gengibre)
+- **LPC Style Gingerbread** (**CC0**, da WhitePaperChan — gengibre estilo LPC)
+- **LPC Revised Christmas Pack** (**CC BY-SA 3.0**, da Death's Darling — pack natalino LPC)
+- **Neapolitan Dessert Game Kit + UI** (**CC BY 4.0** / CC BY 3.0, do Darkvinter — kit completo com UI)
+- **Bakery Isometric** (**CC BY 4.0**, do khaledpng — padaria isométrica)
+- **Kitchen Background (4 styles)** (**CC0**, do jcrown41 — fundos de cozinha)
+- **Platformer Art: Candy Caverns** (**CC0**, do Kenney — cavernas de doces para plataforma)
+
 ### Nuvens, céu e algodão-doce (pesquisado em 22/10/2026)
 
 - https://kassjak.itch.io/20-clouds-pack (20 nuvens de tamanhos variados; **CC0**, sem atribuição)
@@ -325,6 +367,22 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 - https://michael-jay-rov.itch.io/savanna-creatures (criaturas de savana; verificar licença na página)
 - https://michael-jay-rov.itch.io/pixel-dragons (dragões pixel; **CC BY 4.0**, com **arte assistida por IA** declarada pelo autor)
 - https://pixivan.itch.io/top-down-forest-tileset (tileset top-down de floresta com árvores, arbustos, flores e cogumelos; uso comercial liberado, proibida revenda)
+
+### Novos assets descobertos via itch.io Community / Busca direta (pesquisado em 22/10/2026)
+
+Assets encontrados acessando diretamente o board 2D Art do itch.io e filtrando por "free" + "pixel art", verificando licença na página de cada asset.
+
+#### Farming / Cozy / Top-down completo
+- https://danieldiggle.itch.io/sunnyside (Sunnyside World — pack completo farming/town builder 16x16: 20 ações de personagem humanos/goblins/esqueletos, tileset edifícios/interiores/natureza, UI, 11 cultivos com 5 estágios, 7 penteados, cena exemplo GameMaker; **uso comercial livre, modificação permitida, crédito apreciado, não revender/reempacotar, não usar para treino IA**; sem IA generativa)
+
+#### Multi-categoria / Coleções massivas
+- https://ansimuz.itch.io/gothicvania-patreon-collection (Legacy Collection — 40+ personagens/inimigos animados 1000+ frames, 45 ambientes tilesets/parallax, 20+ VFX, 1600+ PNGs + sources Aseprite/PSD; 4 mundos: Gothic Fantasy, Sci-Fi, Top-Down RPG, Cartoon Platformer; **livre para projetos comerciais**; sem IA generativa)
+
+#### Templates de personagem / Base para estudo
+- https://erisesra.itch.io/character-templates-pack (Character Templates Pack — 2 bases 16x16 e 16x32, 8 direções: walk, run, idle, interact, jump, attack, mining, death, woodchopping, gardening, blocking, roll + mais; PNG + Aseprite; **uso comercial e não-comercial livre, crédito apreciado mas não obrigatório; não revender o template nem criar asset packs derivados**; sem IA generativa)
+
+#### Plataforma / Action RPG
+- https://merakintsugi.itch.io/platformer-character-pack (Platformer character pack — personagem action RPG completo: idle, walk, crouch, run, jump, double jump, air dash, slide, back dodge, combos 3-5 hits, jump attack, dodge attack, vertical attack, hurt, heal, ladder, ledge, wall slide/jump + hit effects/smoke; .aseprite com layers separados FX/personagem; sample grátis (idle+walk), pacote completo $15+; **comercial e não-comercial livre, não revender/redistribuir como assets, crédito opcional, modificação livre, proibido IA/NFT**; sem IA generativa)
 
 ---
 
@@ -473,6 +531,7 @@ Assets 2D de plataforma clássica (blocos, tubos, moedas, colinas, nuvens) sem u
 - https://gandalfhardcore.itch.io/free-pixel-art-sidescroller-asset-pack-32x32-overworld (pacote overworld 32x32 com personagem, tiles e objetos; comercial liberado, proibida revenda e uso em IA)
 - https://balloon-cart.itch.io/reactor-man-asset-pack (fase completa estilo Mega Man: personagens, tiles, itens; comercial liberado, proibida revenda/compartilhamento)
 - https://balloon-cart.itch.io/elemental-zone (outra fase no mesmo estilo e licença)
+- https://brackeysgames.itch.io/brackeys-platformer-bundle (Brackeys Platformer Bundle — pack inicial plataforma: personagem cavaleiro, slime, tileset world, frutas, plataformas, moedas, música, SFX, fonte; **CC0**, uso comercial livre, sem atribuição obrigatória; combina assets de analogStudios_ e RottingPixels; sem IA generativa)
 
 ### Tilesets de chão, caverna e masmorra
 
@@ -1989,6 +2048,7 @@ Homem-Aranha, Vingadores, X-Men e todo o resto da Marvel são propriedade da Dis
 - SFX: **Punch** (**CC0**, do qubodup), **Punch, Slap 'n Kick** (**CC BY 3.0**, do CGEffex), **37 Hits/Punches** (**CC0**, do Independent.nu), **Air Whoosh** (**CC0**, do pyranostudios — para o voo do herói) e as explosões **Explosion** (**CC0**, do TinyWorlds) e **Big Explosion** (**CC BY 3.0**, da Blender Foundation), já catalogadas na seção **Guerra e militar**
 - as três variações de **Heroic Demise** e **Heroic Minority** (**CC BY 3.0**) já catalogadas continuam sendo o tema de abertura
 
+
 ### Avaliados e não incluídos
 
 - **IP da Marvel/Disney**: fan games, sprites do Homem-Aranha, Vingadores, X-Men, uniformes e trilhas oficiais
@@ -2049,3 +2109,23 @@ Homem-Aranha, Vingadores, X-Men e todo o resto da Marvel são propriedade da Dis
 - https://carelesswizard.itch.io/ (carelesswizard - animais fofos)
 - https://megumi-ryu.itch.io/ (劉 恵 Megumi Ryu - música kawaii japonesa)
 - https://zonezonezonebgm.itch.io/ (zøne - Yume Kawaii BGM)
+
+## itch.io — Pacotes 2D gratuitos recentes — Not Jam e gvesster (verificado em 22/10/2026)
+
+Novos packs gratuitos de assets 2D com licença de uso comercial verificada, encontrados na busca por tag 2D e pixel art do itch.io. Todos são CC0 ou permitem uso comercial explícito, sem atribuição obrigatória, salvo indicação em contrário. Sem uso de IA generativa.
+
+### Fontes (pixel)
+- https://not-jam.itch.io/not-jam-font-pack (Not Jam Font Pack — 28 fontes pixel CC0 em .ttf; uso comercial livre em qualquer mídia (jogos, pixel art, vídeos); sem atribuição obrigatória; sem IA generativa; Reino Unido. Licença: Creative Commons Zero v1.0 Universal.)
+
+### Ícones (UI)
+- https://gvesster.itch.io/free-icon-pack (gvesster Free Icon Pack — ícones gratuitos em PNG 64px e 256px, SVG somente na versão DEV paga; uso comercial permitido e trabalho para clientes liberado; crédito opcional mas apreciado; licença personalizada do autor — não permite revenda, redistribuição como pack próprio, nem uso para treinamento de IA.)
+
+### Sprites, tilesets e itens (pixel art 8×8 / 2-bit)
+- https://not-jam.itch.io/sky-farms-asset-pack (Sky Farms Asset Pack — tileset 8×8, sprites, ícones e fonte .ttf em CC0; uso comercial livre em projetos comerciais e não-comerciais; modificação livre; sem IA generativa.)
+- https://not-jam.itch.io/haunted-hotel-asset-pack (Haunted Hotel Asset Pack — sprites de jogador, zumbis, monstros, tileset 8×8 (.png e .tres Godot 3.x), itens, ícones de UI e FX em CC0; uso comercial livre; sem IA generativa.)
+
+### Música e SFX (chiptune / lo-fi)
+- https://not-jam.itch.io/not-jam-music-pack (Not Jam Music Pack — faixas de jogos em .wav e .ogg, CC0; uso comercial livre, sem atribuição obrigatória; sem IA generativa.)
+
+### 16-bit Pixel Art (ansimuz)
+- https://ansimuz.itch.io/ (Legacy Collection — FREE 16-bit Pixel Art Assets: sprites, tilesets e fundos para platformers e RPGs; gratuito; ver página do criador para o link direto do pack e confirmar a licença na página de download.)

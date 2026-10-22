@@ -9,13 +9,26 @@ Levantamento feito em 22/10/2026.
 ## Comunidades com assets gratuitos declarados
 
 - https://itch.io/community (fórum oficial do itch.io — quadro "Creativity & Art")
-- https://itch.io/community/board/10095/2d-art (quadro **2D Art** — artistas publicam sprites, pixel art e packs gratuitos; licença declarada por post)
-- https://itch.io/community/board/10094/art (quadro geral de arte)
-- https://itch.io/community/board/10020/help-wanted-or-offered (quadro de colaboração — pedidos de arte e artistas oferecendo trabalho)
+- https://itch.io/board/10095/2d-art (quadro **2D Art** — artistas publicam sprites, pixel art e packs gratuitos; licença declarada por post)
+- https://itch.io/board/10094/art (quadro geral de arte)
+- https://itch.io/board/10020/help-wanted-or-offered (quadro de colaboração — pedidos de arte e artistas oferecendo trabalho)
 - https://discussions.unity.com/c/community-showcases/17 (Unity Discussions — vitrine da comunidade, com threads de assets gratuitos para projetos comerciais)
 - https://discussions.unity.com/t/free-pixel-art-assets-for-commercial-indie-games-626249/626249 (thread: pixel art gratuita para jogos indie comerciais)
 - https://forum.godotengine.org/ (fórum oficial do Godot — seção de arte/assets; muitos packs CC0 divulgados por criadores)
 - https://opengameart.org/forums (fóruns da OpenGameArt — pedidos, colaboração e anúncio de packs com licença CC0/CC-BY)
+
+## Assets descobertos no fórum do GDevelop (forum.gdevelop.io)
+
+- **SoundImage.org** (Eric Matyas) — https://soundimage.org/ — 1460+ músicas OGG/MP3 (looping e não-looping), 100+ SFX categorizados, 4000+ texturas fotografadas; **uso comercial livre com atribuição obrigatória** (música: "Music by Eric Matyas, www.soundimage.org"; SFX: crédito em "Sound effects"; texturas: crédito em "Texture Images"); licença non-attribution disponível por pagamento ($30/track música, $5/SFX, $5/textura); sem IA generativa
+
+## Assets descobertos no board 2D Art do itch.io Community (itch.io/board/10095/2d-art)
+
+Posts recentes com assets gratuitos e licença declarada:
+
+- https://leckie1989.itch.io/witch-night-bits-free-pack-spoopy-jam-8 (Witch Night Bits — bruxas, vassouras, luas, familiars, grimórios, cristais, caldeirões; **CC0**)
+- https://leckie1989.itch.io/cold-haunt-icons-free-pack (Cold Haunt Icons — ícones horror 16x16 paleta azul/cinza; **CC0**)
+- https://leckie1989.itch.io/argon-neon-bits-free-pack (Argon Neon Bits — sprites neon ciano/magenta: orbes, drones, portais, chips, armas, escudos, coroas, UI; **CC0**)
+- https://v3x3d.itch.io/micro-classics-snake (Micro Classics Snake — kit Snake-like 8x8/16x16: 7 cores, 2 estilos, 5 backgrounds, 6 walls, 11 comidas, coletáveis, decorações, interativos, partículas, UI; **CC BY 4.0**)
 
 ## Comunidades de pixel art (networking e contratação)
 

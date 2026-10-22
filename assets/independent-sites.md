@@ -12,6 +12,7 @@ Sites independentes de assets, principalmente da Europa.
 - https://poly.pizza/ (Poly Pizza — modelos 3D, CC0)
 - https://www.freepoly.org/ (FreePoly — modelos 3D, CC0)
 - https://rodzilla.itch.io/material-maker (Material Maker — criador de materiais)
+- https://soundimage.org/ (SoundImage.org — Eric Matyas, EUA; 1460+ músicas OGG/MP3 looping, 100+ SFX categorizados, 4000+ texturas fotografadas; uso comercial livre **com atribuição obrigatória** — música: "Music by Eric Matyas, www.soundimage.org"; SFX: crédito em "Sound effects"; texturas: crédito em "Texture Images"; licença não-attribution disponível por pagamento)
 
 ### Removidos (não verificáveis / bloqueados / pago)
 

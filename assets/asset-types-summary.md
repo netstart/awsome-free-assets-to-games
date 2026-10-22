@@ -13,7 +13,8 @@
 | Fontes | github.com/TakWolf, not-jam.itch.io, ggbot.itch.io, fontlibrary.org, fonts.google.com |
 | VFX/Shaders | itch.io/c/1124621/pixel-art-fx, untiedgames.itch.io, godotshaders.com, binbun3d.itch.io |
 | Fofos/infantis | cupnooble.itch.io, kenmi-art.itch.io, shubibubi.itch.io, toffeecraft.itch.io, tinytreats.itch.io, last-tick.itch.io, bobkingg.itch.io, bowpixel.itch.io |
-| Doces/confeitaria | bobkingg.itch.io, uchimama.itch.io, danaida.itch.io, jennpixel.itch.io, luminleveret.itch.io, itsblubrry.itch.io |
+| Doces/confeitaria | bobkingg.itch.io, uchimama.itch.io, danaida.itch.io, jennpixel.itch.io, luminleveret.itch.io, itsblubrry.itch.io, opengameart.org |
+| Match-3 / Candy Crush | opengameart.org |
 | Café/padaria cozy (cafeland) | karsiori.itch.io, aquumgifts.itch.io, chuckyassets.itch.io, bubbabba.itch.io, zeschpix.itch.io, venicemenacebakingco.itch.io, thirdangle.itch.io, oddblotstudios.itch.io, lornn.itch.io, yaninyunus.itch.io, 2yeet.itch.io, mysty25.itch.io, love-in-rar.itch.io, flarevindle.itch.io, renrenbear.itch.io, pompack.itch.io, cecixp.itch.io, wafusoundworks.itch.io, lolurio.itch.io, moneywithjjcom.itch.io, opengameart.org |
 | Samurai/Japão feudal | momongaa.itch.io, paulthepirateking.itch.io, mmorwynn.itch.io, lyniadesign.itch.io, favi-gmdv.itch.io, nanasha.itch.io, willyee.itch.io, arma-labs.itch.io, nacl1234.itch.io, opengameart.org, craftpix.net |
 | Ninja/shinobi | luizmelo.itch.io, styloo.itch.io, finalgatestudios.itch.io, kelano-studio.itch.io, bikegol.itch.io, seiyouh.itch.io, megumi-ryu.itch.io, opengameart.org, craftpix.net |
