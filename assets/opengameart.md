@@ -143,6 +143,11 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/space-shooter-sprites (**CC BY 3.0** — sprites de space shooter, do Blarget2)
 - https://opengameart.org/content/top-down-sci-fi-shooter-pack (**CC BY-SA 3.0** — pack de shooter sci-fi top-down, do Tatermand)
 - https://opengameart.org/content/cozy-space-station-walking-crew-animated-top-down-characters (**CC BY 4.0** — tripulação animada de estação espacial, do roberto mellado)
+- https://opengameart.org/content/blocky (**CC BY 3.0** — personagem de blocos, do greggman)
+- https://opengameart.org/content/blocky-animated-classic-hero-edit (**CC BY 3.0** — versão animada do herói blocado, do Umz)
+- https://opengameart.org/content/brickhead-vs-the-blocky-bastards (**CC0** — kit de plataforma com herói e inimigos em blocos, do surt)
+- https://opengameart.org/content/toy-pirates-art-pack (**CC BY-SA 3.0** — piratas e cenário em estilo brinquedo, do rrcaseyr)
+- https://opengameart.org/content/bubble-tile-char-and-tiles (**CC BY 3.0** / GPL 2.0 / GPL 3.0 — personagem e tiles em blocos bolha, do qubodup)
 
 ## Armas e itens
 
@@ -214,6 +219,11 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/asteroids-1 (**CC0** — asteroides em sprite, do BPjr)
 - https://opengameart.org/content/2d-asteroid-sprite (**CC BY 3.0** — asteroide animado, do nightzero)
 - https://opengameart.org/content/pixel-art-2d-asteroid-pack (**CC BY 4.0** — pack de asteroides em pixel art, do Cayden Franklin)
+- https://opengameart.org/content/32px-toy-capsules (**CC0** — cápsulas de brinquedo 32x32, do Airos)
+- https://opengameart.org/content/blocks-set-01 (**CC BY 3.0** — blocos de montar, do GameArtForge)
+- https://opengameart.org/content/numbers-blocks-set-01 (**CC BY 3.0** — blocos com números, do GameArtForge)
+- https://opengameart.org/content/breakout-brick-breaker-tile-set-free (**CC0** — tijolos de quebra-bloco, do imaginelabs)
+- https://opengameart.org/content/brick-border (**CC0** — moldura de tijolos para UI, do nicubunu)
 
 ## Cenários, tilesets e construções
 
@@ -384,6 +394,18 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/cozy-space-backdrops-rotating-planets-asteroids-and-seamless-nebulas (**CC BY 4.0** — planetas girando, asteroides e nebulosas sem emenda, do roberto mellado)
 - https://opengameart.org/content/metal-panel (**CC BY-SA 3.0** / GPL 2.0 / GPL 3.0 — painel de metal, para parede de nave)
 - https://opengameart.org/content/spaceship-hull (**CC BY-SA 3.0** / GPL 2.0 / GPL 3.0 — casco de nave, do schorote)
+- https://opengameart.org/content/toy-brick-pack (**CC0** — pack de blocos de brinquedo para plataforma, do Kenney)
+- https://opengameart.org/content/isometric-blocks (**CC0** — blocos isométricos, do Kenney)
+- https://opengameart.org/content/a-blocky-dungeon (**CC0** — masmorra em blocos 16x16, do Buch)
+- https://opengameart.org/content/blue-brick-tileset (**CC0** — tileset de tijolo azul, do Nimnon)
+- https://opengameart.org/content/pixel-brick-house (**CC0** — casa de tijolo em pixel art, do GrumpyDiamond)
+- https://opengameart.org/content/brick-building-0 (**CC0** — prédio de tijolo, do SpriteAttack)
+- https://opengameart.org/content/brick-block (**CC0** — bloco isométrico de construção, do mart)
+- https://opengameart.org/content/plastic-pine-tree (**CC BY 3.0** — pinheiro de plástico, do nosycat)
+- https://opengameart.org/content/brick-patterns (**CC0** — padrões de tijolo, do rfc1394)
+- https://opengameart.org/content/brick-walls (**CC BY-SA 3.0** — paredes de tijolo, do delconis)
+- https://opengameart.org/content/plastic-batch-of-9-seamless-textures-with-normalmaps (**CC BY 3.0** — 9 texturas de plástico sem emenda, do Keith333)
+- https://opengameart.org/content/yellow-painted-plastic-seamless-tileable-texture-1744x3039 (**CC BY 3.0** — plástico amarelo pintado, sem emenda)
 
 ## Música e SFX por tema
 
@@ -563,3 +585,12 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/magic-moment (**CC BY 4.0** — momento mágico instrumental, do Stefan_Composer)
 - https://opengameart.org/content/magic-tracks (**CC BY 4.0** — faixas mágicas em loop, do Alexandr Zhelanov)
 - https://opengameart.org/content/no-more-magic (**CC BY 3.0** — tema orquestral de magia perdida, do HorrorPen)
+
+### Brinquedo, blocos e lúdico
+
+- https://opengameart.org/content/toy-soldiers (**CC0** — marcha de soldadinhos de brinquedo, do Zane Little Music)
+- https://opengameart.org/content/quirky-jazz (**OGA-BY 3.0** / CC0 — jazz brincalhão, do Spring Spring)
+- https://opengameart.org/content/quirky-runner (**CC BY 4.0** — corrida lúdica, do Eric Matyas)
+- https://opengameart.org/content/8-bit-quirky-waltz (**CC BY 4.0** — valsa 8-bit engraçada, do Wolfgang_)
+- https://opengameart.org/content/nintendo-style-quirky-music-loop-01 (**CC BY 4.0** — loop lúdico estilo 8-bit, do PlayOnLoop)
+- https://opengameart.org/content/arcade-oddities-looping (**CC BY 3.0** — loop arcade excêntrico, do Eric Matyas)

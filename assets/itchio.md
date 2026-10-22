@@ -1692,6 +1692,66 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 - **3D**: https://beardyluke.itch.io/beardy-lukes-mini-space-pack, https://zenteaseeker.itch.io/black-horned-space-ship, https://maxparata.itch.io/voxel-spaceships e https://kaylousberg.itch.io/space-base-bits
 - já rejeitados na seção **Metroid** e que continuam fora: **Space Shooter Assets (Space Rage)** do Ravenmore (pago por projeto), **Space Backgrounds** e **Spaceship Shooter Environment** do ansimuz (sem licença) e **Pixel Space Background Generator** / **Pixel Planet Generator** do Deep-Fold (sem licença)
 
+## itch.io — Brinquedo de montar (estilo Lego) (pesquisado em 22/10/2026)
+
+LEGO é marca da LEGO Group, e minifigures, sets, logos e jogos licenciados são IP: nada disso entra, nem de graça. O equivalente legal é o **mundo de brinquedo de encaixe**: blocos plásticos coloridos, baseplates, personagens blocados, casas de tijolo, cápsulas de brinquedo, texturas de plástico e trilha lúdica. Os packs abaixo são arte original com licença verificada.
+
+### Personagens blocados
+
+- na OpenGameArt: **Blocky** (**CC BY 3.0**, do greggman — personagem de blocos), **Blocky [Animated] — Classic Hero Edit** (**CC BY 3.0**), **Brickhead vs. the Blocky Bastards** (**CC0** — kit de plataforma com herói e inimigos em blocos), **Toy Pirates art pack** (**CC BY-SA 3.0** — personagens e cenário em estilo brinquedo) e **Bubble Tile Char and Tiles** (**CC BY 3.0** / GPL)
+- para o herói "bonequinho de montar", o **Pixel Platformer** do Kenney (**CC0**, já catalogado) dá o corpo em blocos, e o **Blocky** a folha de animação
+- os piratas de brinquedo do **Toy Pirates** funcionam como NPCs e inimigos sem precisar de minifigure
+
+### Mapas e tilesets de blocos
+
+- https://screamingbrainstudios.itch.io/tinybreakoutpack (**CC0** — tijolos, raquetes e bolas coloridas para uma fase "quebra-blocos")
+- https://devilsworkshop.itch.io/big-pixel-isometric-block-pack-free-2d-sprites (**CC BY 4.0** — blocos isométricos em pixel art, com crédito)
+- https://shallow-lagoon.itch.io/mega-isometric-block-pack (blocos isométricos royalty-free para comercial e não comercial)
+- https://mewki.itch.io/nature-isometric-blocks (blocos de natureza isométricos; comercial liberado, proibida revenda)
+- https://sandstormdev.itch.io/platformer-tileset (tileset de plataforma; comercial liberado, proibida revenda)
+- na kenney.nl: **Brick Pack** (106 peças), **Platformer Bricks** (150 peças) e **Block Pack** (100 peças de terreno/vila), todos **CC0** — ver `assets/kenney.md`
+- na OpenGameArt: **Toy Brick pack** (**CC0**, do Kenney — o pack que dá o visual de bloco de brinquedo), **A Blocky Dungeon** (**CC0**, do Buch), **Isometric Blocks** (**CC0**, do Kenney) e **Blue Brick Tileset** (**CC0**)
+- para o "chão de baseplate", o **Breakout (Brick Breaker) Tile Set** (**CC0**) e as texturas de tijolo da seção de texturas abaixo resolvem
+
+### Casas e construções
+
+- na OpenGameArt: **Pixel Brick House** (**CC0**, do GrumpyDiamond), **Brick Building** (**CC0**, do SpriteAttack) e **Brick Block** (**CC0** — bloco isométrico de construção)
+- o **Block Pack** do Kenney (**CC0**) monta casa, torre e loja só encaixando peças
+- para a vila de brinquedo, reaproveite as fachadas e interiores das seções **Farm**, **Stardew** e **Cafeland**, todas já catalogadas, trocando o acabamento pelas texturas de plástico/tijolo desta rodada
+- o **Toy Pirates** (**CC BY-SA 3.0**) traz torre e construções de brinquedo prontas para o mapa
+
+### Árvores e vegetação de brinquedo
+
+- na OpenGameArt: **Plastic Pine Tree** (**CC BY 3.0** — pinheiro de plástico, do nosycat)
+- não existe pack grande de "árvore de brinquedo": o caminho é o **Foliage Pack (100x)** do Kenney (**CC0**) e as árvores da **karsiori** (**CC0**) já catalogadas, aplicadas sobre o chão de blocos
+- os coqueiros de plástico da seção **Velocidade/mascote** e as plantas da seção **Cafeland** completam a vegetação em estilo brinquedo
+
+### Itens, cápsulas e blocos de letra
+
+- na OpenGameArt: **32px Toy Capsules** (**CC0**, do Airos), **Blocks — Set 01** e **Numbers Blocks — Set 01** (**CC BY 3.0**, do GameArtForge), **Brick Border** (**CC0** — moldura de blocos para UI) e **Breakout (Brick Breaker) Tile Set** (**CC0**)
+- as moedas/studs e os power-ups saem do **Brick Pack** e do **Pixel Platformer** do Kenney (**CC0**)
+- para o item "peça rara", use as gemas **CC0** já catalogadas na seção **Velocidade/mascote**
+
+### Texturas de plástico e tijolo
+
+- na OpenGameArt: **Brick Patterns** (**CC0**, do rfc1394), **Brick Walls** (**CC BY-SA 3.0**, do delconis), **Plastic — Batch of 9 Seamless Textures** (**CC BY 3.0**, do Keith333) e **Yellow Painted Plastic Seamless Tileable Texture** (**CC BY 3.0**)
+- https://juliovii.itch.io/plasticpk01 (**CC BY**, uso comercial liberado, proibida revenda — plástico bolha, fita e materiais)
+- a **textura de tijolo CC0** já catalogada na seção de combate medieval serve de base, e o **Stone Tiles — Checkered** (**CC BY-SA 4.0**) dá o piso xadrez de baseplate
+
+### Música e SFX
+
+- na OpenGameArt: **Toy Soldiers** (**CC0**, do Zane Little Music), **Quirky Jazz** (**OGA-BY 3.0** / CC0), **Quirky Runner** (**CC BY 4.0**), **8-bit Quirky Waltz** (**CC BY 4.0**), **Nintendo Style — Quirky Music Loop 01** (**CC BY 4.0**, do PlayOnLoop) e **Arcade Oddities (Looping)** (**CC BY 3.0**, do Eric Matyas)
+- o **Caketown — Cute/Playful** (**CC BY-SA 3.0**) já está catalogado na seção de doces e serve para a fase de brinquedo
+- os **jingles** do Kenney (**CC0**) e o **512 Sound Effects 8-bit Style** (**CC0**) já catalogados cobrem o "clique" de encaixe, a coleta e o pulo
+
+### Avaliados e não incluídos
+
+- **IP da LEGO**: qualquer pack, sprite ou jogo com LEGO/minifigure no título — https://maxcs6.itch.io/lego-minifigure-character-asset, https://aceoverdeuce.itch.io/lego-head-rain-transparent-alpha-asset, https://aceoverdeuce.itch.io/lego-rain-transparent-alpha-asset, https://chemmayt.itch.io/lego-el-chavo, https://moutonoir.itch.io/legohalloween, https://golden-orb-studios.itch.io/lego-star-wars-remastered, https://soupysandwich1.itch.io/lego-swat-the-video-game-demo, https://studio-games-n.itch.io/lego-scooby-doo, https://goldvr15.itch.io/lego-gold, https://markmcmanmon.itch.io/lego-block-builder, https://bettinigames.itch.io/lego-mower-simulator, https://testlego.itch.io/lego-test, https://equineentree584.itch.io/las-aventuras-de-tao, https://santhosh-btw.itch.io/lego-simulator e https://santhosh-btw.itch.io/the-lego-simulator-pc-version
+- **"LEGO-compatible" / "Lego-like"**: https://polyducks.itch.io/assets-lego-compatible-blocks (**pago**, US$ 25, e usa a marca no nome) e https://pixelarchitecture.itch.io/pixelbricks (sem licença declarada) — a arte pode ser original, mas o nome se apoia na marca; o **Toy Brick pack** e o **Brick Pack** do Kenney cobrem o mesmo uso
+- **pagos**: https://2toes.itch.io/boxrpg-character (US$ 1) e https://friendlyppl.itch.io/toy-box-bricks-plastic-texture-pack (US$ 22,95, materiais PBR)
+- **sem licença declarada**: https://pucci-games.itch.io/stones-brick-textures, https://eustace.itch.io/texture-pack-brick, https://sing-kong.itch.io/bricks-block-ultimate-character, https://mhdev.itch.io/pixel-brick-textures, https://sillyshrimp.itch.io/rubber-duck, https://derademislight.itch.io/little-train-toys, https://laredgames.itch.io/toy-plane-free e https://mewki.itch.io/isometric-blocks
+- **3D**: https://kenney.nl/assets/brick-kit (o "Brick Kit" é 3D — o 2D equivalente é o **Brick Pack**), https://loafbrr.itch.io/brick-buildings-re, https://kaylousberg.itch.io/block-bits, https://retrovandal.itch.io/cutesy-toy-3d-models, https://sneznyj.itch.io/animated-blocky-people e https://gomesrotwang.itch.io/blocky-low-poly-character
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)

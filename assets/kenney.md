@@ -26,6 +26,9 @@ Assets da kenney.nl, distribuídos sob licença CC0 / domínio público, livres 
 - https://kenney.nl/assets/pixel-shmup (2D — naves, inimigos, tiros, power-ups e fundo de space shooter)
 - https://kenney.nl/assets/simple-space (2D — 48 peças de mapa espacial: módulos, corredores e salas)
 - https://kenney.nl/assets/planets (2D — 50 planetas para mapas e fundos)
+- https://kenney.nl/assets/brick-pack (2D — 106 peças de bloco/tijolo para plataforma)
+- https://kenney.nl/assets/platformer-bricks (2D — 150 peças de tijolo e terreno de plataforma)
+- https://kenney.nl/assets/block-pack (2D — 100 peças de bloco para terreno, vila e construção)
 
 ## 3D — Kits modulares e cenários
 
