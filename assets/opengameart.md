@@ -23,6 +23,8 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/caketown-cuteplayful (**CC BY-SA 3.0** — tema doce e brincalhão, feito para fase de doces)
 - https://opengameart.org/content/dark-ambient-loop-13 (**CC BY 3.0** / OGA-BY 3.0 — ambiência sombria em loop para masmorra)
 - https://opengameart.org/content/scary-ambient-wind (**CC BY 3.0** — vento assustador, camada de ambiente para cripta)
+- https://opengameart.org/content/monster-sound-effects-2 (**CC0** — efeitos sonoros de monstros)
+- https://opengameart.org/content/monster-sound-pack-volume-1 (**CC0** — pacote de sons de monstros)
 
 ## Personagens e sprites
 
@@ -33,6 +35,10 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/ninja-girl-free-sprite (**CC0** — kunoichi com 11 estados de animação, 10 frames cada)
 - https://opengameart.org/content/sl-mini-ninja (**OGA-BY 4.0** — mini ninja com animações; crédito obrigatório)
 - https://opengameart.org/content/ninja-cats (**OGA-BY 3.0** — gatos ninja, ótimos como yōkai/inimigos fofos; crédito obrigatório)
+- https://opengameart.org/content/land-monster-sprites (**CC0** — monstros terrestres em sprites)
+- https://opengameart.org/content/blue-land-monster-sprites (**CC0** — variante azul dos monstros terrestres)
+- https://opengameart.org/content/limbo-land-monster-sprites (**CC0** — variante limbo dos monstros terrestres)
+- https://opengameart.org/content/red-horn-land-monster (**CC0** — monstro de chifre vermelho)
 
 ## Armas e itens
 
@@ -44,3 +50,6 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 ## Cenários, tilesets e construções
 
 - https://opengameart.org/content/japanese-buildings-isometric-strategy-game-mockup (**CC0** — casas e construções japonesas isométricas com terreno, estilo estratégia feudal)
+- https://opengameart.org/content/free-graveyard-platformer-tileset (**CC0** — tileset de cemitério para plataforma, com lápides e árvores mortas)
+- https://opengameart.org/content/graveyard (**CC0** — cenário de cemitério 2D)
+- https://opengameart.org/content/seamless-2d-graveyard-background (**CC0** — fundo de cemitério em loop contínuo)

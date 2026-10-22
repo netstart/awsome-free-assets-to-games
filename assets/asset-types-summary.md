@@ -3,7 +3,7 @@
 | Tipo | Exemplos de domínios |
 |------|---------------------|
 | Personagens | pixel-boy.itch.io, zerie.itch.io, seliel-the-shaper.itch.io, gandalfhardcore.itch.io |
-| Monstros/Criaturas | danaida.itch.io, pixelartmaterial.itch.io, anokolisa.itch.io, monopixelart.itch.io, eddex.itch.io |
+| Monstros/Criaturas | danaida.itch.io, pixelartmaterial.itch.io, anokolisa.itch.io, monopixelart.itch.io, eddex.itch.io, not-a-kappa-games.itch.io, leckie1989.itch.io, elthen.itch.io, opengameart.org |
 | Mapas/Tilesets/Cenários | bubbabba.itch.io, 0x72.itch.io, limezu.itch.io, cainos.itch.io, game-endeavor.itch.io, snowhex.itch.io |
 | Armas | anokolisa.itch.io (50 armas incluídas) |
 | Ícones | game-icons.net, merchant-shade.itch.io, kettoman.itch.io, gvesster.itch.io |
@@ -18,5 +18,6 @@
 | Ninja/shinobi | luizmelo.itch.io, styloo.itch.io, finalgatestudios.itch.io, kelano-studio.itch.io, bikegol.itch.io, seiyouh.itch.io, megumi-ryu.itch.io, opengameart.org, craftpix.net |
 | Dark fantasy/Diablo | trevor-pupkin.itch.io, foozlecc.itch.io, szadiart.itch.io, krishna-palacio.itch.io, williamqm.itch.io |
 | Plataforma estilo Mario (8/16-bit) | pixelfrog-assets.itch.io, jonathan-so.itch.io, v3x3d.itch.io, axulart.itch.io, rottingpixels.itch.io, balloon-cart.itch.io |
+| Selva/primatas (estilo Donkey Kong) | teo-reat.itch.io, jesse-m.itch.io, lunadrift-studios.itch.io, gooooman.itch.io, freakydayz.itch.io, opengameart.org |
 | Nuvens/céu | kassjak.itch.io, silasgamedev.itch.io, garzettdev.itch.io, kekaiyo.itch.io, free-game-assets.itch.io |
 | Texturas/3D | polyhaven.com, ambientcg.com, 3dtextures.me, sketchfab.com |

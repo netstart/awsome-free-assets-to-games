@@ -490,6 +490,71 @@ Sem licença declarada (página só descreve o conteúdo):
 - https://shackhal.itch.io/multi-platformer-tileset
 - https://koji-marumugi.itch.io/nes-style-free-graphics
 
+## itch.io — Monstros e yōkai (pesquisado em 22/10/2026)
+
+Sprites e cenários 2D de monstros, com prioridade para yōkai japoneses, que é o tema de Hyakki.
+
+### Personagens e criaturas
+
+- https://not-a-kappa-games.itch.io/mud-man-dorotabo (yōkai Dorotabō animado; uso comercial liberado, inclusive em jogo pago, sem IA no processo)
+- https://pixelartmaterial.itch.io/fr08-10-free-pixel-monsters-png-sml (10 monstros pixel em 3 tamanhos; comercial liberado, sem crédito, proibida revenda)
+- https://leckie1989.itch.io/spooky-bits-free-16x16-halloween-pixel-pack (**CC0** — pack 16x16 de Halloween com monstros, abóboras e props)
+- https://elthen.itch.io/2d-pixel-art-minotaur-sprites (minotauro animado; uso comercial e não comercial liberado)
+- https://clembod.itch.io/bringer-of-death-free (ceifador/arauto da morte animado; comercial liberado, proibida redistribuição)
+- https://tacotry.itch.io/rpg-enemies (5 inimigos 96x para RPG; uso comercial liberado com **crédito** a Taco)
+- https://monopixelart.itch.io/flying-enemies (monstros voadores de floresta; na mesma licença do *Forest Monsters* já listado acima — comercial liberado, sem modificação, revenda ou redistribuição)
+- *Monsters Creatures Fantasy* (LuizMelo, CC0), *Minifantasy Creatures* (crédito obrigatório) e *Dark Enemies Pack* (WilliamQM) já estão listados nas seções anteriores.
+
+### Mapas, casas e árvores
+
+Para mapa de monstros, os packs de cemitério, templo em ruínas e catacumbas já catalogados são os mais adequados:
+
+- o **templo em ruínas** da CraftPix (com árvores, gárgulas, caveiras, baú e fantasma animado) está em `assets/misc-domains.md`
+- as **catacumbas** de Szadiart estão na seção **Dark fantasy estilo Diablo** acima
+- os tilesets e fundos de **cemitério CC0** da OpenGameArt estão em `assets/opengameart.md` (seção Cenários)
+
+### Música
+
+- https://en-okawa.itch.io/japanese-dark-horror-bgm-hitotsume (BGM de horror japonês "Hitotsume", o yōkai de um olho; royalty-free para comercial, crédito apreciado)
+
+### Avaliados e não incluídos
+
+- https://not-a-kappa-games.itch.io/kappa — a **versão gratuita é só para projetos gratuitos**; uso comercial exige a versão paga
+- https://hogehogehoge.itch.io/tengu — página sem licença declarada
+- https://rapidpunches.itch.io/amabie — página sem licença declarada
+- https://mikemac2d.itch.io/ghost-pack — página sem licença declarada
+- https://cro.itch.io/slimes — página sem licença declarada
+- https://frostwindz.itch.io/pixel-art-fantasy-character-slime — página sem licença declarada
+- https://chierit.itch.io/boss-demon-slime — página sem licença declarada
+- https://inhale-exhale-studio.itch.io/red-thread-in-the-rain — os termos estão só no README do download, não na página
+- https://pizzadoggy.itch.io/retro-tree-pack — árvores em GLB/OBJ/FBX, ou seja, 3D
+
+## itch.io — Selva e primatas (estilo Donkey Kong) (pesquisado em 22/10/2026)
+
+Assets 2D de selva, macacos, cipós e frutas — o equivalente legal ao visual de Donkey Kong, sem usar propriedade intelectual da Nintendo.
+
+- https://teo-reat.itch.io/animated-jungle-platformer-tileset (tileset de plataforma na selva com animações; **domínio público**, sem crédito)
+- https://jesse-m.itch.io/jungle-pack (pack de selva com tiles, plantas e props; comercial liberado, proibida redistribuição)
+- https://lunadrift-studios.itch.io/jungle-vines-background-2d-pixel-pack (cipós e fundo de selva; comercial liberado com **crédito** e link para a LunarDrift Studios)
+- https://gooooman.itch.io/ff-side-scroller-jungle-asset-pack (pack sidescroller de selva com personagens e inimigos; comercial liberado, proibida redistribuição)
+- https://aeynit.itch.io/monkeys (sprites de macacos; autor libera uso em qualquer projeto, comercial ou não)
+- https://freakydayz.itch.io/game-boy-ape-sprite (sprite de gorila estilo Game Boy; liberado para usar em jogos, proibida revenda)
+- https://opengameart.org/content/opp-jungle-tiles (**CC BY 3.0** — tiles de selva e templo do Open Pixel Project, ver `assets/opengameart.md`)
+- https://opengameart.org/content/monkey-platform-game (**CC0** — personagem macaco + plataforma)
+- https://opengameart.org/content/monkey-lad-in-magical-planet (**CC0** — sprites de macaco)
+- https://opengameart.org/content/urban-jungle (**CC0** — textura de selva urbana)
+
+### Avaliados e não incluídos
+
+- https://dreamloft3d.itch.io/donkey-kong-barrels — único asset da tag Donkey Kong e é **3D**; além disso usa personagem/marca da Nintendo
+- https://heytibo.itch.io/monkey-sprite — asset **pago** ("by purchasing this asset")
+- https://trikhe.itch.io/tropical-food-asset-pack-16x16-free — licença só dentro do arquivo do download, não verificável na página (bananas e cocos ficariam ótimos, mas fica de fora)
+- https://matyuschenko.itch.io/jungle-sprites-pack — página sem licença declarada
+- https://nexisgames.itch.io/jungle — página sem licença declarada
+- https://ansimuz.itch.io/sunnyland-jungle-ruins-environment — página sem licença declarada
+- https://openpixelproject.itch.io/opp2017jungle — a versão do itch.io não declara licença; usar a da OpenGameArt, que é CC BY 3.0
+- https://elegantcrow.itch.io/cartoon-tropical-nature-pack — pack 3D
+
 ## itch.io — Bundles e coleções
 
 - https://itch.io/c/687431/free-asset-packs (pacotes de assets grátis)
