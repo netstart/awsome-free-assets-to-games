@@ -20,6 +20,17 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/the-zombie-free-sprites (zumbis, sprites gratuitos)
 - https://opengameart.org/content/glitch-sprite-assets-huge-collection (coleção enorme de sprites)
 - https://opengameart.org/content/samurai-sprites (**CC0** — sprites de samurai 48x48 do jogo Seppuku Jisei: caminhada, ataque e morte nas 4 direções, animação de seppuku, sangue, gore e corte de espada)
+- https://opengameart.org/content/ninja-adventure-free-sprite (**CC0** — ninja com 9 estados de animação, 10 frames cada, PNG separado; mesmo pack do pzUH no itch.io, que lá não declara licença)
+- https://opengameart.org/content/ninja-girl-free-sprite (**CC0** — kunoichi com 11 estados de animação, 10 frames cada)
+- https://opengameart.org/content/sl-mini-ninja (**OGA-BY 4.0** — mini ninja com animações; crédito obrigatório)
+- https://opengameart.org/content/ninja-cats (**OGA-BY 3.0** — gatos ninja, ótimos como yōkai/inimigos fofos; crédito obrigatório)
+
+## Armas e itens
+
+- https://opengameart.org/content/ninja-throwing-items-kit-32x32 (**CC0** — kit de itens de arremesso ninja em 32x32)
+- https://opengameart.org/content/throwing-stars-pixel-art (**CC0** — shurikens em pixel art)
+- https://opengameart.org/content/shuriken-pixel-art (**CC0** / GPL 2.0 — shuriken em pixel art)
+- https://opengameart.org/content/2d-ninja-sub-weapons-pack (**CC BY 4.0** — armas secundárias ninja)
 
 ## Cenários, tilesets e construções
 

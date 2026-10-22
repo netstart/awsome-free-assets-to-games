@@ -6,7 +6,7 @@ Pesquisa realizada em 21/10/2026. Verificar os termos de uso de cada site antes 
 
 ## Personagens, tilesets, efeitos
 
-- Ver também: seção **Samurai, ninja e Japão feudal** em `assets/itchio.md` (packs 2D verificados em 22/10/2026)
+- Ver também: seções **Samurai, ninja e Japão feudal** e **Ninja e shinobi** em `assets/itchio.md` (packs 2D verificados em 22/10/2026)
 - https://pipoya.net/sozai/terms-of-use/ (ぴぽや倉庫 Pipoya — termos, comercial ok, sem crédito)
 - https://pipoya.itch.io/ (Pipoya no itch.io — tileset 16×16 e efeitos grátis)
 

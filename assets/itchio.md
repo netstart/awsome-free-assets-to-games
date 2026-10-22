@@ -337,12 +337,65 @@ Packs 2D para mapas de vila, templo, floresta de bambu e duelo. Licença verific
 ### Avaliados e não incluídos
 
 - https://toffeecraft.itch.io/ninja-asset-pack — o pack gratuito é **apenas uso pessoal**; a versão comercial é paga
-- https://pzuh.itch.io/ninja-adventure-free-sprites — página sem licença declarada
+- https://pzuh.itch.io/ninja-adventure-free-sprites — a página do itch.io não declara licença, mas a mesma arte está na OpenGameArt como **CC0** (ver `assets/opengameart.md`)
 - https://garebearproductionz.itch.io/japanese-dojo-tileset-free — página sem licença declarada
 - https://rg-poly.itch.io/stylized-asia-enviroment-megapack-unity-urp — 3D/Unity URP, fora do escopo 2D
 - https://deltasquib.itch.io/pix-realms-shiba-samurai-pack-1 — página sem licença declarada
 - https://seartsy.itch.io/warrior-in-red — página sem licença declarada
 - https://kaztogo.itch.io/japanese-farm-house-tileset-32x32 — só declara direitos autorais de Kaz Togo, sem licença de uso comercial
+
+## itch.io — Ninja e shinobi (pesquisado em 22/10/2026)
+
+Packs 2D de personagem, item e música para mapas de vila escondida, telhado e floresta de bambu. Licença verificada na página de cada asset.
+
+### Personagens
+
+- https://luizmelo.itch.io/martial-hero (**CC0** — artista marcial/ninja com idle, corrida, salto, queda, 2 ataques, dano e morte)
+- https://styloo.itch.io/ninja (**CC0** — personagem ninja; autor libera todos os assets dele em CC0)
+- https://finalgatestudios.itch.io/ninja-asset-pack (ninja com idle, caminhada, corrida, dano e morte; uso comercial liberado, proibida redistribuição)
+- https://zzzhen-z.itch.io/dark-ninja-2d-pixel-art-character-animation (ninja com animações de ninjutsu; uso comercial liberado, proibida redistribuição/revenda)
+- https://mirokaz.itch.io/ninja-2d-pixel-character (idle, transição idle-corrida, corrida, salto, queda e transição; comercial liberado, proibida revenda como asset)
+- https://fayedamara.itch.io/td-pack-ninjas (**CC BY 4.0** — ninjas e demônios com efeitos sonoros inclusos; crédito opcional, proibida revenda)
+- https://kelano-studio.itch.io/ninja-32x32-pixelart-9-x-animation (ninja 32x32 com 9 animações; gratuito com **crédito obrigatório**: "Ninja animations by NinjaGame_Dev")
+- https://kelano-studio.itch.io/15-64x64-unique-characters (15 personagens 64x64 no mesmo estilo; comercial liberado, sem crédito, proibida revenda do arquivo)
+- https://bikegol.itch.io/japanese-edo-era-caracters-set (13 personagens da era Edo; comercial liberado, sem atribuição, proibida revenda como pack)
+- https://seiyouh.itch.io/ninja-gameboy (ninja em estilo Game Boy; comercial liberado, **crédito obrigatório** a seiyouh, proibida redistribuição)
+- https://cyberrumor.itch.io/16-bit-assassin (rogue/assassino pixel animado; comercial liberado, sem crédito)
+- https://10kstudios.itch.io/free-2d-ninja-sidescroller-character (já listado na seção samurai — ninja 165x165 com idle, ataque, corrida, morte e salto)
+- https://kbpixelart.itch.io/ninja-enemy-pack (já listado — 4 ninjas por cor, com ataque e morte)
+
+### Mapas, casas e árvores
+
+Os packs de vila, templo, casa e bambu da seção samurai servem direto para mapa ninja. Os melhores por licença:
+
+- https://momongaa.itch.io/bamboo-forest-basic-tiles (**CC0** — bambu, torii, estátua e lampião, com 4 camadas de fundo)
+- https://willyee.itch.io/sengoku-pixel-pack (**CC0** — terreno, yōkai e chefes, além dos 41 personagens)
+- https://nacl1234.itch.io/top-down-feudal-japan-complete-2d-mega-pack (amostra grátis com vila, santuário, castelo e acampamento de guerra)
+- https://the-outlander.itch.io/free-japanese-backgrounds (**CC0** — 4 cenários japoneses para fundo de fase)
+
+### Itens e armas
+
+Os shurikens, kunais e armas secundárias ninja estão registrados em `assets/opengameart.md` (seção **Armas e itens**) para não duplicar entradas — lá estão o kit de arremesso 32x32 em CC0 e o pack de armas secundárias em CC BY 4.0.
+
+### Música
+
+- https://megumi-ryu.itch.io/free-japanese-fusion-loops-music-asset-ninja-stage-bgm (BGM de fase ninja em loops; gratuita para uso pessoal e comercial, **crédito obrigatório** a "YUKARINOTI"/"ゆかりのてぃ")
+
+### Avaliados e não incluídos
+
+- https://pzuh.itch.io/ninja-girl-free-sprites — itch.io sem licença; a mesma arte está na OpenGameArt como CC0 (usar o link de lá)
+- https://momen-games.itch.io/ninja-spirit-ts — tileset 16x16 com casas, árvores e pontes, mas a página só pede crédito e não declara licença comercial
+- https://deltasquib.itch.io/pix-realms-ninja-village-pack-1-turtle-village — só diz "crediting would be nice", sem licença
+- https://nastanliev.itch.io/ninja — página sem licença declarada
+- https://k1ngj0s402.itch.io/ninja-pixel-art — página sem licença declarada
+- https://churrogelato.itch.io/tiny-nin — página sem licença declarada
+- https://karliszabers.itch.io/8bitcolor-tileset — página sem licença declarada
+- https://sakpix.itch.io/shadow-ninja-portrait-pack — página sem licença declarada
+- https://arexxuru.itch.io/pixel-art-japanese-background — a versão gratuita é **apenas não comercial**; comercial só na versão paga
+- https://zenteaseeker.itch.io/shuriken-pack — 3D (FBX/GLB/BLEND); as versões 2D do mesmo autor (kunai e shuriken) não declaram licença
+- https://lamoraki.itch.io/2d-topdown-assets-tilemap-and-objects — página sem licença declarada
+- https://imperial-dawn-audio.itch.io/lurking-layers — página sem licença declarada
+- https://moneywithjjcom.itch.io/free-stealth-sounds — página sem licença declarada
 
 ## itch.io — Dark fantasy estilo Diablo (pesquisado em 22/10/2026)
 
