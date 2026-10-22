@@ -83,6 +83,18 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/bevouliin-underground-worm-sprite-sheets-for-game-dev (**CC0** — verme gigante do subsolo, chefe de caverna)
 - https://opengameart.org/content/mining-pixel-game-asset (**CC0** — assets de mineração em pixel art)
 - https://opengameart.org/content/miners-cave (**CC0** — cena/personagens de caverna de mineradores)
+- https://opengameart.org/content/wizard-2 (**CC BY-SA 3.0** — mago animado, do thomaswp)
+- https://opengameart.org/content/animated-wizard (**CC BY 3.0** — mago animado do Calciumtrice, crédito obrigatório)
+- https://opengameart.org/content/sara-wizard (**CC BY 3.0** / CC BY-SA 3.0 / GPL — Sara, a maga)
+- https://opengameart.org/content/wizard-5 (**CC0** — mago em vetor/2D, do Warspawn)
+- https://opengameart.org/content/wizard-warrior (**CC0** — mago guerreiro do killyoverdrive)
+- https://opengameart.org/content/puck-wizard (**CC BY 3.0** / CC BY-SA 3.0 / GPL — Puck, o mago)
+- https://opengameart.org/content/young-wizard (**CC BY 3.0** — mago jovem da Merry Dream Games)
+- https://opengameart.org/content/crazy-wizard (**CC BY 3.0** — mago maluco, ótimo como NPC ou chefe)
+- https://opengameart.org/content/fairy-2d-sprite (**OGA-BY 3.0** — fada 2D do CraftPix, crédito obrigatório)
+- https://opengameart.org/content/lpc-fairy (**CC BY 3.0** / CC BY-SA 3.0 / GPL — fada no estilo LPC)
+- https://opengameart.org/content/fairy-npc (**CC BY 3.0** — fada NPC)
+- https://opengameart.org/content/fairy (**CC BY 4.0** / CC BY 3.0 — fada em sprite, do SCaydi)
 
 ## Armas e itens
 
@@ -112,6 +124,17 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/gems-jewels (**CC0** — gemas e joias, do Cethiel)
 - https://opengameart.org/content/rts-mining-resources-16x16 (**CC BY 3.0** / OGA-BY 3.0 — recursos de mineração 16x16)
 - https://opengameart.org/content/lpc-ore-and-forge (**CC BY 4.0** / OGA-BY — minério, bigorna e forja do LPC)
+- https://opengameart.org/content/skill-item-and-spell-icons (**CC0** — ícones de habilidade, item e feitiço, do pauliuw)
+- https://opengameart.org/content/painterly-spell-icons-part-1 (**CC BY 3.0** / CC BY-SA 4.0 — ícones de feitiço pintados)
+- https://opengameart.org/content/painterly-spell-icons-part-4 (**CC BY 3.0** / CC BY-SA 4.0 — quarta parte dos ícones de feitiço)
+- https://opengameart.org/content/lightning-shock-spell (**CC BY 3.0** — feitiço de choque elétrico, do Clint Bellanger)
+- https://opengameart.org/content/potion-bottles (**CC0** — frascos de poção, do Rafaelchm)
+- https://opengameart.org/content/potion-bottles-extra (**CC0** — frascos de poção extras)
+- https://opengameart.org/content/potion-set (**CC0** — conjunto de poções do Cethiel)
+- https://opengameart.org/content/rune-pack (**CC0** — pacote de runas do Kenney)
+- https://opengameart.org/content/cc0-rune-icons (**CC0** — ícones de runa, do AntumDeluge)
+- https://opengameart.org/content/enchanted-weapon-icons (**CC BY-SA 3.0** — ícones de armas encantadas)
+- https://opengameart.org/content/loyalty-lies-items-magic-objects (**CC BY 3.0** — objetos mágicos e itens de magia)
 
 ## Cenários, tilesets e construções
 
@@ -203,6 +226,20 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/tree-variations-from-jetrels-wood-tileset (**CC BY-SA 3.0** — variações de árvore do tileset de madeira do Jetrel)
 - https://opengameart.org/content/gnarled-tree (**CC BY 3.0** — árvore retorcida, do geloescht)
 - https://opengameart.org/content/a-tree (**CC0** — árvore simples em pixel)
+- https://opengameart.org/content/magic-cliffs-environment (**CC0** — cenário completo de penhascos mágicos, do ansimuz)
+- https://opengameart.org/content/lpc-farming-tilesets-magic-animations-and-ui-elements (**CC BY-SA 3.0** / GPL 3.0 — tilesets com animações de magia e elementos de UI, do daneeklu)
+- https://opengameart.org/content/extended-lpc-magic-pack (**CC BY-SA 3.0** / GPL 3.0 — magias e efeitos estendidos do LPC)
+- https://opengameart.org/content/arcane-magic-effect (**CC0** — efeito de magia arcana, do Cethiel)
+- https://opengameart.org/content/cosmic-time-magic-effect (**CC0** — efeito mágico cósmico/temporal)
+- https://opengameart.org/content/magic-flame (**CC0** — chama mágica animada, do rubberduck)
+- https://opengameart.org/content/water-magic-effect (**CC0** — efeito de magia de água, do Cethiel)
+- https://opengameart.org/content/old-tower (**CC0** — torre antiga, do yd, para a torre do mago)
+- https://opengameart.org/content/tower-v2 (**CC0** — torre em tiles ortogonais, do yd)
+- https://opengameart.org/content/isometric-walls-library (**CC0** — paredes de biblioteca isométricas, do Chibizilla)
+- https://opengameart.org/content/2d-library-texture (**CC0** — textura de biblioteca 2D)
+- https://opengameart.org/content/hut-bleeds-game-art (**CC BY 3.0** — cabana isométrica, do Bleed)
+- https://opengameart.org/content/collection-of-rune-stones-seamless-tiles (**CC0** — pedras rúnicas sem emenda, do ztn)
+- https://opengameart.org/content/4-glowing-rune-stones-32w-x-49h (**CC0** — quatro pedras rúnicas brilhantes)
 
 ## Música e SFX por tema
 
@@ -325,3 +362,13 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/exploring-a-cave (**CC BY 3.0** — exploração de caverna, crédito obrigatório)
 - https://opengameart.org/content/underground-storm-chiptune8-bit-influence (**CC BY-SA 3.0** — chiptune de subsolo)
 - https://opengameart.org/content/pumpkin-cave (**CC BY 3.0** — caverna de abóbora, clima de Halloween)
+
+### Magia, arcano e academia
+
+- https://opengameart.org/content/magic-town (**CC0** — tema da cidade mágica, do controllerhead)
+- https://opengameart.org/content/magic-space (**CC0** — tema mágico espacial, do CodeManu)
+- https://opengameart.org/content/magic-tales-set (**CC BY 3.0** — conjunto de loops "Magic Tales", do KLY)
+- https://opengameart.org/content/ancestral-magic (**CC BY 4.0** / CC BY 3.0 — magia ancestral, do Tausdei)
+- https://opengameart.org/content/magic-moment (**CC BY 4.0** — momento mágico instrumental, do Stefan_Composer)
+- https://opengameart.org/content/magic-tracks (**CC BY 4.0** — faixas mágicas em loop, do Alexandr Zhelanov)
+- https://opengameart.org/content/no-more-magic (**CC BY 3.0** — tema orquestral de magia perdida, do HorrorPen)

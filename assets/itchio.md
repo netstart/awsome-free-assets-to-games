@@ -1153,6 +1153,66 @@ Equivalente legal de Terraria para o Hyakki: mundo 2D visto de lado, blocos esca
 - https://assetsmithy.itch.io/32-free-medieval-crafting-material-icons-2d-rpg-survival-sampler — licença comercial própria do vendedor (não é licença livre) e arte assistida por IA
 - https://quaternius.itch.io/resource-bits, https://quaternius.itch.io/rpg-tools-bits, https://kaylousberg.itch.io/block-bits e https://fajik.itch.io/low-poly-ores-ingots-pack — packs **3D**
 
+## itch.io — Magia (mago, feitiço e academia arcana) (pesquisado em 22/10/2026)
+
+Mapa de magia para o Hyakki: torre do mago, academia arcana, biblioteca proibida, floresta encantada, feitiços, poções, runas e círculos mágicos. Nada de IP de franquia (Harry Potter, Magic: The Gathering, Skyrim, Dungeons & Dragons) — só arte original com licença verificada.
+
+### Mapas, tilesets e cenários
+
+- https://garrisonf.itch.io/arcane-secret-tileset (tileset **Arcane Secret** feito em 48h para game jam, com versões clara e escura — tiles 2D e texturas 3D; o autor pede **crédito**)
+- https://blueberry-assets.itch.io/wizard-tower-backgrounds-free (12 fundos gratuitos da torre do mago — biblioteca, laboratório de alquimia, observatório, sala de vidência e estufa; comercial liberado sem crédito, **arte assistida por IA** declarada)
+- https://lornn.itch.io/witches-wizards-backgrounds (fundos de bruxas e magos — laboratório, biblioteca e oficina; comercial liberado, gerados no Midjourney e **pintados à mão por cima** pelo autor)
+- na OpenGameArt: **Magic Cliffs Environment** (**CC0** — cenário completo de penhascos mágicos do ansimuz), **[LPC] Farming tilesets, magic animations and UI elements** (**CC BY-SA 3.0** / GPL 3.0 — tilesets com animações de magia e UI), **Extended LPC Magic pack** (**CC BY-SA 3.0** / GPL 3.0 — efeitos e magias LPC), **Arcane Magic Effect** (**CC0**), **Cosmic Time — Magic Effect** (**CC0**), **magic flame** (**CC0**) e **Water Magic Effect** (**CC0**)
+- para a floresta encantada, reaproveite as árvores já catalogadas (**Gnarled Tree**, **Pine Tree Pack**, **Free Pixel Art Tree Pack** da karsiori **CC0** e o **Foliage Pack** do Kenney **CC0**)
+
+### Casas, torres e biblioteca
+
+- na OpenGameArt: **Old tower** (**CC0** — torre antiga para montar a torre do mago), **Tower v2** (**CC0** — torre em tiles ortogonais), **Isometric walls Library** (**CC0** — paredes de biblioteca isométricas), **2d library texture** (**CC0** — textura de biblioteca) e **Hut — Bleed's Game Art** (**CC BY 3.0** — cabana, boa como casa do eremita arcano)
+- para a academia e os interiores, use o **LPC Interior Castle Tiles** (**CC BY 4.0**) e as **100 houses** da kepx já catalogados, além dos interiores da **shubibubi** (cozy interior)
+- as **100 houses** e os packs de vila já catalogados cobrem a vila ao pé da torre, sem duplicar nada
+
+### Personagens, magos e fadas
+
+- https://luizmelo.itch.io/wizard-pack (**CC0** — mago completo com idle, corrida, ataque, ataque 2, dano e morte)
+- https://luizmelo.itch.io/evil-wizard (**CC0** — mago maligno com as mesmas animações; par ideal para o chefe)
+- https://gandalfhardcore.itch.io/top-down-pixel-art-character (mago top-down com idle, caminhada, corrida, ataque, morte e uma bola de fogo azul; comercial liberado, proibida revenda)
+- https://lionheart963.itch.io/wizard (mago animado para herói ou inimigo; o autor declara na página que é livre para usar "de qualquer forma")
+- https://deepdivegamestudio.itch.io/magical-asset-pack (45 sprites 16x16 com animação de idle, para fauna mágica e criaturas de masmorra; comercial liberado, proibida revenda)
+- na OpenGameArt: **Wizard** (wizard-2, **CC BY-SA 3.0**), **Animated Wizard** (**CC BY 3.0**), **Sara — Wizard** (**CC BY 3.0** / CC BY-SA 3.0 / GPL), **Wizard** (wizard-5, **CC0**), **wizard warrior** (**CC0**), **Puck — Wizard** (**CC BY 3.0** / GPL), **Young Wizard** (**CC BY 3.0**) e **Crazy Wizard** (**CC BY 3.0**)
+- fadas na OpenGameArt: **Fairy 2D Sprite** (**OGA-BY 3.0**, do CraftPix), **[LPC] Fairy** (**CC BY 3.0** / CC BY-SA 3.0 / GPL), **fairy NPC** (**CC BY 3.0**) e **Fairy** (**CC BY 4.0** / CC BY 3.0)
+
+### Itens, feitiços e poções
+
+- https://wenrexa.itch.io/spells-4 (**CC0** — mais de 70 ícones de habilidade e feitiço; a autora declara **sem IA**)
+- https://foozlecc.itch.io/pixel-magic-sprite-effects (**CC0** — efeitos de magia em sprite, uso livre inclusive comercial)
+- https://thundersnowpixel.itch.io/magic-vfx-pack-1 (pack de VFX de magia: a versão gratuita traz 1 efeito e o pacote completo com 9 custa US$ 3; comercial liberado, proibida revenda e treino de IA)
+- https://pimen.itch.io/fire-spell-effect-02 (efeito de feitiço de fogo com explosões em 14 e 5 quadros; comercial liberado, crédito opcional)
+- https://batareya.itch.io/250-magical-icons-pixel-art-icons (250 ícones mágicos; gratuito para uso comercial com **crédito ao autor**, **arte assistida por IA** declarada)
+- na OpenGameArt: **Skill, item and spell icons** (**CC0**), **Painterly Spell Icons** partes 1 e 4 (**CC BY 3.0** / CC BY-SA 4.0), **Lightning Shock Spell** (**CC BY 3.0**), **Potion Bottles** e **Potion Bottles Extra** (**CC0**), **Potion Set** (**CC0**), **Rune Pack** (**CC0**, do Kenney), **CC0 Rune Icons** (**CC0**), **Enchanted weapon Icons** (**CC BY-SA 3.0**) e **Loyalty Lies Items — Magic Objects** (**CC BY 3.0**)
+
+### Texturas arcanas, runas e círculos
+
+- na OpenGameArt: **Collection of Rune Stones, Seamless Tiles** (**CC0** — pedras rúnicas sem emenda para piso de templo arcano), **4 Glowing Rune Stones** (**CC0**), **2d library texture** (**CC0**) e **Isometric walls Library** (**CC0**)
+- o **Arcane Secret Tileset** do garrisonf já traz texturas de pedra clara e escura que servem como parede de academia
+- os tilesets do **Magic Cliffs Environment** (**CC0**) cobrem o terreno e o penhasco da floresta encantada
+
+### Música e SFX
+
+- na OpenGameArt: **Magic Town** (**CC0**), **Magic Space** (**CC0**), **Magic Tales (Set)** (**CC BY 3.0**), **Ancestral Magic** (**CC BY 4.0** / CC BY 3.0), **Magic Moment** (**CC BY 4.0**), **Magic Tracks** (**CC BY 4.0**) e **No More Magic** (**CC BY 3.0**)
+- para os SFX de conjuração, reaproveite o **RPG Sound Pack** (**CC0**) e o **512 Sound Effects 8-bit Style** já catalogados; o **Super Pixel Effects Gigapack** e os pacotes da **untiedgames** (já em VFX) cobrem impactos e explosões
+
+### Avaliados e não incluídos
+
+- https://comshadow.itch.io/magic-academy-pixel-tileset, https://comshadow.itch.io/wizards-tower-topdown-pixel-art-tileset, https://comshadow.itch.io/arcane-library-topdown-pixel-art-tileset e https://falvey.itch.io/arcane-academy-top-down-16x16-magic-school-library-tileset-37-pieces — **pagos**
+- https://sakpix.itch.io/magic-wizard-academy-top-down-pixel-art-tileset-300-assets (**US$ 13,28**, ainda por cima **assistido por IA**), https://pixelsonultra.itch.io/wizard-academy-tileset (**US$ 6,99**, IA), https://obssidian-art.itch.io/obssidian-arcane-dungeon-32x32 (**US$ 3,99**, IA), https://grajopx.itch.io/arcane-grasslands-and-forest-tileset-32x32 (**US$ 8,99**), https://lanternruins.itch.io/magic-academy-common-32 (**US$ 2,99**, IA), https://iguiw.itch.io/pixel-art-forest-tilemap-2d-medieval-rpg-survival-environment (**US$ 3,99**), https://godboyhappy.itch.io/arcane-library-pixel-tileset-pack (**US$ 1,00**, IA), https://ludicarts.itch.io/magic-forest-game-tileset (**US$ 10,00**), https://bubbabba.itch.io/wizard-tower-tileset (**US$ 4,95 a US$ 19,99**), https://pixeljamjar.itch.io/wizards-tower (**US$ 2,00**) e https://elthen.itch.io/2d-pixel-art-arcane-dungeons-tileset — todos pagos (o elthen ainda usa licença externa por faixas de preço)
+- https://venicemenacebakingco.itch.io/wizards-tower-interior-topdown-pack — a licença declarada é **CC0**, mas o pacote é **pago** (US$ 4,99) e usa **arte assistida por IA**
+- https://captainskolot.itch.io/magic-books-pixelart-pixel-art-sprite-grimoire-pack-for-rpg-fantasy — **CC BY-NC-SA 4.0**, uso comercial proibido
+- https://ansimuz.itch.io/gothicvania-magic-pack-9, https://bigwander.itch.io/the-art-of-scrolls, https://bigwander.itch.io/tiny-tomes, https://onocentaur.itch.io/potions, https://koalerina-arts.itch.io/free-cozy-witchcraft-32x32-pixel-art-asset-pack, https://nogitsunegurl.itch.io/free-elemental-spellcraft-pack, https://nogitsunegurl.itch.io/20-free-pixel-spells, https://jengibresion.itch.io/woods-tileset, https://alenia-studios.itch.io/star-magic, https://val-demar.itch.io/magic-forest, https://olegwer.itch.io/magic-forest e https://hoveaudio.itch.io/lightning-magic-sound-effects-pack-free-version — páginas **sem licença declarada**
+- https://free-game-assets.itch.io/free-wizard-sprite-sheets-pixel-art e https://free-game-assets.itch.io/free-icons-for-mine-location-pixel-art — a página não declara licença nem uso comercial
+- https://penzilla.itch.io/hexagon-magic-tileset e https://mutterpixel-studio.itch.io/magic-forest-ancient-ruins-mystic-flora — licença em EULA externa fora da página, que não é verificável
+- https://nonokaatm.itch.io/magical-forest-asset-pack-16x16 — só **preview**, o pacote completo é pago
+- https://standout7.itch.io/lowpo-wizard e https://assetsdotfun.itch.io/wizard-tower-study-01 — modelos **3D**
+
 ## itch.io — Tecnologia (cyberpunk/sci-fi/tech) (pesquisado em 22/10/2026)
 
 Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores futuristas, UI, SFX e techno — tudo com licença verificada. Nada de Cyberpunk 2077, Blade Runner, Ghostrunner, Akira ou Metal Gear: IP de terceiros fica fora.
