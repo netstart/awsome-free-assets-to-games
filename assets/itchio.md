@@ -1213,6 +1213,82 @@ Mapa de magia para o Hyakki: torre do mago, academia arcana, biblioteca proibida
 - https://nonokaatm.itch.io/magical-forest-asset-pack-16x16 — só **preview**, o pacote completo é pago
 - https://standout7.itch.io/lowpo-wizard e https://assetsdotfun.itch.io/wizard-tower-study-01 — modelos **3D**
 
+## itch.io — Combate medieval (cavaleiro, torneio e cerco) (pesquisado em 22/10/2026)
+
+Mapa de guerra medieval para o Hyakki: cavaleiros e paladinos, infantaria, arqueiros, torneio e arena, campo de batalha, castelo sitiado, catapultas e trabucos, estandartes de casa nobre, armaduras, forja, taverna e tambores de guerra. Sem IP de franquia — só arte original com licença verificada.
+
+### Personagens, cavaleiros e soldados
+
+- https://pixivan.itch.io/knight-hero-platfor (cavaleiro-herói para plataforma com idle, corrida, salto, ataque, escalada de parede e agarrão de borda; comercial liberado, proibida revenda)
+- https://ozanoyunbozan.itch.io/pixel-art-hooded-knight (chefe "cavaleiro encapuzado" com idle, corrida e ataque; comercial liberado, proibida revenda, crédito opcional)
+- https://heirey.itch.io/mud-knight (cavaleiro de lama top-down com idle, caminhada e ataque; comercial liberado, proibida redistribuição)
+- https://gegx.itch.io/knight-hero-128 (cavaleiro-herói 164 px, 8 direções e 16 loops de animação, 198 PNGs; uso comercial liberado sem crédito, proibida revenda; **arte assistida por IA** declarada)
+- https://slavocshop.itch.io/valor-vanguard (pacote de heróis de fantasia em 512x512 para retrato ou personagem; comercial liberado, proibida revenda; **arte assistida por IA** declarada)
+- https://kenney-assets.itch.io/tiny-battle (**CC0** — mais de 180 sprites de guerra em miniatura, com folhas de tiles e sprites separados; serve para infantaria, cavalaria e arqueiros)
+- já catalogados e prontos para o campo: o **cavaleiro** do xzany, o **cavaleiro fantasy animado** da aamatniekss, o **Tiny Swords** da pixelfrog, o **2D SL Character** da szadiart e o **Nightborne Warrior** da creativekind (chefe de ala)
+
+### Mapas, arenas e campos de batalha
+
+- na OpenGameArt: **Arena Game Sprites** (**CC BY-SA 3.0** — sprites de arena de combate), **Welcome to The Arena!** (**CC BY 3.0** / CC BY 4.0 / CC BY-SA 4.0 — cenário de arena) e **Elven Land 2D Backgrounds** (**OGA-BY 3.0** — fundos de batalha do CraftPix)
+- use o **Tiny Battle** (**CC0**) como base de campo de batalha em miniatura e o **Tiny Swords** para as formações de tropa
+- os tilesets de castelo (**Spooky Castle Tileset** CC0, **castle platformer** CC0, **Castle Tiles for RPG's** CC BY 3.0) e o **rottingpixels castle platformer 16x16** já catalogados montam a muralha e o portão do cerco
+- para o terreno do torneio, reaproveite os tiles de vila e de fazenda já catalogados (Cainos, styloo, kepx) e a **arena** acima
+
+### Casas, vilas e castelos
+
+- na OpenGameArt: **isometric medieval buildings #2** (**CC0**, do rubberduck), **Medieval city set** (**GPL 2.0**), **[LPC] Medieval Village Decorations** (**CC BY-SA 4.0** / CC BY-SA 3.0) e **Medieval Fountain (with animated water)** (**CC0**)
+- a praça da vila sai da **Medieval Fountain (with animated water)** acima; as casas em escala humana vêm das **100 houses** da kepx e dos interiores do **LPC Interior Castle Tiles** (**CC BY 4.0**), já catalogados
+- para a taverna e a forja do acampamento, use os props de masmorra e de vila já catalogados nas rodadas de RPG e de Stardew
+
+### Árvores e vegetação
+
+- na OpenGameArt: **Shady Tree Game Decoration** (**CC0**, do bevouliin.com), **Tree sprites** (**CC0**, do edomin), **Cherry Blossom tree** (**CC0**) e **Tree** (tree-19, **CC BY 3.0**)
+- reaproveite o **Gnarled Tree**, o **Pine Tree Pack**, o **Big Tree** (**CC BY 4.0**) e o **Tree Trunk Tileset** (**CC BY 4.0**) já catalogados nas rodadas de floresta e de gigantes
+
+### Itens, armas, armaduras e cerco
+
+- https://snoopethduckduck.itch.io/swords (**CC0** — espadas, machados, lanças e cajados em 16x16 e 32x32, com arquivo .pdn editável)
+- https://henrysoftware.itch.io/free-pixel-gear (**CC0** — equipamento pixel 8/16-bit: armas, armaduras e itens de masmorra; **sem IA**)
+- https://willibab.itch.io/willibabs-simple-32x32-armor-icons (armaduras 32x32: 14 elmos, 7 peitorais e 5 escudos com centenas de variantes de cor; comercial liberado)
+- https://eduardscarpato.itch.io/armor-itens-16x16-fantasy-pack (conjunto de armaduras 16x16 em 12 materiais, de madeira a angelical; comercial liberado, proibida revenda)
+- https://medievalmore.itch.io/free-weapon-icons (ícones de arma em PNG e PSD; comercial e privado, projetos ilimitados, proibida revenda)
+- https://corwin-zx.itch.io/big-fantasy-pack (armas e itens de fantasia, o FAQ da página libera explicitamente o uso comercial)
+- https://idylwild.itch.io/idylwilds-armory (arsenal de ícones; licença permite remix e uso comercial, atribuição opcional)
+- https://pixstuff.itch.io/110-pixel-art-chest-armors (110 peitorais 64x64; comercial liberado; a página traz **declaração de IA**)
+- https://ludicarts.itch.io/free-rpg-icon-set-ii (**CC BY 3.0** — 30 ícones de fantasia em 3 tamanhos, do mesmo autor do tileset de vulcão CC BY 3.0 da OGA; o tileset de floresta mágica dele continua rejeitado por ser pago)
+- na OpenGameArt: **Armor Icons by Equipment Slot** (**CC0**), **24 Armor Icons** (**CC BY 3.0**), **Armor Icons 32x32 px (painterly)** (**CC BY 3.0** / CC BY-SA 3.0 / GPL), **Game Icons Knight Armor** (**OGA-BY 3.0**), **48 Paladin Skills** (**OGA-BY 3.0**), **Shield** (**CC BY 3.0**), **spiral shield [64x64]** (**CC0**), **Fantasy Shield — Deer Shield** (**CC0**) e **Crossbow / Arbalest** (**CC0**)
+- cerco na OpenGameArt: **Catapult** (do yd, **CC0**), **Catapult** (catapult-1, **CC BY 3.0**), **Medieval Catapult — Free Version** (**CC BY 3.0**, do Bleed), **[LPC] Siege Weapons** (**CC BY 4.0** / CC BY 3.0 / GPL) e **Siege weapons** (**CC BY-SA 4.0** / GPL)
+- estandartes: **Medieval themed banner** (**CC0**) e **Banner flag scroll** (**CC BY 3.0**) — ótimos para marcar o time do jogador e o time inimigo no campo
+
+### Texturas
+
+- na OpenGameArt: **Seamless Brick Textures** (**CC0**), **Brick Wall** (**CC0**) e **Brick Texture** (**CC BY 3.0** / CC BY-SA 3.0 / GPL)
+- complete com as **480 tiles** de parede, pedra, madeira e terra (**CC0**) e com as texturas de rocha, musgo e caverna (**CC0** / CC BY 3.0) já catalogadas nas rodadas de mineração e de gigantes
+- para chão de arena, a terra batida e a areia das **480 tiles** resolvem sem precisar de asset novo
+
+### Música e SFX
+
+- https://alkakrab.itch.io/6-dark-fantasy-boss-battle-tracks (6 faixas de chefe em MP3, WAV e OGG; **grátis para uso comercial**, o autor declara que não usou IA)
+- https://hizumi-tail.itch.io/music-for-event-scenes-echoes-of-the-battlefield ("Echoes of the Battlefield" em loop OGG; uso comercial e não comercial liberado; a página traz **declaração de IA**)
+- na OpenGameArt: **Orchestral Battle Music** (**CC BY-SA 3.0** / GPL), **Fast fight / battle music** (**CC0**), **Battle Music** (**CC BY 3.0**, do Alexandr Zhelanov), **Boss Battle Music** (**CC0**), **Colossal Boss Battle Theme** (**CC BY 3.0**, do Matthew Pablo), **Is it a Battle?** (**CC0**), **Massive Battle** (**CC0**), **War Theme** (**CC0**), **Laments of the War** (**CC0**) e **Medieval** (**CC BY-SA 3.0**)
+- para os golpes, reaproveite os **20 Sword Sound Effects** (**CC0**), o **RPG Sound Pack** (**CC0**) e o **Drums of Dawn** (**CC BY 3.0**) já catalogados
+
+### Avaliados e não incluídos
+
+- https://comshadow.itch.io/medieval-battlefield-pixel-art-tileset, https://comshadow.itch.io/medieval-battlefield-topdown-pixel-art-tileset-dlc, https://comshadow.itch.io/medieval-battlefield-ruins-pixel-art-tileset-pack e https://comshadow.itch.io/medieval-tournament-topdown-pixel-art-tileset — tilesets exatamente no tema, mas **todos pagos**
+- https://klyssilla.itch.io/medievaltinyhouses (**US$ 3,99**), https://odgardian.itch.io/medieval-house-set (**US$ 3,00**), https://azamael.itch.io/2d-isometric-medieval-houses-sprite-set (**US$ 14,99**) e https://elthen.itch.io/2d-pixel-art-medieval-house-interior-tileset (**pago**, licença externa) — casas medievais pagas
+- https://robertpinero.itch.io/mvmz-knight-battler (**US$ 6,00**), https://armonykle.itch.io/medieval-character-sprites (**US$ 3,00**), https://yxyoyo.itch.io/medieval-pixel-character-sprites-x30 (**US$ 7,00**) e https://elthen.itch.io/2d-pixel-art-paladin-sprites — personagens pagos
+- https://antahonist.itch.io/54-siege-weapons-castle-icons (**US$ 6,99** e ainda **assistida por IA**)
+- https://swoolfeek.itch.io/king-tileset — a **versão gratuita é só não comercial**; o uso comercial fica na versão de apoio (US$ 1,50)
+- https://bdragon1727.itch.io/rpg-armor-all — uso comercial só "se contribuir com qualquer valor", ou seja, não é livre de fato
+- https://one-peoples.itch.io/siege-weapons-game-assets e https://magicalgothgirrl.itch.io/fullplate-armor-knight — modelos **3D** (o segundo até é CC0, mas é FBX/GLB/Blender)
+- https://cartooncoffee.itch.io/swordhero1, https://fellor.itch.io/black-knight-asset-pack, https://pixelfelix.itch.io/knight-anim-set, https://maxime-nourry.itch.io/64x64-pixel-knight, https://shannonsymonds.itch.io/character-name-character-art-submission e https://pjsunny.itch.io/medieval-fantasy-house-furniture-2d-game-art — a licença só aparece em **comentários**, não na página
+- https://sanctumpixel.itch.io/loreon-knight-character, https://lionheart963.itch.io/knight-sprite, https://kunidox24.itch.io/knight-character, https://rp-bricks.itch.io/knight-sprite-bundle, https://spriteelf.itch.io/knight-sprite, https://skagon-gamer.itch.io/knight-sprite-sheet-animations, https://imachina.itch.io/templarknight e https://lyaseek.itch.io/minifvillagers — **sem licença declarada**
+- https://rfusade.itch.io/trebuchet, https://assetbakery.itch.io/-2d-fighter-4 e https://frostwindz.itch.io/pixel-art-slashes — sem licença declarada na página
+- https://ncone.itch.io/medieval-battle-music-pack-vol-1 — grátis, mas **sem licença declarada**; https://kakeru-music.itch.io/jrpg-music-pack-free-battle-sample, https://churchoftheignorati.itch.io/medieval-battle-naval-glory (**US$ 9,99**, IA), https://busyneuron.itch.io/medieval-battle-music (**US$ 3,59**) e https://wowsound.itch.io/medieval-battle-sound-effects-pack (**US$ 99,00**) — pagos
+- https://ventilatore.itch.io/the-fantasy-tileset-castles-and-fortresses e https://toffeecraft.itch.io/ui-user-interface-pack-medieval — já registrados, versão gratuita sem uso comercial / uso pessoal
+- packs **3D**: https://kaylousberg.itch.io/kaykit-medieval-hexagon, https://quaternius.itch.io/medieval-village-megakit, https://emaceart.itch.io/free-fantasy-medieval-houses-and-props-pack, https://rg-poly.itch.io/stylized-medieval-village-unity-urp, https://manneko.itch.io/solustheknight, https://anillblend.itch.io/low-poly-medieval-warfare-pack, https://orosqui.itch.io/psx-medieval-siege-weapons, https://eticoo.itch.io/low-poly-siege-weapons-pack-vol1, https://amano007.itch.io/low-poly-tavern-dungeon-props, https://vertex-horizons.itch.io/medieval-house-modular-kit, https://miscastterrain.itch.io/medievalhouse e https://gecko0307.itch.io/medieval-house
+
 ## itch.io — Gigantes e titãs (colosso, ogro e golem) (pesquisado em 22/10/2026)
 
 Mapa de escala colossal para o Hyakki: titãs de pedra e fogo, ogros, trolls, ciclopes, golems, ruínas de civilizações que moraram nas costas de gigantes, árvores do tamanho de torres, ossadas que viraram cavernas e música épica de confronto. Nada de IP de franquia (Godzilla, Attack on Titan, Shadow of the Colossus, Kaiju, Pokémon) — só arte original com licença verificada.
