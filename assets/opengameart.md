@@ -186,6 +186,27 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/shift-animated-classic-hero-edit (**CC BY 3.0** — herói clássico animado, do Umz)
 - https://opengameart.org/content/isometric-hero-and-heroine (**CC BY 3.0** — herói e heroína isométricos, do Clint Bellanger)
 - https://opengameart.org/content/game-assets-hero-dress-and-accessories (**CC BY 3.0** — roupa e acessórios de herói para trocar o visual, da yinakoSGA)
+- https://opengameart.org/content/free-cc0-modular-animated-vector-characters-2d (**CC0** — base vetorial modular 4/8 direções para paper doll, do rgsdev)
+- https://opengameart.org/content/customizable-character-pack (**CC0** — base 16x18 com camadas de roupa/cabelo, do rubberduck)
+- https://opengameart.org/content/customizable-roguelike-character-sprite (**CC BY 4.0** — sprite roguelike customizável, do KaiserPenguin)
+- https://opengameart.org/content/16x16-character-sheet-with-separate-clothing-layers (**CC BY 4.0** — folha com camadas separadas de roupa, do chrisf)
+- https://opengameart.org/content/paper-doll-style-sprites (**CC BY-SA 3.0** — sprites estilo paper doll clássico, do Andrew Friend)
+- https://opengameart.org/content/lpc-revised-character-basics (**CC BY-SA 3.0** / GPL 3.0 / OGA-BY 3.0 — base LPC expandida, da Death's Darling)
+- https://opengameart.org/content/lpc-clothing-updates (**CC BY-SA 3.0** — atualizações de roupa LPC, do bluecarrot16)
+- https://opengameart.org/content/lpc-expanded-socks-shoes (**GPL 3.0** / CC BY-SA 3.0 — meias e sapatos LPC expandidos, do JaidynReiman)
+- https://opengameart.org/content/lpc-clothes-and-hair (**CC BY-SA 3.0** / GPL 3.0 / GPL 2.0 — roupas e cabelos LPC, da Nila122)
+- https://opengameart.org/content/more-lpc-clothes-and-hair (**CC BY-SA 3.0** / GPL 3.0 / GPL 2.0 — mais roupas e cabelos LPC, da Nila122)
+- https://opengameart.org/content/lpc-male-clothes-variety-pack (**CC BY-SA 3.0** / GPL 3.0 — variedade roupas masculinas LPC, do Boom Shaka)
+- https://opengameart.org/content/lpc-clothes-for-children (**CC BY-SA 3.0** / GPL 3.0 / OGA-BY 3.0 — roupas infantis LPC, da Nila122)
+- https://opengameart.org/content/lpc-teen-unisex-base-clothes (**CC BY-SA 3.0** / GPL 3.0 — base teen/unissex LPC com roupas, da Death's Darling)
+- https://opengameart.org/content/chibi-swordman (**CC0** — espadachim chibi, do sonild)
+- https://opengameart.org/content/2d-knight-chibi (**CC BY 3.0** / OGA-BY 3.0 — cavaleiro chibi, do Segel)
+- https://opengameart.org/content/chibi-monsters-set-01 (**CC BY 3.0** — monstros chibi, do ansimuz)
+- https://opengameart.org/content/2d-game-chibi-boy-sprite (**OGA-BY 3.0** — menino chibi, do CraftPix)
+- https://opengameart.org/content/chibi-pirate (**CC BY 3.0** — pirata chibi, do etcgood)
+- https://opengameart.org/content/female-avatar (**CC BY 3.0** / CC BY-SA 3.0 — avatar feminino, da NatashaHaggard)
+- https://opengameart.org/content/avatar-generator-with-15-trillion-combinations (**CC BY 3.0** — gerador de avatar com 15+ tri combinações, do noblemaster)
+- https://opengameart.org/content/avatar-pack-by-bullseye (**CC BY-SA 3.0** — pack de avatares, do Bull's-Eye Graph)
 
 ## Armas e itens
 
@@ -241,6 +262,20 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/bakery-isometric (**CC BY 4.0** — padaria isométrica, do khaledpng)
 - https://opengameart.org/content/kitchen-background-4-styles (**CC0** — fundos de cozinha 4 estilos, do jcrown41)
 - https://opengameart.org/content/platformer-art-candy-caverns (**CC0** — cavernas de doces para plataforma, do Kenney)
+
+#### Emotes, balões, emoji, pets e minigame UI (estilo PK XD / social game) — pesquisado em 22/10/2026
+
+- https://opengameart.org/content/animated-emote-bubbles (**CC0** — bolhas de emote animadas, da Game Dev Alliance)
+- https://opengameart.org/content/emotes-pack (**CC0** — pack de emotes 16x16, do Kenney)
+- https://opengameart.org/content/speech-bubble (**CC0** — balão de fala, do TitlePending)
+- https://opengameart.org/content/16x16-emotes-for-rpgs-and-digital-pets (**CC0** — 16x16 emotes para RPGs e pets digitais, do Tomcat94)
+- https://opengameart.org/content/megupet-010-hiko-public-domain (**CC0** — pet Hiko estilo Tamagotchi, do megupets)
+- https://opengameart.org/content/megupet-011-nekogare-public-domain (**CC0** — pet Nekogare estilo Tamagotchi, do megupets)
+- https://opengameart.org/content/gotchis (**CC0** — Gotchis estilo Tamagotchi, do megupets)
+- https://opengameart.org/content/slot-machine-resource-pack (**CC BY 3.0** / OGA-BY 3.0 — pack de caça-níquel/minigame, do Cougarmint)
+- https://opengameart.org/content/free-top-down-car-sprites-by-unlucky-studio (**CC0** — carros top-down, do sujit1717)
+- https://opengameart.org/content/cartoon-mobile-rounded-icon-buttons (**CC0** — botões arredondados UI mobile, do GDquest)
+- https://opengameart.org/content/tiny-rpg-emoji-pack-i (**CC0** — pack de emoji RPG tiny, do tiopalada)
 - https://opengameart.org/content/dragon-eggs (**CC0** — ovos de dragão de MELLE, para loot ou chocadeira)
 - https://opengameart.org/content/dragonmonster-eggs (**CC0** — ovos de dragão/monstro em pixel, do Fadesta)
 - https://opengameart.org/content/sea-dragon-eggs (**CC0** / CC BY 3.0 — ovos de dragão marinho da harunatsuko)
@@ -342,6 +377,20 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/free-graveyard-platformer-tileset (**CC0** — tileset de cemitério para plataforma, com lápides e árvores mortas)
 - https://opengameart.org/content/graveyard (**CC0** — cenário de cemitério 2D)
 - https://opengameart.org/content/seamless-2d-graveyard-background (**CC0** — fundo de cemitério em loop contínuo)
+
+#### Interior, móveis e quartos (estilo PK XD / social game) — pesquisado em 22/10/2026
+
+- https://opengameart.org/content/lpc-house-interior-and-decorations (**CC BY-SA 3.0** / GPL 3.0 / GPL 2.0 — interior LPC completo com decorações, do Reemax)
+- https://opengameart.org/content/interior-tileset-16x16 (**CC BY-SA 3.0** — tileset interior 16x16, do Bonsaiheldin)
+- https://opengameart.org/content/lpc-simple-modern-furniture (**CC BY-SA 3.0** / GPL 3.0 — móveis modernos simples LPC, do o10001771)
+- https://opengameart.org/content/room-tileset (**CC BY-SA 3.0** — tileset de quartos, do m7600)
+- https://opengameart.org/content/isometric-2d-pixel-room (**CC0** — quarto isométrico estilo diorama, do Necromancer)
+- https://opengameart.org/content/grannys-house (**CC0** — casinha top-down da vovó, do Hyptosis)
+- https://opengameart.org/content/batak-house-pixel-tileset (**CC0** — tileset casa Batak, do Hyptosis)
+- https://opengameart.org/content/crimelike-furniture (**CC0** — móveis estilo crimelike, do extradave)
+- https://opengameart.org/content/2d-furniture-pack (**CC BY 4.0** — pack de móveis 2D, do F0x0ne)
+- https://opengameart.org/content/pixel-furniture (**CC BY 4.0** — móveis em pixel art, do bellow)
+- https://opengameart.org/content/tds-tilesets-buildings-and-furniture (**CC0** — tilesets TDS: prédios e móveis, do Brandon Morris)
 - https://opengameart.org/content/seamless-grass (**CC0** — textura de grama sem emendas, para mapas top-down)
 - https://opengameart.org/content/seamless-grass-texture-ii (**CC0** — variante da textura de grama)
 - https://opengameart.org/content/blended-textures-of-dirt-and-grass (**CC0** — transições de terra e grama para montar caminhos)
@@ -585,6 +634,21 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/wood-planks (**CC0** — tábuas de madeira, da Starry Skydancer)
 - https://opengameart.org/content/wooden-planks-0 (**CC0** — tábuas de madeira, do Fupi)
 - https://opengameart.org/content/cc0-texture-resources-3-wood (**CC0** — texturas de madeira, do rubberduck)
+
+#### Plantas, jardim e chão (estilo PK XD / cozy) — pesquisado em 22/10/2026
+
+- https://opengameart.org/content/lpc-plant-repack (**CC BY-SA 3.0** / GPL 3.0 — replantio de plantas LPC, vários autores)
+- https://opengameart.org/content/isometric-plant-pack (**CC BY 4.0** / CC BY-SA 4.0 — pack de plantas isométricas, do rubberduck)
+- https://opengameart.org/content/pixel-flower-icons (**CC BY 4.0** — ícones de flores pixel, do sicklyseraph)
+- https://opengameart.org/content/garden-gnome-potted-plants (**CC0** — gnomo de jardim e vasos, do NaRNeRZz)
+- https://opengameart.org/content/pumpkin-garden-tiles (**CC0** — tiles de jardim de abóbora, da NettySvit)
+- https://opengameart.org/content/lpc-flower-grow-cycle (**CC BY 3.0** / GPL 3.0 / GPL 2.0 — ciclo de crescimento de flor LPC, do madmarcel)
+- https://opengameart.org/content/free-urban-textures-ground-grass-road-cobbles-snow (**CC0** — texturas urbanas: chão, grama, estrada, paralelepípedos, neve, do Scouser)
+- https://opengameart.org/content/10-seamless-grass-textures-that-are-2048-x-2048 (**CC0** — 10 texturas de grama sem emenda 2048x2048, do LuminousDragonGames)
+- https://opengameart.org/content/30-grass-textures-tilable (GPL 2.0 — 30 texturas de grama tilable, do p0ss — *atenção: GPL*)
+- https://opengameart.org/content/free-urban-textures-wood (**CC0** — texturas de madeira urbanas, do Scouser)
+- https://opengameart.org/content/free-texture-resource-pack-wood-structure-walls-and-textile (**CC0** — texturas: madeira, estrutura, paredes, têxtil, do rubberduck)
+- https://opengameart.org/content/wood-texture-tiles (**CC0** — tiles de textura de madeira, do JCW)
 - https://opengameart.org/content/city-parallax-pixel-art (**CC0** — parallax de cidade em pixel art, do Gustavo Saraiva)
 - https://opengameart.org/content/city-parallax-background-with-buildings-pixel-art (**OGA-BY 3.0** — fundo de cidade com prédios em parallax, do CraftPix)
 - https://opengameart.org/content/skyline (**CC0** — horizonte de cidade, do John2k)
@@ -858,3 +922,17 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/happy-synths-loop-with-slight-christmas-feeling (**CC0** — loop sintético alegre com toque natalino, do 3xBlast)
 - o **Caketown — Cute/Playful** (**CC BY-SA 3.0**) já está catalogado na seção **Brinquedo, blocos e lúdico** e serve perfeito para match-3
 - os efeitos **Punch** (**CC0**), **Punch, Slap 'n Kick** (**CC BY 3.0**), **37 Hits/Punches** (**CC0**), **Air Whoosh** (**CC0**), **Explosion** (**CC0**) e **Big Explosion** (**CC BY 3.0**) já estão catalogados nas seções **Guerra e militar** e **Super-heróis** — reaproveitam direto para match-3
+
+### Mundo virtual / avatar social (estilo PK XD) — música cozy, puzzle e jingles (pesquisado em 22/10/2026)
+
+- https://opengameart.org/content/cozy-space-music-6-seamless-chiptune-loops (**CC BY 4.0** — 6 loops chiptune cozy espaciais, do roberto mellado)
+- https://opengameart.org/content/cozy-puzzle-jingle-result (**CC0** — jingle e resultado de puzzle cozy, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-title (**CC0** — título de puzzle cozy, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-stage-select (**CC0** — seleção de fase puzzle cozy, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-in-game-1 (**CC0** — em jogo puzzle cozy 1, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-in-game-2 (**CC0** — em jogo puzzle cozy 2, do MintoDog)
+- https://opengameart.org/content/funky-house (**CC0** — house funky, do Of Far Different)
+- https://opengameart.org/content/loop-house-in-a-forest (**CC BY 3.0** — loop casa na floresta, do HorrorPen)
+- https://opengameart.org/content/doll-house (**CC BY 4.0** — casa de boneca, do Alexandr Zhelanov)
+- as faixas **Funny and Cute Town Theme**, **Cute March Music**, **Happy Tune**, **Happy Arcade Tune**, **Talking Cute**, **Cute Bytes OST**, **Happy Adventure Loop**, **Puppydogs Playful**, **Happy Synths Loop** já estão catalogadas na seção **Match-3 / Candy Crush** e servem para o clima cozy
+- os **jingles** do Kenney (**CC0**) e o **KitFit Soundtrack** (**CC BY 3.0** / CC BY 4.0) já catalogados servem para UI, notificações e minigames
