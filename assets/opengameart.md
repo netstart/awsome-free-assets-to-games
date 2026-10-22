@@ -207,6 +207,20 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/female-avatar (**CC BY 3.0** / CC BY-SA 3.0 — avatar feminino, da NatashaHaggard)
 - https://opengameart.org/content/avatar-generator-with-15-trillion-combinations (**CC BY 3.0** — gerador de avatar com 15+ tri combinações, do noblemaster)
 - https://opengameart.org/content/avatar-pack-by-bullseye (**CC BY-SA 3.0** — pack de avatares, do Bull's-Eye Graph)
+- https://opengameart.org/content/dark-knight-2d-character-sprites (**CC0** — cavaleiro sombrio, do comphonia)
+- https://opengameart.org/content/mini-knight-expansion-1 (**CC0** — expansão mini cavaleiro, da M484 Games)
+- https://opengameart.org/content/black-knight (**CC BY 3.0** — cavaleiro negro, do WiLD11)
+- https://opengameart.org/content/despair-knight (**CC BY-SA 3.0** — cavaleiro da desesperança, do WarmGuy)
+- https://opengameart.org/content/simple-knight-w-shield-by-calciumtrice (**CC BY 3.0** — cavaleiro com escudo, do Calciumtrice)
+- https://opengameart.org/content/ninja-samurai-knight (**CC BY-SA 3.0** — ninja samurai cavaleiro, do prizzy96)
+- https://opengameart.org/content/animated-rogue (**CC BY 3.0** — ladino animado, do Calciumtrice)
+- https://opengameart.org/content/rogue-dungeon (**OGA-BY 3.0** — masmorra rogue, do LD)
+- https://opengameart.org/content/alchemist-set (**CC BY-SA 4.0** / CC BY-SA 3.0 — set alquimista, da SCaydi)
+- https://opengameart.org/content/js-actor-alchemist (**CC BY 3.0** — ator alquimista, do JosephSeraph)
+- https://opengameart.org/content/isometric-alchemist-flasks-with-and-without-magic-symbols (**CC BY 4.0** / CC BY 3.0 — frascos alquímicos isométricos, do Varkalandar)
+- https://opengameart.org/content/alchemist-run-animation (**CC BY 4.0** — animação de corrida alquimista, do NeotoonDev)
+- https://opengameart.org/content/2d-laboratory-pack (**CC BY-SA 3.0** / GPL 3.0 / GPL 2.0 — laboratório 2D, do oyvind)
+- https://opengameart.org/content/flasks-and-potions (**CC BY 3.0** / CC BY-SA 3.0 / GPL — frascos e poções, do Varkalandar)
 
 ## Armas e itens
 
@@ -307,6 +321,19 @@ Assets da OpenGameArt.org. Verificar a licença de cada asset antes de uso comer
 - https://opengameart.org/content/medieval-catapult-free-version (**CC BY 3.0** — catapulta medieval, do Bleed)
 - https://opengameart.org/content/lpc-siege-weapons (**CC BY 4.0** / CC BY 3.0 / GPL — armas de cerco no padrão LPC, do bluecarrot16)
 - https://opengameart.org/content/siege-weapons (**CC BY-SA 4.0** / GPL — armas de cerco, do Herodom)
+
+#### Roguelite / Metroidvania gótico (estilo Dead Cells) — itens, runas e armas (pesquisado em 22/10/2026)
+
+Novos itens verificados nesta rodada:
+
+- https://opengameart.org/content/scroll-themed-hud-bars (**CC0** — barras HUD estilo pergaminho, do Talosaurus)
+- https://opengameart.org/content/burnt-scroll (**CC BY-SA 3.0** — pergaminho queimado, do Endymian)
+- https://opengameart.org/content/weathered-scroll (**CC BY 4.0** / CC BY 3.0 — pergaminho envelhecido, da Angelee)
+- https://opengameart.org/content/barbed-shield-64x64 (**CC0** — escudo farpado 64x64, do LordNeo)
+
+Itens já catalogados em seções anteriores (Armas/Itens, Dark Fantasy, Match-3, PK XD) e que servem para Dead Cells — referenciados por nome:
+
+- **Flasks and Potions**, **Isometric Alchemist Flasks**, **Potion Bottles / Extra / Set** (**CC0**), **Banner Flag Scroll** (**CC BY 3.0**), **Shields CC0** / **Round Shields** (**CC0**), **Barbed Shield 64x64** (**CC0**), **Tiny Viking Battleaxe** / **War Axe 64x64** / **CC0 Axe Icons** / **Battle Axe Weapons Rework** (**CC0**), **Rune Pack** / **CC0 Rune Icons** / **Collection of Rune Stones** / **4 Glowing Rune Stones** (**CC0**), **Gem Match-3 Set** / **Gem Icons** / **Gem Tiles** (gemas como runas coloridas), **Skulls** (**CC0**), **Gold Skull** (**CC BY-SA 3.0**), **Female/Male Bones Sheet** / **15 Pixel Bones** / **Snake Corpse** (**CC0**)
 - https://opengameart.org/content/medieval-themed-banner (**CC0** — estandarte medieval, do ege)
 - https://opengameart.org/content/banner-flag-scroll (**CC BY 3.0** — bandeira e pergaminho, do Osmic)
 - https://opengameart.org/content/2d-gem-set-32x32 (**CC0** — conjunto de gemas 32x32, do kungfu4000)
@@ -935,3 +962,9 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/doll-house (**CC BY 4.0** — casa de boneca, do Alexandr Zhelanov)
 - as faixas **Funny and Cute Town Theme**, **Cute March Music**, **Happy Tune**, **Happy Arcade Tune**, **Talking Cute**, **Cute Bytes OST**, **Happy Adventure Loop**, **Puppydogs Playful**, **Happy Synths Loop** já estão catalogadas na seção **Match-3 / Candy Crush** e servem para o clima cozy
 - os **jingles** do Kenney (**CC0**) e o **KitFit Soundtrack** (**CC BY 3.0** / CC BY 4.0) já catalogados servem para UI, notificações e minigames
+
+### Roguelite / Metroidvania gótico (estilo Dead Cells) — dark synth, dungeon synth, boss battle (pesquisado em 22/10/2026)
+
+Todas as faixas abaixo já estão catalogadas em seções anteriores (Castlevania, RTS Nórdico, Match-3, PK XD, Gótico, Guerra Medieval) — referenciadas por nome:
+
+- **Dark Ambient** / **Dark Ambient 0** / **Dark Ambient Loop 13** (**CC BY 3.0**), **Scary Ambient Wind** (**CC BY 3.0**), **Menace — Fast Gothic Metal Track** (**CC BY 4.0**), **Final Boss Appearance Dark Fantasy** (**OGA-BY 3.0**), **Ghost Mansion Dungeon Synth** (**CC BY 4.0**), **Celtic Dungeon Synth** (**CC BY 4.0**), **Hard Dungeon** (**CC0**), **Zelda-like Dungeon Theme** (**CC0**), **MonsterVania Ghost Land** (**CC0**), **Into the Ruins** (**CC BY 3.0**), **Spooky Action Loop [Hallow Quest]** (**CC0**), **8-bit MonsterVania #1 / #2** (**CC0**), **Purgatory** (**CC BY-SA 4.0**), **8-bit Mechanical Complex** (**CC0**), **Colossal Boss Battle Theme** / **Wasteland Showdown** / **Revenge Boss Battle** (**CC BY 3.0**), **Dark Intro** (**CC0**)
