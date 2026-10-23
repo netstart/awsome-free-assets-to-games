@@ -77,6 +77,8 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://quaternius.itch.io/universal-base-characters (**CC0** — 6 modelos 3D base de personagem (Superhero/Regular/Teen, masculino/feminino) com 20 penteados, rigged, pronto para retargeting em qualquer engine; uso comercial, sem atribuição, sem IA)
 - https://kaylousberg.itch.io/kaykit-skeletons (**CC0** — 4 personagens de esqueleto low-poly rigged e animados com 10+ acessórios/armas; uso comercial, sem atribuição, sem IA)
 
+- https://elbolilloduro.itch.io/characters-psx (**137 Personagens PSX 3D** — polícia, civis, bombeiros, médicos, médicos de materiais perigosos, assassinos, monstros e extras; modelos .fbx/.blend; **licença custom comercial**: uso em projetos comerciais e não comerciais, sem atribuição exigida; proibido re-upload/redistribuição do asset em outros locais)
+
 ### itch.io — Novos personagens (pesquisados em 23/10/2026, páginas 2-6 da tag Characters)
 
 - https://gimicko.itch.io/2d-pixel-art-character-template (Template de personagem pixel art 2D — **CC0 1.0 Universal**: pode usar, modificar e distribuir em qualquer projeto, inclusive comercial, sem atribuição)
