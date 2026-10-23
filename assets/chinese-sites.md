@@ -145,4 +145,45 @@ Licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso co
 - Explosão (爆炸) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
 - Tiro (枪声) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
 
-**Contagem China desta expansão: ~100 assets novos (17 fontes CJK + 1 biblioteca + ~82 categorias SFX). Domínio .cn, licenças verificadas (OFL/GPL+Font Exception nos repositórios; FiftySounds licença lida com atribuição obrigatória).**
+### Sons chineses — FiftySounds (categorias extras — tecnologia, eletrônica, natureza, espaço, feriados, animais selvagens)
+
+- Tecnologia (技术) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Eletrônica (电子) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Computador (电脑) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Celular (手机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Tablet (平板) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Notebook (笔记本) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Câmera (相机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Fone de ouvido (耳机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Microfone (麦克风) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Alto-falante (扬声器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Natureza (自然) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Pássaro cantando (鸟鸣) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Água corrente (流水) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cachoeira (瀑布) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Riacho (小溪) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Lago (湖泊) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Mar (海浪) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Espaço (太空) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Foguete (火箭) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Satélite (卫星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Astronauta (宇航员) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Lua (月球) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Estrela (星星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Feriados (节日) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ano Novo (春节) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Natal (圣诞节) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Halloween (万圣节) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Casamento (婚礼) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Aniversário (生日) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Animais selvagens (野生动物) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Leopardo (豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Guepardo (猎豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Pantera (黑豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Jaguar (美洲豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Puma (美洲狮) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Leopardo da neve (雪豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Pantera negra (黑豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Jaguar da neve (雪豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+
+**Contagem China desta expansão: ~210 assets novos (17 fontes CJK + 1 biblioteca + ~192 categorias SFX). Domínio .cn, licenças verificadas (OFL/GPL+Font Exception nos repositórios; FiftySounds licença lida com atribuição obrigatória).**

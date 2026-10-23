@@ -183,4 +183,45 @@ Licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comer
 - Полиция (Полиция) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
 - Пожарная машина (Пожарная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
 
-**Contagem Rússia desta pesquisa: ~140 assets novos (6 música + 5 fontes cirílicas + 1 biblioteca SFX FiftySounds + ~128 categorias SFX detalhadas). Domínio .ru, termo de uso verificado para música (no-copyright-music.com/ru/licenza/) e SFX (fiftysounds.com/ru/license-info/).**
+### Efeitos sonoros — FiftySounds (categorias extras — tecnologia, eletrônica, natureza, espaço, feriados, animais selvagens)
+
+- Технологии (Технологии) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электроника (Электроника) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Компьютер (Компьютер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Телефон (Телефон) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Планшет (Планшет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ноутбук (Ноутбук) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Камера (Камера) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Наушники (Наушники) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Микрофон (Микрофон) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Колонка (Колонка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Природа (Природа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пение птиц (Пение птиц) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Текущая вода (Текущая вода) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Водопад (Водопад) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ручей (Ручей) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Озеро (Озеро) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Море (Море) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Космос (Космос) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ракета (Ракета) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Спутник (Спутник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Космонавт (Космонавт) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Луна (Луна) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звезда (Звезда) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Праздники (Праздники) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Новый год (Новый год) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Рождество (Рождество) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Хэллоуин (Хэллоуин) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Свадьба (Свадьба) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- День рождения (День рождения) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Дикие животные (Дикие животные) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Леопард (Леопард) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Гепард (Гепард) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пантера (Пантера) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ягуар (Ягуар) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пума (Пума) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Снежный барс (Снежный барс) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Черная пантера (Чернаяパンтера) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+
+**Contagem Rússia desta pesquisa: ~215 assets novos (6 música + 5 fontes cirílicas + 1 biblioteca SFX FiftySounds + ~203 categorias SFX detalhadas). Domínio .ru, termo de uso verificado para música (no-copyright-music.com/ru/licenza/) e SFX (fiftysounds.com/ru/license-info/).**
+

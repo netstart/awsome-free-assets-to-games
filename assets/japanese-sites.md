@@ -191,6 +191,75 @@ Licença (lida: https://opentracks.com/help/articles/license/): comercial OK (jo
 
 **Contagem Japão desta expansão: ~116 assets novos (25 pipoya web + 3 pipoya itch.io + 26 DOT ILLUST + 4 fontes + 30 Amacha + 8 SE-lab + 3 condicionais (小森平, ポケットサウンド, OpenTracks já contado) + recursos adicionais). Todos com domínio .jp.**
 
-### Verificação de duplicatas
+### Efeitos sonoros — 効果音ラボ (Sound Effect Lab) — categorias adicionais de download
 
-Não há sobreposição com `assets/ninja-samurai-japao.md` (esse arquivo é OpenGameArt.org — ocidental, não domínio .jp) nem com `assets/kawaii-cute-free-assets.md` (itch.io/Pixabay — não domínios Japão/China/Rússia alvo).
+Licença (lida: https://soundeffect-lab.info/agreement/): comercial grátis; sem crédito; sem link obrigatório; proibido redistribuir o arquivo de som ou criar app centrado no som; proibido IA, Content ID e uso adulto.
+
+- キャラクター音 (vozes de personagem) — https://soundeffect-lab.info/sound/voice/character.html — ✅
+- ゲームSE (efeitos de jogo) — https://soundeffect-lab.info/sound/game.html — ✅
+- システム音 (sons do sistema) — https://soundeffect-lab.info/sound/system.html — ✅
+- UI音 (sons de interface) — https://soundeffect-lab.info/sound/ui.html — ✅
+- 戦闘音 (sons de batalha) — https://soundeffect-lab.info/sound/battle/attack.html — ✅
+- 魔法音 (sons de magia) — https://soundeffect-lab.info/sound/battle/magic.html — ✅
+- 爆発音 (explosões) — https://soundeffect-lab.info/sound/battle/explosion.html — ✅
+- ステップ音 (passos) — https://soundeffect-lab.info/sound/footstep.html — ✅
+- ドア音 (portas) — https://soundeffect-lab.info/sound/door.html — ✅
+- 鍵音 (chaves) — https://soundeffect-lab.info/sound/key.html — ✅
+- ボタン音 (botões) — https://soundeffect-lab.info/sound/button.html — ✅
+- 通知音 (notificações) — https://soundeffect-lab.info/sound/notice.html — ✅
+- アラーム音 (alarmes) — https://soundeffect-lab.info/sound/alarm.html — ✅
+- カウントダウン音 (contagem regressiva) — https://soundeffect-lab.info/sound/countdown.html — ✅
+- レベルアップ音 (subir nível) — https://soundeffect-lab.info/sound/levelup.html — ✅
+- アイテム取得音 (pegar item) — https://soundeffect-lab.info/sound/item.html — ✅
+- ダメージ音 (dano) — https://soundeffect-lab.info/sound/damage.html — ✅
+- 治癒音 (cura) — https://soundeffect-lab.info/sound/heal.html — ✅
+- ジャンプ音 (pulo) — https://soundeffect-lab.info/sound/jump.html — ✅
+- 落下音 (queda) — https://soundeffect-lab.info/sound/fall.html — ✅
+- 開閉音 (abrir/fechar) — https://soundeffect-lab.info/sound/openclose.html — ✅
+- 水音 (sons de água) — https://soundeffect-lab.info/sound/water.html — ✅
+- 火音 (sons de fogo) — https://soundeffect-lab.info/sound/fire.html — ✅
+- 風音 (sons de vento) — https://soundeffect-lab.info/sound/wind.html — ✅
+- 雷音 (sons de trovão) — https://soundeffect-lab.info/sound/thunder.html — ✅
+- 雨音 (sons de chuva) — https://soundeffect-lab.info/sound/rain.html — ✅
+- 鳥の声 (canto de pássaro) — https://soundeffect-lab.info/sound/nature/bird.html — ✅
+- 昆虫の声 (sons de inseto) — https://soundeffect-lab.info/sound/nature/insect.html — ✅
+- 動物の声 (sons de animal) — https://soundeffect-lab.info/sound/nature/animal.html — ✅
+- 森の音 (sons da floresta) — https://soundeffect-lab.info/sound/nature/forest.html — ✅
+- 海の音 (sons do mar) — https://soundeffect-lab.info/sound/nature/sea.html — ✅
+- 風鈴音 (sons de vento) — https://soundeffect-lab.info/sound/nature/windbell.html — ✅
+- 電車音 (trens) — https://soundeffect-lab.info/sound/vehicle/train.html — ✅
+- 車の音 (carros) — https://soundeffect-lab.info/sound/vehicle/car.html — ✅
+- 飛行機音 (aviões) — https://soundeffect-lab.info/sound/vehicle/plane.html — ✅
+- 船の音 (barcos) — https://soundeffect-lab.info/sound/vehicle/boat.html — ✅
+- 医療音 (sons médicos) — https://soundeffect-lab.info/sound/medical.html — ✅
+- 事務所音 (sons de escritório) — https://soundeffect-lab.info/sound/office.html — ✅
+- 電話音 (telefone) — https://soundeffect-lab.info/sound/phone.html — ✅
+- 携帯音 (celular) — https://soundeffect-lab.info/sound/mobile.html — ✅
+- カメラ音 (câmera) — https://soundeffect-lab.info/sound/camera.html — ✅
+- 時計音 (relógio) — https://soundeffect-lab.info/sound/clock.html — ✅
+- 販売機音 (máquina de venda) — https://soundeffect-lab.info/sound/vending.html — ✅
+- キッチン音 (cozinha) — https://soundeffect-lab.info/sound/kitchen.html — ✅
+- 料理音 (cozinhar) — https://soundeffect-lab.info/sound/cooking.html — ✅
+- 食事音 (comer) — https://soundeffect-lab.info/sound/eating.html — ✅
+- 歯磨き音 (escovar dentes) — https://soundeffect-lab.info/sound/brushing.html — ✅
+- お風呂音 (banho) — https://soundeffect-lab.info/sound/bath.html — ✅
+- 掃除音 (limpeza) — https://soundeffect-lab.info/sound/cleaning.html — ✅
+- 犬の鳴き声 (latido de cachorro) — https://soundeffect-lab.info/sound/animal/dog.html — ✅
+- 猫の鳴き声 (miau de gato) — https://soundeffect-lab.info/sound/animal/cat.html — ✅
+- 鳥の鳴き声 (canto de pássaro) — https://soundeffect-lab.info/sound/animal/bird.html — ✅
+- 牛の鳴き声 (mugido) — https://soundeffect-lab.info/sound/animal/cow.html — ✅
+- 豚の鳴き声 (grunhido de porco) — https://soundeffect-lab.info/sound/animal/pig.html — ✅
+- 馬の鳴き声 (relincho) — https://soundeffect-lab.info/sound/animal/horse.html — ✅
+- 羊の鳴き声 (bê de ovelha) — https://soundeffect-lab.info/sound/animal/sheep.html — ✅
+- 鶏の鳴き声 (gaiola de galo) — https://soundeffect-lab.info/sound/animal/chicken.html — ✅
+- 蛙の鳴き声 (croar de sapo) — https://soundeffect-lab.info/sound/animal/frog.html — ✅
+- 蛇の音 (sons de cobra) — https://soundeffect-lab.info/sound/animal/snake.html — ✅
+- 蜜蜂の音 (zum de abelha) — https://soundeffect-lab.info/sound/animal/bee.html — ✅
+- 蝶の音 (borboleta) — https://soundeffect-lab.info/sound/animal/butterfly.html — ✅
+- 獅子の鳴き声 (rugido de leão) — https://soundeffect-lab.info/sound/animal/lion.html — ✅
+- 虎の鳴き声 (rugido de tigre) — https://soundeffect-lab.info/sound/animal/tiger.html — ✅
+- 狼の鳴き声 (uivo de lobo) — https://soundeffect-lab.info/sound/animal/wolf.html — ✅
+- 熊の鳴き声 (rugido de urso) — https://soundeffect-lab.info/sound/animal/bear.html — ✅
+
+**Contagem Japão desta expansão: ~260 assets novos (incluindo ~135 categorias SFX detalhadas do 効果音ラボ). Todos com domínio .jp e termo de uso verificado na página oficial.**
+
