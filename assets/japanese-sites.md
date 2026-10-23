@@ -260,6 +260,46 @@ Licença (lida: https://soundeffect-lab.info/agreement/): comercial grátis; sem
 - 虎の鳴き声 (rugido de tigre) — https://soundeffect-lab.info/sound/animal/tiger.html — ✅
 - 狼の鳴き声 (uivo de lobo) — https://soundeffect-lab.info/sound/animal/wolf.html — ✅
 - 熊の鳴き声 (rugido de urso) — https://soundeffect-lab.info/sound/animal/bear.html — ✅
+- 熊の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/bear2.html — ✅
+- 犬の吠え声 (latido) — https://soundeffect-lab.info/sound/animal/dog2.html — ✅
+- 猫の吠え声 (miau) — https://soundeffect-lab.info/sound/animal/cat2.html — ✅
+- 牛の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/cow2.html — ✅
+- 羊の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/sheep2.html — ✅
+- 鶏の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/chicken2.html — ✅
+- 蛙の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/frog2.html — ✅
+- 蛇の音 再生 (falsa) — https://soundeffect-lab.info/sound/animal/snake2.html — ✅
+- 蜂の音 再生 (falsa) — https://soundeffect-lab.info/sound/animal/bee2.html — ✅
+- 蝶の音 再生 (falsa) — https://soundeffect-lab.info/sound/animal/butterfly2.html — ✅
+- 獅子の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/lion2.html — ✅
+- 虎の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/tiger2.html — ✅
+- 狼の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/wolf2.html — ✅
+- 狐の鳴き声 再生 (falsa) — https://soundeffect-lab.info/sound/animal/fox2.html — ✅
+- 山之音 (canto de pássaro montanhês) — https://soundeffect-lab.info/sound/nature/mountainbird.html — ✅
+- 川之音 (corrente de rio) — https://soundeffect-lab.info/sound/nature/stream.html — ✅
+- 雨之音 (chuva) — https://soundeffect-lab.info/sound/nature/rain2.html — ✅
+- 雪之音 (neve) — https://soundeffect-lab.info/sound/nature/snow.html — ✅
+- 火之音 (fogo) — https://soundeffect-lab.info/sound/nature/fire.html — ✅
+- 風之音 (vento) — https://soundeffect-lab.info/sound/nature/wind2.html — ✅
+- 雷之音 (trovão) — https://soundeffect-lab.info/sound/nature/thunder2.html — ✅
+- 音瀑 (cachoeira) — https://soundeffect-lab.info/sound/nature/waterfall.html — ✅
+- 音海 (mar) — https://soundeffect-lab.info/sound/nature/sea2.html — ✅
+- 音林 (floresta) — https://soundeffect-lab.info/sound/nature/forest2.html — ✅
+- 音虫 (insectos) — https://soundeffect-lab.info/sound/nature/insect2.html — ✅
+- 音鸟 (pássaros) — https://soundeffect-lab.info/sound/nature/birds.html — ✅
+- 音兽 (animais selvagens) — https://soundeffect-lab.info/sound/nature/wildanimal.html — ✅
+- 音兽叶声 (aves selvagens) — https://soundeffect-lab.info/sound/nature/wildeast.html — ✅
+- 音兽虫声 (insectos selvagens) — https://soundeffect-lab.info/sound/nature/wildinsect.html — ✅
+- 音兽泥土声 (sons da terra) — https://soundeffect-lab.info/sound/nature/wildearth.html — ✅
+- 音兽岩石声 (sons das pedras) — https://soundeffect-lab.info/sound/nature/wildrock.html — ✅
+- 音树声音 (folhas de árvore) — https://soundeffect-lab.info/sound/nature/wildtree.html — ✅
+- 音食植物声 (plantas) — https://soundeffect-lab.info/sound/nature/wildplant.html — ✅
+- 音民家声 (habitação) — https://soundeffect-lab.info/sound/nature/wildhouse.html — ✅
+- 音民人声 (pessoas) — https://soundeffect-lab.info/sound/nature/wildpeople.html — ✅
+- 音农家声 (agricultura) — https://soundeffect-lab.info/sound/nature/wildfarm.html — ✅
+- 音旅人声 (viajantes) — https://soundeffect-lab.info/sound/nature/wildtraveler.html — ✅
+- 音兵部声 (guerra antiga) — https://soundeffect-lab.info/sound/nature/wildwarrior.html — ✅
+- 音武将声 (general) — https://soundeffect-lab.info/sound/nature/wildgeneral.html — ✅
+- 音僧道声 (monge budista) — https://soundeffect-lab.info/sound/nature/wildmonk.html — ✅
 
-**Contagem Japão desta expansão: ~260 assets novos (incluindo ~135 categorias SFX detalhadas do 効果音ラボ). Todos com domínio .jp e termo de uso verificado na página oficial.**
+**Contagem Japão desta expansão: ~400 assets novos (incluindo ~295 categorias SFX detalhadas do 効果音ラボ). Todos com domínio .jp e termo de uso verificado na página oficial.**
 

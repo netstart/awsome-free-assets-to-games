@@ -186,4 +186,49 @@ Licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso co
 - Pantera negra (黑豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
 - Jaguar da neve (雪豹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
 
-**Contagem China desta expansão: ~210 assets novos (17 fontes CJK + 1 biblioteca + ~192 categorias SFX). Domínio .cn, licenças verificadas (OFL/GPL+Font Exception nos repositórios; FiftySounds licença lida com atribuição obrigatória).**
+### Sons chineses — FiftySounds (categorias extras — tecnologia espacial, eletrônica, engenharia, exército, cozinha detalhada)
+
+- Tecnologia espacial (航天技术) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Exploração espacial (太空探索) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Estação espacial (空间站) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Sonda espacial (探测器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Marte (火星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Lua (月球表面) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Saturno (土星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Júpiter (木星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Vênus (金星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Mercúrio (水星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Eletrônica espacial (太空电子) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Engenharia espacial (航天工程) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Foguete de combustível (火箭燃料) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Motor espacial (航天发动机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Satélite de comunicação (通信卫星) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Telescópio (望远镜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Engenharia (工程) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Construção civil (土木工程) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ponte (桥梁) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Edifício (建筑物) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Demolição (拆除) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Escavação (挖掘) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Exército (军队) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Marcha militar (军乐) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Exército de marcha (步兵行军) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Tanque (坦克) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Canhão (炮弹) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Artilharia (炮兵) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Exército moderno (现代军队) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cozinha detalhada (厨房详细) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cortar carne (切肉) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cortar vegetais (切菜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cozinhar arroz (煮饭) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Fritar (炒菜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Assar (烤面包) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Corte de pão (切面包) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Café (咖啡) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Chá (茶) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Suco (果汁) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Leite (牛奶) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cerveja (啤酒) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Vinho (红酒) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+
+**Contagem China desta expansão: ~280 assets novos (17 fontes CJK + 1 biblioteca + ~262 categorias SFX). Domínio .cn, licenças verificadas (OFL/GPL+Font Exception nos repositórios; FiftySounds licença lida com atribuição obrigatória).**
