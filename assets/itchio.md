@@ -77,6 +77,35 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://quaternius.itch.io/universal-base-characters (**CC0** — 6 modelos 3D base de personagem (Superhero/Regular/Teen, masculino/feminino) com 20 penteados, rigged, pronto para retargeting em qualquer engine; uso comercial, sem atribuição, sem IA)
 - https://kaylousberg.itch.io/kaykit-skeletons (**CC0** — 4 personagens de esqueleto low-poly rigged e animados com 10+ acessórios/armas; uso comercial, sem atribuição, sem IA)
 
+### itch.io — Novos personagens (pesquisados em 23/10/2026, páginas 2-6 da tag Characters)
+
+- https://gimicko.itch.io/2d-pixel-art-character-template (Template de personagem pixel art 2D — **CC0 1.0 Universal**: pode usar, modificar e distribuir em qualquer projeto, inclusive comercial, sem atribuição)
+- https://pixelserial.itch.io/rpg-top-down-character-asset-pack (RPG Top Down Character Asset Pack — **Licença custom comercial**: uso em projetos pessoais e comerciais, modificação permitida, jogos grátis e pagos)
+- https://lucky-loops.itch.io/character-satyr (Free character - Satyr — **CC BY 4.0**: livre para usar, adaptar e compartilhar em qualquer projeto, pessoal ou comercial)
+- https://rgsdev.itch.io/free-cc0-modular-animated-vector-characters-2d (Free CC0 Modular Animated Vector Characters 2D — **CC0**: uso comercial livre, sem atribuição)
+- https://rgsdev.itch.io/animated-stick-figure-character-2d-free-cc0 (Animated Stick Figure Character 2D Free CC0 — **CC0**: uso comercial livre, sem atribuição)
+- https://rgsdev.itch.io/character-prototype-animated-cc0 (Character Prototype Animated CC0 — **CC0**: uso comercial livre, modificação permitida)
+- https://styloo.itch.io/chibi (Chibi Characters — **CC0**: Creative Commons Zero v1.0 Universal)
+- https://oboropixel.itch.io/character-animations (Cat Character Asset Pack — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado mas não obrigatório, não redistribuir/revender)
+- https://axulart.itch.io/small-8-direction-characters (Small 8-direction Characters — **CC BY 4.0**: projetos grátis e comerciais, modificação permitida com crédito)
+- https://szadiart.itch.io/2d-soulslike-character (2D SL Character — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado mas não obrigatório)
+- https://oisougabo.itch.io/gap-i (Gabo's Adventurers Pack I — **Licença custom comercial**: comercial e não comercial, modificar permitida, não revender/redistribuir)
+- https://hormelz.itch.io/8-directional-knight (8 Directional Knight Character — **CC0**: Creative Commons Zero v1.0 Universal)
+- https://rauchen.itch.io/the-dude (THE_DUDE - A 2D Character Template — **Licença custom comercial**: uso comercial e não comercial, crédito não obrigatório mas apreciado)
+- https://papoycore.itch.io/fairy ([Free] Fairy — **Licença custom comercial**: comercial e não comercial, modificação permitida)
+- https://reaktori.itch.io/debts-in-the-depths-asset-pack (Debts in the Depths - Free Pixel Art Dungeon Asset Pack — **CC0**: Creative Commons Zero v1.0 Universal)
+- https://robocelot.itch.io/gumdrop-source-and-sprites (Gumdrop Galaxy Characters — **CC BY 4.0**: Creative Commons 4.0 International)
+- https://immunitys.itch.io/pixel-top-down-character (Simple Top Down Character — **Licença custom comercial**: edição e uso pessoal e comercial, crédito não necessário mas apreciado)
+- https://angeler1234.itch.io/basic-character-female-pack-for-free-64 (Basic Character Female 64 PRO Free Version — **Licença custom comercial**: pessoal e comercial, modificação permitida)
+- https://dreamir.itch.io/characters-pack (Characters Pack — **Licença custom comercial**: projetos grátis e comerciais, modificação permitida)
+- https://totuslotus.itch.io/characterpack (Top Down character pack — **Licença custom comercial**: pessoal e comercial, modificação permitida)
+- https://pixelgnome.itch.io/character (Pixel Gnome: Customizable Playable Character Pack — **Licença custom comercial**: jogos comerciais e não comerciais, projetos pessoais)
+- https://bobddadoo.itch.io/tiny-questers-warrior (TINY QUESTERS — Free Warrior — **Licença custom comercial**: free para projetos pessoais e comerciais)
+- https://eduardscarpato.itch.io/toxic-frog-animations-pixel-art-2d-free (Toxic Frog Animations Pixel Art 2D FREE — **Licença custom comercial**: FREE declarado, comercial OK)
+- https://styloo.itch.io/robot-character (Robot character — **CC0**: Creative Commons Zero v1.0 Universal; autor confirmou uso comercial)
+- https://jik-a-4.itch.io/metrocity-free-topdown-character-pack (MetroCity - Free Top Down Character Pack — **CC0**: Creative Commons Zero v1.0 Universal; autor confirmou uso comercial)
+- https://styloo.itch.io/mari (Mari Character — **CC0**: Creative Commons Zero v1.0 Universal)
+
 ---
 
 ## itch.io — Mapas, tilesets e cenários
