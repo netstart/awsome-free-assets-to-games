@@ -281,3 +281,4 @@ Assets da OpenGameArt.org com tema ninja, samurai, Japão / cultura japonesa. Ve
 - https://opengameart.org/content/doom-komato-assassin-prototype-curvy-female (**CC0** — Doom Komato assassin sprite (Puffolotti), ninja, assassin, Zatoichi)
 - https://opengameart.org/content/espun (**CC0** — Espun kawaii ninja sprite sheet (megupets), ninja, kawaii)
 - https://opengameart.org/content/oni (**CC-BY-SA 3.0** — Oni (GuieA_7), yokai, japanese, demon)
+- https://opengameart.org/content/chinese-icons (**CC0** — Chinese Icons 16x16 (Pixel Archer), chinese/korean/japanese, pixel art, icon)

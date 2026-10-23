@@ -8,7 +8,7 @@
 | Armas | anokolisa.itch.io (50 armas incluídas) |
 | Ícones | game-icons.net, merchant-shade.itch.io, kettoman.itch.io, gvesster.itch.io |
 | UI/Interface | kibyra.itch.io, dobo-ui.itch.io, toffeecraft.itch.io, humblepixel.itch.io, elvgames.itch.io |
-| Sons/SFX | heltonyan.itch.io, leohpaz.itch.io, freesound.org, zapsplat.com, soundeffect-lab.info |
+| Sons/SFX | heltonyan.itch.io, leohpaz.itch.io, freesound.org, zapsplat.com, soundeffect-lab.info, opengameart.org |
 | Música | hydrogene.itch.io, tallbeard.itch.io, maou.audio, amachamusic.chagasi.com, megumi-ryu.itch.io, xdeviruchi.itch.io, opengameart.org |
 | Fontes | github.com/TakWolf, not-jam.itch.io, ggbot.itch.io, fontlibrary.org, fonts.google.com |
 | VFX/Shaders | itch.io/c/1124621/pixel-art-fx, untiedgames.itch.io, godotshaders.com, binbun3d.itch.io |
