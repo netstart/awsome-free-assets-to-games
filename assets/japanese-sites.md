@@ -303,3 +303,41 @@ Licença (lida: https://soundeffect-lab.info/agreement/): comercial grátis; sem
 
 **Contagem Japão desta expansão: ~400 assets novos (incluindo ~295 categorias SFX detalhadas do 効果音ラボ). Todos com domínio .jp e termo de uso verificado na página oficial.**
 
+---
+
+## 🇯🇵 Assets 2D — natureza, terreno e itens (fontes verificadas, aplicáveis ao projeto)
+
+Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial.
+
+### Árvores e plantas (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Link |
+|-------|-------|---------|---------------|------|
+| Forest Nature Pack (300+ assets) | toffeecraft (itch.io) | Standart Free = uso pessoal; Premium = comercial | ⚠️ comercial exige pagamento | https://toffeecraft.itch.io/forest-nature-pack |
+| CC0 Plant Clutter | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/cc0-plant-clutter |
+| Isometric Trees | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/isometric-trees-0 |
+| Tree Collection v2.6 | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/tree-collection-v26-bleeds-game-art |
+| Forest Level Decorations (Pixel-Art) | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/forest-level-decorations-pixel-art |
+
+### Chão / tilesets de terreno (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Link |
+|-------|-------|---------|---------------|------|
+| Tiny Farm (130 arquivos, 16×16) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/tiny-farm |
+| Map Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/map-pack |
+| Platformer Bricks (150 peças) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/platformer-bricks |
+
+### Vento e chuva (SFX — já catalogados)
+
+Vento (風音) e Chuva (雨音) já estão listados acima na seção Efeitos sonoros — 効果音ラボ (soundeffect-lab.info), comercial grátis sem crédito.
+
+### Itens diversos — espada, martelo, foice, vassoura, prato, colher (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Itens | Link |
+|-------|-------|---------|---------------|-------|------|
+| Ninja Adventure - Asset Pack | pixel-boy (itch.io) | CC0 | ✅ livre | 60+ itens: espadas, martelos, foices | https://pixel-boy.itch.io/ninja-adventure-asset-pack |
+| Pixel Crawler - Free Pack | Anokolisa (itch.io) | gratuito permanente (termos no Google Drive) | ⚠️ confirmar comercial | Axe, Sword, Hammer, Dagger, Shield, Pickaxe, Shovel, Long Scythe | https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites |
+| Game Icons | Kenney | CC0 | ✅ livre | ícones diversos | https://kenney.nl/assets/game-icons |
+| 16x16 Weapon RPG Icons | OpenGameArt | verificar na página | ⚠️ confirmar | ícones de armas 16×16 | https://opengameart.org/content/16x16-weapon-rpg-icons |
+
+

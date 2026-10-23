@@ -1270,3 +1270,71 @@ Todas as faixas abaixo já estão catalogadas em seções anteriores (Nave espac
 - as faixas **Caketown Cute/Playful**, **Cute March Music**, **Happy Tune**, **Happy Arcade Tune**, **Talking Cute**, **Cute Bytes OST**, **Happy Adventure Loop**, **Puppydogs Playful**, **Happy Synths Loop** já estão catalogadas na seção **Match-3 / Candy Crush** e servem para o clima cozy
 - os **jingles** do Kenney (**CC0**) e o **KitFit Soundtrack** (**CC BY 3.0** / CC BY 4.0) já catalogados servem para UI, notificações e minigames
 - itch (gratuitos): **Outer Space Music Pack** do albesca (**CC0** — "A Long Journey", "Starless Sky", "Barren Planets"), **Space Train Journey** do kosmocat (5 faixas; **comercial livre**), **Shmup BGM Pack** do doranarasi (**livre, comercial**), **Dark Ambient Piano** do rustedstudio (**CC BY 4.0**), **Spectral Dusk** do carloshcowell (**CC BY 4.0**), **Erased Places** do drmseq (**comercial livre, crédito apreciado**), **Dark Ambient packs** do juanjosound (**comercial livre**), **Free Horror Ambient** do arthur-heize (**comercial livre, sem crédito**), **Darkeyes Ambient** do robcaw (**comercial livre, não revender áudio**), **Space Music Pack** do Gooseninja (seção **Metroid**), **Code Injection** do davidkbd (**CC BY 4.0**), **Retro Mecha SFX** do heltonyan (**CC BY 4.0**), **Free Sci-Fi UI SFX** do hoveaudio (**royalty-free**), **Chronicles of Midnight** do davidkbd, **Barons Music Pack** do eric-the-funny-baron, **Era of Vampires** / **Be Not Afraid UI SFX** do ateliermagicae, **Demons Realm** do maxstack (**CC BY-SA 4.0**)
+
+---
+
+## Modelos 3D, Texturas PBR e Skyboxes — OpenGameArt.org (pesquisa 2026-10-23)
+
+Assets 3D gratuitos para uso comercial, licença verificável na página de origem.
+Critérios: zero custo, uso comercial expressamente permitido, licença livre/permissiva (CC0, CC BY, CC BY-SA, OGA-BY, MIT, Apache 2.0, Zlib, Domínio Público).
+Não há duplicatas com os assets 2D/3D já listados nas seções anteriores deste arquivo.
+
+### CC0
+
+| Asset | Autor | Licença | Qtd aproximada | Tipo | Formato | URL |
+|-------|-------|---------|----------------|------|---------|-----|
+| **32 Low Poly Models** | drummyfish | CC0 | 32 modelos | Modelo 3D (veículos, xadrez, armas, objetos) | .blend, .obj | <https://opengameart.org/content/32-low-poly-models> |
+| **low poly rocks** | para | CC0 | várias | Modelo 3D (pedras/rochas) | .obj, .zip, .png | <https://opengameart.org/content/low-poly-rocks> |
+| **Animated Human Low Poly** | quaternius | CC0 | 1 modelo animado | Personagem 3D (humano rigged, animações idle/jump/punch/run/walk/death) | .zip | <https://opengameart.org/content/animated-human-low-poly> |
+| **Low Poly Weapon Pack** | byzmod3d | CC0 | 16 armas | Arma 3D (rifles, pistolas) | .obj | <https://opengameart.org/content/low-poly-weapon-pack> |
+| **PBR Battleaxe** | SirDraco65 | CC0 | 1 machado | Arma 3D PBR (~2000 tris, 4 texturas) | .zip | <https://opengameart.org/content/pbr-battleaxe> |
+| **PBR MACHETE (CC0)** | Lucian Pavel | CC0 | 1 facão | Arma 3D PBR (2k texturas) | .zip | <https://opengameart.org/content/pbr-machete-cc0> |
+| **HQ PBR Tennis Ball** | Lucian Pavel | CC0 | 1 bola | Modelo 3D PBR (~1000 tris) | .zip (.fbx, .blend) | <https://opengameart.org/content/hq-pbr-tennis-ball> |
+| **M9 Knife PBR** | khairul169 | CC0 | 1 faca | Arma 3D PBR (1752 tris, 2k texturas) | .zip | <https://opengameart.org/content/m9-knife-pbr> |
+| **Surt's CC0 Scraps 3D stuff** | Surt (subm. MedicineStorm) | CC0 | vários modelos | Modelo 3D brutos (tanques, navios, criaturas, personagens, bots) | .blend | <https://opengameart.org/content/surts-cc0-scraps-3d-stuff> |
+| **VRoid Studio CC0 models** | VRoid Project (subm. hecko) | CC0 | vários modelos | Personagem 3D (anime, VRM) | .vrm, .glb, .zip | <https://opengameart.org/content/vroid-studio-cc0-models> |
+| **Yughues Free PBR Metal Plates** | Yughues | CC0 | 36 placas | Textura PBR (placas metálicas) | .7z | <https://opengameart.org/content/yughues-free-pbr-metal-plates> |
+| **4096 Scifi Hex Tiles PBR Texture** | txturs | CC0 | 1 textura | Textura PBR 4096×4096 (azulejos sci-fi) | .jpg | <https://opengameart.org/content/4096-scifi-hex-tiles-pbr-texture> |
+| **4096 Chrome Perforated Heat Shield PBR textures** | txturs | CC0 | 1 textura | Textura PBR 4096×4096 (metal perfurado) | .zip | <https://opengameart.org/content/4096-chrome-peforated-heat-shield-pbr-textures> |
+| **Space-Skybox** | Westbeam | CC0 | 1 skybox | Skybox espacial | .zip | <https://opengameart.org/content/space-skybox-0> |
+
+### CC BY 3.0
+
+| Asset | Autor | Licença | Qtd aproximada | Tipo | Formato | URL |
+|-------|-------|---------|----------------|------|---------|-----|
+| **Base Human Models (Low Poly)** | Clint Bellanger | CC-BY 3.0 | modelos base | Personagem 3D (humano masculino/feminino, rigged) | .zip | <https://opengameart.org/content/base-human-models-low-poly> |
+| **Medieval Weapons** | knittel | CC-BY 3.0 | 3 armas | Arma 3D low poly (espada, lança, machado) | .blend, .obj, .png | <https://opengameart.org/content/medieval-weapons> |
+| **Galaxy Skybox** | hc | CC-BY 3.0 | 1 skybox | Skybox de galáxia | .zip | <https://opengameart.org/content/galaxy-skybox> |
+| **Interstellar skybox** | Jockum Skoglund (hipshot) | CC-BY 3.0 | 1 skybox | Skybox interestelar 6×1024×1024 TGA | .zip | <https://opengameart.org/content/interstellar-skybox> |
+| **Gloomy Skybox** | Spiney | CC-BY 3.0 | 1 skybox | Skybox sombrio 512px (6 lados) | .zip | <https://opengameart.org/content/gloomy-skybox> |
+
+### CC BY-SA 3.0
+
+| Asset | Autor | Licença | Qtd aproximada | Tipo | Formato | URL |
+|-------|-------|---------|----------------|------|---------|-----|
+| **3D Dungeon Tileset** | Skorpio | CC-BY-SA 3.0 / GPL 3.0 | tileset | Cenário 3D (masmorra/caverna) | .zip, .blend, .obj | <https://opengameart.org/content/3d-dungeon-tileset> |
+| **Sci-fi Light tank** | Danimal | CC-BY-SA 3.0 | 1 tanque | Veículo 3D (tanque sci-fi) | .blend | <https://opengameart.org/content/sci-fi-light-tank> |
+| **Space Nebulas Skybox** | NoLogoGames | CC-BY-SA 3.0 | 1 skybox | Skybox de nebulas espaciais | .png | <https://opengameart.org/content/space-nebulas-skybox> |
+
+### OGA-BY 3.0
+
+| Asset | Autor | Licença | Qtd aproximada | Tipo | Formato | URL |
+|-------|-------|---------|----------------|------|---------|-----|
+| **Elf House 3D Low Poly Pack** | CraftPix.net | OGA-BY 3.0 | casas elficas | Cenário 3D (casas/edifícios) | .zip (PNG, FBX) | <https://opengameart.org/content/elf-house-3d-low-poly-pack> |
+
+### Verificações obrigatórias (AGENTS.md)
+
+- [x] Gratuito (zero custo) — verificado na página de cada asset
+- [x] Uso comercial permitido — licenças CC0 / CC-BY / CC-BY-SA / OGA-BY permitem comercial
+- [x] Licença livre/permissiva verificável — licença listada na página do OpenGameArt
+- [x] URL funcional — todas as URLs acessadas em 2026-10-23
+
+### Registro de novos assets
+
+Verificado em **2026-10-23**. Antes de usar comercialmente, re-confirme a licença no arquivo original (as licenças podem mudar).
+
+Ao encontrar novos assets 3D gratuitos compatíveis no OpenGameArt:
+1. Verifique a licença oficial na página de origem
+2. Confirme que o uso comercial é expressamente permitido
+3. Adicione a entrada na tabela acima (agrupada por licença)
+4. Não duplique um asset que já esteja listado neste arquivo

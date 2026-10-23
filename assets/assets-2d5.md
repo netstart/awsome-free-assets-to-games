@@ -117,7 +117,20 @@ Ver também `assets/freegameassets.md` — Pixel Fantasy 3D Models (153 modelos 
 
 ---
 
-## 7. Música, SFX e Fontes
+## 7. Modelos 3D Low-Poly (Poly Haven — CC0, para pré-render 2.5D)
+
+Já catalogados em `assets/polyhaven-3d.md` (centenas de modelos 3D CC0, 8K texturas, HDRIs):
+- Mobiliário: cadeiras, barris, candelabros, mesas, armários, baús, prateleiras, lanternas
+- Natureza: plantas, suculentas, cogumelos, árvores, flores
+- Cenário: vasos, pratos, buquês, conjuntos de xadrez, máquinas, ferramentas
+- Texturas PBR: papel/cartão (card backs), madeira, pedra, tecido, couro, terreno
+- HDRIs: iluminação de cena para pré-render 2.5D
+
+Todos CC0, uso comercial permitido, sem atribuição obrigatória. Fonte: https://polyhaven.com/license
+
+---
+
+## 8. Música, SFX e Fontes
 
 Transversais a todo gênero — ver:
 - `assets/opengameart.md` (música e SFX CC0 / CC-BY / CC-BY-SA)

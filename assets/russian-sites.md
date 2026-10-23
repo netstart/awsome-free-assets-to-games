@@ -310,3 +310,46 @@ Licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comer
 
 **Contagem Rússia desta pesquisa: ~380 assets novos (6 música + 5 fontes cirílicas + 1 biblioteca SFX FiftySounds + ~368 categorias SFX detalhadas). Domínio .ru, termo de uso verificado para música (no-copyright-music.com/ru/licenza/) e SFX (fiftysounds.com/ru/license-info/).**
 
+---
+
+## 🇷🇺 Assets 2D — natureza, terreno e itens (fontes internacionais verificadas, aplicáveis ao projeto)
+
+Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificável. Fontes não-russas listadas aqui por conterem assets dos temas solicitados (árvores, plantas, chão, itens).
+
+### Árvores e plantas (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Link |
+|-------|-------|---------|---------------|------|
+| Foliage Sprites | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-sprites |
+| Foliage Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-pack |
+| Tiny Farm (130 arquivos, 16×16) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/tiny-farm |
+| CC0 Plant Clutter | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/cc0-plant-clutter |
+| Isometric Trees | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/isometric-trees-0 |
+| Tree Collection v2.6 | OpenGameArt (Bleed's Game Art) | verificar na página | ⚠️ confirmar | https://opengameart.org/content/tree-collection-v26-bleeds-game-art |
+| Forest Level Decorations (Pixel-Art) | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/forest-level-decorations-pixel-art |
+
+### Chão / tilesets de terreno (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Link |
+|-------|-------|---------|---------------|------|
+| Map Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/map-pack |
+| Cartography Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/cartography-pack |
+| Platformer Bricks (150 peças) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/platformer-bricks |
+| Block Pack (100 peças) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/block-pack |
+
+### Itens diversos — martelo, foice, espada (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Itens | Link |
+|-------|-------|---------|---------------|-------|------|
+| Ninja Adventure - Asset Pack | pixel-boy (itch.io) | CC0 | ✅ livre | 60+ itens: espadas, martelos, foices | https://pixel-boy.itch.io/ninja-adventure-asset-pack |
+| Game Icons | Kenney | CC0 | ✅ livre | ícones diversos | https://kenney.nl/assets/game-icons |
+| Game Icons Expansion | Kenney | CC0 | ✅ livre | expansão de ícones | https://kenney.nl/assets/game-icons-expansion |
+| 16x16 Weapon RPG Icons | OpenGameArt | verificar na página | ⚠️ confirmar | ícones de armas 16×16 | https://opengameart.org/content/16x16-weapon-rpg-icons |
+| Admurin's Armory | OpenGameArt | verificar na página | ⚠️ confirmar | espadas, martelos | https://opengameart.org/content/admurins-armory |
+| Ancient Arms - Free Sampler | OpenGameArt | verificar na página | ⚠️ confirmar | armas pixel encantadas | https://opengameart.org/content/ancient-arms-free-sampler-pixel-art-weapons-with-animated-enchantments |
+
+### Vento e chuva (SFX — já catalogados em FiftySounds russo)
+
+Vento (Ветер) e Chuva (Дождь) já estão listados acima na seção Efeitos sonoros — FiftySounds (fiftysounds.com/ru), uso comercial com atribuição obrigatória.
+
+

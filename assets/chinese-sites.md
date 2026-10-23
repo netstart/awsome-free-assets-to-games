@@ -235,6 +235,42 @@ Licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso co
 
 ---
 
+## 🇨🇳 Assets 2D — natureza, terreno e itens (fontes verificadas, aplicáveis ao projeto)
+
+Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial.
+
+### Árvores e plantas (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Link |
+|-------|-------|---------|---------------|------|
+| Tiny Farm (130 arquivos, 16×16) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/tiny-farm |
+| Foliage Sprites | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-sprites |
+| Foliage Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-pack |
+| CC0 Plant Clutter | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/cc0-plant-clutter |
+| Isometric Trees | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/isometric-trees-0 |
+
+### Chão / tilesets de terreno (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Link |
+|-------|-------|---------|---------------|------|
+| Map Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/map-pack |
+| Cartography Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/cartography-pack |
+| Platformer Bricks (150 peças) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/platformer-bricks |
+| Block Pack (100 peças) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/block-pack |
+
+### Itens diversos — espada, martelo, foice, vassoura, prato, colher (2D)
+
+| Asset | Fonte | Licença | Uso comercial | Itens | Link |
+|-------|-------|---------|---------------|-------|------|
+| Ninja Adventure - Asset Pack | pixel-boy (itch.io) | CC0 | ✅ livre | 60+ itens: espadas, martelos, foices | https://pixel-boy.itch.io/ninja-adventure-asset-pack |
+| Pixel Crawler - Free Pack | Anokolisa (itch.io) | gratuito permanente (termos no Google Drive) | ⚠️ confirmar comercial | Axe, Sword, Hammer, Dagger, Shield, Pickaxe, Shovel, Long Scythe | https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites |
+| Game Icons | Kenney | CC0 | ✅ livre | ícones diversos | https://kenney.nl/assets/game-icons |
+| 16x16 Weapon RPG Icons | OpenGameArt | verificar na página | ⚠️ confirmar | ícones de armas 16×16 | https://opengameart.org/content/16x16-weapon-rpg-icons |
+| Admurin's Armory | OpenGameArt | verificar na página | ⚠️ confirmar | espadas, martelos | https://opengameart.org/content/admurins-armory |
+
+
+---
+
 ## Totais agregados — Pesquisa Japão + China + Rússia
 
 | País | Assets novos nesta pesquisa | Domínio | Licenças |
