@@ -179,6 +179,6 @@ Licença lida na página oficial de cada asset. Todos gratuitos, uso comercial p
 | heltonyan | Retro Anime SFX | 720 | 🟡 confirmar |
 | Outros packs itch.io | UI, menu, horror, gun, etc. | ~1.500+ | 🟡 confirmar |
 
-**Total estimado de novos sons/SFX: bem acima de 1.000 (apenas FilmCow + Nox já somam ~11.644).**
+**Total estimado de novos sons/SFX: bem acima de 1.000 + ~70 sons adicionais catalogados desta rodada (OpenGameArt + Sound Effect Lab + FiftySounds) — apenas FilmCow + Nox já somam ~11.644.**
 
 Meta de 1.000 sons novos **atingida**. Catálogo registrado neste arquivo. Cada pack deve ter sua licença re-confirmada na página oficial antes de uso em produção comercial.

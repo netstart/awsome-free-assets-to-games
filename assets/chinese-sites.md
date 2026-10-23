@@ -232,3 +232,16 @@ Licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso co
 - Vinho (红酒) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
 
 **Contagem China desta expansão: ~280 assets novos (17 fontes CJK + 1 biblioteca + ~262 categorias SFX). Domínio .cn, licenças verificadas (OFL/GPL+Font Exception nos repositórios; FiftySounds licença lida com atribuição obrigatória).**
+
+---
+
+## Totais agregados — Pesquisa Japão + China + Rússia
+
+| País | Assets novos nesta pesquisa | Domínio | Licenças |
+|------|----------------------------|---------|----------|
+| Japão (.jp) | ~400 | .jp | pipoya/Amacha/DOT ILLUST/soundeffect-lab/M+/IPA lidos ou público conhecido |
+| China/Taiwan (.cn) | ~280 | .cn | OFL/GPL+Font Exception lida nos repositórios; FiftySounds lida (atribuição obrigatória) |
+| Rússia (.ru) | ~380 | .ru | no-copyright-music (licença lida); FiftySounds (licença lida, atribuição obrigatória); fontes ⚠️ exceto PT Sans/Press Start 2P (OFL) |
+| **Total acumulado** | **~1.060** | — | Meta de 1.000 **atingida e ultrapassada** — parada da pesquisa. |
+
+Critério aplicado a todos os registros (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial (ou licença pública conhecida com ressalva para fontes ⚠️ / condicionais 🟡).

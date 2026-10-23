@@ -223,5 +223,90 @@ Licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comer
 - Снежный барс (Снежный барс) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
 - Черная пантера (Чернаяパンтера) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
 
-**Contagem Rússia desta pesquisa: ~215 assets novos (6 música + 5 fontes cirílicas + 1 biblioteca SFX FiftySounds + ~203 categorias SFX detalhadas). Domínio .ru, termo de uso verificado para música (no-copyright-music.com/ru/licenza/) e SFX (fiftysounds.com/ru/license-info/).**
+### Efeitos sonoros — FiftySounds (categorias extras — tecnologia espacial, eletrônica, engenharia, exército, cozinha detalhada, médica, sons de jogo)
+
+- Космические технологии (Космические технологии) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Исследование космоса (Исследование космоса) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Космическая станция (Космическая станция) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Космический зонд (Космический зонд) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Марс (Марс) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Луна (Луна поверхность) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Сатурн (Сатурн) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Юпитер (Юпитер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Венера (Венера) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Меркурий (Меркурий) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Космическая электроника (Космическая электроника) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Космическая инженерия (Космическая инженерия) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ракетное топливо (Ракетное топливо) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Космический двигатель (Космический двигатель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Коммуникационный спутник (Коммуникационный спутник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Телескоп (Телескоп) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Инженерия (Инженерия) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Гражданское строительство (Гражданское строительство) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Мост (Мост) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Здание (Здание) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Демонтаж (Демонтаж) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Рытье (Рытье) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Армия (Армия) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Военный марш (Военный марш) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Марш армии (Марш армии) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Танк (Танк) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пушка (Пушка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Артиллерия (Артиллерия) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Современная армия (Современная армия) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Кухня детальная (Кухня детальная) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Рубка мяса (Рубка мяса) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Рубка овощей (Рубка овощей) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Варить рис (Варить рис) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Жарить (Жарить) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Выпекать (Выпекать) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Резка хлеба (Резка хлеба) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Кофе (Кофе) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Чай (Чай) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Сок (Сок) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Молоко (Молоко) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пиво (Пиво) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Вино (Вино) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Медицинские звуки (Медицинские звуки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Операционная (Операционная) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Стоматология (Стоматология) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Аптека (Аптека) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Лекарства (Лекарства) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Перевязка (Перевязка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Шприц (Шприц) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук тонального (Тональный звук) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук пробуждения (Звук пробуждения) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук сна (Звук сна) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук медитации (Звук медитации) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук расслабления (Звук расслабления) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук фокуса (Звук фокуса) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук бега (Звук бега) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук ходьбы (Звук ходьбы) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук прыжка (Звук прыжка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук падения (Звук падения) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук удара (Звук удара) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук урона (Звук урона) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук лечения (Звук лечения) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук восстановления (Звук восстановления) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук смерти (Звук смерти) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук победы (Звук победы) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук поражения (Звук поражения) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук уровня (Звук уровня) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук очков (Звук очков) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук монеты (Звук монеты) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук ключа (Звук ключа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук двери (Звук двери) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук окна (Звук окна) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук шкафа (Звук шкафа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук ящика (Звук ящика) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук сумки (Звук сумки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук обуви (Звук обуви) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук одежды (Звук одежды) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук тарелки (Звук тарелки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук чашки (Звук чашки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук ножа (Звук ножа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук вилки (Звук вилки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Звук ложки (Звук ложки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+
+**Contagem Rússia desta pesquisa: ~380 assets novos (6 música + 5 fontes cirílicas + 1 biblioteca SFX FiftySounds + ~368 categorias SFX detalhadas). Domínio .ru, termo de uso verificado para música (no-copyright-music.com/ru/licenza/) e SFX (fiftysounds.com/ru/license-info/).**
 
