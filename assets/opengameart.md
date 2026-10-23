@@ -1103,3 +1103,18 @@ Todas as faixas abaixo já estão catalogadas em seções anteriores (Dragões, 
 - https://opengameart.org/content/bobble-of-love (**CC BY 3.0** — amor bolha, do Gundatsch)
 - https://opengameart.org/content/bobble-of-love-gundatsch (**CC BY 3.0** — amor bolha variante, do glitchart)
 - https://opengameart.org/content/8-bit-theme-intensity (**CC BY 3.0** — tema 8-bit intensidade, do Wolfgang_)
+
+### Dogs / Cães — alegre, relaxante, passeio, brincadeira, tema "cão fiel" (pesquisado em 22/10/2026)
+
+- https://opengameart.org/content/puppydogs-playful (**CC BY 3.0** / CC BY 4.0 — tema brincalhão de cachorros, do Spring Spring)
+- https://opengameart.org/content/happy-tune (**CC BY 3.0** — melodia alegre, da syncopika)
+- https://opengameart.org/content/happy-arcade-tune (**CC BY 3.0** — tema arcade alegre, do rezoner)
+- https://opengameart.org/content/talking-cute (**CC0** — tema fofo falado, do Pro Sensory)
+- https://opengameart.org/content/cute-bytes-ost-cheers-for-starlight (**CC BY 4.0** — OST fofo, da Chloe Wolfe)
+- https://opengameart.org/content/happy-adventure-loop (**CC0** — loop de aventura alegre, do TinyWorlds)
+- https://opengameart.org/content/happy-synths-loop-with-slight-christmas-feeling (**CC0** — loop sintético alegre com toque natalino, do 3xBlast)
+- https://opengameart.org/content/funky-house (**CC0** — house funky, do Of Far Different)
+- https://opengameart.org/content/loop-house-in-a-forest (**CC BY 3.0** — loop casa na floresta, do HorrorPen)
+- https://opengameart.org/content/doll-house (**CC BY 4.0** — casa de boneca, do Alexandr Zhelanov)
+- as faixas **Caketown Cute/Playful**, **Cute March Music**, **Happy Tune**, **Happy Arcade Tune**, **Talking Cute**, **Cute Bytes OST**, **Happy Adventure Loop**, **Puppydogs Playful**, **Happy Synths Loop** já estão catalogadas na seção **Match-3 / Candy Crush** e servem para o clima "cão fiel"
+- os **jingles** do Kenney (**CC0**) e o **KitFit Soundtrack** (**CC BY 3.0** / CC BY 4.0) já catalogados servem para UI, notificações e minigames
