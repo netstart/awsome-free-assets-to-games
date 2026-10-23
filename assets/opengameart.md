@@ -1118,3 +1118,34 @@ Todas as faixas abaixo já estão catalogadas em seções anteriores (Dragões, 
 - https://opengameart.org/content/doll-house (**CC BY 4.0** — casa de boneca, do Alexandr Zhelanov)
 - as faixas **Caketown Cute/Playful**, **Cute March Music**, **Happy Tune**, **Happy Arcade Tune**, **Talking Cute**, **Cute Bytes OST**, **Happy Adventure Loop**, **Puppydogs Playful**, **Happy Synths Loop** já estão catalogadas na seção **Match-3 / Candy Crush** e servem para o clima "cão fiel"
 - os **jingles** do Kenney (**CC0**) e o **KitFit Soundtrack** (**CC BY 3.0** / CC BY 4.0) já catalogados servem para UI, notificações e minigames
+
+### Tower Defense / TD — tática, orquestral, synth, wave/round start, victory/defeat (pesquisado em 22/10/2026)
+
+Todas as faixas abaixo já estão catalogadas em seções anteriores (Nave espacial, Metroid, Tecnologia, VFX, RTS Nórdico, PK XD, Gótico, Guerra Medieval) — referenciadas por nome:
+
+- **Another space background track** / **Background space track** / **sPACE** / **Space 5** / **Outer Space Loop** (**CC0**), **Alien Fight** / **Alien Blues 8-bit** / **Destruction of the Alien Spacecrafts** / **Alien Ruins** (**CC0**), **Space Boss Battle Theme** (**CC BY 3.0**), **Space Shooter Music** (**CC BY 3.0**), **Stereotypical 90s Space Shooter Music** (**OGA-BY 3.0**), **8-bit Epic Space Shooter Music** (**CC0**, HydroGene), **Space Shooter Loop** (**CC0**, Pro Sensory), **Space Dimensions Techno Version** (**CC BY 3.0**, Matthew Pablo), **futureshmup** / **Galaxy II** (**CC0** / **OGA-BY 3.0**), **Laser Fire** / **Space Laser** / **Chunky Explosion** (**CC BY 3.0** / **CC0**)
+- itch (gratuitos): **Outer Space Music Pack** do albesca (**CC0** — "A Long Journey", "Starless Sky", "Barren Planets"), **Space Train Journey** do kosmocat (5 faixas; **comercial livre**), **Shmup BGM Pack** do doranarasi (**livre, comercial**), **Dark Ambient Piano** do rustedstudio (**CC BY 4.0**), **Spectral Dusk** do carloshcowell (**CC BY 4.0**), **Erased Places** do drmseq (**comercial livre, crédito apreciado**), **Dark Ambient packs** do juanjosound (**comercial livre**), **Free Horror Ambient** do arthur-heize (**comercial livre, sem crédito**), **Darkeyes Ambient** do robcaw (**comercial livre, não revender áudio**), **Space Music Pack** do Gooseninja (seção **Metroid**), **Code Injection** do davidkbd (**CC BY 4.0**), **Retro Mecha SFX** do heltonyan (**CC BY 4.0**), **Free Sci-Fi UI SFX** do hoveaudio (**royalty-free**), **Chronicles of Midnight** do davidkbd, **Barons Music Pack** do eric-the-funny-baron, **Era of Vampires** / **Be Not Afraid UI SFX** do ateliermagicae, **Demons Realm** do maxstack (**CC BY-SA 4.0**)
+
+### Animal Crossing / Animal Kingdom — cozy, folk, ambient, life sim (pesquisado em 22/10/2026)
+
+- https://opengameart.org/content/cozy-space-music-6-seamless-chiptune-loops (**CC BY 4.0** — 6 loops chiptune cozy espaciais, do roberto mellado)
+- https://opengameart.org/content/cozy-puzzle-jingle-result (**CC0** — jingle e resultado de puzzle cozy, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-title (**CC0** — título de puzzle cozy, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-stage-select (**CC0** — seleção de fase puzzle cozy, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-in-game-1 (**CC0** — em jogo puzzle cozy 1, do MintoDog)
+- https://opengameart.org/content/cozy-puzzle-in-game-2 (**CC0** — em jogo puzzle cozy 2, do MintoDog)
+- https://opengameart.org/content/funny-and-cute-town-theme (**OGA-BY 3.0** — tema de cidade engraçado e fofo, do ISAo)
+- https://opengameart.org/content/cute-march-music (**CC BY-SA 3.0** — marcha fofa, do C418)
+- https://opengameart.org/content/happy-tune (**CC BY 3.0** — melodia alegre, da syncopika)
+- https://opengameart.org/content/happy-arcade-tune (**CC BY 3.0** — tema arcade alegre, do rezoner)
+- https://opengameart.org/content/talking-cute (**CC0** — tema fofo falado, do Pro Sensory)
+- https://opengameart.org/content/cute-bytes-ost-cheers-for-starlight (**CC BY 4.0** — OST fofo, da Chloe Wolfe)
+- https://opengameart.org/content/happy-adventure-loop (**CC0** — loop de aventura alegre, do TinyWorlds)
+- https://opengameart.org/content/puppydogs-playful (**CC BY 3.0** / CC BY 4.0 — tema brincalhão de cachorros, do Spring Spring)
+- https://opengameart.org/content/happy-synths-loop-with-slight-christmas-feeling (**CC0** — loop sintético alegre com toque natalino, do 3xBlast)
+- https://opengameart.org/content/funky-house (**CC0** — house funky, do Of Far Different)
+- https://opengameart.org/content/loop-house-in-a-forest (**CC BY 3.0** — loop casa na floresta, do HorrorPen)
+- https://opengameart.org/content/doll-house (**CC BY 4.0** — casa de boneca, do Alexandr Zhelanov)
+- as faixas **Caketown Cute/Playful**, **Cute March Music**, **Happy Tune**, **Happy Arcade Tune**, **Talking Cute**, **Cute Bytes OST**, **Happy Adventure Loop**, **Puppydogs Playful**, **Happy Synths Loop** já estão catalogadas na seção **Match-3 / Candy Crush** e servem para o clima cozy
+- os **jingles** do Kenney (**CC0**) e o **KitFit Soundtrack** (**CC BY 3.0** / CC BY 4.0) já catalogados servem para UI, notificações e minigames
+- itch (gratuitos): **Outer Space Music Pack** do albesca (**CC0** — "A Long Journey", "Starless Sky", "Barren Planets"), **Space Train Journey** do kosmocat (5 faixas; **comercial livre**), **Shmup BGM Pack** do doranarasi (**livre, comercial**), **Dark Ambient Piano** do rustedstudio (**CC BY 4.0**), **Spectral Dusk** do carloshcowell (**CC BY 4.0**), **Erased Places** do drmseq (**comercial livre, crédito apreciado**), **Dark Ambient packs** do juanjosound (**comercial livre**), **Free Horror Ambient** do arthur-heize (**comercial livre, sem crédito**), **Darkeyes Ambient** do robcaw (**comercial livre, não revender áudio**), **Space Music Pack** do Gooseninja (seção **Metroid**), **Code Injection** do davidkbd (**CC BY 4.0**), **Retro Mecha SFX** do heltonyan (**CC BY 4.0**), **Free Sci-Fi UI SFX** do hoveaudio (**royalty-free**), **Chronicles of Midnight** do davidkbd, **Barons Music Pack** do eric-the-funny-baron, **Era of Vampires** / **Be Not Afraid UI SFX** do ateliermagicae, **Demons Realm** do maxstack (**CC BY-SA 4.0**)
