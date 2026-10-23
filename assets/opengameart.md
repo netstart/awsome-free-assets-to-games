@@ -775,6 +775,7 @@ Itens já catalogados em seções anteriores (Armas/Itens, Dark Fantasy, Match-3
 
 - https://opengameart.org/content/lpc-plant-repack (**CC BY-SA 3.0** / GPL 3.0 — replantio de plantas LPC, vários autores)
 - https://opengameart.org/content/isometric-plant-pack (**CC BY 4.0** / CC BY-SA 4.0 — pack de plantas isométricas, do rubberduck)
+- https://opengameart.org/content/isometric-trees-1 (**CC0** — árvores isométricas renderizadas a partir de modelo 3D no Blender, inclui arquivo .blend source, do rubberduck)
 - https://opengameart.org/content/pixel-flower-icons (**CC BY 4.0** — ícones de flores pixel, do sicklyseraph)
 - https://opengameart.org/content/garden-gnome-potted-plants (**CC0** — gnomo de jardim e vasos, do NaRNeRZz)
 - https://opengameart.org/content/pumpkin-garden-tiles (**CC0** — tiles de jardim de abóbora, da NettySvit)

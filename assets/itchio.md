@@ -67,6 +67,9 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://monopixelart.itch.io/forest-monsters-pixel-art (monstros floresta pixel)
 - https://maxparata.itch.io/voxel-mechas (robôs voxel)
 - https://kasujin.itch.io/green-hair-anime-girl (anime girl stylized)
+- https://helianthus-games.itch.io/pixel-art-viking-ship-16-directions (navio viking pixel art 64×64 isométrico em 16 direções; **CC0 implícito** — autor confirmou uso comercial nos comentários; inclui Aseprite, frames separados, spritesheet)
+- https://netherzapdos.itch.io/paws-whiskers-isometric-dogs-pack (6 raças de cães isométricos: Golden Retriever, Labrador Preto, Corgi, Husky, Pastor Alemão × idle/caminhada/trabalho + nuvem de poeira; **versão paga $5+ = comercial OK**, versão gratuita = só não comercial)
+- https://tiopalada.itch.io/tiny-tactics-battle-kit-i (**CC0** — 3 personagens isométricos: mago, clérigo, guerreiro × 4 animações/10 estados cada + 6 armas animadas)
 
 ---
 
@@ -95,6 +98,25 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://patchworkpx.itch.io/kawaii-town (cidade kawaii 16x16)
 - https://almostapixel.itch.io/smallburg-town-pack (pacote cidade calma e cute)
 - https://v3x3d.itch.io/retro-lines (**CC0** — tileset platformer 16x16 com centenas de tiles únicos, player animado e inimigos; uso comercial livre, modificação permitida, crédito apreciado)
+- https://atomicrealm.itch.io/post-apocalyptic-world (**Royalty-free custom** — 3D low poly pós-apocalíptico, 63+ modelos grátis (338+ na versão paga); uso comercial OK, edição OK, crédito obrigatório com link para atomicrealm.itch.io, não redistribuir/revender)
+- https://trislin.itch.io/pixel-lands-interiors (**Royalty-free custom** — tileset interiores 16x16 para casas e lojas (demo grátis, versão completa paga); uso comercial OK, não redistribuir/revender, crédito apreciado mas não obrigatório)
+- https://quaternius.itch.io/medieval-village-megakit (**CC0** — 300+ peças modulares de vila medieval (paredes, telhados, escadas, etc.) para Unity/Unreal/Godot; uso comercial, sem atribuição, sem IA)
+- https://kaylousberg.itch.io/kaykit-medieval-hexagon (**CC0** — 200+ tiles hexagonais medievais, buildings e props para RTS/vila; uso comercial, sem atribuição, sem IA)
+
+### Isométricos / 2.5D (novos — pesquisados em 23/10/2026)
+
+- https://artyom-zagorskiy.itch.io/isometric-medieval-pack (**CC0** — 269 tiles: árvores 2 biomas, cactos, pedras, estradas 3 biomas, rios 3 biomas, casas 4 cores, moinhos, castelos 10 blocos + 4 torres × 9 variações, .svg/.eps + Unity package)
+- https://artyom-zagorskiy.itch.io/isometric-tower-defense-pack-az (**CC0** — 122 tiles: 3 biomas com estradas/vegetação/cristais, 7 UFOs, 3 torres × 3 níveis, .svg/.eps + Unity package)
+- https://oddblotstudios.itch.io/free-the-great-farm-isometric (Livre, comercial OK — 16 vegetais × 5 estágios = 80 assets, 16 ícones 256×256, 50 props, spritesheet; pintado à mão, sem IA; não redistribuir/revender; não treino IA)
+- https://kenney-assets.itch.io/isometric-miniature-farm (**CC0** — 60+ tiles isométricos/top-down para fazenda: muros, pisos, tiles de fazenda, + personagem, exemplos Unity/Tiled)
+- https://guilhermelaso.itch.io/farm-isometric-assets (Livre, comercial OK — solo, plantação beterraba, macieira, vaca, arbusto, carrinho de mão; estilo cartoon 3D isométrico)
+- https://tiopalada.itch.io/tiny-tactics-battle-kit-i (**CC0** — 3 personagens animados × 4 animações/10 estados, 6 armas animadas, 200+ tiles terreno com altura/inclinação, doodads)
+- https://kipperfalcon.itch.io/2d-isometric-forest-pixel-art (**CC0** — 115 props: 88 tiles, 17 folhas grama, 5 árvores, 5 rochas, 32×32; não redistribuir/revender; não treino IA)
+- https://kipperfalcon.itch.io/free-space-isometric-pixel-art-32x32-tileset (**CC0** — 74 props: 54 tiles (estradas, elevações), 20 decorações (crateras, rochas, asteroides), 32×32; mesmos termos)
+- https://kipperfalcon.itch.io/pixel-isometric-cave-tiles (**CC0** — 170 sprites: 101 tiles + 69 props (minerais, recursos), 32×32/64×64/128×128; mesmos termos)
+- https://markgosbell.itch.io/hand-drawn-isometric-dungeon-assets (**CC0** — 50+ assets desenhados à mão para masmorras isométricas, escala consistente para DungeonScrawl)
+- https://screamingbrainstudios.itch.io/isotilepack (**CC0** — 1.008 tiles de piso isométricos: grama, terra, areia, neve, etc., render 2:1, exemplos Tiled)
+- https://screamingbrainstudios.itch.io/isometric-tiles-object-pack (**CC0** — 395 tiles de objetos: baús, barris, caixas, móveis, decoração, render 2:1)
 
 ---
 
@@ -2676,3 +2698,24 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenley.nl/assets/animal-pack (animais, CC0) — ver `assets/kenney.md`
 - https://caz-bee.itch.io/cute-chicken-2-character-sprite (Cute Chicken 2 — sprite de personagem para idle/cozy)
 - https://pascal99.itch.io/man (Man — personagem simples, adequado para idle)
+
+### 3D Low-Poly / Voxel (para pré-render 2.5D ou cenário 3D com jogabilidade 2D)
+
+Todos **CC0 1.0 Universal**, uso comercial livre, sem atribuição obrigatória. Formatos: .OBJ, .FBX, .GLTF (compatíveis Unity, Godot, Unreal, Roblox, etc.).
+
+- https://kaylousberg.itch.io/space-base-bits (KayKit: Space Base Bits — 48+ modelos low-poly: construções modulares, veículos, rochas, props para bases espaciais; atlas de textura única 1024×1024; versão gratuita = 48 modelos; EXTRA $3.95+ = +12 assets + textura alternativa; SOURCE $5.95+ = arquivos .blend)
+- https://kaylousberg.itch.io/kaykit-medieval-hexagon (KayKit: Medieval Hexagon Pack — 200+ modelos low-poly: edifícios medievais, torres, muros, tiles hexagonais, árvores, rochas, biomas variados; atlas gradiente único)
+- https://kaylousberg.itch.io/kaykit-medieval-builder-pack (KayKit: Medieval Builder Pack — 3 estilos: hexagonal, quadrado, livre; múltiplas variações/biomas: areia, rocha, floresta)
+- https://kaylousberg.itch.io/kaykit-forest (KayKit: Forest Nature Pack — natureza low-poly modular para ambientes florestais)
+- https://kaylousberg.itch.io/kaykit-platformer (KayKit: Platformer Pack — assets low-poly para jogos de plataforma)
+- https://kaylousberg.itch.io/kaykit-adventurers (KayKit: Adventurers — personagens low-poly animados)
+- https://kaylousberg.itch.io/kaykit-dungeon-pack (KayKit: Dungeon Pack — masmorras low-poly modulares)
+- https://kaylousberg.itch.io/kaykit-skeletons (KayKit: Skeleton Pack — esqueletos low-poly animados)
+- https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack (KayKit: Mini Game Variety Pack — 3 modelos de personagens simples, tiles de chão, objetivos, armas, power-ups; CC0)
+- https://kenney.nl/assets/tower-defense-kit (Tower Defense Kit — 160+ modelos low-poly para tower defense: torres, inimigos, projéteis, efeitos; OBJ/FBX/DAE/STL/glTF; CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/mini-dungeon (Mini Dungeon — série Mini, low-poly 3D, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/mini-forest (Mini Forest — série Mini, low-poly 3D, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/mini-arcade (Mini Arcade — série Mini, low-poly 3D, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/voxel-pack (Voxel Pack — modelos voxel, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/1-bit-pack (1-Bit Pack — minimalista/abstrato low-poly, CC0) — ver `assets/kenney.md`
+- https://kenney.nl/assets/abstract-platformer (Abstract Platformer — low-poly abstrato, CC0) — ver `assets/kenney.md`
