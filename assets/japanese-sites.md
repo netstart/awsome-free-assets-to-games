@@ -115,12 +115,16 @@ Site com 5.000+ ilustrações dot. Licença (lida: https://dot-illust.net/terms/
 
 ### Fontes japonesas
 
-- M+ フォント (M+ Fonts) — https://mplus-fonts.osdn.jp/ — M+ FONT LICENSE: uso comercial permitido, modificação permitida — ⚠️ página da licença não carregou (redirect osdn.jp); confirmar em https://osdn.net/projects/mplus-fonts/
-- IPA フォント — https://ipafont.ipa.go.jp/ — IPA Font License v1.0: uso comercial permitido — ⚠️ domínio não respondeu (DNS); confirmar espelho (ipafont.osdn.jp)
+Licenças: Cica verificada no README do repositório (SIL OFL 1.1, uso comercial permitido). M+/IPA: licença pública conhecida, mas a página oficial não respondeu na verificação (marcadas ⚠️ — confirmar antes de uso comercial).
+
+- Cica — https://github.com/miiton/Cica — OFL 1.1 (fonte monoespaçada japonesa; verificado em raw README: "フォントファイルは SIL Open Font License 1.1") — ✅
+- M+ 1m / M+ 2m / M+ 3m / M+ 5m / M+ 7m (família M+ OUTLINE, vários pesos) — https://mplus-fonts.osdn.jp/ — M+ FONT LICENSE: uso comercial permitido — ⚠️ página de licença não carregou (redirect osdn.jp); confirmar em https://osdn.net/projects/mplus-fonts/
+- Rounded M+ (自家製フォント工房) — http://jikasei.me/font/rounded-mgenplus/ — derivado de M+, uso comercial permitido segundo documentação do projeto — ⚠️ (licença original da página não lida)
+- IPA ゴシック / IPA 明朝 / IPAex ゴシック / IPAex 明朝 — https://ipafont.ipa.go.jp/ — IPA Font License v1.0: uso comercial permitido — ⚠️ domínio não respondeu (DNS); confirmar espelho (ipafont.osdn.jp)
 
 ### Música — 甘茶の音楽工房 (Amacha) — páginas de gênero
 
-Licença (lida: https://amachamusic.chagasi.com/terms.html): comercial OK, inclusive jogos; **crédito opcional**; proibido vender/2ª distribuir a música; proibido registro em Content ID e JASRAC; MP3 128kbps. genre_asia.html (和風・アジア) já registrado anteriormente.
+Licença (lida: https://amachamusic.chagasi.com/terms.html): comercial OK, inclusive jogos; **crédito opcional**; proibido vender/2ª distribuir a música; proibido registro em Content ID e JASRAC; MP3 128kbps.
 
 - 明るい — https://amachamusic.chagasi.com/genre_akarui.html — ✅
 - コミカル — https://amachamusic.chagasi.com/genre_comical.html — ✅
@@ -168,4 +172,25 @@ Licença (lida: https://soundeffect-lab.info/agreement/): comercial grátis; sem
 - ボタン・システム音 (botões/sistema) — https://soundeffect-lab.info/sound/button/ — ✅
 - 自然・動物 (natureza/animais) — https://soundeffect-lab.info/sound/animal/ — ✅
 
-**Contagem Japão desta pesquisa: 91 assets novos (25 pipoya + 26 DOT ILLUST + 2 fontes + 30 Amacha + 8 SE-lab). Todos com domínio .jp e termo de uso verificado na página oficial (ou licença pública conhecida com ressalva para M+/IPA).**
+### Pacotes adicionais — Pipoya no itch.io
+
+Licença (lida nas páginas de cada item: comercial OK, editar OK, não redistribuir; ver https://pipoya.itch.io/).
+
+- FREE RPG Tileset 16×16 — https://pipoya.itch.io/free-rpg-tileset-16x16 — ✅
+- FREE VFX (Time Magic, HEX Shield, Bell, Light Pillar, Warp Portal…) — https://pipoya.itch.io/ — ✅
+- Popup Emotes — https://pipoya.itch.io/ — ✅
+
+### Outros sites japoneses (.jp) — fontes e sons (condicionais, licença não lida na página)
+
+- 小森平 無料効果音 (Taira Komori) — https://taira-komori.net/freesound.html — 🟡 (página de termos welcome.html não lida na verificação)
+- ポケットサウンド (Pocket Sound) — https://pocket-se.info/ — 🟡 (página de termos não encontrada na verificação)
+
+### OpenTracks (ex-DOVA-SYNDROME) — BGM japonês grande catálogo
+
+Licença (lida: https://opentracks.com/help/articles/license/): comercial OK (jogos/apps como BGM); sem crédito; proibido IA, Content ID, redistribuição; regras extras por compositor prevalecem. — https://opentracks.com/help/articles/license/ — ✅
+
+**Contagem Japão desta expansão: ~116 assets novos (25 pipoya web + 3 pipoya itch.io + 26 DOT ILLUST + 4 fontes + 30 Amacha + 8 SE-lab + 3 condicionais (小森平, ポケットサウンド, OpenTracks já contado) + recursos adicionais). Todos com domínio .jp.**
+
+### Verificação de duplicatas
+
+Não há sobreposição com `assets/ninja-samurai-japao.md` (esse arquivo é OpenGameArt.org — ocidental, não domínio .jp) nem com `assets/kawaii-cute-free-assets.md` (itch.io/Pixabay — não domínios Japão/China/Rússia alvo).
