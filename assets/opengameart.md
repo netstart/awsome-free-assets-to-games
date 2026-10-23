@@ -470,6 +470,46 @@ Itens já catalogados em seções anteriores (Armas/Itens, Dark Fantasy, Match-3
 - https://opengameart.org/content/shields-cc0 (**CC0** — escudos, do SnoopethDuckDuck)
 - https://opengameart.org/content/round-shields-pixel-art (**CC0** — escudos redondos em pixel art, do ScratchIO)
 
+#### Armas — OpenGameArt.org (pesquisado em 23/10/2026)
+
+Busca avançada: keys=weapon, sword, gun, bow, axe, melee, firearm, fantasy+weapon, sci-fi+weapon, pixel weapon, medieval weapon, ranged weapon, rpg weapon.
+
+##### CC0
+
+- https://opengameart.org/content/pixel-weapon-sheet (**CC0** — Gerald Burke, sprite sheet de armas pixel art, vários tipos e cores; ícones de inventário)
+- https://opengameart.org/content/medieval-weapon-set (**CC0** — umask007, conjunto 3D de armas medievais (espadas, martelos, machados, halberdas, claymores, arcos), arquivo .blend)
+- https://opengameart.org/content/bow-set (**CC0** — Sylly, 5 arcos e 5 flechas em vetor e PNG, visão lateral)
+- https://opengameart.org/content/sci-fi-rifle (**CC0** — Felix Kütt, rifle sci-fi 3D em .blend, com carregador separado)
+- https://opengameart.org/content/scifi-weapon (**CC0** — SatySaty, rifle sci-fi 3D com texturas 1k/2k/4k)
+- https://opengameart.org/content/osare-weapon-icons (**CC0** — Blarumyrran, ícones de armas: espada, escudo, cajado, arco, estilingue; comissionado para o OSARE/Flare)
+- https://opengameart.org/content/16x16-weapon-rpg-icons (**CC0** — Shade, ~370 ícones de armas 16x16 pixel art: rapier, katana, sword, greatsword, scimitar, knife, butcher knife, battle axe, battle hammer, spear, staff, trident, mace, scythe, sickle, nunchucks; 30 designs x 4 recolors cada)
+
+##### CC-BY 3.0
+
+- https://opengameart.org/content/weapon-icons-32x32px-painterly (**CC-BY 3.0 / CC-BY-SA 3.0 / GPL 3.0** — Scrittl, 37 ícones de armas pintadas 32x32: longsword, crossbow, shortsword, axe, wooden staff, spear, claw, hammer, bow, club, dagger, halbert)
+- https://opengameart.org/content/32-weapon-icons (**CC-BY 3.0** — Curtis Merry, 32 ícones de armas pixel art baseados nos ícones de 7Souls)
+
+##### CC-BY-SA 3.0
+
+- https://opengameart.org/content/elven-weapon-set (**CC-BY-SA 3.0** — Clint Bellanger, conjunto 3D de armas élficas/fééricas, modelos low poly em .blend)
+- https://opengameart.org/content/kingdom-weapon-set (**CC-BY-SA 3.0** — Clint Bellanger, conjunto 3D de armas medievais padrão para soldados, low poly em .blend)
+- https://opengameart.org/content/undead-weapon-set-and-weapon-rack (**CC-BY-SA 3.0 / GPL 3.0 / GPL 2.0** — p0ss, conjunto 3D de armas não-mortas (espadas, machados, martelos, cajados, polearm) baseado no Kingdom Weapon Set)
+- https://opengameart.org/content/zapper-weapon (**CC-BY-SA 3.0** — Unnamed, arma zapper sci-fi 3D em .blend com texturas)
+
+##### CC-BY 4.0
+
+- https://opengameart.org/content/medieval-weapon-set-0 (**CC-BY 4.0** — silentfox9200, conjunto de ícones de armas medievais/fantasia 32x32 para RPG Maker)
+
+##### GPL 3.0
+
+- https://opengameart.org/content/firearm-weapons (**GPL 3.0 / GPL 2.0 / CC0** — fmunoz.geo, 27 armas de fogo + 3 tipos de munição, estilo GH2)
+- https://opengameart.org/content/pixel-weapon-pack-1 (**GPL 3.0** — Koteevich, 6 pistolas e 3 granadas em pixel art)
+- https://opengameart.org/content/pixel-weapon-pack-2 (**GPL 3.0** — Koteevich, 5 pistolas, 2 granadas e 2 armas brancas em pixel art)
+
+##### OGA-BY 3.0
+
+- https://opengameart.org/content/staves-2d-weapon (**OGA-BY 3.0** — CraftPix.net, cajados mágicos 2D para fantasia)
+
 #### Efeitos, explosões, magias, partículas e VFX (pesquisado em 22/10/2026)
 
 - https://opengameart.org/content/explosion-set-1-m484-games (**CC0** — set explosões, da Master484)

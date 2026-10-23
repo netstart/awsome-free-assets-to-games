@@ -173,6 +173,23 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://leckie1989.itch.io/argon-neon-bits-free-pack (Argon Neon Bits — sprites neon ciano/magenta: orbes energia, drones, portais, chips, armas, escudos, coroas, UI bits; **CC0**, uso livre sem crédito; IA assistida, código não geradores de imagem)
 - https://v3x3d.itch.io/micro-classics-snake (Micro Classics Snake — kit Snake-like 8x8 e 16x16: 7 cores cobra, 2 estilos, 5 backgrounds, 6 walls, 11 comidas, coletáveis cogumelos/ovos/crânios, decorações, interativos boost/conveyor, partículas, UI score/length/level/time; **CC BY 4.0**, crédito apreciado, uso comercial livre; sem IA generativa)
 
+### Novos packs de armas (pesquisados em 23/10/2026)
+
+- https://kaylousberg.itch.io/fantasy-weapons-bits (**CC0** — Fantasy Weapons Bits, 25+ modelos 3D de armas de fantasia: espadas, machados, adagas, cajados, maces; baixo poligonal; uso comercial, sem atribuição)
+- https://willibab.itch.io/willibabs-simple-weapon-icons (Simple Weapon Icons — licença custom: uso comercial e pessoal liberado, não redistribuir/revender; 261 ícones PNG 32×32: espadas, cajados, machados, maces, lanças, adagas)
+- https://kickin-it-studios.itch.io/low-poly-weapon-pack (FREE Low Poly Weapon Pack — licença custom: uso comercial OK, não revender nem redistribuir; 37 armas 3D low-poly: espadas, machados, martelos, lanças, adagas, clava, garfo-de-palheiro)
+- https://quaternius.itch.io/50-lowpoly-guns (**CC0** — 50+ LowPoly Guns, mais de 50 armas low-poly 3D: pistolas, rifles, escopetas, submetralhadoras; uso comercial, sem atribuição)
+- https://timberwolfgames.itch.io/freepixelsweapons (**CC0 e Modificável** — FREE 160+ weapons, ~170 ícones de armas fantasia/medieval PNG 32×32: espadas, machados, martéis, adagas, lanças, maces; uso comercial)
+- https://admurin.itch.io/pixel-armory (Armory — licença custom: uso em qualquer projeto pessoal ou comercial, não revender nem redistribuir como pack de assets; 90+ sprites 32×32: espadas, escudos, lanças, foices, cajados, arcos, bestas, tridentes, machados, martéis, chicotes, facas, armas de fogo)
+- https://babysamurai.itch.io/super-epic-fantasy-weapons-pack (Super Epic Fantasy Weapons Pack FREE — licença custom: uso comercial liberado, proibido redistribuir para revenda como pack; 50 ícones de espada e cajado RPG 32×32 com variantes glow/glow-less)
+- https://free-game-assets.itch.io/free-bow-and-crossbow-pixel-art-icons (Bow and Crossbow Icons — CraftPix Freebie, uso comercial livre, proibido redistribuir; 48 ícones PNG 32×32 de arcos e bestas com variações de fundo)
+- https://arlantr.itch.io/free-guns-pixelart (Free Guns Pixel Art — licença custom: uso em projetos pessoais e profissionais, proibido redistribuir; ~48 ícones de armas 32×32 + munição e granadas)
+- https://quaternius.itch.io/lowpoly-medieval-weapons (**CC0** — LowPoly Medieval Weapons, 22 armas medievais low-poly 3D; uso comercial, sem atribuição)
+- https://jaks.itch.io/low-poly-rifle-pack (**CC BY** — Low Poly Rifle Pack, 10 modelos de rifles 3D diferentes; uso comercial com atribuição obrigatória)
+- https://bdragon1727.itch.io/platfrom-trap-and-weapon (**CC0** — Platformer Trap and Weapon, 1 espada + 1 armadilha pixel art 16×16; uso comercial livre)
+
+> Excluídos desta adição (não atendem aos critérios ou já catalogados): `delthor-games` (CC BY-NC — uso não comercial), `medievalmore`/`kepons`/`henrysoftware` (já em `itchio.md`), `kenney-assets/blaster-kit` (já em `kenney.md`).
+
 ---
 
 ## itch.io — Interface / UI
