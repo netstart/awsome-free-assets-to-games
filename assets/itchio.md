@@ -70,6 +70,10 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://helianthus-games.itch.io/pixel-art-viking-ship-16-directions (navio viking pixel art 64×64 isométrico em 16 direções; **CC0 implícito** — autor confirmou uso comercial nos comentários; inclui Aseprite, frames separados, spritesheet)
 - https://netherzapdos.itch.io/paws-whiskers-isometric-dogs-pack (6 raças de cães isométricos: Golden Retriever, Labrador Preto, Corgi, Husky, Pastor Alemão × idle/caminhada/trabalho + nuvem de poeira; **versão paga $5+ = comercial OK**, versão gratuita = só não comercial)
 - https://tiopalada.itch.io/tiny-tactics-battle-kit-i (**CC0** — 3 personagens isométricos: mago, clérigo, guerreiro × 4 animações/10 estados cada + 6 armas animadas)
+- https://pixelfrog-assets.itch.io/tiny-swords (**Royalty-free custom** — pack de RTS pixel art 64x64 com unidades humanas, buildings, terrain tiles, UI e VFX (free pack; Enemy Pack pago); uso comercial OK, modificar OK, crédito não obrigatório, não redistribuir/revender/reempacotar, sem IA)
+- https://smallscaleint.itch.io/8-directional-top-down-character-pack (**Royalty-free custom** — 9 personagens pixel top-down animados em 8 direções com 30+ animações cada + 25+ spells/projéteis; edição gratuita do Knight inclusa, versão completa paga; uso comercial ilimitado, sem atribuição obrigatória, não redistribuir brutos, sem IA)
+- https://quaternius.itch.io/universal-base-characters (**CC0** — 6 modelos 3D base de personagem (Superhero/Regular/Teen, masculino/feminino) com 20 penteados, rigged, pronto para retargeting em qualquer engine; uso comercial, sem atribuição, sem IA)
+- https://kaylousberg.itch.io/kaykit-skeletons (**CC0** — 4 personagens de esqueleto low-poly rigged e animados com 10+ acessórios/armas; uso comercial, sem atribuição, sem IA)
 
 ---
 
@@ -260,6 +264,8 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 - https://godotshaders.com/ (shaders Godot)
 - https://deep-fold.itch.io/pixel-planet-generator (shader código Godot)
 - https://binbun3d.itch.io/godot-skies (**CC0** — shader de céu para Godot com ciclo dia/noite, nuvens com parallax e estrelas; uso comercial, sem atribuição obrigatória, sem IA)
+- https://screamingbrainstudios.itch.io/cloudy-skyboxes-pack (**CC0** — 50 skyboxes procedurais (cubemap e panorama) para FPS/battle arenas/RPG; uso comercial, sem IA)
+- https://screamingbrainstudios.itch.io/seamless-sky-backgrounds (**CC0** — 192 seamless sky backgrounds (8 estilos, 3 períodos do dia) para platformers/RPGs/side scrollers; uso comercial, sem IA)
 
 ## itch.io — Efeitos, brilhos, bombas e luzes (VFX 2D) (pesquisado em 22/10/2026)
 
@@ -953,6 +959,8 @@ Assets 2D de floresta temperada: tilesets top-down e de plataforma, árvores sol
 
 - https://farbeyond-studio.itch.io/atmos (**CC BY 4.0** — loops de floresta escura, chuva e ambiências; **crédito obrigatório** a FarBeyond Studio)
 - as faixas **Forest Ambience** (**CC0**), **forest** (**CC BY 3.0**), **forest** (**CC BY-SA 3.0**), **Loop — House In a Forest** (**CC BY 3.0**) e **Cabin Fever** (**CC0**) estão em `assets/opengameart.md` (seção Música e SFX por tema)
+- https://quaternius.itch.io/stylized-nature-megakit (**CC0** — 116+ modelos 3D de natureza estilo Ghibli (40 árvores, 35 plantas/flores, 27 pedras, grama, arbustos); uso comercial, sem atribuição, sem IA)
+- https://kaylousberg.itch.io/kaykit-forest (**CC0** — 100+ modelos 3D low-poly de floresta (árvores, arbustos, pedras, grama, terreno); uso comercial, sem atribuição, sem IA)
 
 ### Avaliados e não incluídos
 
@@ -1128,6 +1136,7 @@ Complementa o bloco **Estilo Stardew Valley** acima: lá o foco é o life sim co
 - https://imepa.itch.io/farmerplayerpack (fazendeiro jogável com idle, caminhada, agachar, escalar, pular e escorregar; comercial liberado, proibida revenda)
 - https://alpatyk.itch.io/free-asset-farmer-story-sprites-and-backgrounds (**CC BY 4.0** — sprites de fazendeiro + fundos e tileset 16x16; crédito obrigatório)
 - https://fleuffstudios.itch.io/farm-animals-pixel-art (animais de fazenda animados, com filhotes, GIFs de preview e README; comercial liberado, proibida revenda dos sprites)
+- https://maevedevs.itch.io/farm-rpg (**Royalty-free custom** — pack farm RPG 16x16/32x32 com personagens, animais, cultivos, itens, móveis e tiles; uso comercial OK, modificar OK, não redistribuir/revender, sem cripto/NFT/IA, crédito opcional a Maeve Devs; versão demo grátis, versão completa paga)
 - na OpenGameArt: **Pixel Farmer** (**CC0**), **Little farmer guy** (**CC0**), **Medieval Citizens Vol.1 — Free Sample (Farmer)** (**CC0**), **Farmer — Bleed's Game Art** (**CC BY 3.0**), **PagesOfAdventure farmer sprite sheet** (**CC BY-SA 3.0**) e **farmer** (**CC BY 3.0/4.0**)
 
 ### Itens, colheita e produtos
@@ -2522,6 +2531,7 @@ Tower Defense é um gênero, não uma franquia única, mas jogos icônicos como 
 - https://itch.io/c/3375857/tilestop-downpixel (tiles top down pixel - rev-7)
 - https://itch.io/c/6355283/assets (Assets - OriginalThinker)
 - https://itch.io/c/6981592/my-favorite-assets (My Favorite Assets - Wild Lynx Games)
+- https://toffeecraft.itch.io/mega-bundle-forest-cat-user-interface-animals (**Royalty-free custom** — mega bundle pixel art com UI (vários temas), gatos animados, animais e tiles de floresta/natureza; uso comercial OK, modificar OK, não redistribuir como standalone, sem IA)
 - https://itch.io/c/6005252/monsters-enemys (monsters, enemys - summerjin19)
 - https://itch.io/c/356217/sprites (Sprites - Arcalum)
 - https://itch.io/c/3666630/halloween (halloween - shr)
