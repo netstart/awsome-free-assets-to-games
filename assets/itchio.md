@@ -337,6 +337,13 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pinogames.itch.io/tank-mushroom-pixel-art-character (Tank Mushroom – Pixel Art Character — PinoGames — **Licença custom comercial**: uso em projetos pessoais e comerciais, crédito apreciado)
 - https://jkforge.itch.io/cultborn-vol1-cultists (Cultborn: Volume 1 – Cultists | 2D Characters for RPGs, Deck Builders, and more — JK Forge — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório para uso comercial)
 - https://pinogames.itch.io/mini-demon-sword-top-down-pixel-art-character-pack (Mini Demon Sword – Top-Down Pixel Art Character Pack — PinoGames — **Licença custom comercial**: uso em projetos pessoais e comerciais, crédito apreciado)
+- https://mewily.itch.io/armed-guard (Pixel Armed Guard — Mewily — **CC BY-SA 4.0** — Creative Commons Attribution-ShareAlike v4.0 International; crédito obrigatório)
+- https://fightswithbears.itch.io/2d-topdown-survival-character (2D Topdown Survival Character — fightswithbears — **Licença custom comercial**: uso livre para qualquer propósito)
+- https://printer-not-found.itch.io/ladder-guy (Ladder guy (Free, CC0) — Printer Not Found — **CC0** — Creative Commons Zero; uso comercial sem atribuição)
+- https://gabry-corti.itch.io/toad (Enemy Toad — Gabry Pixel — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado)
+- https://masuone.itch.io/bikini-girls-sprite-pack (Bikini Girls Sprite Pack — MasuOne — **Licença custom comercial**: uso em projetos comerciais)
+- https://bitkiln.itch.io/psx-horror-monsters-free-sampler (PSX Horror Monsters Free Sampler – 2 Animated PS1 Style Enemies — bitkiln — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado, não revender/redistribuir)
+- https://jjkittyy.itch.io/heroes-and-monsters-free-pack (Jadewood Characters · Heroes & Monsters FREE Sampler — jade <3 — **Licença custom comercial**: uso em projetos gratuitos e comerciais, edição permitida, não revender/reupload)
 
 ---
 
