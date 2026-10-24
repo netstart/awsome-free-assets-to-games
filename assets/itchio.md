@@ -361,6 +361,12 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://gurigraphics.itch.io/faceset-portraits (Facesets - Portraits — gurigraphics — **Licença custom comercial**: uso pessoal e comercial, modificação permitida)
 - https://oddblotstudios.itch.io/free-black-and-white-characters (FREE Black and White Characters — ODDBLOT — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
 - https://domecore.itch.io/pixel-succubus (PIXEL SUCCUBUS — Animated Character Sprite Pack — domecore — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado)
+- https://randgamedev.itch.io/dummy (Dummy - Modular Character — RandGameDev — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, modificação livre, crédito opcional)
+- https://heyheythere.itch.io/psx-creatures-free (PSX Creatures Free - Monsters Sampler — heyheythere — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://michaelquitblegh.itch.io/alter-snort-3d-asset-pack (TAS character pack for blender 4.2+ — Michael Quit Productions — **CC0** — Creative Commons Zero; domínio público)
+- https://daemonoutcast.itch.io/daemon-lowpoly-basemeshes (DAEMON LOWPOLY Basemeshes — DAEMON — **CC0 License** — Creative Commons Zero; royalty free)
+- https://arma-labs.itch.io/my-jumping-frog (My Jumping Frog v2.0 — ARMA labs — **Licença custom comercial**: uso comercial e não-comercial)
+- https://maxparata.itch.io/voxelanimals (Voxel Animals - monogon — Max Parata — **CC BY-ND** — Creative Commons Attribution-NoDerivatives v4.0 International; uso comercial permitido)
 
 ---
 
