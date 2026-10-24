@@ -33,3 +33,11 @@ Todos os assets catalogados na pasta `assets/` devem ser registrados com:
 3. **Não duplicidade:** nunca inclua um asset que já esteja listado em outro arquivo; verifique antes de adicionar.
 
 **Criação e divisão de arquivos é permitida:** criar um novo arquivo `.md` ou dividir um arquivo existente em vários arquivos menores é permitido, desde que respeitem coerência, consistência e não duplicidade acima, e não haja sobreposição de conteúdo entre arquivos.
+
+## Acessibilidade dos sites catalogados
+
+Apenas sites que estejam acessíveis podem ser catalogados nos arquivos `.md` da pasta `assets/`. Antes de adicionar ou manter um site no catálogo:
+
+- Verifique que o site carrega sem erro (não retorna DNS inválido, não bloqueia o acesso e não apresenta erro de carregamento).
+- Sites fora do ar, com erro de acesso ou bloqueados devem ser removidos do catálogo.
+- Não registre nem mantenha links quebrados ou sites inacessíveis nos arquivos `.md`.

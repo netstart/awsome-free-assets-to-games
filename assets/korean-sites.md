@@ -55,7 +55,6 @@ Como alternativa verificada, os seguintes repositórios internacionais (sem rest
 | Asset | Fonte | Licença | Uso comercial | Link |
 |-------|-------|---------|---------------|------|
 | Tiny Farm | Kenney | CC0 | ✅ livre (130 arquivos, 16×16) | https://kenney.nl/assets/tiny-farm |
-| Map Pack | Kenney | CC0 | ✅ livre | https://kenley.nl/assets/map-pack |
 | Cartography Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/cartography-pack |
 | Platformer Bricks | Kenney | CC0 | ✅ livre (150 peças) | https://kenney.nl/assets/platformer-bricks |
 | Block Pack | Kenney | CC0 | ✅ livre (100 peças) | https://kenney.nl/assets/block-pack |

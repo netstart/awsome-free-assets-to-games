@@ -32,7 +32,6 @@ Lista consolidada do site frog-blend (https://frog-blend.hatenablog.com/entry/20
 | 8 | 音源堂さくら紅葉 | https://sakurakyobo.ltd.jp/ | Comercial OK | ✅ livre | Sons gratuitos |
 | 9 | 効果音工房 | https://haakudoukobou.net/ | Livre | ✅ livre | Sons gratuitos |
 | 24 | 効果音ファクトリー | https://sekitokedoukabou.jp/ | Livre | ✅ livre | Sons gratuitos |
-| 25 | タダオト | https://dadato.tcq.st/ | Livre | ✅ livre | Sons gratuitos |
 | 27 | soundrim | https://soundrim.com/ | Livre | ✅ livre | Sons gratuitos |
 | 28 | 独り音 | https://dubiton.web.fc2.com/ | Livre | ✅ livre | Sons gratuitos |
 | 29 | 効果音G | https://kougen-g.wixsite.com/ | Livre | ✅ livre | Sons gratuitos |
