@@ -98,3 +98,17 @@ Não foram localizados assets 2D gratuitos específicos de "prato" e "colher" co
 | Prato e colher | 0 | — | não localizados com licença verificável |
 
 **Nota:** a busca por repositórios dedicados de assets 2D gratuitos em domínio .kr não retornou fontes que atendam aos três critérios do AGENTS.md. Os assets coreanos úteis estão nas fontes internacionais listadas acima (Kenney CC0, OpenGameArt, itch.io grátis), que incluem temas de natureza, terreno e itens medievais/fantasia aplicáveis ao projeto Hyakki.
+
+---
+
+## Assets coreanos e temas Coreia — itch.io tag "korea" (grátis)
+
+Novos ativos encontrados via https://itch.io/game-assets/free/tag-korea (9 resultados). Licença de uso comercial deve ser confirmada na página oficial de cada ativo antes do uso em produção.
+
+| Asset | Fonte | Tipo | Link | Status |
+|-------|-------|------|------|--------|
+| Korean voice assets for 3 characters | TSUKAERU KOREAN | MITSUGETSU eight | Ativos de voz coreana | https://itch.io/game-assets/free/tag-korea | ⚠️ verificar licença na página oficial |
+| Seoul Subway — Free Mini Pack | Korean Metro Pixel Assets | glowcompany | Sprites pixel metrô de Seul | https://itch.io/game-assets/free/tag-korea | ⚠️ verificar licença na página oficial |
+| 150+ ASIAN ISOMETRIC BACKGROUNDS | PIXELHUNT | Backgrounds isométricos asiáticos | https://itch.io/game-assets/free/tag-korea | ⚠️ verificar licença na página oficial |
+| Anime Scenery Backgrounds — 18 Scenes, Japan & Korea | Blueberry Assets | Backgrounds de animação Japão/Coreia | https://itch.io/game-assets/free/tag-korea | ⚠️ verificar licença na página oficial |
+| Traditional Korean Swords | Micron Studio | Espadas tradicionais coreanas | https://itch.io/game-assets/free/tag-korea | ❌ pago ($0.99 -33%) — não atender critério gratuito |

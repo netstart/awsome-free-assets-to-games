@@ -29,6 +29,19 @@
 
 - https://www.fiftysounds.com/ru/sound-effects-library.html (FiftySounds — efeitos sonoros)
 
+## Assets 2D e 3D — Rússia / temas russos (itch.io tag "russia", free)
+
+Novos ativos encontrados via itch.io (https://itch.io/game-assets/free/tag-russia), verificados como gratuitos. Licença de uso comercial deve ser confirmada na página oficial de cada ativo antes do uso em produção.
+
+| Asset | Fonte | Tipo | Link | Status |
+|-------|-------|------|------|--------|
+| FREE | Post Soviet 2D Sprites | Creative Core Studio | Sprites 2D (pós-soviético) | https://itch.io/game-assets/free/tag-russia | ⚠️ verificar licença na página oficial |
+| Commie Block Apartment Props [Ps1/Ps2] | GrawlixMcLaren | Props 3D low-poly (apartamento soviético) | https://itch.io/game-assets/free/tag-russia | ⚠️ verificar licença na página oficial |
+| School from Moscow (lowpoly building) | Mixazzz | Modelo 3D low-poly (escola de Moscou) | https://itch.io/game-assets/free/tag-russia | ⚠️ verificar licença na página oficial |
+| Kamikaze Drones - PolyPack - Low Poly Models | ALSTRA INFINITE | Modelos 3D low-poly | https://itch.io/game-assets/free/tag-russia | ⚠️ verificar licença na página oficial |
+| FREE | RUSSIA POST-PANK | SoundTrack | Creative Core Studio | Trilha sonora russa | https://itch.io/game-assets/free/tag-russia | ⚠️ verificar licença na página oficial |
+| The real Winter | Andri | Ativo de tema inverno/russo | https://itch.io/game-assets/free/tag-russia | ⚠️ verificar licença na página oficial |
+
 ---
 
 ## 🇷🇺 Novos assets russos individuais — pesquisa 23/10/2026
