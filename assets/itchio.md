@@ -390,6 +390,7 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pngtubermaker.itch.io/free-ai-pngtuber-pack (Free AI PNGTuber Pack: 6 Characters (Idle, Talking, Blink) — PNGTuber Maker — **Licença custom comercial**: uso livre incluindo monetização, crédito não obrigatório)
 - https://piksel-to-pies.itch.io/asset-pack (asset-pack — SomeoneTakesPiksel — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
 - https://laphkal.itch.io/pixel-fantasy-character-sprites-pack (Pixel Fantasy Character Sprites Pack — Laphkal — **Licença custom comercial**: crédito obrigatório, não redistribuir ou revender o pacote)
+- https://nofool.itch.io/frog-character (Frog Character — nofool — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, modificação permitida)
 
 ---
 
