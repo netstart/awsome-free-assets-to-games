@@ -474,6 +474,18 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://chris-woods.itch.io/parrot-rig (Parrot Rig with Animation — Chris Woods — **CC BY 4.0** — Creative Commons Attribution v4.0 International)
 - https://gegx.itch.io/runner-zombies-painted (Free 5 Painted Running Zombies, 192 px, 4 Directions - RUNNER ZOMBIES — GegX — **Licença custom comercial**: uso em projetos comerciais e gratuitos, sem crédito necessário, não revender/redistribuir)
 - https://dumivid.itch.io/scavenge-legends-animated-characters (Scavenge Legends: Animated Heroes — Dumivid — **CC0 1.0 Universal License**)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol50 (Free Fantasy Enemy Monster Asset Pack Vol.50 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol43 (Free Fantasy Enemy Monster Asset Pack Vol.43 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://nyteon.itch.io/fantasy-dialogue-portraits ([FREE] Fantasy Character Portraits RPG — Nyteon — **Licença custom comercial**: crédito obrigatório, mencionar o título do asset)
+- https://luquigames.itch.io/luqui-48x48-evil-plushies-game-assets (LuQui 48x48 Evil Plushies Game Assets — LuQui — **Licença custom comercial**: uso gratuito)
+- https://tulune2204.itch.io/free-fantasy-knight-character-sprite-pack-2-characters-8-expressions-1-rpg-bac ([Free] Fantasy Knight Character Sprite Pack – 3 Characters, 9 Expressions + 1 RPG Backgrounds — TuLune2204 — **Licença custom comercial**: uso gratuito)
+- https://lazycapybarastudios.itch.io/top-down-pixel-art-character (Top-Down Pixel Art Character Asset Pack — Lazy Capybara Studios — **Licença custom comercial**: uso em projetos comerciais)
+- https://pixel-1992.itch.io/free-static-pixel-art-amazon-warrior (Free Static Pixel Art Amazon Warrior 64x64 PXL — PIXEL_1992 — **Licença custom comercial**: uso gratuito)
+- https://gaurisomesh.itch.io/hooded-assassin (Hooded Assassin - Animated Pixel Character — gaurisomesh — **Licença custom comercial**: uso pessoal e comercial, crédito não obrigatório, não revender/redistribuir)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol10 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.10 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://ariaflenz.itch.io/monsters-asset-pack (Monsters Asset Pack — Ariaflenz — **Licença custom comercial**: uso gratuito)
+- https://waywardmartian.itch.io/wayward-martian-graphics-a-lot-of-random-tall-sprites (A Lot of Random Tall Sprites — Wayward Martian Graphics — **Licença custom comercial**: uso gratuito)
+- https://justice-bole.itch.io/fps-character-controller (FPS Character Controller — justice-bole — **Licença custom comercial**: uso gratuito)
 
 ---
 
