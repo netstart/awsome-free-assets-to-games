@@ -578,4 +578,48 @@ Vento (風音) e Chuva (雨音) já estão listados acima na seção Efeitos son
 | Game Icons | Kenney | CC0 | ✅ livre | ícones diversos | https://kenney.nl/assets/game-icons |
 | 16x16 Weapon RPG Icons | OpenGameArt | verificar na página | ⚠️ confirmar | ícones de armas 16×16 | https://opengameart.org/content/16x16-weapon-rpg-icons |
 
+---
+
+## 🇯🇵 Novos sites japoneses — fontes verificadas (pesquisa 24/10/2026)
+
+### BOOTH — agregador de assets CC0 (Pag. Japão)
+
+A tag "CC0 + Grátis" no BOOTH reúne 382 itens (modelos 3D, texturas, matcaps, personagens, shaders) com uso comercial permitido sob CC0. Boa parte é voltada para VRChat/3D, mas há também assets 2D de jogo.
+
+| Asset | Fonte | Licença | Uso comercial | Tipo | Link |
+|-------|-------|---------|---------------|------|------|
+| Matcaps (Nature, Moonstone, Crystal, Sunstone, Holographic, Dirt) | Pixel Place (poseplace.booth.pm) | CC0 | ✅ livre | 100+ matcaps 3D (para pré-render 2.5D / textura) | https://booth.pm/en/items/7887740 |
+| Torii 3D (portão xintoísta) | mmk2.booth.pm | CC0 | ✅ livre | Modelo 3D (ambiente japonês / templo) | https://booth.pm/en/items/4441302 |
+| Knife Asset (faca 3D) | hiroki777.booth.pm | CC0 | ✅ livre | Modelo 3D (arma branca) | https://booth.pm/en/items/3561928 |
+| Tamago (ovo 3D) | szk3.booth.pm | CC0 | ✅ livre | Modelo 3D (prop / item) | https://booth.pm/en/items/8842608 |
+
+### DOTOWN — Maeda Design Room (粗ドット / pixel art retro)
+
+https://dotown.maeda-design-room.net/
+
+- **Licença:** Gratuito + comercial permitido, sem crédito obrigatório; proibido uso adulto; modificação limitada (mudança de cor, inversão, redimensionamento OK); **reconfiguração proibida**
+- **Conteúdo:** centenas de ícones e sprites pixel art em categorias (personagens, comida, animais, plantas, veículos, cidade, eventos)
+- **Uso comercial:** permitido (sem crédito), mas com limitação: não usar como material principal de produtos derivados
+
+### ピクセルガロー / PixelGaro (hpgpixer.jp)
+
+https://hpgpixer.jp/
+
+- **Licença:** Gratuito + comercial permitido com crédito obrigatório (~10.000 ícones dot art)
+- **Conteúdo:** 20 categorias, 8.347 ícones 32×32 + 3.762 ícones 16×16 + 473 ícones 12×12; inclui GIFs animados
+- **Ferramentas:** Pixel Sketch (editor dot art), Pixel Art Converter, DotPixer, entre outros web tools
+- **Última atualização:** 23/10/2026
+
+### cc0aki.booth.pm — Criador japonês dedicado a assets de jogo CC0
+
+https://cc0aki.booth.pm/
+
+- **Licença:** CC0 (básico) — "自作ゲームや、作成時に作った素材(アセット)を基本 CC0で公開していきます"
+- **Conteúdo:** assets para jogos indie (top-down shooter, personagens, efeitos) publicados sob CC0
+- **Uso comercial:** permitido, sem atribuição obrigatória
+
+### ピポヤ倉庫 / Pipoya (pipoya.net/sozai/) — já catalogado
+
+Já listado acima (Tileset 16×16, efeitos, comercial OK sem crédito). Mantido para referência.
+
 

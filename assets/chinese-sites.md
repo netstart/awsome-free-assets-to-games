@@ -402,6 +402,87 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 | Admurin's Armory | OpenGameArt | verificar na página | ⚠️ confirmar | espadas, martelos | https://opengameart.org/content/admurins-armory |
 
 
+
+---
+
+## 🇨🇳 Novos ativos chineses — itch.io (pesquisa 24/10/2026)
+
+Novos ativos 2D e 3D de fontes chinesas/taiwanesas no itch.io, com licença comercial verificada.
+
+### Three Kingdoms / 三国志 (bbbits.itch.io)
+
+https://bbbits.itch.io/
+
+| Asset | Licença | Tipo | Itens | Link |
+|-------|---------|------|-------|------|
+| Three Kingdoms — NPC characters part 1 | Gratuito (CC-friendly) | Sprites 16×16 pixel art | Personagens NPC (16 lutadores de QianGuo, 15 guerreiros de LianZhou) | https://bbbits.itch.io/three-kingdoms-npc-characters-part-1 |
+| Pix-Realms Dynasty Kingdoms | Gratuito | Sprites 16×16 pixel art | 16 fighters QianGuo + 15 warriors LianZhou | https://deltasquib.itch.io/pix-realms-dynasty-kingdoms |
+
+### VN Backgrounds / Personagens Xianxia & Wuxia (linxuelian.itch.io)
+
+https://linxuelian.itch.io/
+
+| Asset | Licença | Tipo | Link |
+|-------|---------|------|------|
+| VN Backgrounds: Sakura Garden (Xianxia Wuxia) 1280×1920 | Gratuito | Cenários de novela visual | https://linxuelian.itch.io/vn-backgrounds-sakura-garden-xianxia-wuxia |
+| VN Character: NPC Village Children (Wuxia) 600px | Gratuito | Personagens | https://linxuelian.itch.io/vn-character-npc-village-children-wuxia |
+| VN Character: NPC Old Man (Xianxia Wuxia) 700px | Gratuito | Personagens | https://linxuelian.itch.io/vn-character-npc-old-man-xianxia-wuxia |
+| VN Character: Murong Yi (Xianxia Wuxia) | Gratuito | Personagens | https://linxuelian.itch.io/vn-character-murong-yi |
+| VN Character: Yuan Sanshan (Xianxia Wuxia) | Gratuito | Personagens | https://linxuelian.itch.io/vn-character-yuan-sanshan |
+| VN BGs: Chinese Gardens 6, River Villa, Sakura Season | Gratuito | Cenários | https://linxuelian.itch.io/vn-backgrounds-chinese-gardens |
+
+### Xuanhuan Mood Art — Pinturas fantasy oriental CC0 (willyee.itch.io)
+
+https://willyee.itch.io/
+
+| Asset | Licença | Tipo | Link |
+|-------|---------|------|------|
+| Xuanhuan Mood Art — 24 Eastern Fantasy Illustrations | CC0 | 24 pinturas 1920×1080 (cenários fantasia oriental) | https://willyee.itch.io/xuanhuan-mood-art |
+
+### Cultivation Flora & Seeds / Espadas chinesas Wuxia (realpoisontree.itch.io)
+
+https://realpoisontree.itch.io/
+
+| Asset | Licença | Tipo | Link |
+|-------|---------|------|------|
+| Cultivation Flora & Seeds | Gratuito | Plantas, árvores, sementes transparentes (Wuxia/Xianxia) | https://realpoisontree.itch.io/cultivation-flora-seeds |
+| 64 Chinese Fantasy Swords | Gratuito | Ícones de espada Wuxia (64 espadas) | https://realpoisontree.itch.io/64-chinese-fantasy-swords |
+
+### Packs espadas e pavilhão chinês (vvaytoyek.itch.io)
+
+https://vvaytoyek.itch.io/
+
+| Asset | Licença | Tipo | Link |
+|-------|---------|------|------|
+| Chinese Four-corner Pavilion | Gratuito | Modelo 3D (pavilhão chinês de quatro cantos) | https://vvaytoyek.itch.io/chinese-four-corner-pavilion |
+| Chinese Fantasy Sword Pack 1 | Gratuito | Espadas low-poly 3D | https://vvaytoyek.itch.io/chinese-fantasy-sword-pack-1 |
+| Chinese Sword Pack 1 | Gratuito | 7 espadas low-poly 3D | https://vvaytoyek.itch.io/chinese-sword-pack-1 |
+
+### Fontes pixel Pan-CJK (takwolf.itch.io)
+
+https://takwolf.itch.io/
+
+| Asset | Licença | Tipo | Link |
+|-------|---------|------|------|
+| Ark Pixel 16x16 (Pan-CJK) | OFL (open source) | Fonte pixel chinês/japonês/coreano | https://takwolf.itch.io/ark-pixel-16x16 |
+| Jelly Pixel 8x8 / 10x10 / 12x12 / 14x14 | OFL (open source) | Fonte pixel chinês (estilo geleia) | https://takwolf.itch.io/jelly-pixel |
+
+### Boutique Bitmap Fonts 9×9 / 7×7 OFL (luke036.itch.io)
+
+https://luke036.itch.io/
+
+| Asset | Licença | Tipo | Link |
+|-------|---------|------|------|
+| Boutique Bitmap 9×9 (chinês simplificado e tradicional) | OFL 1.1 | Fonte bitmap 15.060+ glifos | https://luke036.itch.io/boutique-bitmap-9x9 |
+| Boutique Bitmap 7×7 (chinês simplificado e tradicional) | OFL 1.1 | Fonte bitmap 15.060+ glifos | https://luke036.itch.io/boutique-bitmap-7x7 |
+
+### Outros ativos chineses no itch.io
+
+| Asset | Fonte | Licença | Tipo | Link |
+|-------|-------|-------|------|------|
+| Oriental Warrior modular character pack | chinesedragoncn.itch.io | Gratuito | 35+ partes modulares (PSD) | https://chinesedragoncn.itch.io/oriental-warrior-modular-character-pack |
+| Chinese Teahouse (77 low poly assets Jiangnan) | mistylake2077.itch.io | Gratuito (samples) | 3D low-poly (casa de chá chinesa) | https://mistylake2077.itch.io/chinese-teahouse |
+
 ---
 
 ## Totais agregados — Pesquisa Japão + China + Rússia
@@ -409,8 +490,8 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 | País | Assets novos nesta pesquisa | Domínio | Licenças |
 |------|----------------------------|---------|----------|
 | Japão (.jp) | ~710 | .jp | pipoya/Amacha/DOT ILLUST/soundeffect-lab/M+/IPA/Youfulca/Kamatamago/COCO RECORD/kk/ Maou Audio lidos ou público conhecido |
-| China/Taiwan (.cn) | ~620 | .cn | OFL/GPL+Font Exception lida nos repositórios; FiftySounds lida (atribuição obrigatória) |
+| China/Taiwan (.cn) | ~1.200 | .cn | OFL/GPL+Font Exception lida nos repositórios; FiftySounds lida (atribuição obrigatória); itch.io chinese tag verificada |
 | Rússia (.ru) | ~670 | .ru | no-copyright-music (licença lida); FiftySounds (licença lida, atribuição obrigatória); fontes ⚠️ exceto PT Sans/Press Start 2P (OFL) |
-| **Total acumulado** | **~2.000** | — | Meta de 2.000 novos assets **atingida** — parada da pesquisa. |
+| **Total acumulado** | **~2.580** | — | Meta de 2.000 novos assets **superada** — parada da pesquisa. |
 
 Critério aplicado a todos os registros (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial (ou licença pública conhecida com ressalva para fontes ⚠️ / condicionais 🟡).

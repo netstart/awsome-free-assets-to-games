@@ -17,6 +17,23 @@
 | r/pixelart | Pixel art — artistas frequentemente disponibilizam spritesheets gratuitos | <https://www.reddit.com/r/pixelart/> | Não indexado (403) |
 | r/opengamedevs | Desenvolvimento open source de jogos — assets CC0 / domínio público | <https://www.reddit.com/r/opengamedevs/> | Não indexado (403) |
 | r/Unity3D / r/UnrealEngine | Engines específicas — pacotes gratuitos compartilhados pela comunidade | <https://www.reddit.com/r/Unity3D/> / <https://www.reddit.com/r/UnrealEngine/> | Não indexado (403) |
+| r/freeassets | Recursos gratuitos para uso comercial e pessoal | <https://www.reddit.com/r/freeassets/> | Não indexado (403) |
+
+---
+
+## Coleções e agregadores CC0 identificados via busca (itch.io)
+
+Essas coleções agregam múltiplos ativos CC0 (usuário deve verificar cada item individualmente):
+
+| Coleção / Agregador | Descrição | Link |
+|---------------------|-----------|------|
+| jco — Free CC0 Assets | Coleção de 1.000+ ativos CC0 no itch.io (grátis ou comercial, sem crédito obrigatório) | https://itch.io/c/1149746/free-cc0-assets |
+| CC0 Game Assets | 3D e 2D assets CC0 (Cardano community, public domain) — 30 espadas lowpoly (Swordtember 2022), GLB/FBX | https://cc0gameassets.itch.io/ |
+| CC0Tree (SkywolfGameStudios) | Coleção contínua de ativos CC0 gratuitos para indie devs, sem paywalls, sem atribuição | https://skywolfgamestudios.itch.io/cc0tree |
+| Open Kit 2D (Grok Code Reliant) | Open Kit 2D CC0 — game art pack gratuito, comercial incluído, sem crédito | https://grokcodereliant.itch.io/open-kit |
+| 1000 Particles (Kronbits) | 1.000 partículas 512×512 CC0 — pessoal e comercial, sem crédito | https://kronbits.itch.io/particle-pack |
+| Free CC0 Modular Animated Vector Characters 2D (RGS_Dev) | Personagens modulares 2D animados CC0 — 3 cabeças, 3 cabelos, 7 olhos, 5 chifres, 8 bocas, armas, 8 personagens pré-montados | https://rgsdev.itch.io/free-cc0-modular-animated-vector-characters-2d |
+| Rachel's CC0 Assets (moosadee) | Tiles, sprites, itens, UI, fontes — CC0 ou domínio público, gratuito para qualquer uso | https://moosadee.itch.io/rachels-cc0-assets |
 
 ---
 

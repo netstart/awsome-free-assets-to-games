@@ -42,16 +42,30 @@ Licença de cada asset a confirmar na página individual (muitos são CC0 / CC-B
 | fail | 9 | 1 |
 | sad | 5 | 1 |
 
+### Fontes regionais verificadas (Japão, China, Coreia)
+
+| Fonte | País | Qtd aplicável | Licença | Comercial | Status |
+|-------|------|---------------|---------|-----------|--------|
+| Maou Audio — 効果音 (sistema 49 + one-point 75 + batalha 32 + 8-bit 30 + mágia 78 + voz 18) | 🇯🇵 Japão | ~282 sons nomeados | Comercial grátis, sem atribuição obrigatória | ✅ sim | Acessível ✅ |
+| Sound Effect Lab — ボタン・システム音 (cancel/beep/erro/sucesso) | 🇯🇵 Japão | ~80 sons nomeados | Comercial grátis, sem crédito | ✅ sim (sem adulto, sem redistribuição de arquivo) | Acessível ✅ |
+| Sound Effect Lab — 戦闘\[1\]/\[2\] (K.O., down, zombie death, explosão, tiro) | 🇯🇵 Japão | ~130 sons nomeados | Comercial grátis, sem crédito | ✅ sim (sem adulto, sem redistribuição de arquivo) | Acessível ✅ |
+| SOUNDICONS (Brainstorm Co.,Ltd.) — sons eletrônicos/UI/8-bit | 🇯🇳 Japão | ~2.500 sons | Comercial e não-comercial, crédito opcional | ✅ sim | Acessível ✅ |
+| FiftySounds chinês — 失败的声音 (game over / falha) | 🇨🇳 China | 7 sons (falha 1-7) | Comercial livre, sem atribuição | ✅ sim | Acessível ✅ |
+| FiftySounds russo — subcategorias de SFX | 🇷🇺 Rússia | — | Comercial + atribuição obrigatória | ✅ sim | ❌ Inacessível (404) — removido do catálogo |
+| Pixabay coreano (game-over) | 🇰🇷 Coreia | 729 (anúncio do buscador) | Royalty-free | ? | ❌ Inacessível (403 Cloudflare) — não catalogado |
+
+> De acordo com a regra de acessibilidade do AGENTS.md, apenas sites que carregam sem erro são mantidos no catálogo. FiftySounds russo (subcategorias 404) e Pixabay coreano (403) foram excluídos.
+
 ### Outras fontes já verificadas no projeto
 | Fonte | Qtd aplicável | Licença | Comercial |
 |-------|---------------|---------|-----------|
 | Mixkit — categorias game-over / lose / wrong / sad / hurt / error | 34+ (game-over) | Mixkit Free License (SFX) | ✅ sim |
 | FilmCow Royalty Free SFX (Vols 1-4) | ~10.000+ no total (parte: fails, erros, impactos, transições) | Royalty-free, sem atribuição | ✅ sim (restrições: governo, grupos de ódio) |
 | Nox Sound Design — Essentials Series | 1.644 (Voices: dor, esforço, suspiro, pancada, limpeza de garganta) | CC0 | ✅ sim |
-| Sound Effect Lab (Japão) | sons de sistema/falha/batalha (categorias システム / 戦闘) | Comercial grátis, sem crédito | ✅ sim (sem adulto, sem redistribuição de arquivo) |
+| Sound Effect Lab (Japão) | sons de sistema/falha/batalha (categorias ボタン・システム音 / 戦闘) | Comercial grátis, sem crédito | ✅ sim (sem adulto, sem redistribuição de arquivo) |
 | Kenney.nl | interface sounds, impact sounds (CC0) | CC0 / domínio público | ✅ sim |
 
-**Total de candidatos comerciais verificados:** Freesound ~5.126 (3 termos) + OpenGameArt ~176 + Mixkit categorias relacionadas + Nox voices + parcela do FilmCow + Sound Effect Lab → **fácil ultrapassar 10.000** quando somados todos os packs de falha/erro/morte/tristeza.
+**Total de candidatos comerciais verificados:** Freesound ~5.126 (3 termos) + OpenGameArt ~176 + Mixkit categorias relacionadas + Nox voices + parcela do FilmCow + Sound Effect Lab + Maou Audio ~282 + SOUNDICONS ~2.500 + FiftySounds chinês 7 → **fácil ultrapassar 10.000** quando somados todos os packs de falha/erro/morte/tristeza.
 
 ---
 
@@ -79,11 +93,16 @@ Licença de cada asset a confirmar na página individual (muitos são CC0 / CC-B
 - https://mixkit.co/free-sound-effects/error/
 - Licença: https://mixkit.co/license/#sfxFree
 
-### Outras
+### Outras (fontes regionais já acessíveis)
+- Maou Audio (JP) — sistema/one-point/batalha: https://maou.audio/category/se/se-system/ , https://maou.audio/category/se/se-onepoint/ , https://maou.audio/category/se/se-battle/ , https://maou.audio/category/se/se-8bit/
+- Sound Effect Lab (JP) — sistema/batalha: https://soundeffect-lab.info/sound/button/ , https://soundeffect-lab.info/sound/battle/ , https://soundeffect-lab.info/sound/battle/battle2.html
+- SOUNDICONS (JP) — eletrônicos/UI/8-bit: https://www.soundicons.net/en/
+- FiftySounds chinês (CN) — falha/game over: https://www.fiftysounds.com/zh/copyright-free-music/defeat.html
 - Nox Sound Design (CC0): https://nox-sound-design.itch.io/essentials-series-sfx-nox-sound
 - FilmCow (royalty-free): https://filmcow.itch.io/filmcow-sfx (e vols 2, 3, 4)
-- Sound Effect Lab (JP): https://soundeffect-lab.info/
 - Kenney.nl (CC0): https://kenney.nl/assets/interface-sounds , https://kenney.nl/assets/impact-sounds
+
+> Fontes excluidas por inacessibilidade (regra AGENTS.md): FiftySounds russo (subcategorias 404), Pixabay coreano (403 Cloudflare).
 
 ---
 
@@ -96,7 +115,9 @@ Licença de cada asset a confirmar na página individual (muitos são CC0 / CC-B
 | Tristeza / Decepção | "sad", "sad trombone", "disappointment" | Freesound | 2.059 (FS) |
 | Falha / Sem sucesso / Erro | "fail", "wrong", "error", "bad", "buzzer" | Freesound, OpenGameArt, Mixkit | 9 (OGA "fail") + Mixkit wrong/error |
 | Perdeu o desafio / Lose | "lose", "losing", "defeat" | Freesound, OpenGameArt, Mixkit | 23 (OGA) + Mixkit lose |
-| Vozes de dor/morte (personagem) | "death voice", "hurt", "pain grunt" | OpenGameArt, Nox (CC0) | ~30+ (OGA packs) + 526 (Nox Voices) |
+| Vozes de dor/morte (personagem) | "death voice", "hurt", "pain grunt" | OpenGameArt, Nox (CC0), Maou Audio (JP voz) | ~30+ (OGA packs) + 526 (Nox Voices) + 18 (Maou Audio voz) |
+| Falha/erro de UI (Japão) | "cancel", "beep", "ハズレ" (falha) | Maou Audio one-point, Sound Effect Lab sistema | ~80 (Sound Effect Lab) + ~75 (Maou Audio one-point) |
+| Game over / falha (China) | "失败" (falha) | FiftySounds chinês | 7 sons |
 
 ---
 
@@ -133,12 +154,26 @@ Licença **a confirmar na página de cada asset** (🟡). Todos encontrados nas 
 - Win / Lose Voice Speech
 - Oldschool win and die jump and run sounds
 
+**Fontes regionais — Japão (Maou Audio, licença verificada na página oficial):**
+- ワンポイント33 / 32 — ハズレ (falha/erro) — https://maou.audio/se_onepoint33/ , https://maou.audio/se_onepoint32/
+- ワンポイント29 — あちゃー (operação falhou) — https://maou.audio/se_onepoint29/
+- ワンポイント25/26/27/28 — ハテナ？ (incerteza/erro) — https://maou.audio/se_onepoint25/ ... /se_onepoint28/
+- システム40~49 — sons de sistema/decisão — https://maou.audio/category/se/se-system/
+- キャンセル1~9 (Sound Effect Lab) — cancelar/opção inválida — https://soundeffect-lab.info/sound/button/
+- ビープ音1~5 (Sound Effect Lab) — beep de erro — https://soundeffect-lab.info/sound/button/
+
+**Fontes regionais — China (FiftySounds chinês, licença verificada):**
+- 失败1 ~ 失败7 (game over / falha) — https://www.fiftysounds.com/zh/copyright-free-music/defeat.html — ZIPs individuais (sfx-defeat1.zip ... sfx-defeat7.zip)
+
 ---
 
 ## ✅ Verificação de licença por fonte
 
 | Fonte | Licença | Uso comercial | Atribuição | Observação |
 |-------|---------|---------------|------------|------------|
+| Maou Audio (Japão) | Termos próprios (muito liberais) | ✅ Sim | Não obrigatória | Comercial, derivado, 18+ permitido. Única proibição: alegar autoria ou revender como material puro |
+| SOUNDICONS (Japão) | Termos próprios | ✅ Sim | Opcional | BRAINSTORM co.,ltd. — eletrônicos, UI, 8-bit, MIDI |
+| FiftySounds chinês | Licença própria (FiftySounds) | ✅ Sim | Não obrigatória | Grátis para uso pessoal e comercial |
 | Freesound — CC0 | CC0 | ✅ Sim | Não (recomendada) | Domínio público-like |
 | Freesound — CC BY | CC BY | ✅ Sim | Obrigatória ao autor | |
 | Freesound — CC BY-NC | CC BY-NC | ❌ Não | — | Excluir deste catálogo |
