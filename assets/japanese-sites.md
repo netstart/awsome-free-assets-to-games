@@ -315,6 +315,12 @@ Licença confirmada (lida: https://maou.audio/rule/): **CC BY 4.0** (comercial O
   - ファミコン風 (8-bit) — 30 sons — https://maou.audio/category/se/se-8bit/
   - その他: 物音, ワンポイント, 楽器音
 
+#### 効果音辞典 (Sound Dictionary) — https://sounddictionary.info/
+
+Site japonês de efeitos sonoros gratuitos, comercial OK, sem registro, sem crédito obrigatório, sem link obrigatório ("緩い規約" — regras flexíveis). Categorias: アニメ・演出, 戦闘, 機械, 生活, 環境音, ボタン・システム音, 自然. Página de termos (利用規約) retornou 404 na verificação, mas a página inicial declara comercial gratuito e não requer crédito/link. — ✅ (site acessível em 24/10/2026)
+
+- SE — https://sounddictionary.info/ — ✅
+
 ### OpenTracks (ex-DOVA-SYNDROME) — BGM japonês grande catálogo
 
 Licença (lida: https://opentracks.com/help/articles/license/): comercial OK (jogos/apps como BGM); sem crédito; proibido IA, Content ID, redistribuição; regras extras por compositor prevalecem. — https://opentracks.com/help/articles/license/ — ✅
