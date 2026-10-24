@@ -159,6 +159,27 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença livre/permi
 
 ---
 
-**Total: 88 sites únicos** (excluindo duplicatas já registradas em `assets/misc-domains.md` e outros arquivos de domínio existente).
+## 10. Recursos adicionais (extraídos de catálogos CC0 curados)
+
+| # | Site | URL | Tipo | Licença / notas |
+|---|------|-----|------|-----------------|
+| 89 | GameAsset.net | https://gameasset.net/ | Animações 10.783 motions + mais em breve | CC0 1.0 (domínio público); sem atribuição |
+| 90 | Open HDRI | https://openhdri.com/ | HDRIs / ambiente calibrado CC0 | CC0; uso comercial OK |
+| 91 | TextureCan | https://texturecan.com/ | Texturas PBR extras + SBSAR | CC0; uso comercial OK |
+| 92 | Lucide Icons | https://lucide.dev/ | Ícones UI (brand-free) | ISC; uso comercial OK |
+| 93 | 3DTextures.me | https://3dtextures.me/ | Texturas PBR CC0 | CC0; uso comercial OK |
+| 94 | Adventure Kid | https://www.adventurekid.se/ | IRs de reverb, loops | CC-BY; verifique cada item |
+| 95 | ccMixter | https://ccmixter.org/ | Música Creative Commons | Varia por faixa; verificar licença |
+| 96 | Blender Studio | https://studio.blender.org/ | Vídeo/animação open movie | CC-BY / CC0; verificar cada asset |
+| 97 | Coverr | https://coverr.co/ | Vídeo grátis | Licença custom; uso comercial OK |
+| 98 | Dareful | https://dareful.com/ | Vídeo grátis (4K) | CC-BY; verifique cada item |
+| 99 | BeepBox | https://www.beepbox.co/ | Gerador/ferramenta de música chiptune | MIT; uso comercial OK |
+| 100 | Bfxr | https://www.bfxr.net/ | Gerador/ferramenta de SFX retro | MIT; uso comercial OK |
+| 101 | Meta Animated Drawings | https://sketch.metademolab.com/ | Animação automática de desenhos | MIT; uso comercial OK |
+| 102 | Tallbeard / Abstraction Music Loop Bundle | https://itch.io/ | Loops de música CC0 | CC0; uso comercial OK |
+
+---
+
+**Total: 102 sites únicos** (excluindo duplicatas já registradas em `assets/misc-domains.md` e outros arquivos de domínio existente).
 
 > **Próximos passos:** verificar a acessibilidade de cada site (carrega sem erro) e confirmar a licença oficial na página de origem antes de usar comercialmente, conforme exigido pelo AGENTS.md. Sites inacessíveis ou com licença não verificável devem ser movidos para `assets/pendentes.md` ou removidos.
