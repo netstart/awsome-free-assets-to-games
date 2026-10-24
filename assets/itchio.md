@@ -331,6 +331,12 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://archon-aspect.itch.io/factions-pack-wild-goblins (Factions Pack - Wild Goblins — Archon Aspect — **Licença custom comercial**: uso para jogos gratuitos ou com lucro, modificação permitida, não revender/redistribuir)
 - https://axolotl-jim.itch.io/wizard-goose-sp (Wizard Goose Sprite pack — Axolotl Jim — **Licença custom comercial**: uso comercial e não-comercial)
 - https://jitsukoan.itch.io/little-pingu (Little Pingu — Jitsu Koan — **Licença custom comercial**: uso comercial permitido, crédito obrigatório)
+- https://parkedhearts.itch.io/sayori-sprite-parkgdev (Sayori (F) - VN character sprite by ParkGDev — ParkedHearts — **Licença custom comercial**: uso em projetos gratuitos e comerciais)
+- https://acols.itch.io/droll-opponents (Droll's series. Second set "First opponents" — Acol's — **Licença custom comercial**: uso em projetos gratuitos e comerciais, não redistribuir/revender)
+- https://duckhive.itch.io/ducky (Ducky (2D pixel-art animated duck character) — Duckhive — **Licença custom comercial**: uso livre, sem crédito necessário)
+- https://pinogames.itch.io/tank-mushroom-pixel-art-character (Tank Mushroom – Pixel Art Character — PinoGames — **Licença custom comercial**: uso em projetos pessoais e comerciais, crédito apreciado)
+- https://jkforge.itch.io/cultborn-vol1-cultists (Cultborn: Volume 1 – Cultists | 2D Characters for RPGs, Deck Builders, and more — JK Forge — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório para uso comercial)
+- https://pinogames.itch.io/mini-demon-sword-top-down-pixel-art-character-pack (Mini Demon Sword – Top-Down Pixel Art Character Pack — PinoGames — **Licença custom comercial**: uso em projetos pessoais e comerciais, crédito apreciado)
 
 ---
 
