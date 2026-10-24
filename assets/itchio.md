@@ -396,6 +396,9 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://snoblin.itch.io/knights-character-pack-pixel-rpg (Knight Characters - Pixel RPG — Snoblin — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
 - https://reinvogames.itch.io/leather-rogue (Leather Rogue — reinvogames — **Licença custom comercial**: uso comercial em jogos, apps, vídeos, websites, sem atribuição)
 - https://kimbulworks.itch.io/cc-zero ([FREE] Chara Collections #0 - Zero — Kimbulworks — **Licença custom comercial**: uso livre, modificação permitida, crédito não obrigatório)
+- https://hnnnnnnn.itch.io/village-npc-vol1-6-characters-8-dir-9696 (Village NPC Vol.1 — 6 Characters — hnnnnnnn — **Licença custom comercial**: uso comercial permitido, não revender/redistribuir arquivos brutos)
+- https://free-game-assets.itch.io/free-2d-pirate-sprites (Free 2D Pirate Sprites — Free Game Assets — **Licença custom comercial**: uso em vários projetos)
+- https://two-orcs.itch.io/free-fantasy-characters-pack-4 (Free Fantasy Characters Pack #4 — Two Orcs — **Licença custom comercial**: uso em projetos não-comerciais e comerciais)
 
 ---
 
