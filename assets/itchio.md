@@ -357,6 +357,10 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://whiteknightstudios.itch.io/pixel-style-animated-character-sci-fi-trooper-2 (FP- 2D - "SCI-FI TROOPER 2" 8 DIRECTIONAL — W_K_Studio — **CC0** — Creative Commons Zero; uso comercial e privado ilimitado)
 - https://jitsukoan.itch.io/viking-boat (Viking Boat — Jitsu Koan — **Licença custom comercial**: uso comercial permitido, crédito obrigatório)
 - https://illosophy.itch.io/119-pixel-art-characters-static-sprites (119 Pixel Art Characters (static sprites) — illosophy — **Licença custom comercial**: uso pessoal e comercial, royalty-free, agradecimento opcional)
+- https://fakeuser387.itch.io/character-free (Character 2D Pixel Art Platformer Asset Pack (Free) — !Fake — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado)
+- https://gurigraphics.itch.io/faceset-portraits (Facesets - Portraits — gurigraphics — **Licença custom comercial**: uso pessoal e comercial, modificação permitida)
+- https://oddblotstudios.itch.io/free-black-and-white-characters (FREE Black and White Characters — ODDBLOT — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://domecore.itch.io/pixel-succubus (PIXEL SUCCUBUS — Animated Character Sprite Pack — domecore — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado)
 
 ---
 
