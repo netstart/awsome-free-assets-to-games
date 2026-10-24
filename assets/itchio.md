@@ -504,6 +504,17 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://im-auguste.itch.io/platformer-sprites-cardo (FREE Platformer Sprite - Cardo — Auguste — **Licença custom comercial**: livre para uso comercial, crédito apreciado mas não obrigatório)
 - https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol11 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.11 — miraeru — **Licença custom comercial**: crédito obrigatório)
 - https://mythrylstudio.itch.io/pixel-prototype-characters-topdown (2D Pixel Prototype: Top-Down Characters — Mythryl Studio — **Licença custom comercial**: uso em qualquer projeto comercial e não-comercial, crédito apreciado mas não obrigatório)
+- https://assetsmithy.itch.io/one-free-fantasy-battler-with-7-poses-side-view-rpg-battle-sprite-sampler (One Free Fantasy Battler with 7 Poses - Side-View RPG Battle Sprite — AssetSmithy — **Licença custom comercial**: uso em jogos comerciais e não-comerciais, crédito não obrigatório)
+- https://greyfroggames.itch.io/alien-character (Free 3D Alien Character — GreyFrogGames — **CC BY 4.0** — Creative Commons Attribution v4.0 International)
+- https://joy-less.itch.io/universal-character-bases (Universal Character Bases — Joyless — **Licença custom comercial**: uso gratuito, mesmo comercialmente, desde que atribua créditos)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol15 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.15 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://pavormach.itch.io/ormach-modular-unit (ORMACH: Modular unit — ORMACH — **Licença Creative Commons**)
+- https://jahnu.itch.io/heavy-knight-64-64 (Heavy Knight -- 64-64 — Jahnu — **Licença custom comercial**: uso comercial incluído)
+- https://slowdiger.itch.io/fantasy-characters-pack (Fantasy Characters Pack (AI generated) — slowdiger — **CC0** — Creative Commons Zero)
+- https://gegx.itch.io/brute-zombies-walk (Free 5 Animated Characters, 192 px, 4 Directions - BRUTE ZOMBIES: Free Walk Pack — GegX — **Licença custom comercial**: uso em projetos comerciais e gratuitos, sem crédito necessário, não revender/redistribuir)
+- https://assetsmithy.itch.io/3-free-medieval-characters-with-6-expressions-each-visual-novel-rpg-sprites (3 Free Medieval Characters with 6 Expressions Each - Visual Novel & RPG Sprites — AssetSmithy — **Licença custom comercial**: uso em jogos comerciais e não-comerciais, crédito não obrigatório)
+- https://maciaz.itch.io/medieval-knight-isometric (Animated Pixel art Medieval Knight Isometric — maciaz — **Licença custom comercial**: livre para uso em todos os projetos com crédito)
+- https://foozlecc.itch.io/purple-mage (Purple Mage — Foozle — **CC0** — Creative Commons Zero, livre para uso e modificação em todos os projetos incluindo comerciais)
 
 ---
 
