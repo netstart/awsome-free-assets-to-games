@@ -2,6 +2,8 @@
 
 Assets e shaders para Godot Engine.
 
+> ⚠️ **Aviso de licença:** Apenas o PrototypeSprite3D (linha abaixo) tem licença declarada (MIT). As demais entradas (Pixel UI Free, Juice Shaders Lite, godotshaders.com) **não têm licença declarada** nesta listagem. Antes de usar comercialmente, verifique a licença na página oficial de cada asset.
+
 ---
 
 ## Interface / Shaders

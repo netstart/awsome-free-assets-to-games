@@ -2,7 +2,7 @@
 
 Consolidado de fontes além de itch.io, OpenGameArt e CraftPix. Fontes principais: **freegameassets.com (CC0)**, **game-icons.net (CC BY 3.0)**, **Openclipart (Domínio Público)**, **Kenney.nl (CC0 — packs específicos)**, **OpenGameArt (CC0/CC BY — itens não listados em outros arquivos)**.
 
-> **Critérios**: Gratuito • Uso comercial permitido • Licença livre/permissiva verificável (CC0, CC BY, CC BY-SA, Domínio Público, GPL) • URL funcional.
+> **Critérios**: Gratuito • Uso comercial permitido • Licença livre/permissiva verificável (CC0, CC BY, CC BY-SA, Domínio Público) • URL funcional.
 
 ---
 

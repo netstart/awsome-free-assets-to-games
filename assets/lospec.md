@@ -2,6 +2,8 @@
 
 Ferramentas, paletas e tutoriais de pixel art (Reino Unido).
 
+> ⚠️ **Aviso de licença:** Este arquivo registra apenas links de fonte (ferramentas e paletas). **Nenhuma licença individual foi verificada** na página oficial. Antes de usar qualquer paleta ou asset comercialmente, confirme a licença na página de origem (CC0, CC BY, CC BY-SA, OFL, MIT, Apache 2.0, Zlib ou Domínio Público com uso comercial explícito).
+
 ---
 
 ## Pixel art e paletas

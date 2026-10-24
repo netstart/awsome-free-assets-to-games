@@ -113,7 +113,6 @@ Efeitos sonoros equivalente: https://opengameart.org/art-search-advanced?keys=al
 - https://opengameart.org/content/golem-animations (**CC BY 3.0** — animações de golem)
 - https://opengameart.org/content/ice-golem-rpg-enemy-sprite (**CC BY 3.0** / OGA-BY 3.0 — golem de gelo do Redshrike)
 - https://opengameart.org/content/fire-golem (**CC0** — golem de fogo, do teasloth)
-- https://opengameart.org/content/cyclops (**GPL 2.0** / GPL 3.0 — ciclope)
 - https://opengameart.org/content/cyclops-monster-2d (**CC BY 3.0** / CC BY-SA 3.0 / GPL — ciclope monstro 2D)
 - https://opengameart.org/content/jade-cyclops (**CC BY 4.0** / CC BY 3.0 / CC0 — ciclope de jade, do IndigoFenix)
 - https://opengameart.org/content/knight-sprite (**CC BY-SA 3.0** — cavaleiro em sprite, do killyoverdrive)
@@ -360,7 +359,6 @@ Efeitos sonoros equivalente: https://opengameart.org/art-search-advanced?keys=al
 - https://opengameart.org/content/ice-pops (**CC BY 3.0** — picolés, do Game Developer S)
 - https://opengameart.org/content/sweets (**CC0** — doces variados, da MELLE)
 - https://opengameart.org/content/16x16-sweets (**CC BY-SA 3.0** — doces 16x16, do magdum)
-- https://opengameart.org/content/cute-cakes (**GPL 3.0** — bolos fofos, da SCaydi)
 - https://opengameart.org/content/blinking-candy (**CC BY 3.0** — doces piscando, do magdum)
 - https://opengameart.org/content/creepy-cake-land (**CC BY-SA 3.0** — terra de bolos assustadora, do madmarcel)
 - https://opengameart.org/content/gingerbread-man-0 (**CC BY 3.0** / OGA-BY 3.0 — homem de gengibre, do AntumDeluge)
@@ -503,8 +501,6 @@ Busca avançada: keys=weapon, sword, gun, bow, axe, melee, firearm, fantasy+weap
 ##### GPL 3.0
 
 - https://opengameart.org/content/firearm-weapons (**GPL 3.0 / GPL 2.0 / CC0** — fmunoz.geo, 27 armas de fogo + 3 tipos de munição, estilo GH2)
-- https://opengameart.org/content/pixel-weapon-pack-1 (**GPL 3.0** — Koteevich, 6 pistolas e 3 granadas em pixel art)
-- https://opengameart.org/content/pixel-weapon-pack-2 (**GPL 3.0** — Koteevich, 5 pistolas, 2 granadas e 2 armas brancas em pixel art)
 
 ##### OGA-BY 3.0
 
