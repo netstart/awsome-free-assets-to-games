@@ -236,6 +236,19 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pidroudays.itch.io/pixel-art-npc (Pixel Art Animated NPCs — PidrouDays — **Licença custom comercial**: uso pessoal e comercial, modificação permitida, crédito não obrigatório mas apreciado)
 - https://lizcheong.itch.io/mud-enemy-sprite (Pixel Mud Hand Enemy Sprite — liz cheong — **Licença custom comercial**: uso pessoal ou comercial, crédito obrigatório)
 - https://potat0master.itch.io/character-sprites-for-visual-novels-starter-bundle (Free Character Sprites for Visual Novels Starter Bundle — Potat0Master — **Royalty-Free License**: uso pessoal e comercial, crédito não obrigatório)
+- https://shackhal.itch.io/minisprites (MiniSprites - Asset Pack — Shackhal — **Licença custom comercial**: uso pessoal, educacional e comercial indie, atribuição obrigatória)
+- https://amd-pixels.itch.io/2d-platformer-character-sprite-boxy (2d platformer character sprite - Boxy — Amd_Pixels — **Licença custom comercial**: uso comercial permitido)
+- https://dont-peek.itch.io/dark-hatman-top-down-character-4-directions-64x64 (Dark Hatman - Top-Down Character (4-Directions, 64x64) — DontPeek.pxl — **Licença custom comercial**: uso pessoal e comercial, crédito não obrigatório)
+- https://foozlecc.itch.io/lucifer-skeleton-grunt-enemy (Lucifer - Skeleton Grunt Enemy — Foozle — **CC0** — Creative Commons Zero; uso comercial, sem atribuição)
+- https://foozlecc.itch.io/mohawk-robot (Mohawk Racer Robot - Free! — Foozle — **CC0** — Creative Commons Zero; uso comercial, sem atribuição)
+- https://crimsondemon01.itch.io/character-asset-file-4 (Character asset file 4 — SirLancelotGames — **Licença custom comercial**: completamente livre para usar em qualquer coisa, crédito não obrigatório)
+- https://silverink.itch.io/biped-robot (Biped Robot — SilverInk — **CC BY-SA 4.0** — Creative Commons Attribution-ShareAlike v4.0 International; uso comercial com atribuição)
+- https://10kstudios.itch.io/free-2d-ninja-sidescroller-character (Free 2D ninja sidescroller character — 10KStudios — **Licença custom comercial**: uso comercial ou pessoal, modificação permitida, não vender/redistribuir)
+- https://jenjell.itch.io/josie-character-model (Josie - Character Model — Jen Jell — **CC0** — Creative Commons Zero; modelo 3D e texturas livres para uso comercial)
+- https://ddant1100.itch.io/ttrpg-legacy-characters-7 (TTrpg Legacy - Characters #7 — Ddant1100 — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, crédito obrigatório)
+- https://lht-hhh.itch.io/gizmo-pixel-art-monster (Gizmo Pixel Art - Monster pack — lhthhh — **Licença custom comercial**: uso comercial e gratuito, modificação permitida, não revender, crédito não obrigatório)
+- https://ludicarts.itch.io/free-platformer-character (Free Platformer - Character — ludicarts — **CC BY 3.0** — Creative Commons Attribution v3.0)
+- https://minzinn.itch.io/free-character-placeholder (Free Character Sprites — MinZinn — **CC BY 4.0** — Creative Commons Attribution v4.0 International; uso em qualquer projeto)
 
 ---
 
