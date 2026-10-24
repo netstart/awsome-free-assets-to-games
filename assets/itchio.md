@@ -391,6 +391,11 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://piksel-to-pies.itch.io/asset-pack (asset-pack — SomeoneTakesPiksel — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
 - https://laphkal.itch.io/pixel-fantasy-character-sprites-pack (Pixel Fantasy Character Sprites Pack — Laphkal — **Licença custom comercial**: crédito obrigatório, não redistribuir ou revender o pacote)
 - https://nofool.itch.io/frog-character (Frog Character — nofool — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, modificação permitida)
+- https://not-a-kappa-games.itch.io/animated-bear-sprite-pack (Pixel Art Bear Sprite Pack — Animated — The Game Smith — **Licença custom comercial**: uso em projetos gratuitos e comerciais, crédito apreciado)
+- https://brickle-pickle.itch.io/kaka-3d-character (Kaka (3D character) — Brickle Pickle — **COO License**: uso em projetos comerciais e pessoais sem restrições)
+- https://snoblin.itch.io/knights-character-pack-pixel-rpg (Knight Characters - Pixel RPG — Snoblin — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
+- https://reinvogames.itch.io/leather-rogue (Leather Rogue — reinvogames — **Licença custom comercial**: uso comercial em jogos, apps, vídeos, websites, sem atribuição)
+- https://kimbulworks.itch.io/cc-zero ([FREE] Chara Collections #0 - Zero — Kimbulworks — **Licença custom comercial**: uso livre, modificação permitida, crédito não obrigatório)
 
 ---
 
