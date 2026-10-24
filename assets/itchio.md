@@ -419,6 +419,11 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://alstrainfinite.itch.io/cityfolks (City Folks - Low Poly Modular Characters — ALSTRA INFINITE — **FAL (Free Asset License)**: uso em projetos criativos e comerciais, não revender/redistribuir)
 - https://ssjin3.itch.io/gnomo-big-boss (Gnomo Big Boss — ssjin3 — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito obrigatório)
 - https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol38 (Free Fantasy Enemy Monster Asset Pack Vol.38 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://snoblin.itch.io/questdx-character-pack (Top-Down Retro Characters - QuestDX — Snoblin — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
+- https://fratmanbootcake.itch.io/red-haired-viking (Red-haired Viking — FratmanBootcake — **CC0** — Creative Commons Zero)
+- https://vnparadise.itch.io/akane-the-sukeban-vn-character (Akane The Sukeban! VN Character — Zaph Dev — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito obrigatório)
+- https://atlashearth.itch.io/zombie-lite-free-rigged-animated-low-poly-character (Blocky Zombie Lite — Free Rigged & Animated Low Poly Character — atlashearth — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
+- https://codergenius72.itch.io/17-player-pack ([Free] Pixel Core I: Top-Down Pixel Player Pack — CoderGenius72 — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito não obrigatório)
 
 ---
 
