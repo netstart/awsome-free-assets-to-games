@@ -323,6 +323,14 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://fangondev.itch.io/soldier-weapon-pack-1 (Soldier - Weapon Pack 1 — FangonDev — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não redistribuir/revender)
 - https://maellemarylloup.itch.io/character-set-white (Character Set - WHITE — MaelleMarylloup — **Licença custom comercial**: uso comercial e pessoal, modificação permitida, não usar em IA, não redistribuir/revender)
 - https://arma-labs.itch.io/bushido-enemies (Bushido - Enemies v2.0 — ARMA labs — **CC License**: uso comercial e pessoal)
+- https://algumacoisaqq.itch.io/medieval-humans-orcs-goblins-rigged (Medieval Humans, Orcs & Goblins (rigged) — algumacoisaqq — **CC0** — Creative Commons Zero; uso livre)
+- https://elie-automata.itch.io/dread-realms-undead-legion-vol-1 (Undead Legion — 38 Dark Fantasy Characters — elie_automata — **Licença custom comercial**: uso comercial e não-comercial, modificação permitida, crédito obrigatório)
+- https://happyfox123.itch.io/skeletons-characters (RPG Maker MV Skeletons characters — happyfox123 — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito opcional)
+- https://two-orcs.itch.io/free-fantasy-characters-pack-8 (Free Fantasy Characters Pack #8 — Two Orcs — **Licença custom comercial**: uso comercial e não-comercial)
+- https://stadnikova-ekaterina.itch.io/piggys-cyber-squad (PIGGY'S Cyber Squad — littlePIGGY — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
+- https://archon-aspect.itch.io/factions-pack-wild-goblins (Factions Pack - Wild Goblins — Archon Aspect — **Licença custom comercial**: uso para jogos gratuitos ou com lucro, modificação permitida, não revender/redistribuir)
+- https://axolotl-jim.itch.io/wizard-goose-sp (Wizard Goose Sprite pack — Axolotl Jim — **Licença custom comercial**: uso comercial e não-comercial)
+- https://jitsukoan.itch.io/little-pingu (Little Pingu — Jitsu Koan — **Licença custom comercial**: uso comercial permitido, crédito obrigatório)
 
 ---
 
