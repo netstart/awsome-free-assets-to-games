@@ -495,6 +495,15 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pale-tale.itch.io/duck-animated-sprite (Duck 4-direction Animated sprite — Pale_Tale — **CC0** — Creative Commons Zero, livre para uso comercial ou pessoal)
 - https://byfernando.itch.io/ninja-character (Ninja Character — By Fernando — **Licença custom comercial**: uso gratuito)
 - https://scratchmasterj21.itch.io/tinyrobotssample (Tiny Robot Workshop — Helper Robot (Free Sampler) — scratchmasterj21 — **Licença custom comercial**: uso gratuito)
+- https://vuena.itch.io/blocky-characters-free-sample (8 Free Blocky Characters - Rigged & Animated — Vuena — **CC0** — Creative Commons Zero)
+- https://nastanliev.itch.io/skeletons (Skeletons — Nastanliev — **Licença custom comercial**: uso gratuito)
+- https://pinogames.itch.io/fantasy-rpg-character-pack (Fantasy RPG Character Pack — PinoGames — **Licença custom comercial**: uso em projetos comerciais e pessoais)
+- https://duckhive.itch.io/squirrel (Squirrel! (2d animated 16-bit pixel-art character) — Duckhive — **CC0** — Creative Commons Zero, sem crédito necessário)
+- https://g4g-assets.itch.io/goblin-skirmisher-100-animations (Goblin Skirmisher with 110 Animations — G4G Assets — **Licença custom comercial**: uso em jogos pessoais e comerciais, não revender/redistribuir)
+- https://yoogameart.itch.io/army-soldier-2d-game-sprites (Army Soldier 2D Game Sprites — Yoo Game Art — **CC0** — Creative Commons Zero)
+- https://im-auguste.itch.io/platformer-sprites-cardo (FREE Platformer Sprite - Cardo — Auguste — **Licença custom comercial**: livre para uso comercial, crédito apreciado mas não obrigatório)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol11 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.11 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://mythrylstudio.itch.io/pixel-prototype-characters-topdown (2D Pixel Prototype: Top-Down Characters — Mythryl Studio — **Licença custom comercial**: uso em qualquer projeto comercial e não-comercial, crédito apreciado mas não obrigatório)
 
 ---
 
