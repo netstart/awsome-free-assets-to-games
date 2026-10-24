@@ -367,6 +367,14 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://daemonoutcast.itch.io/daemon-lowpoly-basemeshes (DAEMON LOWPOLY Basemeshes — DAEMON — **CC0 License** — Creative Commons Zero; royalty free)
 - https://arma-labs.itch.io/my-jumping-frog (My Jumping Frog v2.0 — ARMA labs — **Licença custom comercial**: uso comercial e não-comercial)
 - https://maxparata.itch.io/voxelanimals (Voxel Animals - monogon — Max Parata — **CC BY-ND** — Creative Commons Attribution-NoDerivatives v4.0 International; uso comercial permitido)
+- https://fangondev.itch.io/undead-enemy-pack-1 (UNDEAD - Enemy Pack 1 — FangonDev — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não redistribuir/revender)
+- https://engvee.itch.io/isometric-knight-girl (FREE Isometric Knight Girl Sprites + Bonus sideview — Engvee — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, modificação permitida)
+- https://stadnikova-ekaterina.itch.io/piggys-vampire-story-set (PIGGY'S Vampire Story Set — littlePIGGY — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
+- https://jkforge.itch.io/cultborn-vol4-bloomers (Cultborn: Volume 4 – Bloomers | 2D Characters for RPGs, Deck Builders, and more — JK Forge — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório para uso comercial)
+- https://booliebuilds.itch.io/chrome-district (CHROME DISTRICT — 20 Cyberpunk Pixel Characters · Top-Down RPG Walk Cycles — booliebuilds — **CC0 1.0** — Creative Commons Zero; sem royalties, sem atribuição)
+- https://kibyra.itch.io/pixel-art-character-animated-sprite-pack (Free Pixel Art Character Animated Sprite Pack — Kibyra — **Licença custom comercial**: uso pessoal e comercial)
+- https://marcomyly.itch.io/dark-knight-free-3d-character-dark-sword-mid-poly (Dark Knight – Free 3D Character + Dark Longsword (Mid Poly) — Marco Brito — **Licença custom comercial**: uso gratuito no jogo, sem atribuição obrigatória)
+- https://two-orcs.itch.io/free-fantasy-characters-pack-5 (Free Fantasy Characters Pack #5 — Two Orcs — **Licença custom comercial**: uso em projetos não-comerciais e comerciais)
 
 ---
 
