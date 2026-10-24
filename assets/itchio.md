@@ -354,6 +354,9 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://elie-automata.itch.io/dread-realms-vampire-court (Vampire Court - 24 Dark Fantasy Characters — elie_automata — **Licença custom comercial**: uso comercial e não-comercial, modificações permitidas, crédito obrigatório)
 - https://heyheythere.itch.io/psx-people-free (PSX People Free - Rigged Animated Characters Sampler — heyheythere — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
 - https://acgames89.itch.io/andres-visual-novel-sprite-pack (Andres Visual Novel Sprite Pack — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
+- https://whiteknightstudios.itch.io/pixel-style-animated-character-sci-fi-trooper-2 (FP- 2D - "SCI-FI TROOPER 2" 8 DIRECTIONAL — W_K_Studio — **CC0** — Creative Commons Zero; uso comercial e privado ilimitado)
+- https://jitsukoan.itch.io/viking-boat (Viking Boat — Jitsu Koan — **Licença custom comercial**: uso comercial permitido, crédito obrigatório)
+- https://illosophy.itch.io/119-pixel-art-characters-static-sprites (119 Pixel Art Characters (static sprites) — illosophy — **Licença custom comercial**: uso pessoal e comercial, royalty-free, agradecimento opcional)
 
 ---
 
