@@ -252,14 +252,14 @@ SFX kawaii/cute (itch.io):
 
 | Site | Tipo | Link | Status |
 |------|------|------|--------|
-| Freesound.org | banco colaborativo de sons | https://freesound.org/ | Filtrar CC0/CC-BY |
-| Zapsplat | SFX gratuitos | https://www.zapsplat.com/ | 750+ música tracks free comercial |
-| SoundBible | SFX gratuitos | https://soundbible.com/free-sound-effects-1.html | Verificar licença |
-| BigSoundBank | SFX | https://bigsoundbank.com/ | Verificar licença |
-| FreeSFX | SFX gratuitos | https://freesfx.co.uk/ | Verificar licença |
+| Freesound.org | banco colaborativo de sons | https://freesound.org/ | CC0 / CC-BY (filtrar) ✅ |
+| Zapsplat | SFX gratuitos | https://www.zapsplat.com/ | Royalty-free comercial ✅ |
+| SoundBible | SFX gratuitos | https://soundbible.com/free-sound-effects-1.html | Attribution 3.0 (CC BY) ✅ |
+| BigSoundBank | SFX | https://bigsoundbank.com/ | CC0 (domínio público) ✅ |
+| FreeSFX | SFX gratuitos | https://freesfx.co.uk/ | Royalty-free comercial, atribuição obrigatória ✅ |
 | TheMotionMonkey | SFX para jogos interativos | https://www.themotionmonkey.co.uk/ | Verificar licença |
-| 99Sounds | sons e efeitos gratuitos | https://99sounds.org/ | Verificar licença |
-| SoundJay | SFX gratuitos | http://soundjay.com/ | Verificar licença |
+| 99Sounds | sons e efeitos gratuitos | https://99sounds.org/ | Royalty-free comercial ✅ |
+| SoundJay | SFX gratuitos | https://www.soundjay.com/ | Royalty-free comercial ✅ |
 | SoundDogs | SFX e música | https://sounddogs.com/ | Verificar licença |
 | SignatureSounds | SFX | http://signaturesounds.org/ | Verificar licença |
 | sfxr.me | gerador de som 8 bits online | https://sfxr.me/ | Gerar próprios sons |
