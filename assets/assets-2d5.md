@@ -1,6 +1,6 @@
 # Assets para jogos 2.5D — Gratuitos para Uso Comercial
 
-> **Data de compilação:** 2026-10-23  
+> **Data de compilação:** 2026-10-24  
 > **Fontes:** itch.io (tag Isometric), kenney.nl, opengameart.org  
 > **Critério:** Apenas assets gratuitos, com licença livre/permissiva (CC0, CC BY, CC BY-SA, OGA-BY, OFL, MIT, Apache 2.0, Zlib, Domínio Público) e uso comercial permitido, conforme a regra do `AGENTS.md`.  
 > **Sempre verifique a licença no arquivo original** antes de usar em produção comercial — as licenças podem mudar ou exigir atribuição.
@@ -117,7 +117,47 @@ Ver também `assets/freegameassets.md` — Pixel Fantasy 3D Models (153 modelos 
 
 ---
 
-## 7. Modelos 3D Low-Poly (Poly Haven — CC0, para pré-render 2.5D)
+## 7. Novos assets 2.5D / Isométricos (itch.io — licença a verificar individualmente)
+
+> **Observação:** Estes assets foram encontrados na busca da tag Isometric do itch.io (832 resultados). A licença de cada um **ainda não foi verificada na página de origem**. Antes de usar comercialmente, acesse cada URL e confirme a licença.
+
+### Tilesets e Cenários (isométricos / 2.5D)
+
+| Asset | Autor | Tipo | Link |
+|-------|-------|------|------|
+| **Lords Of Pain - Old School Isometric Assets** | Pupkin Assets | Assets isométricos old-school | <https://itch.io/game-assets/free/tag-isometric> (buscar "Lords Of Pain") |
+| **32 x 32 Pixel Isometric Tiles** | scrabling | Tiles isométricos pixel 32×32 | <https://itch.io/game-assets/free/tag-isometric> (buscar "32 x 32 Pixel Isometric") |
+| **Voxel environment assets : Desert town** | monogon | Cidade deserto voxel 3D/2.5D | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel environment Desert town") |
+| **Voxel Environment : Counrty Side** | monogon | Ambiente campo voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Environment Counrty Side") |
+| **Isometric Dungeon Crawler** | monogon | Masmorra isométrica voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Isometric Dungeon Crawler") |
+| **Voxel Space Colony** | monogon | Colônia espacial voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Space Colony") |
+| **Voxel Plane assets** | monogon | Aviões voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Plane assets") |
+| **Voxel Cyberpunk City** | monogon | Cidade cyberpunk voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Cyberpunk City") |
+| **10+ Voxel Spaceships assets for free** | monogon | 10+ naves espaciais voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Spaceships") |
+| **Isometric Zombie Apocalypse** | monogon | Apocalipse zumbi isométrico voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Isometric Zombie Apocalypse") |
+| **MiniFolks - Humans** | LYASeeK | Humanos isométricos | <https://itch.io/game-assets/free/tag-isometric> (buscar "MiniFolks") |
+| **Isometric Cyberpunk City** | monogon | Cidade cyberpunk isométrica voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Isometric Cyberpunk City") |
+| **Voxel Nature Pack : Rocky Mountains** | monogon | Montanhas rochosas voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Nature Pack Rocky Mountains") |
+| **2.5D FREE Tiles: Infernus Tileset** | PVGames | Tiles 2.5D Infernus | <https://itch.io/game-assets/free/tag-isometric> (buscar "Infernus Tileset") |
+| **Voxel Medieval Town** | monogon | Cidade medieval voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Medieval Town") |
+| **Voxel Dark Souls Gothic** | monogon | Gótico Dark Souls voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Dark Souls Gothic") |
+| **Simple Cozy - Farm Asset Pack** | Aibyzz | Pack fazenda aconchegante | <https://itch.io/game-assets/free/tag-isometric> (buscar "Simple Cozy Farm") |
+| **Voxel dungeon crawler environment assets : Desert** | monogon | Masmorra deserto voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel dungeon crawler Desert") |
+| **Isometric Space Colony** | monogon | Colônia espacial isométrica voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Isometric Space Colony") |
+| **Voxel Pirates and Ships** | monogon | Piratas e navios voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Pirates") |
+| **2D Pixel Art - Isometric Blocks - Free Sprites** | Devil's Workshop | Blocos isométricos pixel art | <https://itch.io/game-assets/free/tag-isometric> (buscar "Isometric Blocks") |
+| **Tiny Blocks - isometric pixel tiles** | dani maccari | Tiles pixel isométricos tiny | <https://itch.io/game-assets/free/tag-isometric> (buscar "Tiny Blocks") |
+| **Voxel House Interior** | monogon | Interior de casa voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel House Interior") |
+| **Small 8-direction Characters** | AxulArt | Personagens 8 direções | <https://itch.io/game-assets/free/tag-isometric> (buscar "Small 8-direction Characters") |
+| **Voxel Noir Crime Detective** | monogon | Noir detetive crime voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel Noir Crime Detective") |
+| **Voxel RPG Characters And Weapons** | monogon | Personagens e armas RPG voxel | <https://itch.io/game-assets/free/tag-isometric> (buscar "Voxel RPG Characters") |
+| **[Mega Pack] Admurins Freebies** | Admurin | Mega pack de freebies | <https://itch.io/game-assets/free/tag-isometric> (buscar "Admurins Freebies") |
+
+> **Nota:** `Isometric Nature Blocks` (mewki) já está catalogado em `assets/itchio.md` e não é duplicado aqui.
+
+---
+
+## 8. Modelos 3D Low-Poly (Poly Haven — CC0, para pré-render 2.5D)
 
 Já catalogados em `assets/polyhaven-3d.md` (centenas de modelos 3D CC0, 8K texturas, HDRIs):
 - Mobiliário: cadeiras, barris, candelabros, mesas, armários, baús, prateleiras, lanternas
