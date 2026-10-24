@@ -424,6 +424,12 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://vnparadise.itch.io/akane-the-sukeban-vn-character (Akane The Sukeban! VN Character — Zaph Dev — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito obrigatório)
 - https://atlashearth.itch.io/zombie-lite-free-rigged-animated-low-poly-character (Blocky Zombie Lite — Free Rigged & Animated Low Poly Character — atlashearth — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
 - https://codergenius72.itch.io/17-player-pack ([Free] Pixel Core I: Top-Down Pixel Player Pack — CoderGenius72 — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito não obrigatório)
+- https://brysonultra.itch.io/rpgmaker-cartoon-portrait-faces (RPGMaker Cartoon Portrait Faces — BrysonUltra — **Licença custom comercial**: uso comercial e pessoal, crédito não obrigatório)
+- https://pixiblop.itch.io/pixiblop-monster-collection-15-enemies-playable-demo (PIXIBLOP Monster Collection — 15 Enemies & Playable Demo — pixiblop — **Licença custom comercial**: uso pessoal e comercial)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol15 (Free Fantasy Enemy Monster Asset Pack Vol.15 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol22 (Free Fantasy Enemy Monster Asset Pack Vol.22 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://storeboughtrocketgames.itch.io/mage-character (Mage Character — StoreBoughtRocketGames — **CC0** — Creative Commons Zero)
+- https://pixelcrypth.itch.io/shadow-doggo (Shadow dog — Cheezus — **Licença custom comercial**: uso comercial e não-comercial, crédito apreciado)
 
 ---
 
