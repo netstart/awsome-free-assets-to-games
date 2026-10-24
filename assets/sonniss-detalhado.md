@@ -10,19 +10,32 @@
 
 ## 📋 Licença do Sonniss GameAudioGDC (verificada na página oficial)
 
-**Licença:** Royalty Free, comercialmente usável, **sem atribuição requerida**
+**Licença:** UNLIMITED USER LICENSE, versão 2.0 (efetiva 27/08/2026), Royalty Free, comercialmente usável, **sem atribuição requerida**
 
-Pontos-chave:
+Pontos-chave (direitos concedidos):
 
 | Item | Detalhe |
 |------|---------|
+| Licença | Worldwide, non-exclusive, royalty-free |
 | Uso comercial | ✅ Sim (games, film, TV, interactive projects) |
-| Atribuição | Não requerida |
 | Projetos | Ilimitado número de projetos, pelo resto da vida |
-| AI/ML training | ❌ Estritamente proibido sob os termos da licença |
+| Atribuição | Não requerida |
+| Modificação | Permitida para uso pessoal e comercial |
+| AI/ML training | ❌ Estritamente proibido |
 | Licença completa | https://sonniss.com/gdc-bundle-license/ |
 
-> "All of the sounds are royalty free and commercially usable. No attribution is required and you can use them on an unlimited number of projects for the rest of your lifetime."
+Direitos específicos concedidos pela licença:
+- **a)** Usar em número ilimitado de projetos por toda a vida
+- **b)** Usar e modificar para projetos pessoais e comerciais, sem atribuição
+- **c)** Executar publicamente reprodução dos sons em qualquer meio, sincronizados no projeto do licenciado
+- **d)** Usar para sincronização com projetos áudio-visuais (games, filmes, televisão, interativos)
+
+Restrições:
+- Não vender/distribuir os sons como estão (devem estar incorporados em um projeto)
+- Não reivindicar autoria dos sons
+- Não usar para treinamento de AI/ML
+
+> "Licensee may use and modify the licensed sound effects for personal and commercial projects without attribution to the original creator."
 
 ---
 
