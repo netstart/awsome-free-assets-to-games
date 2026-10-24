@@ -28,7 +28,6 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença livre/permi
 | sfxr.me / jsfxr | `assets/sfxr-me.md` | UNLICENSE (domínio público) | gerador ilimitado 8-bit | Não obrigatória |
 | Pocket Sound (Japão) | `assets/japanese-sites.md` | Comercial + crédito | ~18 categorias SE | Obrigatória (plano grátis) |
 | Taira Komori (Japão) | `assets/japanese-sites.md` | Comercial (confirmar) | ~25 categorias | Confirmar |
-| sfxr.me | `assets/sfx-comercial.md` | Gerar próprios | Gerador 8-bit online | — |
 
 ---
 
@@ -99,5 +98,8 @@ Conforme o AGENTS.md atualizado, sites inacessíveis não devem ser registrados 
 | 99Sounds | 99 + 50 + mais |
 | SoundJay | várias categorias |
 | Pocket Sound / Taira Komori | ~40 categorias |
+| The Motion Monkey | 300+ SFX retro arcade (CC0) |
+| Sonniss GameAudioGDC | milhares em bundles GB (GDC 2015-2024) |
+| sfxr.me / jsfxr | gerador ilimitado 8-bit (domínio público) |
 
 **Total estimado: centenas de milhares de sons/SFX disponíveis através das fontes acima**, cada uma com licença verificada para uso comercial. Cada asset individual deve ter sua licença re-confirmada na página oficial antes de uso em produção comercial.

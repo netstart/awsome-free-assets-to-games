@@ -21,7 +21,7 @@ Assets da OpenGameArt.org com tema ninja, samurai, JapÃ£o / cultura japonesa. 
 - https://opengameart.org/content/katana-1 (**CC-BY 3.0** â€” katana sword images, de Ironthunder)
 - https://opengameart.org/content/sword-attack-icon (**CC0** â€” sword attack icon based on muramasa, de qubodup)
 - https://opengameart.org/content/oriental-roof-tiles (**CC0** â€” oriental roof tiles for ninja/samurai sidescroller, de Clint Bellanger)
-- https://opengameart.org/content/samurai-katana-set (**GPL 3.0 / GPL 2.0** â€” sheathed and unsheathed katana pixel art, de SCAydi)
+
 - https://opengameart.org/content/eastern-dragon-pup (**CC-BY 3.0 / OGA-BY 3.0** â€” eastern dragon pup for feudal samurai game, de Cougarmint)
 - https://opengameart.org/content/undead-samurai-2d-character-for-animation (**CC-BY 4.0** â€” undead samurai character for animation, de 2DPIXX)
 - https://opengameart.org/content/pixel-samurai-spritesheet (**CC-BY 4.0** â€” simple samurai animations idle/attack/block, de cyanglaz)
@@ -199,7 +199,7 @@ Assets da OpenGameArt.org com tema ninja, samurai, JapÃ£o / cultura japonesa. 
 - https://opengameart.org/content/low-poly-katana-0 (**CC0** â€” Low poly Katana (tbbk), katana, sword, weapon, japan)
 - https://opengameart.org/content/blue-katana-sword (**CC0** â€” Blue Katana Sword (PagDev), katana, sword, japan, low poly, blender)
 - https://opengameart.org/content/mini-ninja-1 (**CC-BY 3.0** â€” Mini Ninja 1 (TMPxyz), ninja, lowpoly, cartoon, fantasy)
-- https://opengameart.org/content/yumi-japanese-assymetric-bow (**CC-BY-SA 3.0 / GPL 2.0** â€” Yumi Japanese Bow (MikeeUSA), japan, bow, samurai)
+
 - https://opengameart.org/content/ninja-weapons-3d (**CC-BY 4.0** â€” Ninja Weapons 3D (leftshoe18), ninja, sword, staff, spear, weapon)
 - https://opengameart.org/content/nakagin-capsule-building (**CC0** â€” Nakagin Capsule Building Tokyo (weirdybeardyman), japan, building, skyscraper, futuristic)
 

@@ -1079,13 +1079,12 @@ Faixas e efeitos verificados, agrupados pelo tema de cada mapa de Hyakki.
 - https://opengameart.org/content/titan-powerplant (**CC BY 3.0** — tema sci-fi de titã, do Eric Matyas)
 - https://opengameart.org/content/titan-4 (**CC BY 4.0** — faixa "Titan 4", do Yubatake)
 - https://opengameart.org/content/the-nihilore-collection (**CC BY 3.0** — coleção épica/ambiente do Nihilore)
-- https://opengameart.org/content/orchestral-epic-fantasy-music (**CC BY-SA 3.0** / GPL 3.0 — orquestral de fantasia épica, do Zefz)
-- https://opengameart.org/content/final-epic-battle (**GPL 2.0** — batalha épica final, do Telaron)
+
 - https://opengameart.org/content/the-fall-of-arcana-epic-game-theme-music (**CC BY 3.0** — tema épico de queda de império, do Matthew Pablo)
 
 ### Guerra medieval, torneios e cercos
 
-- https://opengameart.org/content/orchestral-battle-music (**CC BY-SA 3.0** / GPL 3.0 — batalha orquestral, do Zefz)
+
 - https://opengameart.org/content/fast-fight-battle-music (**CC0** — combate rápido, do Ville Nousiainen)
 - https://opengameart.org/content/battle-music (**CC BY 3.0** — tema de batalha, do Alexandr Zhelanov)
 - https://opengameart.org/content/boss-battle-music (**CC0** — música de chefe, do SubspaceAudio)
@@ -1312,7 +1311,7 @@ Não há duplicatas com os assets 2D/3D já listados nas seções anteriores des
 
 | Asset | Autor | Licença | Qtd aproximada | Tipo | Formato | URL |
 |-------|-------|---------|----------------|------|---------|-----|
-| **3D Dungeon Tileset** | Skorpio | CC-BY-SA 3.0 / GPL 3.0 | tileset | Cenário 3D (masmorra/caverna) | .zip, .blend, .obj | <https://opengameart.org/content/3d-dungeon-tileset> |
+
 | **Sci-fi Light tank** | Danimal | CC-BY-SA 3.0 | 1 tanque | Veículo 3D (tanque sci-fi) | .blend | <https://opengameart.org/content/sci-fi-light-tank> |
 | **Space Nebulas Skybox** | NoLogoGames | CC-BY-SA 3.0 | 1 skybox | Skybox de nebulas espaciais | .png | <https://opengameart.org/content/space-nebulas-skybox> |
 

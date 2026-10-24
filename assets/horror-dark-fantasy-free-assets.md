@@ -17,6 +17,8 @@
 
 ## 1. itch.io — Packs de Horror / Dark Fantasy (CC0 / Gratuitos)
 
+> ⚠️ **Aviso de licença:** As entradas marcadas apenas como "Free" nesta seção **não tiveram a licença verificada na página oficial**. Conforme o AGENTS.md, "grátis" não significa "livre para uso comercial". Antes de usar qualquer uma dessas entradas em produção comercial, acesse o link do autor, confirme a licença (CC0, CC BY, CC BY-SA, OFL, MIT, Apache 2.0, Zlib ou Domínio Público com uso comercial explícito) e mova a entrada para `assets/pendentes.md` até a confirmação.
+
 ### 1.1 Música e Áudio
 | Pacote | Autor | Licença | Estilo | Link |
 |--------|-------|---------|--------|------|

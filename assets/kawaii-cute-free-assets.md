@@ -80,6 +80,8 @@
 ## 2. Sprites / Personagens / Tilesets — Kawaii / Cute / Chibi
 
 ### 2.1 itch.io (grátis, uso comercial)
+
+> ⚠️ **Aviso de licença:** As entradas marcadas apenas como "Free" nesta seção **não tiveram a licença verificada na página oficial**. Conforme o AGENTS.md, "grátis" não significa "livre para uso comercial". Antes de usar qualquer uma dessas entradas em produção comercial, acesse o link do autor, confirme a licença (CC0, CC BY, CC BY-SA, OFL, MIT, Apache 2.0, Zlib ou Domínio Público com uso comercial explícito) e mova a entrada para `assets/pendentes.md` até a confirmação.
 | Asset | Autor | Licença | Estilo | Link |
 |-------|-------|---------|--------|------|
 | **10 Free Japanese Treats Pixel Asset Pack** | Botfly | Free | Pixel 16x16 comida japonesa | <https://itch.io/game-assets/free/tag-kawaii> |

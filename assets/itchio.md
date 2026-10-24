@@ -1330,7 +1330,6 @@ Complementa o bloco **Estilo Stardew Valley** acima: lá o foco é o life sim co
 - https://rbatistadelima.itch.io/pico8-farm — página sem licença declarada
 - https://kale-game.itch.io/2d-pixel-art — uso comercial só com consentimento por Instagram
 - https://spectrecz.itch.io/farmer-sprite-with-animation, https://layau.itch.io/cozy-cat-farmer-character-sprite-pack-tileset, https://soulherder.itch.io/farm-animals-character-pack e https://108hvs.itch.io/animated-the-blossom-big-tree — páginas sem licença declarada
-- https://cecixp.itch.io/2d-farmer-sprites-leftright-18x18 — **CC BY-NC-SA 4.0**, uso comercial proibido
 - https://vertexcat.itch.io/farm-animals-set (**CC0**), https://quaternius.itch.io/lowpoly-farm-buildings e https://polyyai.itch.io/3d-scarecrows-pack — packs **3D**
 - o **Cozy Farm Lite** que aparece na OpenGameArt é o mesmo pack da aquumgifts já catalogado no bloco Stardew — não foi duplicado
 
@@ -1570,7 +1569,6 @@ Mapa de magia para o Hyakki: torre do mago, academia arcana, biblioteca proibida
 - https://comshadow.itch.io/magic-academy-pixel-tileset, https://comshadow.itch.io/wizards-tower-topdown-pixel-art-tileset, https://comshadow.itch.io/arcane-library-topdown-pixel-art-tileset e https://falvey.itch.io/arcane-academy-top-down-16x16-magic-school-library-tileset-37-pieces — **pagos**
 - https://sakpix.itch.io/magic-wizard-academy-top-down-pixel-art-tileset-300-assets (**US$ 13,28**, ainda por cima **assistido por IA**), https://pixelsonultra.itch.io/wizard-academy-tileset (**US$ 6,99**, IA), https://obssidian-art.itch.io/obssidian-arcane-dungeon-32x32 (**US$ 3,99**, IA), https://grajopx.itch.io/arcane-grasslands-and-forest-tileset-32x32 (**US$ 8,99**), https://lanternruins.itch.io/magic-academy-common-32 (**US$ 2,99**, IA), https://iguiw.itch.io/pixel-art-forest-tilemap-2d-medieval-rpg-survival-environment (**US$ 3,99**), https://godboyhappy.itch.io/arcane-library-pixel-tileset-pack (**US$ 1,00**, IA), https://ludicarts.itch.io/magic-forest-game-tileset (**US$ 10,00**), https://bubbabba.itch.io/wizard-tower-tileset (**US$ 4,95 a US$ 19,99**), https://pixeljamjar.itch.io/wizards-tower (**US$ 2,00**) e https://elthen.itch.io/2d-pixel-art-arcane-dungeons-tileset — todos pagos (o elthen ainda usa licença externa por faixas de preço)
 - https://venicemenacebakingco.itch.io/wizards-tower-interior-topdown-pack — a licença declarada é **CC0**, mas o pacote é **pago** (US$ 4,99) e usa **arte assistida por IA**
-- https://captainskolot.itch.io/magic-books-pixelart-pixel-art-sprite-grimoire-pack-for-rpg-fantasy — **CC BY-NC-SA 4.0**, uso comercial proibido
 - https://ansimuz.itch.io/gothicvania-magic-pack-9, https://bigwander.itch.io/the-art-of-scrolls, https://bigwander.itch.io/tiny-tomes, https://onocentaur.itch.io/potions, https://koalerina-arts.itch.io/free-cozy-witchcraft-32x32-pixel-art-asset-pack, https://nogitsunegurl.itch.io/free-elemental-spellcraft-pack, https://nogitsunegurl.itch.io/20-free-pixel-spells, https://jengibresion.itch.io/woods-tileset, https://alenia-studios.itch.io/star-magic, https://val-demar.itch.io/magic-forest, https://olegwer.itch.io/magic-forest e https://hoveaudio.itch.io/lightning-magic-sound-effects-pack-free-version — páginas **sem licença declarada**
 - https://free-game-assets.itch.io/free-wizard-sprite-sheets-pixel-art e https://free-game-assets.itch.io/free-icons-for-mine-location-pixel-art — a página não declara licença nem uso comercial
 - https://penzilla.itch.io/hexagon-magic-tileset e https://mutterpixel-studio.itch.io/magic-forest-ancient-ruins-mystic-flora — licença em EULA externa fora da página, que não é verificável
@@ -1921,7 +1919,6 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 
 - https://renrenbear.itch.io/cafe-staff-free (2 personagens gratuitos de equipe de café em estilo VN; uso pessoal e **comercial** liberado, **crédito obrigatório** a "Character assets by Angel (@roleangels)", proibida redistribuição avulsa)
 - https://pompack.itch.io/brown-haired-cafe-staff-character-sprite (NPC de atendente de café com 7 expressões; uso comercial liberado, proibida revenda/redistribuição)
-- https://cecixp.itch.io/bartenderbarista-icon-pack (**CC BY-ND 4.0** — 246 ícones de bebidas, 4 animações de gato bartender, 5 clientes gatos, mesa e cadeiras; crédito obrigatório e **sem direito a modificação**)
 - os personagens top-down do **Cozy Town** (abaixo) e os clientes das coleções de personagens já catalogadas (LimeZu, snowhex, Pop Shop) completam o salão
 
 ### Mapas, interiores e casas
@@ -1977,7 +1974,6 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 - https://summerpixl.itch.io/cozy-coffee-shop-free-directional-furniture-add-on — página sem licença declarada
 - https://mutterpixel-studio.itch.io/cozy-coffee-shop-pixel-art-assets — não publica o texto da licença (só um asterisco em "projetos comerciais")
 - https://winechan.itch.io/toon-barista — página sem licença declarada
-- https://yuukipudding.itch.io/bartender-sprite — **CC BY-NC-SA 3.0**, uso comercial proibido
 - https://fakehiking.itch.io/plants-and-more — página sem licença declarada
 - https://milkandbanana.itch.io/cooking-assets, https://vladqc.itch.io/restaurant-assets, https://kaylousberg.itch.io/restaurant-bits, https://cloudycreates.itch.io/cute-low-poly-caf-assets, https://vnbp.itch.io/cafe-set-vnb e https://yumeforge.itch.io/japanese-izakaya-low-poly-3d-asset-pack-free-sampler — packs **3D**
 
