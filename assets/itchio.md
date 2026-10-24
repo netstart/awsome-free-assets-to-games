@@ -293,6 +293,14 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pixiblop.itch.io/spear-goblin-animated-pixel-art-enemy-sprite-pack (Spear Goblin — Animated Pixel Art Enemy Pack | 4 Color Variants — pixiblop — **Licença custom comercial**: uso e modificação em jogos pessoais e comerciais)
 - https://vnparadise.itch.io/harvey-the-survivor (Harvey the Survivor! VN Character — Visual Novel Paradise — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, crédito obrigatório)
 - https://glooo89.itch.io/tiny-sprites-autumn (Tiny sprites autumn — glooo89 — **CC BY-SA 4.0** — Creative Commons Attribution-ShareAlike v4.0 International)
+- https://tengupixel.itch.io/humans-and-zombies-pack-1 (Humans and Zombies_pack_1 — TenguPixel — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
+- https://pixiblop.itch.io/little-demon-animated-pixel-art-enemy-sprite-pack (Little Demon — Animated Pixel Art Enemy Sprite Pack — pixiblop — **Licença custom comercial**: uso e modificação em projetos pessoais e comerciais, pode vender jogos finais, não redistribuir/revender)
+- https://elie-automata.itch.io/41-dark-fantasy-characters-flesh-faith-skill-art (41 Dark Fantasy Characters — Flesh & Faith + Skill Art — elie_automata — **Licença custom comercial**: uso comercial e não-comercial, modificação permitida, crédito obrigatório)
+- https://pixel-magic.itch.io/elf-fighter-female-2d-sprite (Elf Fighter Female 2D Sprite — Pixel Magic — **CC BY** — Creative Commons Attribution; uso comercial, crédito apreciado)
+- https://vegaboo.itch.io/robot-character (Robot Character — VEGA — **CC0** — Creative Commons Zero)
+- https://pixelechoes.itch.io/free-skeletons (Free Skeletons - Top down RPG Pixel art Enemy — Pixel Echoes — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito apreciado)
+- https://gabry-corti.itch.io/wolf (Night Wolf — Gabry Pixel — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado)
+- https://vnparadise.itch.io/derek-the-pe-teacher-vn-character (Derek The P.E. Teacher! VN Character — Visual Novel Paradise — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, crédito obrigatório)
 
 ---
 
