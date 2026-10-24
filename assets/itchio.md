@@ -458,6 +458,13 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol05 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.05 — miraeru — **Licença custom comercial**: crédito obrigatório)
 - https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol44 (Free Fantasy Enemy Monster Asset Pack Vol.44 — miraeru — **Licença custom comercial**: crédito obrigatório)
 - https://reinvogames.itch.io/anime-hero (Anime Hero — reinvogames — **Licença custom comercial**: Reinvo Games Royalty-Free Asset License)
+- https://nonemo.itch.io/character-creation-asset-pack (Free - Character Creation Asset Pack — nemo — **Licença custom comercial**: uso gratuito)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol49 (Free Fantasy Enemy Monster Asset Pack Vol.49 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://fnmnyd.itch.io/luna-warrior-sprite-sheet-skill-cinematic-idle-walk-more (Luna Warrior Sprite Sheet | Skill Cinematic + Idle + Walk + More — FNMNYD — **Licença custom comercial**: uso em jogos comerciais e não-comerciais, crédito não obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol42 (Free Fantasy Enemy Monster Asset Pack Vol.42 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://rgsdev.itch.io/free-2d-character-vector-flat-style-animations (Free 2D Character Vector Flat Style With Animations — RGS_Dev — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://picospace-industries.itch.io/animated-capsules (Animated Capsules — PicoSpace Industries — **CC0** — Creative Commons Zero)
+- https://r4v3nm1nd.itch.io/hand-drawn-characters (Hand-Drawn Characters — r4v3nm1nd — **CC0** — Creative Commons Zero)
 
 ---
 
