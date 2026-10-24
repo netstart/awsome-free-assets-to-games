@@ -315,6 +315,14 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://moanaprinz.itch.io/monster-taming-trainer-pixel-asset-pack (Monster Taming Trainer Pixel Asset Pack — MoanaPrinz — **Licença custom comercial**: uso comercial e livre, crédito opcional)
 - https://bytebox.itch.io/samurai-character (Samurai Character — ByteBox — **Licença custom comercial**: uso comercial e pessoal, adaptação permitida)
 - https://ashenthrone.itch.io/fishie-sprite (Fishie Sprite — AshenThrone — **Licença custom comercial**: uso comercial e gratuito, crédito obrigatório)
+- https://szyart.itch.io/exotic-prince-deiti-free-character-for-visual-novelsotomes (Exotic prince/ deity (free character for visual novels/otomes) — SzyArt - Sasha — **Licença custom comercial**: uso em jogos gratuitos e comerciais)
+- https://pandamaker-cjs.itch.io/rpg-characters-pandamakercjs-free-pack (RPG Female Characters – PANDAMAKERCJS – Free Pack — Pandamaker CJS — **Licença custom comercial**: uso gratuito e livre para projetos pessoais e comerciais)
+- https://nicktuti.itch.io/mini-odyssey-ncp-characters-pack1 (Mini Odyssey NPC Characters Pack1 — Nicktuti — **Licença custom comercial**: uso comercial e não-comercial, edição permitida, crédito obrigatório)
+- https://joycatdev.itch.io/2d-pixel-character-blobubu-the-monster-plush-8-animations-32x32-px-spritesheet (2D Pixel Character – Blobubu the Monster Plush — JoyCat Dev — **Licença custom comercial**: uso e modificação em jogos pessoais e comerciais, crédito apreciado)
+- https://bitkiln.itch.io/psx-sea-horror-monsters-free-sampler (PSX Sea Horror Monsters – Free Sampler — bitkiln — **Licença custom comercial**: uso comercial e pessoal, crédito apreciado, não revender/redistribuir)
+- https://fangondev.itch.io/soldier-weapon-pack-1 (Soldier - Weapon Pack 1 — FangonDev — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não redistribuir/revender)
+- https://maellemarylloup.itch.io/character-set-white (Character Set - WHITE — MaelleMarylloup — **Licença custom comercial**: uso comercial e pessoal, modificação permitida, não usar em IA, não redistribuir/revender)
+- https://arma-labs.itch.io/bushido-enemies (Bushido - Enemies v2.0 — ARMA labs — **CC License**: uso comercial e pessoal)
 
 ---
 
