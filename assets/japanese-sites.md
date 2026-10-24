@@ -611,10 +611,19 @@ https://dotown.maeda-design-room.net/
 
 https://hpgpixer.jp/
 
-- **Licença:** Gratuito + comercial permitido com crédito obrigatório (~10.000 ícones dot art)
-- **Conteúdo:** 20 categorias, 8.347 ícones 32×32 + 3.762 ícones 16×16 + 473 ícones 12×12; inclui GIFs animados
-- **Ferramentas:** Pixel Sketch (editor dot art), Pixel Art Converter, DotPixer, entre outros web tools
-- **Última atualização:** 23/10/2026
+- **Licença:** Freeware + comercial permitido com **atribuição obrigatória** (link para hpgpixer.jp no site/SNS do produto); doação opcional via OFUSE para comercial; proibida redistribuição/republicação sem permissão; ícones de dot art para uso como material (não como conteúdo principal).
+- **Conteúdo:** ~10.000 ícones dot art (8.347 ícones 32×32 + 3.762 ícones 16×16 + 473 ícones 12×12); inclui GIFs animados, ferramentas web (Pixel Sketch, Pixel Art Converter, Dot Block Builder, etc.)
+- **Uso comercial:** permitido, crédito obrigatório (link obrigatório)
+- **Termos verificados:** https://hpgpixer.jp/information/info_sozai_condition.html (lido em 24/10/2026)
+
+### DOT ILLUST — 日本 (ドットイラスト)
+
+https://dot-illust.net/
+
+- **Licença:** Gratuito + comercial permitido, sem crédito obrigatório, sem relatório necessário; proibida redistribuição/revenda; limitado a **30 itens por produção comercial** (acima disso é pago); proibido uso como material principal de produtos derivados; proibido NFT, LINE stamp, geradores, marca registrada.
+- **Conteúdo:** 5.000+ assets dot art (pixel art) em categorias (comida, animais, eventos, fantasia, mapas/tilesets, efeitos, etc.)
+- **Uso comercial:** permitido com limitação de 30 itens por produção
+- **Termos verificados:** https://dot-illust.net/terms/ (lido em 24/10/2026)
 
 ### cc0aki.booth.pm — Criador japonês dedicado a assets de jogo CC0
 
