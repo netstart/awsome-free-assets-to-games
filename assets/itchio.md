@@ -281,6 +281,12 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://chaoswitchnikol.itch.io/animal-characters (Animal Characters — ChaosWitchNikol — **CC BY 4.0** — Creative Commons Attribution v4.0 International)
 - https://thespriteshop.itch.io/cyberpunk-girl-character-dialogue-sprite (Cyberpunk Girl (Dialogue & Sprite) — TheSpriteShop — **Licença custom comercial**: uso pessoal ou comercial, com ou sem crédito, edição permitida)
 - https://two-orcs.itch.io/free-fantasy-characters-pack-1 (Free Fantasy Characters Pack #2 — Two Orcs — **Licença custom comercial**: uso comercial e não-comercial)
+- https://jobanni.itch.io/pixel-art-crusader (Pixel Art Crusader — Jobanni — **Licença custom comercial**: pode ser usado para vender jogos)
+- https://gabry-corti.itch.io/knighthero (Free Knight Hero — Gabry Pixel — **Licença custom comercial**: uso pessoal e comercial)
+- https://pidroudays.itch.io/theforestcharacterpack2 (The Forest Series - Character Pack 2 — PidrouDays — **Licença custom comercial**: uso pessoal e comercial, modificação permitida, crédito não obrigatório)
+- https://masuone.itch.io/magical-character-pack (Magical Character Pack — MasuOne — **Licença custom comercial**: uso em projetos comerciais)
+- https://ivoryred.itch.io/rpg-miniatures-the-archer (Rpg Miniatures : The Archer — IvoryRed — **CC0** — Creative Commons Zero)
+- https://coraxdigitalart.itch.io/200-free-realistic-goblin-hero-fantasy-character-portraits (200 Goblin Hero Fantasy Character Portraits — Corax Digital Art — **Licença custom comercial**: uso pessoal e comercial, modificação permitida, não redistribuir, crédito obrigatório)
 
 ---
 
