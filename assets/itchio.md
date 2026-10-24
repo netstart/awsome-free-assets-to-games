@@ -301,6 +301,16 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pixelechoes.itch.io/free-skeletons (Free Skeletons - Top down RPG Pixel art Enemy — Pixel Echoes — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito apreciado)
 - https://gabry-corti.itch.io/wolf (Night Wolf — Gabry Pixel — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado)
 - https://vnparadise.itch.io/derek-the-pe-teacher-vn-character (Derek The P.E. Teacher! VN Character — Visual Novel Paradise — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, crédito obrigatório)
+- https://fkgcluster.itch.io/green-field-character-free (Green Field + Character free 16px — FkgCluster — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, edição permitida)
+- https://warheaddnc.itch.io/385-fantasy-portraits (385 Free Fantasy portraits — WarheadDnC — **Licença custom comercial**: Free for Personal & Commercial Use, Royalty-Free Pack)
+- https://jkforge.itch.io/cultborn-vol2-undead (Cultborn: Volume 2 – Undead | 2D Characters for RPGs, Deck Builders, and more — JK Forge — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório para uso comercial)
+- https://cursedlake.itch.io/free-rabbit-cultist (FREE! Rabbit Cultist — CursedLake — **CC0** — Creative Commons Zero; crédito apreciado)
+- https://dssdiego.itch.io/simple-pixel-art-character (Simple Pixel Art Character — Diego Seabra — **Licença custom comercial**: uso comercial e não-comercial)
+- https://evildumpling.itch.io/pixel-art-water-character (Animated 2D pixel art - water character asset — EvilDumpling — **Licença custom comercial**: uso comercial e não-comercial, crédito não obrigatório)
+- https://pixel-1992.itch.io/pixel-art-4-character-classes-portraits (4 Character Classes Full Body Portraits — PIXEL_1992 — **Licença custom comercial**: uso comercial e edição, não revender)
+- https://sungraphica.itch.io/funny-character-pack-free-version (Funny character pack FREE version — SunGraphica — **CC BY** — Creative Commons Attribution; crédito obrigatório)
+- https://fabianb88.itch.io/golden-horizon-2d-fantasy-assets (HUGE Painted 2D+3D RPG Fantasy Asset Collection — FabianB88 — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://biggie-studios.itch.io/demonic-steampunk (Demonic Steampunk - Asset pack — Biggie Studios — **Licença custom comercial**: uso em qualquer tipo de projeto, não revender o pacote de arte)
 
 ---
 
