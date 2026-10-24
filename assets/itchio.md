@@ -411,6 +411,10 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://jfranci-px.itch.io/free-knight-character (Free Knight Player Character — jfranciPX — **Licença custom comercial**: uso em jogos/projetos comerciais, modificação permitida, não redistribuir/vender)
 - https://megumi-ryu.itch.io/mp3onelittle-halloween (mp3ONElittle halloween — 劉 恵 (Megumi Ryu) — **Licença custom comercial**: uso pessoal e comercial, crédito obrigatório)
 - https://ramblingindiegames.itch.io/retro-proto-box-character-starter (Retro Proto Box Character Starter Sprite Asset Pack — Rambling Indie Games — **CC0** — Creative Commons Zero)
+- https://shockpixels.itch.io/pixel-art-adventure-character-free (Pixel Art Adventure Character - Free — ShockPixels — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, créditos obrigatórios)
+- https://blueberry-assets.itch.io/cozy-creature-sprites (Cozy Creature Sprites — 5 Bodies, 13 Colour Variants — Blueberry Assets — **Licença custom comercial**: uso comercial permitido, não redistribuir/revender os sprites)
+- https://bobkingg.itch.io/hero-adventurer-sprite-pack (Hero Adventurer Sprite Pack — Animated Pixel Hero Character — bobkingg — **CC0** — Creative Commons Zero)
+- https://ssjin3.itch.io/golem-slime (GOLEM SLIME — ssjin3 — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
 
 ---
 
