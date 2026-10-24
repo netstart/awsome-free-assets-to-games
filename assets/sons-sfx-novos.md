@@ -210,10 +210,6 @@ Licença lida na página oficial de cada asset. Todos gratuitos, uso comercial p
   - 16 Mb — Sons foley: squishy, spittakes, leather rustling/hits, chest hits, slaps, pés shuffling/footsteps, wooden chair sliding, Glass hits, punho em garrafa de vidro
   - ZIP · Tags: foley, squishy, glass, wood chair, footsteps, slap, shuffling
 
-- OpenGameArt — Items, door, fire, weapon hits — https://opengameart.org/content/items-door-fire-weapon-hits — ⚠️ GPL 2.0 / GPL 3.0 (nota: possível problema de licenciamento histórico; verificar antes de uso comercial)
-  - 5.8 Mb — Sons baseados em DungeonHack; inclui: fogo, click, porta, queda, close, gate, gold, hit, ataque, destruição, kill, espada, weapon, splash, water, bag, campfire, monay, jiggle
-  - 7Z · Tags: fire, click, door, fall, close, gate, gold, hit, attack, destruction, kill, sword, weapon
-
 - OpenGameArt — Correct Bell — https://opengameart.org/content/correct-bell — ✅ CC0
   - 1 som de campainha/correto/acerto/congratulations — WAV 281.9 Kb · Tags: correct, right, bell, coin, congrats, good
 
