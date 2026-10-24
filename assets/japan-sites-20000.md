@@ -1,4 +1,4 @@
-# Assets Japão (.jp) — Pesquisa Massiva 20.000 assets
+﻿# Assets Japão (.jp) — Pesquisa Massiva 20.000 assets
 
 > **Data de compilação:** 2026-10-23  
 > **Domínio:** .jp (sites japoneses)  
@@ -423,3 +423,4 @@ Licença (lida: https://maou.audio/rule/): **CC BY 4.0** (comercial OK, modifica
 | **Total Japão** | **~1.157** | **.jp** | — |
 
 Critério aplicado a todos os registros (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial.
+
