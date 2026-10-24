@@ -176,6 +176,8 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://screensmith.itch.io/openmon-monster-sprites-set-7 (Openmon Monster Sprites Set 7 (Fakemon) — Screen Smith — **CC0**; alguns sprites gerados por IA)
 - https://screensmith.itch.io/pokemon-style-characters-townspeople (Pokemon Style Characters - Townspeople — Screen Smith — **CC0**; gerados por IA (Retro Diffusion))
 - https://vinrax.itch.io/psx-cop-character (PSX Cop Character — Vinrax — **Licença custom comercial**: uso livre em projetos, crédito obrigatório)
+- https://erisesra.itch.io/character-templates-pack (Character Templates Pack — ErisEsra() — **Licença custom comercial**: uso comercial e não comercial permitido; crédito apreciado mas não obrigatório; proibido revender/reempacotar o template com add-ons ou modificações. Grátis (name your own price).)
+- https://muchopixels.itch.io/character-animation-asset-pack (Character Animation Asset Pack — Mucho Pixels — **GameDev Market Pro Licence**: pode editar e usar em produtos comerciais; não redistribuir diretamente nem usar como logo/marca registrada. Grátis.)
 
 ---
 
