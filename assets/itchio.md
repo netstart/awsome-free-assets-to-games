@@ -453,6 +453,11 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://chinesedragoncn.itch.io/oriental-warrior-modular-character-asset-pack ([FREE] Oriental Warrior - Modular Character Pack (35+ Parts, Layered .PSD) — Chinese.Dragon — **Licença custom comercial**: uso em projetos não-comerciais e comerciais)
 - https://witchking433.itch.io/jack-of-blades-walking-animation (Jack of Blades – 32x32 Asset Pack +Sword of Aeons — WitchKing433 — **Licença custom comercial**: uso em qualquer projeto comercial/gratuito, não reupload/revenda/uso para treinamento de IA)
 - https://megumi-ryu.itch.io/strange-guy3 (strange guy3 — 劉 恵 (Megumi Ryu) — **Licença custom comercial**: uso pessoal e comercial, crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol30 (Free Fantasy Enemy Monster Asset Pack Vol.30 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://lotus-garden.itch.io/pixel-knight-animated-character (Free Pixel Knight Animated Character — lotus_garden — **Licença custom comercial**: uso pessoal e comercial, crédito não necessário)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol05 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.05 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol44 (Free Fantasy Enemy Monster Asset Pack Vol.44 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://reinvogames.itch.io/anime-hero (Anime Hero — reinvogames — **Licença custom comercial**: Reinvo Games Royalty-Free Asset License)
 
 ---
 
