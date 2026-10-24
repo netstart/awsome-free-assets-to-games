@@ -1,6 +1,6 @@
 # OpenGameArt.org — Áudio Detalhado (Música + SFX)
 
-> **Data de compilação:** 2026-10-23  
+> **Data de compilação:** 2026-10-24  
 > **Fonte:** https://opengameart.org/art-search-advanced  
 > **Critério (AGENTS.md):** gratuito + uso comercial permitido + licença livre/permissiva verificável na página oficial.  
 > **Contagem total (busca avançada, sem filtro de chave):**  
