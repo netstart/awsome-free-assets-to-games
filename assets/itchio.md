@@ -287,6 +287,12 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://masuone.itch.io/magical-character-pack (Magical Character Pack — MasuOne — **Licença custom comercial**: uso em projetos comerciais)
 - https://ivoryred.itch.io/rpg-miniatures-the-archer (Rpg Miniatures : The Archer — IvoryRed — **CC0** — Creative Commons Zero)
 - https://coraxdigitalart.itch.io/200-free-realistic-goblin-hero-fantasy-character-portraits (200 Goblin Hero Fantasy Character Portraits — Corax Digital Art — **Licença custom comercial**: uso pessoal e comercial, modificação permitida, não redistribuir, crédito obrigatório)
+- https://neeka.itch.io/rope-doll-game-sprite (Rope Doll Game Sprite — Neeka — **Licença custom comercial**: uso em projetos gratuitos e comerciais, crédito obrigatório)
+- https://vnparadise.itch.io/sonny-the-boxer-thigh-up-vn-character (Sonny The Boxer! Thigh up VN Character — Visual Novel Paradise — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, crédito obrigatório)
+- https://myriad-games.itch.io/elf-next-door (Elf Next Door — Myriad Games — **Licença custom comercial**: uso em projetos comerciais e privados, crédito não obrigatório)
+- https://pixiblop.itch.io/spear-goblin-animated-pixel-art-enemy-sprite-pack (Spear Goblin — Animated Pixel Art Enemy Pack | 4 Color Variants — pixiblop — **Licença custom comercial**: uso e modificação em jogos pessoais e comerciais)
+- https://vnparadise.itch.io/harvey-the-survivor (Harvey the Survivor! VN Character — Visual Novel Paradise — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, crédito obrigatório)
+- https://glooo89.itch.io/tiny-sprites-autumn (Tiny sprites autumn — glooo89 — **CC BY-SA 4.0** — Creative Commons Attribution-ShareAlike v4.0 International)
 
 ---
 
