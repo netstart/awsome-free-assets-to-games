@@ -375,6 +375,14 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://kibyra.itch.io/pixel-art-character-animated-sprite-pack (Free Pixel Art Character Animated Sprite Pack — Kibyra — **Licença custom comercial**: uso pessoal e comercial)
 - https://marcomyly.itch.io/dark-knight-free-3d-character-dark-sword-mid-poly (Dark Knight – Free 3D Character + Dark Longsword (Mid Poly) — Marco Brito — **Licença custom comercial**: uso gratuito no jogo, sem atribuição obrigatória)
 - https://two-orcs.itch.io/free-fantasy-characters-pack-5 (Free Fantasy Characters Pack #5 — Two Orcs — **Licença custom comercial**: uso em projetos não-comerciais e comerciais)
+- https://acgames89.itch.io/free-characters-assest (Free Characters Assets Pack 2 — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
+- https://axiworks.itch.io/ghost-hands (Ghost Hands — Axi — **CC BY-SA 4.0** — Creative Commons Attribution-ShareAlike v4.0 International; crédito obrigatório)
+- https://bender-blender.itch.io/stylized-witch (Stylized Witch – Rigged & Animated 3D Character — bender-blender — **Licença custom comercial**: crédito apreciado mas não obrigatório)
+- https://obssidian-art.itch.io/obssidian-adventurer-free-32x32-top-down-character (Obssidian Adventurer — FREE 32x32 Top-Down Character | Godot 4 — obssidian-art — **Licença custom comercial**: uso em projetos pessoais e comerciais, crédito opcional)
+- https://segnah.itch.io/sir-traverse (Sir Traverse - The Stickman Gentleman — Segnah — **Licença custom comercial**: uso em projetos comerciais, modificação permitida, não compartilhar livremente)
+- https://acgames89.itch.io/natalia-visual-novel-sprite-pack (Natalia Visual Novel Sprite Pack — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
+- https://pixiblop.itch.io/skeleton-monster-animated-pixel-art-enemy-pack-4-color-variants (Skeleton Monster — Animated Pixel Art Enemy Pack | 4 Color Variants — pixiblop — **Licença custom comercial**: uso pessoal e comercial, modificação permitida)
+- https://1camou.itch.io/dungeon-starter-blockimagine (Dungeon Starter – Free Blocky 3D Asset Pack (CC0) — 1CAMOU — **CC0** — Creative Commons Zero; uso comercial sem atribuição)
 
 ---
 
