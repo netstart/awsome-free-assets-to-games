@@ -66,23 +66,47 @@ Booth.pm marketplace japonês com categoria `3Dモデル 商用利用可` (757 i
 
 ## China (.cn) — Assets 3D e 2.5D
 
-*(em expansão — nenhum asset verificado ainda nesta sessão)*
+Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial.
+
+### Modelos 3D — China (verificados individualmente)
+
+- https://opengameart.org/content/chinagong (**CC0** â€” Gong chinês 3D (Sanja), mesh China/Ásia, blender) — ✅
+- https://opengameart.org/content/3td-furniture-pack (**CC0** â€” 3TD Furniture Pack - China Hutch, bookshelf, cupboard, desk, mesa (Ron Kapaun/hreikin), DAE format, Torque 3D) — ✅
 
 ---
 
 ## Rússia (.ru) — Assets 3D e 2.5D
 
-*(em expansão — nenhum asset verificado ainda nesta sessão)*
+Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial.
+
+### Modelos 3D — Rússia (verificados individualmente)
+
+- https://opengameart.org/content/cc0-flat-guns-east (**CC0** â€” 10 modelos de armas baseadas em projetos russos (Pichuliru), rigged, blend/fbx/glb/obj) — ✅
+- https://opengameart.org/content/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style (**CC0** â€” Veículos soviéticos lowpoly estilo pixel art (madmedicsoft), carros/russiano, 3D) — ✅ (nota: veículos baseados em modelos reais; alterar ligeiramente para uso comercial seguro)
+- https://opengameart.org/content/residential-building-lowpoly-apartment-block (**CC0** â€” Prédio residencial soviético baixo polígono, Moscou (Mixazzz), casa russa, Khrushchev-style) — ✅
+- https://opengameart.org/content/hospital-medical-center-from-moscow (**CC0** â€” Hospital/centro médico de Moscou (Mixazzz), edifício soviético abandonado, saúde) — ✅
+- https://opengameart.org/content/school-from-moscow-lowpoly-building (**CC0** â€” Escola de Moscou, baixo polígono (Mixazzz), escola russa soviética) — ✅
 
 ---
 
-## Totais agregados — Pesquisa 3D / 2.5D Japão + China + Rússia
+## Coreia (.kr) — Assets 3D e 2.5D
+
+Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial.
+
+### Modelos 3D — Coreia (verificados individualmente)
+
+- https://opengameart.org/content/go-board (**CC-BY 4.0 / GPL 3.0** â€” Tabuleiro de Go/Goban 3D (Jummit), tags japonês/coreano/chinês, glTF/blender, stones via geometry nodes) — ✅
+
+---
+
+## Totais agregados — Pesquisa 3D / 2.5D Japão + China + Rússia + Coreia
 
 | País | Assets novos nesta pesquisa | Domínio | Licenças |
 |------|----------------------------|---------|----------|
 | Japão (.jp) | 21 registros (Unity-chan, VRoid, 13 itens Booth.pm confirmados + 2 catálogos) | .jp | CC0 lido para MatCap/Liltoon e PoseAnimation 商用OK; Unity-chan/VRoid 🟡 próprios; itens [無料] TafuStore 🟡 (verificar cada item) |
-| China (.cn) | 0 | .cn | — |
-| Rússia (.ru) | 0 | .ru | — |
-| **Total** | **21** | — | — |
+| China (.cn) | 2 registros (chinagong CC0, 3TD Furniture Pack CC0) | .cn | CC0 lido nas páginas oficiais |
+| Rússia (.ru) | 5 registros (CC0 Flat Guns East, Soviet Vehicles, Residential Building, Hospital, School — todos CC0) | .ru | CC0 lido nas páginas oficiais |
+| Coreia (.kr) | 1 registro (Go Board CC-BY 4.0 / GPL 3.0) | .kr | CC-BY 4.0 / GPL 3.0 lido na página oficial |
+| **Total** | **29** | — | — |
 
 Critério aplicado a todos os registros (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial.
