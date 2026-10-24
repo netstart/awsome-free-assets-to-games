@@ -344,6 +344,16 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://masuone.itch.io/bikini-girls-sprite-pack (Bikini Girls Sprite Pack — MasuOne — **Licença custom comercial**: uso em projetos comerciais)
 - https://bitkiln.itch.io/psx-horror-monsters-free-sampler (PSX Horror Monsters Free Sampler – 2 Animated PS1 Style Enemies — bitkiln — **Licença custom comercial**: uso pessoal e comercial, crédito apreciado, não revender/redistribuir)
 - https://jjkittyy.itch.io/heroes-and-monsters-free-pack (Jadewood Characters · Heroes & Monsters FREE Sampler — jade <3 — **Licença custom comercial**: uso em projetos gratuitos e comerciais, edição permitida, não revender/reupload)
+- https://assetsmithy.itch.io/3-free-fantasy-characters-with-6-expressions-each-visual-novel-rpg-sprites-sa (3 Free Fantasy Characters with 6 Expressions Each - Visual Novel & RPG Sprites (Sampler) — AssetSmithy — **Licença custom comercial**: uso comercial e não-comercial, royalty-free perpétuo, crédito apreciado)
+- https://elie-automata.itch.io/45-dark-fantasy-characters-vampire-nobles-beasts-skill-art (45 Dark Fantasy Characters — Vampire Nobles & Beasts + Skill Art — elie_automata — **Licença custom comercial**: uso comercial e não-comercial, modificações permitidas, crédito obrigatório)
+- https://hormelz.itch.io/8-directional-girl-character (8 Directional Girl Character — Hormelz — **Licença custom comercial**: livre para uso da comunidade)
+- https://nacl1234.itch.io/modern-citizens-top-down-animated-characters (Modern Citizens - Top-Down Animated Characters — nacl1234 — **Licença custom comercial**: uso em jogos pessoais e comerciais, modificação livre, não revender/redistribuir)
+- https://drunk-wizard-games.itch.io/simple-pixel-character-and-weapon-pack (Simple Pixel Character and Weapon Pack — Drunk Wizard Games — **Licença custom comercial**: uso em projetos comerciais, modificação permitida, sem crédito necessário)
+- https://lucky-loops.itch.io/pixel-girl (-LowPoly Pixel Art- Pixel Girl — LuckyLoops — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://two-orcs.itch.io/free-fantasy-characters-pack-7 (Free Fantasy Characters Pack #7 — Two Orcs — **Licença custom comercial**: uso em projetos comerciais, edição permitida)
+- https://elie-automata.itch.io/dread-realms-vampire-court (Vampire Court - 24 Dark Fantasy Characters — elie_automata — **Licença custom comercial**: uso comercial e não-comercial, modificações permitidas, crédito obrigatório)
+- https://heyheythere.itch.io/psx-people-free (PSX People Free - Rigged Animated Characters Sampler — heyheythere — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://acgames89.itch.io/andres-visual-novel-sprite-pack (Andres Visual Novel Sprite Pack — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
 
 ---
 
