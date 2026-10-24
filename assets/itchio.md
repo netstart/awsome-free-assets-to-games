@@ -404,6 +404,13 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://gabry-corti.itch.io/assassin-bat (Assassin Bat — Gabry Pixel — **Licença custom comercial**: uso pessoal e comercial)
 - https://axolotl-jim.itch.io/birdy-character (Birdy Character — Axolotl Jim — **Licença custom comercial**: uso comercial e não-comercial)
 - https://eufasy.itch.io/chiyo-visual-novel-sprite (Chiyo - Magical girl Visual Novel Sprite — Eufasy — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://dead-pixelsz.itch.io/agent (Agent (Free) — Soul Coffee Games — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não repackage/redistribuir/revender)
+- https://acols.itch.io/shop-and-soldier (Droll's series. Third set "Shop and soldier" — Acol's — **Licença custom comercial**: uso em projetos gratuitos e comerciais, não redistribuir/revender)
+- https://mewki.itch.io/character-portrait-bubbles (Character Portrait • Bubbles — mewki — **Licença custom comercial**: uso em qualquer projeto comercial ou pessoal, crédito não necessário)
+- https://rancic.itch.io/yakuza-enemy (Yakuza Enemy — Rancic — **CC0** — Creative Commons Zero; uso comercial e modificação permitida, crédito não obrigatório)
+- https://jfranci-px.itch.io/free-knight-character (Free Knight Player Character — jfranciPX — **Licença custom comercial**: uso em jogos/projetos comerciais, modificação permitida, não redistribuir/vender)
+- https://megumi-ryu.itch.io/mp3onelittle-halloween (mp3ONElittle halloween — 劉 恵 (Megumi Ryu) — **Licença custom comercial**: uso pessoal e comercial, crédito obrigatório)
+- https://ramblingindiegames.itch.io/retro-proto-box-character-starter (Retro Proto Box Character Starter Sprite Asset Pack — Rambling Indie Games — **CC0** — Creative Commons Zero)
 
 ---
 
