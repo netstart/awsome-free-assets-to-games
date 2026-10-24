@@ -257,17 +257,17 @@ SFX kawaii/cute (itch.io):
 | SoundBible | SFX gratuitos | https://soundbible.com/free-sound-effects-1.html | Attribution 3.0 (CC BY) ✅ |
 | BigSoundBank | SFX | https://bigsoundbank.com/ | CC0 (domínio público) ✅ |
 | FreeSFX | SFX gratuitos | https://freesfx.co.uk/ | Royalty-free comercial, atribuição obrigatória ✅ |
-| TheMotionMonkey | SFX para jogos interativos | https://www.themotionmonkey.co.uk/ | Verificar licença |
+| TheMotionMonkey | SFX para jogos interativos | https://www.themotionmonkey.co.uk/ | CC0 (domínio público) ✅ |
 | 99Sounds | sons e efeitos gratuitos | https://99sounds.org/ | Royalty-free comercial ✅ |
 | SoundJay | SFX gratuitos | https://www.soundjay.com/ | Royalty-free comercial ✅ |
-| SoundDogs | SFX e música | https://sounddogs.com/ | Verificar licença |
+| SoundDogs | SFX e música | https://sounddogs.com/ | Site comercial (preços) — não gratuito |
 | SignatureSounds | SFX | http://signaturesounds.org/ | Verificar licença |
-| sfxr.me | gerador de som 8 bits online | https://sfxr.me/ | Gerar próprios sons |
-| Sonniss GameAudioGDC | SFX | https://sonniss.com/gameaudiogdc/ | Verificar licença |
+| sfxr.me | gerador de som 8 bits online | https://sfxr.me/ | UNLICENSE (domínio público) ✅ |
+| Sonniss GameAudioGDC | SFX bundles GDC | https://sonniss.com/gameaudiogdc/ | Unlimited User License, comercial ✅ |
 
 ---
 
-## 8. Pocket Sound (Japão) — ポケットサウンド
+## 9. Taira Komori (Japão) — 小森平
 
 **Licença:** 🟡 básico gratuito com crédito obrigatório; sem crédito = plano pago; comercial OK com crédito.  
 **Termos:** https://pocket-se.info/rules/  
