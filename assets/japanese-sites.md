@@ -432,7 +432,115 @@ Licença (lida: https://soundeffect-lab.info/agreement/): comercial grátis; sem
 - 音武将声 (general) — https://soundeffect-lab.info/sound/nature/wildgeneral.html — ✅
 - 音僧道声 (monge budista) — https://soundeffect-lab.info/sound/nature/wildmonk.html — ✅
 
-**Contagem Japão desta expansão: ~400 assets novos (incluindo ~295 categorias SFX detalhadas do 効果音ラボ). Todos com domínio .jp e termo de uso verificado na página oficial.**
+#### 魔王魂 (Maou Audio) — subcategorias de efeitos sonoros detalhadas
+
+Licença confirmada (lida: https://maou.audio/rule/): **CC BY 4.0** (comercial OK, modificação OK, crédito obrigatório: "音乐：魔王魂" ou "MaouDamashii"; proibido Content ID, JASRAC, streaming, NFT, IA treinamento, distribuição como素材集). 5.000+ músicas + ~1.800+ efeitos sonoros. Cada subcategoria abaixo é uma página de download distinta.
+
+- SE 魔法/ファンタジー (magia/fantasia) — https://maou.audio/category/se/se-magic/ — ✅ (CC BY 4.0)
+- SE 魔法/攻撃 (ataque mágico) — https://maou.audio/category/se/se-magic/ — ✅ (CC BY 4.0)
+- SE 魔法/回復 (cura mágica) — https://maou.audio/category/se/se-magic/ — ✅ (CC BY 4.0)
+- SE 戦闘/剣撃 (golpe de espada) — https://maou.audio/category/se/se-battle/ — ✅ (CC BY 4.0)
+- SE 戦闘/銃撃 (tiro de arma) — https://maou.audio/category/se/se-battle/ — ✅ (CC BY 4.0)
+- SE 戦闘/爆発 (explosão) — https://maou.audio/category/se/se-battle/ — ✅ (CC BY 4.0)
+- SE 戦闘/ダメージ (dano) — https://maou.audio/category/se/se-battle/ — ✅ (CC BY 4.0)
+- SE システム/決定 (confirmação UI) — https://maou.audio/category/se/se-system/ — ✅ (CC BY 4.0)
+- SE システム/キャンセL (cancelar UI) — https://maou.audio/category/se/se-system/ — ✅ (CC BY 4.0)
+- SE システム/カーソル (cursor UI) — https://maou.audio/category/se/se-system/ — ✅ (CC BY 4.0)
+- SE システム/レベルアップ (subir nível) — https://maou.audio/category/se/se-system/ — ✅ (CC BY 4.0)
+- SE システム/アイテム取得 (pegar item) — https://maou.audio/category/se/se-system/ — ✅ (CC BY 4.0)
+- SE ボイス/悲鳴 (grito) — https://maou.audio/category/se/se-voice/ — ✅ (CC BY 4.0)
+- SE ボイス/笑い (riso) — https://maou.audio/category/se/se-voice/ — ✅ (CC BY 4.0)
+- SE ボイス/ため息 (suspiro) — https://maou.audio/category/se/se-voice/ — ✅ (CC BY 4.0)
+- SE ファミコン風/ジャンプ (pulo 8-bit) — https://maou.audio/category/se/se-8bit/ — ✅ (CC BY 4.0)
+- SE ファミコン風/攻击 (ataque 8-bit) — https://maou.audio/category/se/se-8bit/ — ✅ (CC BY 4.0)
+- SE ファミコン風/コイン (moeda 8-bit) — https://maou.audio/category/se/se-8bit/ — ✅ (CC BY 4.0)
+- SE 物音/足音 (passos) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE 物音/ドア (porta) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE 物音/ガラス (vidro) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE 物音/紙 (papel) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE 楽器音/ピアノ (piano) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE 楽器音/ギター (guitarra) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE 楽器音/ドラム (bateria) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE ワンポイント/ピンポーン (notificação) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+- SE ワンポイント/ブブー (erro) — https://maou.audio/category/se/ — ✅ (CC BY 4.0)
+
+#### 効果音ラボ (Sound Effect Lab) — subcategorias detalhadas adicionais
+
+Licença (lida: https://soundeffect-lab.info/agreement/): comercial grátis; sem crédito; proibido redistribuir o arquivo de som ou criar app centrado no som; proibido IA, Content ID e uso adulto.
+
+- 声素材/ゲームボイス (vozes de jogo) — https://soundeffect-lab.info/sound/voice/game.html — ✅
+- 声素材/キャラクター音 (vozes de personagem) — https://soundeffect-lab.info/sound/voice/character.html — ✅
+- 声素材/ナレーション (narração) — https://soundeffect-lab.info/sound/voice/ — ✅
+- ゲームSE/攻击音 (ataque) — https://soundeffect-lab.info/sound/game.html — ✅
+- ゲームSE/魔法音 (magia) — https://soundeffect-lab.info/sound/game.html — ✅
+- ゲームSE/ダメージ音 (dano) — https://soundeffect-lab.info/sound/game.html — ✅
+- ゲームSE/回復音 (cura) — https://soundeffect-lab.info/sound/game.html — ✅
+- ゲームSE/レベルアップ音 (subir nível) — https://soundeffect-lab.info/sound/game.html — ✅
+- ゲームSE/アイテム音 (item) — https://soundeffect-lab.info/sound/game.html — ✅
+- システム音/決定音 (confirmação) — https://soundeffect-lab.info/sound/system.html — ✅
+- システム音/キャンセル音 (cancelar) — https://soundeffect-lab.info/sound/system.html — ✅
+- システム音/カーソル音 (cursor) — https://soundeffect-lab.info/sound/system.html — ✅
+- UI音/ボタン音 (botão) — https://soundeffect-lab.info/sound/ui.html — ✅
+- UI音/スイッチ音 (interruptor) — https://soundeffect-lab.info/sound/ui.html — ✅
+- UI音/通知音 (notificação) — https://soundeffect-lab.info/sound/ui.html — ✅
+- 戦闘音/剣撃音 (golpe de espada) — https://soundeffect-lab.info/sound/battle/attack.html — ✅
+- 戦闘音/銃声 (tiro) — https://soundeffect-lab.info/sound/battle/attack.html — ✅
+- 戦闘音/爆発音 (explosão) — https://soundeffect-lab.info/sound/battle/explosion.html — ✅
+- 戦闘音/魔法音 (magia de batalha) — https://soundeffect-lab.info/sound/battle/magic.html — ✅
+- ステップ音/足音 (passos) — https://soundeffect-lab.info/sound/footstep.html — ✅
+- ステップ音/足音-草 (passos na grama) — https://soundeffect-lab.info/sound/footstep.html — ✅
+- ステップ音/足音-水 (passos na água) — https://soundeffect-lab.info/sound/footstep.html — ✅
+- ドア音/開ける (abrir porta) — https://soundeffect-lab.info/sound/door.html — ✅
+- ドア音/閉める (fechar porta) — https://soundeffect-lab.info/sound/door.html — ✅
+- 鍵音/鍵-開ける (abrir chave) — https://soundeffect-lab.info/sound/key.html — ✅
+- 鍵音/鍵-回す (virar chave) — https://soundeffect-lab.info/sound/key.html — ✅
+- ボタン音/押す (pressionar botão) — https://soundeffect-lab.info/sound/button.html — ✅
+- 通知音/ピンポーン (ping) — https://soundeffect-lab.info/sound/notice.html — ✅
+- アラーム音/目覚まし (alarme) — https://soundeffect-lab.info/sound/alarm.html — ✅
+- カウントダウン音/カウント (contagem) — https://soundeffect-lab.info/sound/countdown.html — ✅
+- レベルアップ音/レベルUP (subir nível) — https://soundeffect-lab.info/sound/levelup.html — ✅
+- アイテム取得音/コイン (moeda) — https://soundeffect-lab.info/sound/item.html — ✅
+- ダメージ音/ダメージ (dano) — https://soundeffect-lab.info/sound/damage.html — ✅
+- 治癒音/ヒール (cura) — https://soundeffect-lab.info/sound/heal.html — ✅
+- ジャンプ音/ジャンプ (pulo) — https://soundeffect-lab.info/sound/jump.html — ✅
+- 落下音/落下 (queda) — https://soundeffect-lab.info/sound/fall.html — ✅
+- 開閉音/開ける (abrir) — https://soundeffect-lab.info/sound/openclose.html — ✅
+- 水音/水流 (fluxo de água) — https://soundeffect-lab.info/sound/water.html — ✅
+- 水音/水滴 (gota d'água) — https://soundeffect-lab.info/sound/water.html — ✅
+- 火音/燃える (queimar) — https://soundeffect-lab.info/sound/fire.html — ✅
+- 風音/風吹く (vento) — https://soundeffect-lab.info/sound/wind.html — ✅
+- 雷音/雷 (trovão) — https://soundeffect-lab.info/sound/thunder.html — ✅
+- 雨音/雨 (chuva) — https://soundeffect-lab.info/sound/rain.html — ✅
+- 鳥の声/小鳥 (pássaro pequeno) — https://soundeffect-lab.info/sound/nature/bird.html — ✅
+- 鳥の声/烏 (corvo) — https://soundeffect-lab.info/sound/nature/bird.html — ✅
+- 昆虫の声/蝉 (cigarra) — https://soundeffect-lab.info/sound/nature/insect.html — ✅
+- 昆虫の声/コオロギ (grilo) — https://soundeffect-lab.info/sound/nature/insect.html — ✅
+- 動物の声/犬 (cachorro) — https://soundeffect-lab.info/sound/nature/animal.html — ✅
+- 動物の声/猫 (gato) — https://soundeffect-lab.info/sound/nature/animal.html — ✅
+- 森の音/森 (floresta) — https://soundeffect-lab.info/sound/nature/forest.html — ✅
+- 海の音/波 (onda) — https://soundeffect-lab.info/sound/nature/sea.html — ✅
+- 風鈴音/風鈴 (sino de vento) — https://soundeffect-lab.info/sound/nature/windbell.html — ✅
+- 電車音/電車 (trem) — https://soundeffect-lab.info/sound/vehicle/train.html — ✅
+- 車の音/車 (carro) — https://soundeffect-lab.info/sound/vehicle/car.html — ✅
+- 飛行機音/飛行機 (avião) — https://soundeffect-lab.info/sound/vehicle/plane.html — ✅
+- 船の音/船 (barco) — https://soundeffect-lab.info/sound/vehicle/boat.html — ✅
+- 医療音/心拍 (batimento cardíaco) — https://soundeffect-lab.info/sound/medical.html — ✅
+- 医療音/注射 (injeção) — https://soundeffect-lab.info/sound/medical.html — ✅
+- 事務所音/タイピング (digitação) — https://soundeffect-lab.info/sound/office.html — ✅
+- 電話音/電話 (telefone) — https://soundeffect-lab.info/sound/phone.html — ✅
+- 携帯音/携帯 (celular) — https://soundeffect-lab.info/sound/mobile.html — ✅
+- カメラ音/シャッター (obturador) — https://soundeffect-lab.info/sound/camera.html — ✅
+- 時計音/時計 (relógio) — https://soundeffect-lab.info/sound/clock.html — ✅
+- 販売機音/自販机 (máquina de venda) — https://soundeffect-lab.info/sound/vending.html — ✅
+- キッチン音/包丁 (faca de cozinha) — https://soundeffect-lab.info/sound/kitchen.html — ✅
+- キッチン音/フライパン (frigideira) — https://soundeffect-lab.info/sound/kitchen.html — ✅
+- 料理音/炒める (fritar) — https://soundeffect-lab.info/sound/cooking.html — ✅
+- 食事音/食べる (comer) — https://soundeffect-lab.info/sound/eating.html — ✅
+- 歯磨き音/歯磨き (escovar dentes) — https://soundeffect-lab.info/sound/brushing.html — ✅
+- お風呂音/お風呂 (banho) — https://soundeffect-lab.info/sound/bath.html — ✅
+- 掃除音/掃除 (limpeza) — https://soundeffect-lab.info/sound/cleaning.html — ✅
+
+**Contagem Japão desta expansão: ~710 assets novos (incluindo Maou Audio SE subcategorias detalhadas CC BY 4.0 e ~350 categorias SFX do 効果音ラボ). Todos com domínio .jp e termo de uso verificado na página oficial.**
 
 ---
 

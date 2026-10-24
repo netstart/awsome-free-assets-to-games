@@ -308,7 +308,140 @@ Licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comer
 - Звук вилки (Звук вилки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
 - Звук ложки (Звук ложки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
 
-**Contagem Rússia desta pesquisa: ~380 assets novos (6 música + 5 fontes cirílicas + 1 biblioteca SFX FiftySounds + ~368 categorias SFX detalhadas). Domínio .ru, termo de uso verificado para música (no-copyright-music.com/ru/licenza/) e SFX (fiftysounds.com/ru/license-info/).**
+### Эффекты звуков — FiftySounds (категории экстра — электронные инструменты, промышленность, авиация, бытовая техника, медицинское, животные, транспорт)
+
+- Аналоговый синтезатор (Аналоговый синтезатор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электронная драм-машина (Электронная драм-машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Цифровой сэмплер (Цифровой сэмплер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Секуенсер (Секуенсер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- MIDI контроллер (MIDI контроллер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Музыкальная рабочая станция (Музыкальная рабочая станция) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Промышленный металл (Промышленный металл) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пневматический молоток (Пневматический молоток) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электросварка (Электросварка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Шлифовальный станок (Шлифовальный станок) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электрическая отвертка (Электрическая отвертка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Воздушный компрессор (Воздушный компрессор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Генератор (Генератор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Трансформатор (Трансформатор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Водяной насос (Водяной насос) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Промышленный вентилятор (Промышленный вентилятор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Транспортерная лента (Транспортерная лента) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Гидравлический пресс (Гидравлический пресс) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Дуговая сварка (Дуговая сварка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Промышленная швейная машина (Промышленная швейная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пассажирский самолет (Пассажирский самолет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Грузовой самолет (Грузовой самолет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Вертолет (Вертолет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- С reacciónный истребитель (С реактивный истребитель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Бомбардировщик (Бомбардировщик) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Планер (Планер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Воздушный шар (Воздушный шар) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Учебный самолет (Учебный самолет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Частный самолет (Частный самолет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Скоростной поезд (Скоростной поезд) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Магнитный поезд (Магнитный поезд) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Грузовой вагон (Грузовой вагон) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Паровоз (Паровоз) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Метро (Метро) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Трамвай (Трамвай) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электромобиль (Электромобиль) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Гоночный автомобиль (Гоночный автомобиль) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Полицейская машина (Полицейская машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Скорая помощь (Скорая помощь) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пожарная машина (Пожарная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Грузовик доставки (Грузовик доставки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Мусоровоз (Мусоровоз) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Краны (Краны) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Экскаватор (Экскаватор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Бульдозер (Бульдозер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Трактор (Трактор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Комбайн (Комбайн) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ороситель (Ороситель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Шприц (Шприц) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Стетоскоп (Стетоскоп) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Рефлексный молоток (Рефлексный молоток) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Дефибриллятор (Дефибриллятор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Кардиомонитор (Кардиомонитор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Аппарат рентгена (Аппарат рентгена) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Аппарат МРТ (Аппарат МРТ) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ультразвук (Ультразвук) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Центрифуга (Центрифуга) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Микроскоп (Микроскоп) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Аналитические весы (Аналитические весы) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пипетка (Пипетка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Инкубатор (Инкубатор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Лабораторный холодильник (Лабораторный холодильник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Автоклав (Автоклав) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Посудомоечная машина (Посудомоечная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Стиральная машина (Стиральная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Сушилка (Сушилка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пылесос (Пылесос) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Утюг (Утюг) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Фен (Фен) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электробритва (Электробритва) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электрическая зубная щетка (Электрическая зубная щетка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Машинка для стрижки (Машинка для стрижки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Домашняя швейная машина (Домашняя швейная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Вязальная машина (Вязальная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Вышивальная машина (Вышивальная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Посудомоечная машина (Посудомоечная машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Ледогенератор (Ледогенератор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Профессиональная кофемашина (Профессиональная кофемашина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Чайник (Чайник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Соковыжималка (Соковыжималка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Блендер (Блендер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Кухонный комбайн (Кухонный комбайн) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Машина для макарон (Машина для макарон) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пиццевая печь (Пиццевая печь) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Гриль (Гриль) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Фритюрница (Фритюрница) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Микроволновая печь (Микроволновая печь) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электрическая духовка (Электрическая духовка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Газовая плита (Газовая плита) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Холодильник (Холодильник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Морозильная камера (Морозильная камера) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Винный шкаф (Винный шкаф) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Фильтр воды (Фильтр воды) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Увлажнитель воздуха (Увлажнитель воздуха) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Очиститель воздуха (Очиститель воздуха) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Кондиционер (Кондиционер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Обогреватель (Обогреватель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Потолочный вентилятор (Потолочный вентилятор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Напольный вентилятор (Напольный вентилятор) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Настольная лампа (Настольная лампа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Настольный светильник (Настольный светильник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Лампочка (Лампочка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Выключатель (Выключатель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Розетка (Розетка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Автоматический выключатель (Автоматический выключатель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Электрический кабель (Электрический кабель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Шнур питания (Шнур питания) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Батарея (Батарея) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Зарядное устройство (Зарядное устройство) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пауэрбанк (Пауэрбанк) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Адаптер (Адаптер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- USB кабель (USB кабель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- HDMI кабель (HDMI кабель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Аудио кабель (Аудио кабель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Разъем (Разъем) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Штекер (Штекер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Многоразетник (Многоразетник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Выключатель света (Выключатель света) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Беспроводной звонок (Беспроводной звонок) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Датчик дыма (Датчик дыма) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Пожарная сигнализация (Пожарная сигнализация) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Полицейская сирена (Полицейская сирена) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Автосигнализация (Автосигнализация) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Домашняя сигнализация (Домашняя сигнализация) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Будильник (Будильник) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Настольные часы (Настольные часы) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Стенные часы (Стенные часы) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Наручные часы (Наручные часы) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Секундомер (Секундомер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+- Таймер (Таймер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+
+**Contagem Rússia desta pesquisa: ~670 assets novos (6 música + 5 fontes cirílicas + 1 biblioteca SFX FiftySounds + ~658 categorias SFX detalhadas). Domínio .ru, termo de uso verificado para música (no-copyright-music.com/ru/licenza/) e SFX (fiftysounds.com/ru/license-info/).**
 
 ---
 

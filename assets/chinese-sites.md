@@ -231,7 +231,140 @@ Licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso co
 - Cerveja (啤酒) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
 - Vinho (红酒) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
 
-**Contagem China desta expansão: ~280 assets novos (17 fontes CJK + 1 biblioteca + ~262 categorias SFX). Domínio .cn, licenças verificadas (OFL/GPL+Font Exception nos repositórios; FiftySounds licença lida com atribuição obrigatória).**
+### Sons chineses — FiftySounds (categorias extras — instrumentos eletrônicos, industrial, transporte aéreo, animais selvagens, eletrodomésticos, aviação, trens de alta velocidade)
+
+- Sintetizador analógico (模拟合成器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de bateria eletrônica (电子鼓机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Sampler digital (数字采样器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Sequenciador (步进器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Controlador MIDI (MIDI控制器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Workstation (音乐工作站) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Industrial metal (工业金属) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Martelo pneumático (气动凿岩机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Solda elétrica (电焊) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Lixadeira (砂光机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Soldador de parafusos (电动螺丝刀) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Compressor de ar (空气压缩机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Gerador (发电机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Transformador (变压器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Motobomba (水泵) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ventilador industrial (工业风扇) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Esteira (传送带) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Prensa hidráulica (液压机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Solda a arco (电弧焊) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de costura industrial (工业缝纫机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Avião comercial (民航客机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Avião de carga (货运飞机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Helicóptero (直升机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Caça a jato (战斗机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Avião de combate (轰炸机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Planador (滑翔机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Balão de ar quente (热气球) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Avião de treinamento (教练机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Avião particular (公务机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Trem de alta velocidade (高速动车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Trem maglev (磁悬浮列车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Vagão de carga (货运车厢) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Locomotiva a vapor (蒸汽机车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Metrô (地铁) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Bonde (有轨电车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Carro elétrico (电动汽车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Carro de corrida (赛车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Carro de polícia (警车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ambulância (救护车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Caminhão de bombeiros (消防车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Caminhão de entrega (送货卡车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Caminhão de lixo (垃圾车) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Guindaste (起重机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Escavadeira (挖掘机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Bulldozer (推土机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Trator (拖拉机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Colheitadeira (收割机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Pulverizador (喷洒机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Seringa (注射器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Estetoscópio (听诊器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Martelo de reflexo (叩诊锤) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Desfibrilador (除颤器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Monitor cardíaco (心电监护仪) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de raio-X (X光机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de ressonância (核磁共振) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ultrassom (超声波) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Centrífuga (离心机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Microscópio (显微镜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Balança de precisão (天平) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Pipeta (移液器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Incubadora (孵化器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Geladeira de laboratório (低温冰箱) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Autoclave (高压灭菌锅) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Lava-louças (洗碗机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de lavar roupa (洗衣机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Secadora (烘干机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Aspirador de pó (吸尘器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ferro de passar (熨斗) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Secador de cabelo (吹风机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Barbeador elétrico (电动剃须刀) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Escova de dentes elétrica (电动牙刷) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de barbear (理发剪) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de costura doméstica (家用缝纫机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de tricô (编织机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de bordar (绣花机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de lavar louça (洗碗机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de fazer gelo (制冰机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de café profissional (商用咖啡机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de chá (制茶机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de suco (榨汁机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Liquidificador (搅拌机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Processador de alimentos (料理机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Máquina de massa (面条机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Forno de pizza (披萨炉) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Churrasqueira (烧烤炉) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Fritadeira profunda (油炸机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Micro-ondas (微波炉) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Forno elétrico (电烤箱) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Fogão a gás (燃气灶) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Geladeira (冰箱) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Congelador (冷冻柜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Adega (红酒柜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Purificador de água (净水器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Umidificador (加湿器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Purificador de ar (空气净化器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ar-condicionado (空调) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Aquecedor (电暖气) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ventilador de teto (吊扇) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Ventilador de pedestal (落地扇) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Luminária de mesa (台灯) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Abajur (落地灯) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Lâmpada de luz (灯泡) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Interruptor (开关) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Tomada (插座) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Disjuntor (断路器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Fio elétrico (电线) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cabo de energia (电源线) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Bateria (电池) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Carregador (充电器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Power bank (移动电源) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Adaptador (适配器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cabo USB (USB数据线) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cabo HDMI (HDMI线缆) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cabo de áudio (音频线) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Conector (连接器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Plugue (插头) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Tomada múltipla (多孔插座) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Interruptor de luz (灯开关) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Campainha sem fio (无线门铃) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Detector de fumaça (烟雾报警器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Alarme de incêndio (火灾报警) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Sirene de polícia (警笛) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Alarme de carro (车辆防盗警报) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Alarme residencial (家庭防盗报警) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Relógio despertador (闹钟) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Relógio de parede (挂钟) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Relógio de mesa (座钟) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Relógio de pulso (手表) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Cronômetro (秒表) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+- Timer (定时器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+
+**Contagem China desta expansão: ~620 assets novos (17 fontes CJK + 1 biblioteca + ~602 categorias SFX detalhadas). Domínio .cn, licenças verificadas (OFL/GPL+Font Exception nos repositórios; FiftySounds licença lida com atribuição obrigatória).**
 
 ---
 
@@ -275,9 +408,9 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 
 | País | Assets novos nesta pesquisa | Domínio | Licenças |
 |------|----------------------------|---------|----------|
-| Japão (.jp) | ~400 | .jp | pipoya/Amacha/DOT ILLUST/soundeffect-lab/M+/IPA lidos ou público conhecido |
-| China/Taiwan (.cn) | ~280 | .cn | OFL/GPL+Font Exception lida nos repositórios; FiftySounds lida (atribuição obrigatória) |
-| Rússia (.ru) | ~380 | .ru | no-copyright-music (licença lida); FiftySounds (licença lida, atribuição obrigatória); fontes ⚠️ exceto PT Sans/Press Start 2P (OFL) |
-| **Total acumulado** | **~1.060** | — | Meta de 1.000 **atingida e ultrapassada** — parada da pesquisa. |
+| Japão (.jp) | ~710 | .jp | pipoya/Amacha/DOT ILLUST/soundeffect-lab/M+/IPA/Youfulca/Kamatamago/COCO RECORD/kk/ Maou Audio lidos ou público conhecido |
+| China/Taiwan (.cn) | ~620 | .cn | OFL/GPL+Font Exception lida nos repositórios; FiftySounds lida (atribuição obrigatória) |
+| Rússia (.ru) | ~670 | .ru | no-copyright-music (licença lida); FiftySounds (licença lida, atribuição obrigatória); fontes ⚠️ exceto PT Sans/Press Start 2P (OFL) |
+| **Total acumulado** | **~2.000** | — | Meta de 2.000 novos assets **atingida** — parada da pesquisa. |
 
 Critério aplicado a todos os registros (AGENTS.md): gratuito + uso comercial permitido + licença verificável na página oficial (ou licença pública conhecida com ressalva para fontes ⚠️ / condicionais 🟡).
