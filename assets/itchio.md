@@ -399,6 +399,11 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://hnnnnnnn.itch.io/village-npc-vol1-6-characters-8-dir-9696 (Village NPC Vol.1 — 6 Characters — hnnnnnnn — **Licença custom comercial**: uso comercial permitido, não revender/redistribuir arquivos brutos)
 - https://free-game-assets.itch.io/free-2d-pirate-sprites (Free 2D Pirate Sprites — Free Game Assets — **Licença custom comercial**: uso em vários projetos)
 - https://two-orcs.itch.io/free-fantasy-characters-pack-4 (Free Fantasy Characters Pack #4 — Two Orcs — **Licença custom comercial**: uso em projetos não-comerciais e comerciais)
+- https://greyfroggames.itch.io/skeleton (Skeleton — GreyFrogGames — **CC BY 4.0** — Creative Commons Attribution v4.0 International; uso comercial permitido, não revender/redistribuir)
+- https://riekahq.itch.io/vesna-fighter-lite (Vesna Fighter Lite - Free 64x64 Pixel Art Fighting Game Character — riekahq — **Licença custom comercial**: uso em jogos comerciais e pessoais, crédito apreciado)
+- https://gabry-corti.itch.io/assassin-bat (Assassin Bat — Gabry Pixel — **Licença custom comercial**: uso pessoal e comercial)
+- https://axolotl-jim.itch.io/birdy-character (Birdy Character — Axolotl Jim — **Licença custom comercial**: uso comercial e não-comercial)
+- https://eufasy.itch.io/chiyo-visual-novel-sprite (Chiyo - Magical girl Visual Novel Sprite — Eufasy — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
 
 ---
 
