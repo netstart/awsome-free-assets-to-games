@@ -415,6 +415,10 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://blueberry-assets.itch.io/cozy-creature-sprites (Cozy Creature Sprites — 5 Bodies, 13 Colour Variants — Blueberry Assets — **Licença custom comercial**: uso comercial permitido, não redistribuir/revender os sprites)
 - https://bobkingg.itch.io/hero-adventurer-sprite-pack (Hero Adventurer Sprite Pack — Animated Pixel Hero Character — bobkingg — **CC0** — Creative Commons Zero)
 - https://ssjin3.itch.io/golem-slime (GOLEM SLIME — ssjin3 — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
+- https://pixelartmaterial.itch.io/fr16-50-free-anime-fantasy (FR16 — 50 Free Anime Fantasy Face Graphics (PNG) — Pixel Material Studio — **Licença custom comercial**: uso comercial OK, crédito não obrigatório)
+- https://alstrainfinite.itch.io/cityfolks (City Folks - Low Poly Modular Characters — ALSTRA INFINITE — **FAL (Free Asset License)**: uso em projetos criativos e comerciais, não revender/redistribuir)
+- https://ssjin3.itch.io/gnomo-big-boss (Gnomo Big Boss — ssjin3 — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol38 (Free Fantasy Enemy Monster Asset Pack Vol.38 — miraeru — **Licença custom comercial**: crédito obrigatório)
 
 ---
 
