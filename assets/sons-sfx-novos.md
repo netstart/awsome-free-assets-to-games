@@ -332,6 +332,19 @@ Licença lida na página oficial de cada asset. Todos gratuitos, uso comercial p
 - https://kenney.nl/assets/impact-sounds — ✅ CC0
   - Sons de impacto diversos
 
+### 🌍 Global — Freesound.org (738.703+ sons, licenças CC0/CC BY verificáveis)
+
+Freesound.org é um repositório colaborativo global de sons com licenças Creative Commons verificáveis por arquivo.
+
+- https://freesound.org/ — ✅ (licenças por arquivo: CC0, CC BY, CC BY-SA, etc.)
+  - Total: 738.703 sons
+  - CC0 (domínio público, sem crédito): 384.409 sons
+  - CC BY (atribuição obrigatória): 259.846 sons
+  - Efeitos sonoros (Sound effects): 354.984 sons
+  - Filtro por licença: https://freesound.org/search/?license=cc0 (CC0) / https://freesound.org/search/?license=attribution (CC BY)
+  - Cada som tem sua página individual com licença exibida claramente
+  - Exemplo de sons game-relevantes: tags "game", "sfx", "explosion", "magic", "footstep", "ui", "button", etc.
+
 ---
 
 ## 📊 **Resumo da contagem de sons novos por categoria**

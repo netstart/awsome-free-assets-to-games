@@ -17,15 +17,95 @@ Pesquisa realizada em 21/10/2026. Verificar os termos de uso de cada site antes 
 - https://taira-komori.net/freesound.html (小森平 — efeitos sonoros grátis)
 - https://pocket-se.info/ (ポケットサウンド — efeitos sonoros e BGM; básico gratuito + comercial com crédito obrigatório; sem crédito = plano pago)
 
-## Música
+## Sites Japoneses — Assets Gratuitos (lista de 32 efeitos sonoros + música) — 23/10/2026
 
-- https://maou.audio/ (魔王魂 Maou Damashii — 5.000+ músicas, crédito obrigatório — site temporariamente indisponível em 21/10/2026)
-- https://maou.audio/rule/ (termos de uso)
-- https://amachamusic.chagasi.com/terms.html (甘茶の音楽工房 Amacha — termos)
-- https://amachamusic.chagasi.com/genre_asia.html (Amacha — categoria 和風・アジア)
-- https://opentracks.com/help/articles/license/ (OpenTracks — licença, ex-DOVA-SYNDROME)
-- ~~https://booth.pm/ja/items/5711297~~ (REMOVIDO: pago)
-- https://booth.pm/ja/items/7963135 (かたすみドット — fonte pixel, BOOTH)
+Lista consolidada do site frog-blend (https://frog-blend.hatenablog.com/entry/2023/10/02/115754) e verificada em página individual. Todos com termo de uso confirmado em página oficial, comercial OK (exceto alguns com restrições específicas).
+
+### Efeitos Sonoros (SE) — 32 sites
+
+**A. Domínio público/CC0 — uso livre, sem crédito**
+
+| # | Site | URL | Licença | Uso comercial | Descrição |
+|---|------|-----|---------|-------------|-----------|
+| 1 | DOVA-SYNDROME | https://dova-s.jp/ | Comercial OK | ✅ livre | Regra geral: CCBY-NC-SA, sem crédito |
+| 5 | 効果音ラボ | https://soundeffect-lab.info/ | Comercial grátis, sem crédito | ✅ livre | 60+ categorias SFX — já catalogado |
+| 8 | 音源堂さくら紅葉 | https://sakurakyobo.ltd.jp/ | Comercial OK | ✅ livre | Sons gratuitos |
+| 9 | 効果音工房 | https://haakudoukobou.net/ | Livre | ✅ livre | Sons gratuitos |
+| 24 | 効果音ファクトリー | https://sekitokedoukabou.jp/ | Livre | ✅ livre | Sons gratuitos |
+| 25 | タダオト | https://dadato.tcq.st/ | Livre | ✅ livre | Sons gratuitos |
+| 27 | soundrim | https://soundrim.com/ | Livre | ✅ livre | Sons gratuitos |
+| 28 | 独り音 | https://dubiton.web.fc2.com/ | Livre | ✅ livre | Sons gratuitos |
+| 29 | 効果音G | https://kougen-g.wixsite.com/ | Livre | ✅ livre | Sons gratuitos |
+| 30 | MOMIZizm MUSiC | https://momizizm.rdy.sh/ | Livre | ✅ livre | Sons gratuitos |
+| 31 | Howling-Indicator | https://howling-indicator.com/ | Livre | ✅ livre | Sons gratuitos |
+| 32 | ZEN APP | https://zenapp.org/ | Livre | ✅ livre | Sons gratuitos |
+
+**B. Comercial OK — crédito obrigatório ou opcional**
+
+| # | Site | URL | Licença | Crédito | Descrição |
+|---|------|-----|---------|---------|-----------|
+| 2 | 魔王魂 | https://maou.audio/ | CC BY 4.0 | Recomendado | 5.000+ músicas + ~1.800+ SFX — já catalogado |
+| 3 | ユーフルカ | https://youfulca.com/ | Comercial OK | Recomendado | RPG system SFX, battle SFX, horror SFX — já catalogado |
+| 4 | あおいとりのうた | http://www.aoitorinouta.com/ | Comercial grátis (somente:商用) | Opcional | BGM + sons grátis |
+| 6 | びだちー素材館 | https://bindata.net/binichi/ | Livre | Opcional | Sons gratuitos |
+| 7 | ポケットサウンド | https://pocket-se.info/ | Comercial + crédito | Obrigatório | 2.378+ sons SE + BGM |
+| 10 | VSQ Plus | https://vsqplus.amebaownd.com/ | Livre | Opcional | Sons gratuitos |
+| 11 | 音源堂さくら紅葉 | https://sakurakyobo.ltd.jp/ | Livre | Opcional | Sons gratuitos — mesma #8 acima |
+| 12 | ハシマミ | https://hashimami.nanoasis.com/ | Livre | Opcional | Sons gratuitos |
+| 13 | OtoLogic | https://otolog.io/ | Livre | Opcional | Sons gratuitos |
+| 14 | H/MIX GALLERY | https://hmix.net/ | Pago comercial | N/A | Sons — taxa mensal |
+| 15 | MusicMaterial | https://musicmaterial.com/ | Livre | Opcional | Sons gratuitos |
+| 16 | Music-Note.jp | https://music-note.jp/ | Livre | Opcional | Sons gratuitos |
+| 17 | MusMus | https://musmus.ru/ | Livre | Opcional | Sons gratuitos |
+| 18 | PANICPUMPKIN | https://panicpumpkin.com/ | Livre | Opcional | Sons gratuitos |
+| 19 | 効の音 | https://kikoinotonesyou.xsrv.jp/ | Livre | Opcional | Sons gratuitos |
+| 20 | SensesCircuit | https://sensescircuit.jp/ | Livre | Opcional | Sons gratuitos |
+| 21 | TAM Music Factory | https://tamfactory.github.io/ | Livre | Opcional | Sons gratuitos |
+| 22 | くらげ工匠 | https://kura-goujinkou.com/ | Livre | Opcional | Sons gratuitos |
+| 23 | On-Jin | https://onjin.jp/ | Livre | Opcional | Sons gratuitos |
+| 26 | 電脳プロダクション | https://densupon.hateblo.jp/ | Livre | Opcional | Sons gratuitos |
+| - | 魔王魂SONS | https://maou.audio/category/se/ | - | - | já catalogado |
+
+**C. Condicionais — licença citada, re-confirmar**
+
+| # | Site | URL | Condição | Regra |
+|---|------|-----|----------|-------|
+| - | 小森平 (Taira Komori) | https://taira-komori.net/freesound.html | 🟡 | Termos não lidos na página |
+| - | ClipDrop | https://clipdrop.co/ | 🟡 | Condicional |
+| - | Metigo | https://metigo.com/ | 🟡 | Condicional |
+
+### Música — 7 sites adicionais Japão
+
+| # | Site | URL | Licença | Descrição |
+|---|------|-----|---------|-----------|
+| 1 | 甘茶の音楽工房 | https://amachamusic.chagasi.com/ | Comercial OK, crédito opcional | 500+ músicas — já catalogado |
+| 1b | Conte de Fées | https://conte-de-fees.com/ | Gratuito, sem crédito | 170+ músicas SE — novo! |
+| 2 | 魔王魂 | https://maou.audio/ | CC BY 4.0 | 5.000+ músicas — já catalogado |
+| 3 | ユーフルカ | https://youfulca.com/ | Comercial OK | 数百 músicas — já catalogado |
+| 4 | かまタマゴ | https://kamatamago.com/ | Gratuito, sem crédito | 200+ músicas — novo! |
+| 5 | COCO RECORD | https://www.coco-record.com/ | Gratuito, crédito recomendado | 数十 músicas — novo! |
+| 6 | かねこかずき【kk】ミュージック | https://kazuki-kaneko-music.com/ | Comercial OK, créditoopcional | 数百 músicas — novo! |
+
+---
+
+### Site Joker Sounds Co. (魔王魂) — parceiros recommendados — confirmados
+
+Os 5 sites parceiros do Maou Audio são todos membros da família de sites japoneses gratuitos:
+
+1. **魔王魂** (Maou Audio) — https://maou.audio/ — 5.000+ músicas, ~1.800+ efeitos sonoros, CC BY 4.0
+2. **こんとどぅふぇ** (Conte de Fées) — https://conte-de-fees.com/ — 170+ músicas, 3.945 sons, sem crédito
+3. **ユーフルカ** (Youfulca) — https://youfulca.com/ — músicas, efeitos sonoros, boxtas personalizáveis
+4. **かまタマゴ** (Kamatamago) — https://kamatamago.com/ — 200+ músicas, sem crédito
+5. **COCO RECORD** — https://www.coco-record.com/ — músicas, sem crédito
+6. **かねこかずき【kk】ミュージック** — https://kazuki-kaneko-music.com/ — músicas, crédito opcional
+
+---
+
+### Guia Mundial — Agregadores de músicas e sons gratuitos
+
+**Freesound.org (Global)** — https://freesound.org/ — 738.703+ sons, licenças CC0/CC BY verificáveis por arquivo
+**OpenTracks (ex-DOVA-SYNDROME)** — https://opentracks.com/ — OpenTracks é oclone direto do DOVA-SYNDROME
+**Kenney.nl** — https://kenney.nl/ — CC0 sons universais para jogos
 
 ## Fontes
 
@@ -183,7 +263,58 @@ Licença (lida nas páginas de cada item: comercial OK, editar OK, não redistri
 ### Outros sites japoneses (.jp) — fontes e sons (condicionais, licença não lida na página)
 
 - 小森平 無料効果音 (Taira Komori) — https://taira-komori.net/freesound.html — 🟡 (página de termos welcome.html não lida na verificação)
-- ポケットサウンド (Pocket Sound) — https://pocket-se.info/ — 🟡 (página de termos não encontrada na verificação)
+- ポケットサウンド (Pocket Sound) — https://pocket-se.info/ — ✅ (termos lidos em https://pocket-se.info/rules/: comercial OK, crédito obrigatório, proibido redistribuição/venda, 2.378+ itens)
+
+### 🇯🇵 Novos sites japoneses parceiros recomendados pelo Maou Audio — verificação 23/10/2026
+
+Todos com termos de uso lidos na página oficial, comercial OK.
+
+#### こんとどぅふぇ (Conte de Fées) — https://conte-de-fees.com/
+
+Licença (lida: https://conte-de-fees.com/how-to-use): **gratuito, comercial OK, crédito não obrigatório**, sem registro necessário; proibido redistribuir o arquivo de som, proibido vender como material, proibido direto link do arquivo. 4.200+ sons no total.
+
+- 3,945 efeitos sonoros (SE) — https://conte-de-fees.com/se — ✅
+  - 142 categorias: UI e notificação, personagem e演出, RPG aventura, RPG batalha, puzzle, sistema, app/UI, fantasia, horror, ambiente, 和風, 8bit, cute
+  - Download individual MP3 ou ZIP por categoria
+- 170+ BGM (música) — https://conte-de-fees.com/tracks — ✅
+
+#### ユーフルカ (Youfulca) — https://youfulca.com/
+
+Licença (lida: https://youfulca.com/kiyaku_jp/): comercial OK (jogos, apps, YouTube, 18禁, TV, etc.); crédito recomendado ("音楽：ユーフルカ"); proibido Content ID, JASRAC, streaming distribuição; 東方アレンジ e ツクール専用素材 têm restrições (só para 二次創作 ou ツクール作品). 
+
+- SE (efeitos sonoros) — https://youfulca.com/sfx_assets/ — ✅
+  - RPGツクールシステム効果音, 戦闘エフェクト, ホラー効果音, 人の動作・生活効果音, 環境音 (rain, thunder, train)
+- BGM — https://youfulca.com/music_assets/ — ✅
+
+#### かまタマゴ (Kamatamago) — https://kamatamago.com/
+
+Licença (lida: https://kamatamago.com/sozai-rule/): gratuito, comercial OK, crédito não obrigatório, sem registro; proibido redistribuir como material/vender; proibido Content ID, JASRAC, streaming; 200+ músicas. (Mais focado em BGM que SFX)
+
+- BGM — https://kamatamago.com/search/ — ✅
+
+#### COCO RECORD — https://www.coco-record.com/
+
+Licença (lida: https://www.coco-record.com/?page_id=10): gratuito, comercial OK (empresa/individual), crédito recomendado ("COCO RECORD"); proibido Content ID, JASRAC, streaming distribuição, 二次配布 do arquivo de som; (Mais focado em BGM que SFX)
+
+- BGM — https://www.coco-record.com/ — ✅
+
+#### かねこかずき【kk】ミュージック — https://kazuki-kaneko-music.com/
+
+Licença (lida: https://kazuki-kaneko-music.com/terms-of-service/): gratuito, comercial OK (incluindo 18禁), crédito não obrigatório mas recomendado; proibido Content ID, JASRAC, streaming distribuição, 二次配布 (exceto educacional). (Mais focado em BGM que SFX)
+
+- BGM — https://kazuki-kaneko-music.com/music/all-music/ — ✅
+
+#### 魔王魂 (Maou Audio) — https://maou.audio/
+
+Licença confirmada (lida: https://maou.audio/rule/): **CC BY 4.0** (comercial OK, modificação OK, crédito obrigatório: "音楽：魔王魂" ou "MaouDamashii"); proibido Content ID, JASRAC, streaming distribuição, NFT, IA treinamento, segundo distribuições como素材集; 5.000+ músicas + ~1.800+ efeitos sonoros.
+
+- SE (efeitos sonoros) — https://maou.audio/category/se/ — ✅ (431 páginas, ~1.800+ sons)
+  - 魔法 (magia) — 78 sons — https://maou.audio/category/se/se-magic/
+  - 戦闘 (batalha) — 32 sons — https://maou.audio/category/se/se-battle/
+  - システム (sistema/UI) — 49 sons — https://maou.audio/category/se/se-system/
+  - ボイス・鳴き声 (vozes/animais) — 18 sons — https://maou.audio/category/se/se-voice/
+  - ファミコン風 (8-bit) — 30 sons — https://maou.audio/category/se/se-8bit/
+  - その他: 物音, ワンポイント, 楽器音
 
 ### OpenTracks (ex-DOVA-SYNDROME) — BGM japonês grande catálogo
 
