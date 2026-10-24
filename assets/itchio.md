@@ -273,6 +273,11 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://grigory-petrov.itch.io/wizard-character-pack-free-3d-model (Wizard Character Pack — Free 3D Model — Grigory_Petrov — **Royalty-free for games**; uso em jogos)
 - https://kinetic-kitsune.itch.io/animated-pixel-art-fox-character (Fox - 2D Animated Pixel Art Character — kinetic-kitsune — **Licença custom comercial**: uso comercial, modificação permitida, não redistribuir/revender)
 - https://alwore.itch.io/goblins-portraits (Goblins Portraits — Alwore — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
+- https://elie-automata.itch.io/dread-realms-knights-warriors (Knights & Warriors - 34 Dark Fantasy Characters — elie_automata — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
+- https://mothymeadows.itch.io/character-creator-plug-and-play (Character Creator plug and play — Mothy — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito necessário apenas para arte)
+- https://coraxdigitalart.itch.io/200-free-realistic-orc-hero-fantasy-character-portrait (200 Orc Hero Fantasy Character Portraits — Corax Digital Art — **Licença custom comercial**: uso pessoal e comercial, modificação permitida, não redistribuir, crédito obrigatório)
+- https://lyniadesign.itch.io/tiny-pixel-japan-female-character-pack (Tiny Pixel Japan Female Character Pack — LyniaDesign — **Licença custom comercial**: uso comercial e não-comercial, modificação permitida, não redistribuir/revender)
+- https://lucky-loops.itch.io/free-4-directions-prototype-character (FREE! 4 directions prototype character! — LuckyLoops — **CC BY 4.0** — Creative Commons Attribution v4.0 International)
 
 ---
 
