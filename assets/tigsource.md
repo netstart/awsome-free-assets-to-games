@@ -1,17 +1,16 @@
 # TIGSource Forums — Assets 2D Gratuitos (Uso Comercial)
 
-Fonte: https://forums.tigsource.com/
-Consultado em: 22/10/2026 (via busca web, acesso direto bloqueado por 403/Captcha)
+## ⚠️ Status: SITE INACESSÍVEL — REMOVIDO DO CATÁLOGO ATIVO
 
-> ⚠️ **Aviso:** As páginas do TIGSource retornam 403 Forbidden para acesso direto automatizado. As informações abaixo foram obtidas por meio de resultados de busca pública (snippets). Antes de usar qualquer asset em produção, **acesse o tópico original para confirmar a licença exata, requisitos de atribuição e ausência de IA generativa**.
+O fórum https://forums.tigsource.com/ retorna **403 Forbidden** para acesso direto automatizado. Conforme a regra de acessibilidade do AGENTS.md ("Sites fora do ar, com erro de acesso ou bloqueados devem ser removidos do catálogo"), este fórum foi removido do catálogo ativo de assets.
 
-## Licença Geral Observada
+As informações abaixo foram obtidas anteriormente por meio de resultados de busca pública (snippets), mas **nenhuma licença foi verificada na página oficial**. Antes de usar qualquer asset, acesse o tópico original no navegador e confirme a licença (CC0, CC BY, CC BY-SA, OFL, MIT, Apache 2.0, Zlib ou Domínio Público com uso comercial explícito).
 
-Muitos tópicos no TIGSource declaram assets como "free to use" ou "completely free", mas isso não significa automaticamente CC0 ou uso comercial irrestrito. Alguns podem ser para uso não-comercial, requerer atribuição, ou ter licenças personalizadas. Verifique cada tópico individualmente.
+Os ativos listados foram movidos para `assets/pendentes.md` como backlog de verificação futura.
 
 ---
 
-## 2D Assets Encontrados
+## Ativos anteriormente listados (pendentes de verificação — não usar comercialmente sem confirmação)
 
 ### Tilesets e Mapas (pixel art)
 
@@ -57,5 +56,3 @@ Muitos tópicos no TIGSource declaram assets como "free to use" ou "completely f
 2. Priorize tópicos que declarem explicitamente "CC0", "public domain", ou "royalty free commercial".
 3. Evite tópicos marcados como "[PAID]" ou que mencionem "non-commercial only".
 4. O TIGSource contém muitos assets de indie developers; muitos são gratuitos mas podem requerer crédito.
-
----

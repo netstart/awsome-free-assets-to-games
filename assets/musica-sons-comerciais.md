@@ -18,8 +18,8 @@ Não duplique entradas entre os arquivos: consulte o arquivo dedicado ao tipo de
 | Tipo | Qtd estimada | Fontes principais |
 |------|--------------|-------------------|
 | Música | ~27.000+ faixas | Pixabay (17.840+), FMA (milhares), Maou.audio (5.000+), itch.io packs (~2.000+), GitHub CC0 (milhares), Amacha, OpenTracks, no-copyright-music.com, OpenGameArt, Chosic, Bensound, Uppbeat, Soundza |
-| SFX | ~180.000+ sons | ZapSplat (160.000+), FilmCow (~10.000+), BigSoundBank (3.500+), FreeSFX (4.500+), Nox Sound Design (1.644 CC0), FiftySounds CN/RU (~500 categorias × N), Sound Effect Lab JP (~100 categorias × N), OpenGameArt, itch.io SFX packs (~2.000+), Freesound.org (738.702 colaborativos), Mixkit (~90 categorias), 99Sounds, SoundJay, SoundBible, Pocket Sound JP, Taira Komori JP |
-| **Total geral** | **~200.000+ itens** | — |
+| SFX | ~200.000+ sons | ZapSplat (160.000+), FilmCow (~10.000+), BigSoundBank (3.500+), FreeSFX (4.500+), Sonniss GDC (milhares em bundles GB), Nox Sound Design (1.644 CC0), FiftySounds CN/RU (~500 categorias × N), Sound Effect Lab JP (~100 categorias × N), OpenGameArt, itch.io SFX packs (~2.000+), Freesound.org (738.702 colaborativos), Mixkit (~90 categorias), The Motion Monkey (300+ CC0), 99Sounds, SoundJay, SoundBible, sfxr.me (gerador), Pocket Sound JP, Taira Komori JP |
+| **Total geral** | **~220.000+ itens** | — |
 
 ---
 

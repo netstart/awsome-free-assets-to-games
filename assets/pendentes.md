@@ -74,6 +74,57 @@ Ativos visíveis na primeira página do agregador. Antes de incluir em `assets/i
 | 35 | Free Platformer - Retro Lines - 16x16 Assets Tileset (CC0, Free) | https://v3x3d.itch.io/retro-lines | Tileset platformer | **Aprovado — CC0** (uso comercial, crédito apreciado, sem IA) — em `assets/itchio.md` |
 | 36 | Mechanized Magic: 2D Vector Cards Pack | https://dumivid.itch.io/mechanized-magic-2d-vector-fantasy-robot-cards-pack | Cartas 2D | **Aprovado — CC0** (uso comercial, modificar, redistribuir, sem atribuição, sem IA) |
 
+### Ativos movidos de sites inacessíveis / sem licença verificável
+
+Os ativos abaixo foram removidos dos arquivos de catálogo ativo (`assets/misc-domains.md`, `assets/tigsource.md`, `assets/gamedev-net.md`, `assets/soundcloud.md`) porque a licença não pôde ser verificada na página oficial e/ou o acesso ao site está bloqueado (403/400). Conforme o AGENTS.md, não entram no catálogo ativo até confirmação de uso comercial livre.
+
+| # | Ativo / Fonte | URL | Tipo | Status |
+|---|---------------|-----|------|--------|
+| T1 | TIGSource — Over 7,600 assets, completely free to use | https://forums.tigsource.com/index.php?topic=45058.0 | Coleção mista (2D/3D/sprites/audio) | Licença "A confirmar" — site 403 |
+| T2 | TIGSource — DawnLike - 16x16 Roguelike Tileset | https://forums.tigsource.com/index.php?topic=38615.0 | Tileset 16x16 roguelike | Licença não especificada — site 403 |
+| T3 | TIGSource — FREE RPG Pixel Art Assets Pack | https://forums.tigsource.com/index.php?topic=45906.0 | Pack RPG pixel art | "FREE" no título (não verificável) — site 403 |
+| T4 | TIGSource — Prototype 2D Game Map from SGA [FREE] | https://forums.tigsource.com/index.php?topic=68068.0 | Mapa 2D protótipo | "[FREE]" (não verificável) — site 403 |
+| T5 | TIGSource — Desktop Dungeons Tileset Sharing! | https://forums.tigsource.com/index.php?topic=11688.0 | Tileset | Licença não especificada — site 403 |
+| T6 | TIGSource — Tiny Dungeon tileset from Oryx Design Lab | https://forums.tigsource.com/index.php?topic=59757.0 | Tileset dungeon | Licença não especificada — site 403 |
+| T7 | TIGSource — Some very simple free 8x8 sprites | https://forums.tigsource.com/index.php?topic=30014.0 | Sprites 8x8 | "free" no título (não verificável) — site 403 |
+| T8 | TIGSource — Oryx 16-Bit Fantasy Sprite Set | https://forums.tigsource.com/index.php?topic=34987.0 | Sprites fantasy 16-bit | Licença não especificada — site 403 |
+| T9 | TIGSource — Free sprite animations from Pow studios! | https://forums.tigsource.com/index.php?topic=15051.0 | Animações de sprites | "free" no título (não verificável) — site 403 |
+| T10 | TIGSource — Oddball's small offerings [FINAL] | https://forums.tigsource.com/index.php?topic=8834.0 | Assets variados pequenos | "[FINAL]" (não verificável) — site 403 |
+| T11 | TIGSource — Huge Collection with 300+ Resources & Tools | https://forums.tigsource.com/index.php?topic=47570.0 | Coleção 300+ recursos | Licença não especificada — site 403 |
+| T12 | TIGSource — Free 3D Models / Game Assets | https://forums.tigsource.com/index.php?topic=47519.0 | Modelos 3D e assets | Licença não especificada — site 403 |
+| T13 | TIGSource — Creative commons pixel art | https://forums.tigsource.com/index.php?topic=14166.0 | Pixel art CC | "Creative commons" (tipo não especificado) — site 403 |
+| G1 | GameDev.net — Hi everyone! New here – sharing my free, handcrafted game UI kit | https://gamedev.net/forums/topic/720556/ | UI kit | "free" no título (não verificável) — site 403 |
+| G2 | GameDev.net — Cozy Farming UI Kit | https://gamedev.net/forums/topic/720088/ | UI kit 2D | Licença não especificada — site 403 |
+| G3 | GameDev.net — [Free sample] Crafting UI components | https://gamedev.net/forums/topic/720637/ | Amostra UI SVG/PNG | "Free sample" (não verificável) — site 403 |
+| G4 | GameDev.net — Domino Pack | https://gamedev.net/news/4852/ | Pack de dominó | Licença não especificada — site 403 |
+| G5 | GameDev.net — Bunker Exodus UI Kit | https://gamedev.net/projects/172/ | UI Kit | Licença não especificada — site 403 |
+| G6 | GameDev.net — UI Kit | https://gamedev.net/portfolios/1615/ | UI Kit | Licença não especificada — site 403 |
+| G7 | GameDev.net — UI Framework | https://gamedev.net/forums/topic/709375/ | Framework UI | Licença não especificada — site 403 |
+| S1 | SoundCloud — Nene - Another Boss Battle - CC0 by Teramon | https://soundcloud.com/user-34688309/nene-another-boss-battle-cc0 | Faixa chiptune | **CC0** (verificável pelo título) — site 403/400 |
+| S2 | SoundCloud — PeakMusic - Retro Chiptune - CC0 by Teramon | https://soundcloud.com/user-34688309/peakmusic-retro-chiptune-cc0 | Faixa chiptune | **CC0** (verificável pelo título) — site 403/400 |
+| S3 | SoundCloud — Dragonnor C64 - Royalty Free by FATAL EXIT | https://soundcloud.com/fatalexit/dragonnor-c64 | Chiptune C64 | "Royalty Free" (não verificável) — site 403/400 |
+| S4 | SoundCloud — Dark Dragon - Royalty Free CCA by FATAL EXIT | https://soundcloud.com/fatalexit/dark-dragon | Chiptune | "Royalty Free CCA" (não verificável) — site 403/400 |
+| M1 | misc-domains — incompetech.com | https://incompetech.com/ | Música royalty free | Licença própria não listada no AGENTS.md |
+| M2 | misc-domains — playonloop.com | https://www.playonloop.com/ | Músicas vídeo/jogo | Licença não verificável |
+| M3 | misc-domains — dig.ccmixter.org | http://dig.ccmixter.org/ | Música Creative Commons | Confirmar licença CC por faixa |
+| M4 | misc-domains — partnersinrhyme.com | https://www.partnersinrhyme.com/blog/ | Música livre de royalties, SFX | Não verificável |
+| M5 | misc-domains — indiegamemusic.com | https://www.indiegamemusic.com/ | Música devs indie | Não verificável |
+| M6 | misc-domains — tunetank.com | https://tunetank.com/ | Música YouTube | Não verificável |
+| M7 | misc-domains — fesliyanstudios.com | https://www.fesliyanstudios.com/ | Música de fundo | Não verificável |
+| M8 | misc-domains — sonniss.com/gameaudiogdc | https://sonniss.com/gameaudiogdc/ | SFX GameAudioGDC | Não verificável |
+| M9 | misc-domains — bigsoundbank.com | https://www.bigsoundbank.com/ | SFX | Não verificável |
+| M10 | misc-domains — freesfx.co.uk | https://www.freesfx.co.uk/ | SFX gratuitos | Não verificável |
+| M11 | misc-domains — themotionmonkey.co.uk | https://www.themotionmonkey.co.uk/ | SFX jogos interativos | Não verificável |
+| M12 | misc-domains — soundjay.com | http://soundjay.com/ | SFX gratuitos | Não verificável |
+| M13 | misc-domains — sounddogs.com | https://sounddogs.com/ | SFX e música | Não verificável |
+| M14 | misc-domains — signaturesounds.org | http://signaturesounds.org/ | SFX | Não verificável |
+| M15 | misc-domains — dafont.com | https://www.dafont.com/ | Fontes | Licenças mistas (muitas não comerciais) |
+| M16 | misc-domains — 1001fonts.com | https://www.1001fonts.com/ | Fontes | Licenças mistas |
+| M17 | misc-domains — fontstruct.com | https://fontstruct.com/ | Criar fonte | Licença varia por criação |
+| M18 | misc-domains — unsplash.com/fr | https://unsplash.com/fr | Imagens | Licença própria Unsplash (não CC0) |
+| M19 | misc-domains — pexels.com | https://www.pexels.com/ | Imagens | Licença própria Pexels (não CC0) |
+| M20 | misc-domains — vecteezy.com | https://www.vecteezy.com/ | Vetores | Licença própria (não CC0) |
+
 ### Observações
 
 - **Fab** e **Mixamo** estão na seção "Removidos (não verificáveis / bloqueados / pago)" de `assets/independent-sites.md` porque a licença não pôde ser verificada no acesso automático. Devem ser reavaliadas manualmente no navegador antes de qualquer uso comercial; só entram no catálogo após confirmação de uso comercial livre.

@@ -267,7 +267,7 @@ SFX kawaii/cute (itch.io):
 
 ---
 
-## 9. Taira Komori (Japão) — 小森平
+## 8. Pocket Sound (Japão) — ポケットサウンド
 
 **Licença:** 🟡 básico gratuito com crédito obrigatório; sem crédito = plano pago; comercial OK com crédito.  
 **Termos:** https://pocket-se.info/rules/  
@@ -284,6 +284,44 @@ Categorias BGM: easy listening, piano, eletronica, horror, music box, healing, b
 **Fonte:** https://taira-komori.net/freesound.html
 
 Categorias: daily, game, nature, anime, sports, knocking, magic, event, wetarea, sf, enviroment, putting, jidaigeki, electric, attack, transfer, pc, arms, car, cooking, horror, tokyo, eating, human, openclose, monster, french, animals, playing.
+
+---
+
+## 10. The Motion Monkey — Retro Arcade SFX (CC0)
+
+**Licença lida:** https://www.themotionmonkey.co.uk/free-resources/retro-arcade-sounds/ — **CC0 (domínio público)**, uso comercial permitido, sem obrigação de atribuição. ✅  
+**Fonte:** https://www.themotionmonkey.co.uk/free-resources/
+
+- **300+ efeitos sonoros** originais inspirados em jogos arcade de 16-bit dos anos 80/90
+- Formatos: 24-bit WAV, OGG, M4A
+- Categorias: Explosões, Armas, Impactos, Speech arcade ("Game Over", "Power Up", "Bonus"), Veículos, Miscelânea
+- Versão v1.0.5 (31/03/17) — sob CC0, requisito de atribuição removido
+
+---
+
+## 11. sfxr.me / jsfxr — Gerador 8-bit (UNLICENSE / Domínio Público)
+
+**Licença lida:** https://sfxr.me/ — **UNLICENSE** (domínio público), código fonte no GitHub sob UNLICENSE. ✅  
+**Fonte:** https://sfxr.me/
+
+- Gerador online de efeitos sonoros 8-bit
+- Gera sons ilimitados, exporta WAV
+- Uso comercial irrestrito, sem atribuição obrigatória
+- Waveforms: Square, Sawtooth, Sine, Noise
+
+---
+
+## 12. Sonniss GameAudioGDC — Bundles de SFX do GDC (Unlimited User License)
+
+**Licença lida:** https://sonniss.com/gdc-bundle-license/ — **Unlimited User License v2.0**, royalty-free, uso comercial sem atribuição, projetos ilimitados. ✅  
+**Fonte:** https://sonniss.com/gameaudiogdc/
+
+- Bundles gratuitos de SFX do Game Developers Conference
+- GDC 2024: 9 partes, 23.5 GB
+- GDC 2021-2023: 14 partes, 38.7 GB
+- GDC 2020: 14 partes, 48.2 GB
+- GDC 2015: primeiro bundle
+- Proibido: revender sons isolados, usar para treinamento de IA/ML
 
 ---
 

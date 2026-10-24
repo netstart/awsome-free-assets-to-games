@@ -1,9 +1,17 @@
 # SoundCloud — Música e SFX CC0 / Royalty Free para Jogos (Uso Comercial)
 
-Fonte: https://soundcloud.com/
-Consultado em: 22/10/2026 (via busca web, acesso direto bloqueado por 403/400)
+## ⚠️ Status: SITE INACESSÍVEL — PARCIALMENTE REMOVIDO DO CATÁLOGO ATIVO
 
-> ⚠️ **Aviso:** O SoundCloud bloqueia acesso direto automatizado. As informações abaixo foram obtidas por meio de resultados de busca pública (snippets). Antes de usar qualquer faixa em produção, **acesse a página do artista para confirmar a licença exata (CC0, CC BY, royalty free), requisitos de atribuição e ausência de IA generativa**.
+O site https://soundcloud.com/ bloqueia acesso direto automatizado (403/400). Conforme a regra de acessibilidade do AGENTS.md ("Sites fora do ar, com erro de acesso ou bloqueados devem ser removidos do catálogo"), este site foi removido do catálogo ativo de assets.
+
+As informações abaixo foram obtidas por meio de resultados de busca pública (snippets). **Apenas as 2 faixas marcadas CC0 (itens 2 e 3) têm licença declarada e verificável pelo título.** As demais faixas têm licença "A confirmar" e não devem ser usadas comercialmente sem verificação na página do artista.
+
+Os ativos pendentes foram movidos para `assets/pendentes.md` como backlog de verificação futura.
+
+Fonte: https://soundcloud.com/ (inacessível via acesso automático)
+Consultado em: 22/10/2026 (via busca web)
+
+> ⚠️ **Aviso:** As informações abaixo foram obtidas por meio de resultados de busca pública (snippets). Antes de usar qualquer faixa em produção, **acesse a página do artista para confirmar a licença exata (CC0, CC BY, royalty free), requisitos de atribuição e ausência de IA generativa**.
 
 ---
 

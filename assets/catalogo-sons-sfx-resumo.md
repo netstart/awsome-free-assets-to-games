@@ -23,6 +23,9 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença livre/permi
 | 99Sounds.org | `assets/99sounds-sfx.md` | Royalty-free comercial | 99 SFX + 50 cinematic + mais | Não obrigatória |
 | SoundJay.com | `assets/soundjay-sfx.md` | Royalty-free comercial | Várias categorias | Não obrigatória (apreciada) |
 | Mixkit | `assets/mixkit-sfx.md` | Mixkit Free License | ~90 categorias | Não obrigatória |
+| The Motion Monkey | `assets/motionmonkey-sfx.md` | CC0 (domínio público) | 300+ SFX retro arcade | Não obrigatória (apreciada) |
+| Sonniss GameAudioGDC | `assets/sonniss-sfx.md` | Unlimited User License v2.0 | milhares em bundles GB | Não obrigatória |
+| sfxr.me / jsfxr | `assets/sfxr-me.md` | UNLICENSE (domínio público) | gerador ilimitado 8-bit | Não obrigatória |
 | Pocket Sound (Japão) | `assets/japanese-sites.md` | Comercial + crédito | ~18 categorias SE | Obrigatória (plano grátis) |
 | Taira Komori (Japão) | `assets/japanese-sites.md` | Comercial (confirmar) | ~25 categorias | Confirmar |
 | sfxr.me | `assets/sfx-comercial.md` | Gerar próprios | Gerador 8-bit online | — |

@@ -1,13 +1,16 @@
 # GameDev.net — Assets 2D Gratuitos e Discussões (Uso Comercial)
 
-Fonte: https://gamedev.net/
-Consultado em: 22/10/2026 (via busca web, acesso direto bloqueado por 403)
+## ⚠️ Status: SITE INACESSÍVEL — REMOVIDO DO CATÁLOGO ATIVO
 
-> ⚠️ **Aviso:** As páginas do GameDev.net retornam 403 Forbidden para acesso direto automatizado. As informações abaixo foram obtidas por meio de resultados de busca pública (snippets). Antes de usar qualquer asset em produção, **acesse o tópico original para confirmar a licença exata, requisitos de atribuição e ausência de IA generativa**.
+O site https://gamedev.net/ retorna **403 Forbidden** para acesso direto automatizado. Conforme a regra de acessibilidade do AGENTS.md ("Sites fora do ar, com erro de acesso ou bloqueados devem ser removidos do catálogo"), este site foi removido do catálogo ativo de assets.
+
+As informações abaixo foram obtidas anteriormente por meio de resultados de busca pública (snippets), mas **nenhuma licença foi verificada na página oficial**. Antes de usar qualquer asset, acesse o tópico original no navegador e confirme a licença (CC0, CC BY, CC BY-SA, OFL, MIT, Apache 2.0, Zlib ou Domínio Público com uso comercial explícito).
+
+Os ativos listados foram movidos para `assets/pendentes.md` como backlog de verificação futura.
 
 ---
 
-## 2D Assets Encontrados nos Fóruns
+## Ativos anteriormente listados (pendentes de verificação — não usar comercialmente sem confirmação)
 
 ### UI Kits e Interfaces
 
@@ -21,9 +24,7 @@ Consultado em: 22/10/2026 (via busca web, acesso direto bloqueado por 403)
 | 6 | UI Kit | https://gamedev.net/portfolios/1615-ui-kit | UI Kit (portfólio) | Não especificada | A confirmar | A confirmar |
 | 7 | UI Framework | https://gamedev.net/forums/topic/709375-ui-framework/ | Framework de UI | Não especificada | A confirmar | A confirmar |
 
----
-
-## Artigos e Listas de Sites de Assets
+### Artigos e Listas de Sites de Assets
 
 | # | Título | URL | Conteúdo |
 |---|--------|-----|----------|
@@ -42,5 +43,3 @@ Consultado em: 22/10/2026 (via busca web, acesso direto bloqueado por 403)
 2. Priorize tópicos que declarem "royalty free", "free for commercial use", ou CC0/CC BY.
 3. Tenha cuidado com "Free sample" — pode ser apenas uma amostra limitada, não o pack completo.
 4. Os artigos de lista (itens 8 e 9) são bons pontos de partida para descobrir outros sites de assets.
-
----

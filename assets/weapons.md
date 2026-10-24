@@ -168,10 +168,9 @@ Botão "Download SVG" em cada item, ou use API: `https://openclipart.org/api/sea
 | **CC0 / Domínio Público** | ✅ | ❌ (opcional) | ✅ | ✅ |
 | **CC BY 3.0 / 4.0** | ✅ | ✅ Obrigatória | ✅ | ✅ |
 | **CC BY-SA 3.0 / 4.0** | ✅ | ✅ Obrigatória | ✅ | ✅ (mesma licença) |
-| **GPL 2.0 / 3.0** | ✅ | ✅ (código fonte) | ✅ | ✅ (mesma licença) |
 | **OGA-BY 3.0** | ✅ | ✅ Obrigatória | ✅ | ✅ |
 
-> **Atenção**: Assets marcados **GPL** (ex: Game set of weapons — SCaydi, Shuriken pixel art — Loel dual license) exigem que o projeto derivado também seja GPL se distribuído. Para jogos proprietários, prefira CC0 / CC BY.
+> **Nota:** GPL não está na lista de licenças permitidas do AGENTS.md (CC0, CC BY, CC BY-SA, OFL, MIT, Apache 2.0, Zlib, Domínio Público). Assets GPL exigem que o projeto derivado também seja GPL se distribuído — para jogos proprietários, prefira CC0 / CC BY.
 
 ---
 
