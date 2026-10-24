@@ -50,6 +50,14 @@ Referências: `assets/2d-massive-collections.md`, `assets/kenney-allin1.md`, `as
 | Doomcrypt Kit | butterhands | **CC0 1.0 Universal** | kit 1-bit de cripta | https://butterhands.itch.io/doomcrypt-kit | castlevania-gothic-2d.md |
 | Isometric Medieval Pack | Artyom Zagorskiy | **CC0 1.0 Universal** | casas (4 cores), moinhos, castelos 10 blocos + 4 torres | https://artyom-zagorskiy.itch.io/isometric-medieval-pack | assets-2d5.md |
 | Tiny Tactics - Battle Kit I | tiopalada | **CC0 1.0 Universal** | 200+ tiles terreno + doodads | https://tiopalada.itch.io/tiny-tactics-battle-kit-i | assets-2d5.md |
+| Tiny Swords | pixelfrog-assets | Royalty-free custom (uso comercial OK, sem IA) | pack RTS pixel art 64×64 com buildings, terrain tiles, UI e VFX (pack gratuito; Enemy Pack pago) | https://pixelfrog-assets.itch.io/tiny-swords | itchio.md |
+| MetroCity Free Top Down Character Pack | jik-a-4 | **CC0 1.0 Universal** | pack top-down cidade (personagens, tilesets urbanos) | https://jik-a-4.itch.io/metrocity-free-topdown-character-pack | itchio.md |
+| Kawaii Town | patchworkpx | (ver página) | cidade kawaii 16×16 | https://patchworkpx.itch.io/kawaii-town | itchio.md |
+| Smallburg Town Pack | almostapixel | (ver página) | pacote cidade calma e cute | https://almostapixel.itch.io/smallburg-town-pack | itchio.md |
+| Pixel Lands Interiors | trislin | Royalty-free custom (demo grátis; versão completa paga) | tileset interiores 16×16 para casas e lojas | https://trislin.itch.io/pixel-lands-interiors | itchio.md |
+| Medieval Village Megakit | quaternius | **CC0 1.0 Universal** | 300+ peças modulares de vila medieval (paredes, telhados, escadas) | https://quaternius.itch.io/medieval-village-megakit | itchio.md |
+| KayKit Medieval Hexagon | kaylousberg | **CC0 1.0 Universal** | 200+ tiles hexagonais medievais, buildings e props para RTS/vila | https://kaylousberg.itch.io/kaykit-medieval-hexagon | itchio.md |
+| Sunnyside World | danieldiggle | Uso comercial livre, modificação permitida (não revender/reempacotar, não IA) | pack completo farming/town builder 16×16: tileset edifícios/interiores/natureza, UI, cultivos | https://danieldiggle.itch.io/sunnyside | itchio.md |
 
 ### OpenGameArt.org (já catalogados em `assets/opengameart.md`)
 
@@ -185,6 +193,7 @@ Referências: `assets/2d-massive-collections.md`, `assets/kenney-allin1.md`, `as
 | Pixel UI Free (Godot) | (ver página) | tema madeira UI Godot | https://godotengine.org/asset-library/asset/5494 | itchio.md |
 | Complete UI Essential Pack | (ver página) | UI completa essencial | https://crusenho.itch.io/complete-ui-essential-pack | itchio.md |
 | Free Inventory Asset Pack | (ver página) | UI inventário | https://elvgames.itch.io/free-inventory-asset-pack | itchio.md |
+| Copperline Free Tower Defense UI | certainity | **MIT license** | UI kit TD, 116 PNG, engine-agnostic (torres, botões, painéis, HUD) | https://certainity.itch.io/copperline-free-tower-defense-ui | itchio.md |
 
 ---
 
