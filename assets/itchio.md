@@ -515,6 +515,23 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://assetsmithy.itch.io/3-free-medieval-characters-with-6-expressions-each-visual-novel-rpg-sprites (3 Free Medieval Characters with 6 Expressions Each - Visual Novel & RPG Sprites — AssetSmithy — **Licença custom comercial**: uso em jogos comerciais e não-comerciais, crédito não obrigatório)
 - https://maciaz.itch.io/medieval-knight-isometric (Animated Pixel art Medieval Knight Isometric — maciaz — **Licença custom comercial**: livre para uso em todos os projetos com crédito)
 - https://foozlecc.itch.io/purple-mage (Purple Mage — Foozle — **CC0** — Creative Commons Zero, livre para uso e modificação em todos os projetos incluindo comerciais)
+- https://mobilegamegraphics.itch.io/vector-game-kit (Free Vector Game Kit — Mobile Game Graphics — **Licença custom comercial**: uso gratuito)
+- https://iggnacio17.itch.io/voxel-monster-guardians-free (Voxel Monster Guardians - [FREE] — iggnacio17 — **Licença custom comercial**: uso gratuito)
+- https://stadnikova-ekaterina.itch.io/piggys-slavic-myths (PIGGY'S Slavic myths — littlePIGGY — **Licença custom comercial**: uso gratuito para comercial, crédito obrigatório)
+- https://jkllin.itch.io/mrj-melee-fighter (Mr.J — Melee Fighter Sprite Sheet Asset Pack — JKLLIN — **Licença custom comercial**: uso gratuito)
+- https://parkerallan.itch.io/beatrice-vrm-model (Beatrice the Golden Witch - VRM 3D Model — parkerallan — **Licença custom comercial**: uso gratuito)
+- https://pixel-hollow-studios.itch.io/forest-friends-freebie (🌱 Forest Friends Freebie – 48×48 Fantasy Pixel Art Character Sprites — Pixel Hollow Studios — **Licença custom comercial**: uso pessoal e comercial, crédito não obrigatório)
+- https://wonderweave.itch.io/the-ingredient-crew-16-bit-retro-curry-jam-rpg-pack (The Ingredient Crew: 16-Bit Retro Curry Jam RPG Pack — WonderWeave — **Licença custom comercial**: uso comercial, crédito não obrigatório)
+- https://nukueza.itch.io/sundalaya-character-template-16-x-16-pixel-base (Sundalaya Character Template – 16x16 Pixel Base — nukueza — **Licença custom comercial**: uso comercial, não revender/redistribuir)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol13 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.13 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://linxuelian.itch.io/charres-glb-ancientrome (VN Characters: Ancient Rome Anime Boys 700px — LinXueLian — **Licença custom comercial**: uso livre em jogos, web novels e vídeos)
+- https://verygo1.itch.io/pixel-rpg-character-asset-pack-003 (pixel-rpg-character-asset-pack-Iron-Knight1.1 — VeryGo1 — **Licença custom comercial**: uso pessoal e comercial)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-holy-beast-expansion-vol01 (Free Fantasy Monster Asset Pack: Holy Beast Expansion Vol.01 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://willibab.itch.io/free-sv-battlers (FREE SV BATTLERS GENERATOR — Willibab — **CC-BY** — Creative Commons Attribution, livre para uso comercial)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol19 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.19 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://pixelgearz.itch.io/pixel-art-platformer-character (Pixel Art Platformer Character — pixelgearz — **CC0 1.0 Universal license** — Creative Commons Zero)
+- https://rgsdev.itch.io/animated-voxel-character-for-3d-shooter-games-by-rgsdev (Animated Voxel Character — RGS_Dev — **Licença custom comercial**: uso comercial e não-comercial, não revender/redistribuir)
+- https://pzuh.itch.io/jack-o-lantern-free-sprites (Jack o' Lantern - Free Sprites — pzUH — **Licença custom comercial**: uso gratuito)
 
 ---
 
