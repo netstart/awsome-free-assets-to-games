@@ -486,6 +486,15 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://ariaflenz.itch.io/monsters-asset-pack (Monsters Asset Pack — Ariaflenz — **Licença custom comercial**: uso gratuito)
 - https://waywardmartian.itch.io/wayward-martian-graphics-a-lot-of-random-tall-sprites (A Lot of Random Tall Sprites — Wayward Martian Graphics — **Licença custom comercial**: uso gratuito)
 - https://justice-bole.itch.io/fps-character-controller (FPS Character Controller — justice-bole — **Licença custom comercial**: uso gratuito)
+- https://linxuelian.itch.io/charres-egl-avd-ouji-anglorococo (VN Character: AVD Anglo-Rococo Ouji 720px — LinXueLian — **Licença custom comercial**: uso livre em jogos, web novels e vídeos)
+- https://brysiaa.itch.io/white-dog-16x16px (White Dog - Pixel character [16x16px] — Brysia — **Licença custom comercial**: uso em projetos pessoais e comerciais)
+- https://wonderweave.itch.io/the-wobblers (The Wobblers: City Gang — 12 Living & Undead 16-Bit Map Sprites — WonderWeave — **Licença custom comercial**: uso comercial e não-comercial, royalty-free, não revender/redistribuir arquivos brutos)
+- https://dronnie.itch.io/cute-vampire-character (Sidescroller 64x64 cute Vampire character — Dronnie — **Licença custom comercial**: uso livre)
+- https://fadinfadin.itch.io/free-assets-tilemap-character-enemy (Free Assets - Tilemap / Character / Enemy — fadinfadin — **Licença custom comercial**: uso gratuito)
+- https://kujoblaze.itch.io/medieval-fantasy-pack-free-animated (MEDIEVAL FANTASY PACK - FREE (Animated) — KuJoBlaze — **Licença custom comercial**: uso gratuito)
+- https://pale-tale.itch.io/duck-animated-sprite (Duck 4-direction Animated sprite — Pale_Tale — **CC0** — Creative Commons Zero, livre para uso comercial ou pessoal)
+- https://byfernando.itch.io/ninja-character (Ninja Character — By Fernando — **Licença custom comercial**: uso gratuito)
+- https://scratchmasterj21.itch.io/tinyrobotssample (Tiny Robot Workshop — Helper Robot (Free Sampler) — scratchmasterj21 — **Licença custom comercial**: uso gratuito)
 
 ---
 
