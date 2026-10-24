@@ -249,6 +249,21 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://lht-hhh.itch.io/gizmo-pixel-art-monster (Gizmo Pixel Art - Monster pack — lhthhh — **Licença custom comercial**: uso comercial e gratuito, modificação permitida, não revender, crédito não obrigatório)
 - https://ludicarts.itch.io/free-platformer-character (Free Platformer - Character — ludicarts — **CC BY 3.0** — Creative Commons Attribution v3.0)
 - https://minzinn.itch.io/free-character-placeholder (Free Character Sprites — MinZinn — **CC BY 4.0** — Creative Commons Attribution v4.0 International; uso em qualquer projeto)
+- https://lizcheong.itch.io/pixel-art-final-boss (Pixel Final Boss Enemy (4 forms) — liz cheong — **Licença custom comercial**: uso pessoal ou comercial, crédito obrigatório)
+- https://slimelvl2.itch.io/pixelchars-01-freestarterpack (PixelChars 01 - Free Starter Pack — slimelvl2 — **Licença custom comercial**: commercial use permitido)
+- https://pixelgnome.itch.io/npc-pack (Pixel Gnome: NPC Pack — PixelGnome — **Licença custom comercial**: uso comercial e não-comercial, crédito não necessário mas apreciado)
+- https://finchl.itch.io/fantasy-rpg-portraits-pack-128x128 (Fantasy RPG Portraits Pack 128x128 — FinchL — **CC BY 4.0** — Creative Commons Attribution v4.0 International; uso livre com crédito)
+- https://onlymorozov.itch.io/honk-3-asets (Honk 3 Assets — onlymorozov — **MIT License** — uso livre)
+- https://happyfox123.itch.io/goblin-characters (RPG Maker MV Goblin characters — happyfox123 — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
+- https://captaincatsparrow.itch.io/60-free-character-portraits-with-modular-background (60+ Free Character Portraits With Modular Background — CaptainCatSparrow — **Licença custom comercial**: uso pessoal e comercial, não redistribuir)
+- https://sayf-b.itch.io/the-hero-a-zelda-esque-animated-game-ready-character (The Hero - an animated game-ready character — Sayf B — **Licença custom comercial**: pode ser usado de qualquer forma, crédito desnecessário)
+- https://abyssalhunter.itch.io/20-pixel-cute-animals (20 Animated Pixel Cute Animals — AbyssalHunter — **Licença custom comercial**: uso comercial e não-comercial, edição permitida)
+- https://auteddy.itch.io/8-directional-character-mixamo-dummy (8 Directional Character - Mixamo Dummy — AUTeddy — **CC BY 4.0** — Creative Commons Attribution v4.0 International; uso livre)
+- https://danger-goose.itch.io/old-man-likes-to-fish-asset-pack (Old Man Likes to Fish | Asset Pack — Danger Goose — **Licença custom comercial**: livre para qualquer uso, crédito apreciado)
+- https://btl-games.itch.io/tiny-pixel-people-asset-pack (Tiny Pixel People Asset Pack — BTL games — **Licença custom comercial**: completamente royalty free, para qualquer uso)
+- https://potat0master.itch.io/free-character-sprite-for-visual-novels-kioshi-haruo (Free Character Sprite for Visual Novels (Kioshi & Haruo) — Potat0Master — **Royalty-Free License**: uso pessoal e comercial, crédito não necessário)
+- https://micaellebritto.itch.io/skeleton-sprite (Skeleton - Top Down Sprite — Mica — **Licença custom comercial**: uso e modificação para projetos pessoais e comerciais, crédito não necessário)
+- https://eduardscarpato.itch.io/top-down-character (Top-Down Character Animations by Eduardo Scarpato — Eduardo Scarpato — **CC0** — livre para uso comercial e pessoal)
 
 ---
 
