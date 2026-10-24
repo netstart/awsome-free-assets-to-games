@@ -465,6 +465,15 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://rgsdev.itch.io/free-2d-character-vector-flat-style-animations (Free 2D Character Vector Flat Style With Animations — RGS_Dev — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
 - https://picospace-industries.itch.io/animated-capsules (Animated Capsules — PicoSpace Industries — **CC0** — Creative Commons Zero)
 - https://r4v3nm1nd.itch.io/hand-drawn-characters (Hand-Drawn Characters — r4v3nm1nd — **CC0** — Creative Commons Zero)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-holy-beast-expansion-vol02 (Free Fantasy Monster Asset Pack: Holy Beast Expansion Vol.02 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol67 (Free Fantasy Enemy Monster Asset Pack Vol.67 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol45 (Free Fantasy Enemy Monster Asset Pack Vol.45 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol46 (Free Fantasy Enemy Monster Asset Pack Vol.46 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://lost-soul-designs.itch.io/spooky-she-line (Spooky she Line — Lost Soul Designs — **Copyright-free** / domínio público)
+- https://leafletgames.itch.io/free-sprites-5 (Free Sprites 5 — LeafletGames — **CC0** — Creative Commons Zero)
+- https://chris-woods.itch.io/parrot-rig (Parrot Rig with Animation — Chris Woods — **CC BY 4.0** — Creative Commons Attribution v4.0 International)
+- https://gegx.itch.io/runner-zombies-painted (Free 5 Painted Running Zombies, 192 px, 4 Directions - RUNNER ZOMBIES — GegX — **Licença custom comercial**: uso em projetos comerciais e gratuitos, sem crédito necessário, não revender/redistribuir)
+- https://dumivid.itch.io/scavenge-legends-animated-characters (Scavenge Legends: Animated Heroes — Dumivid — **CC0 1.0 Universal License**)
 
 ---
 
