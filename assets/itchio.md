@@ -430,6 +430,10 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol22 (Free Fantasy Enemy Monster Asset Pack Vol.22 — miraeru — **Licença custom comercial**: crédito obrigatório)
 - https://storeboughtrocketgames.itch.io/mage-character (Mage Character — StoreBoughtRocketGames — **CC0** — Creative Commons Zero)
 - https://pixelcrypth.itch.io/shadow-doggo (Shadow dog — Cheezus — **Licença custom comercial**: uso comercial e não-comercial, crédito apreciado)
+- https://eclair-assets.itch.io/background-posed-humans-glb-pack-28-free-cc0-3d-models (Background Posed Humans GLB Pack - 28 Free CC0 3D Models — Eclair Assets — **CC0** — Creative Commons Zero)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol36 (Free Fantasy Enemy Monster Asset Pack Vol.36 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol7 (Free Fantasy Enemy Monster Asset Pack Vol.07 — miraeru — **Licença custom comercial**: crédito obrigatório, não usar em merchandise)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol29 (Free Fantasy Enemy Monster Asset Pack Vol.29 — miraeru — **Licença custom comercial**: crédito obrigatório)
 
 ---
 
