@@ -383,6 +383,8 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://acgames89.itch.io/natalia-visual-novel-sprite-pack (Natalia Visual Novel Sprite Pack — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
 - https://pixiblop.itch.io/skeleton-monster-animated-pixel-art-enemy-pack-4-color-variants (Skeleton Monster — Animated Pixel Art Enemy Pack | 4 Color Variants — pixiblop — **Licença custom comercial**: uso pessoal e comercial, modificação permitida)
 - https://1camou.itch.io/dungeon-starter-blockimagine (Dungeon Starter – Free Blocky 3D Asset Pack (CC0) — 1CAMOU — **CC0** — Creative Commons Zero; uso comercial sem atribuição)
+- https://immortal-burrito.itch.io/bird-potraits (Bird character portraits — Burrito — **Licença custom comercial**: uso comercial com crédito obrigatório)
+- https://darkknight17.itch.io/eee (Animation Dark Character — DarKKnight17 — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não repackage/redistribuir/revender)
 
 ---
 
