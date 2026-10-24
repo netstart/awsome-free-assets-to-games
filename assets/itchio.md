@@ -311,6 +311,10 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://sungraphica.itch.io/funny-character-pack-free-version (Funny character pack FREE version — SunGraphica — **CC BY** — Creative Commons Attribution; crédito obrigatório)
 - https://fabianb88.itch.io/golden-horizon-2d-fantasy-assets (HUGE Painted 2D+3D RPG Fantasy Asset Collection — FabianB88 — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
 - https://biggie-studios.itch.io/demonic-steampunk (Demonic Steampunk - Asset pack — Biggie Studios — **Licença custom comercial**: uso em qualquer tipo de projeto, não revender o pacote de arte)
+- https://lyniadesign.itch.io/tiny-pixel-japan-male-character-pack (Tiny Pixel Japan Male Character Pack — LyniaDesign — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, edição permitida, não revender/redistribuir)
+- https://moanaprinz.itch.io/monster-taming-trainer-pixel-asset-pack (Monster Taming Trainer Pixel Asset Pack — MoanaPrinz — **Licença custom comercial**: uso comercial e livre, crédito opcional)
+- https://bytebox.itch.io/samurai-character (Samurai Character — ByteBox — **Licença custom comercial**: uso comercial e pessoal, adaptação permitida)
+- https://ashenthrone.itch.io/fishie-sprite (Fishie Sprite — AshenThrone — **Licença custom comercial**: uso comercial e gratuito, crédito obrigatório)
 
 ---
 
