@@ -264,6 +264,15 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://potat0master.itch.io/free-character-sprite-for-visual-novels-kioshi-haruo (Free Character Sprite for Visual Novels (Kioshi & Haruo) — Potat0Master — **Royalty-Free License**: uso pessoal e comercial, crédito não necessário)
 - https://micaellebritto.itch.io/skeleton-sprite (Skeleton - Top Down Sprite — Mica — **Licença custom comercial**: uso e modificação para projetos pessoais e comerciais, crédito não necessário)
 - https://eduardscarpato.itch.io/top-down-character (Top-Down Character Animations by Eduardo Scarpato — Eduardo Scarpato — **CC0** — livre para uso comercial e pessoal)
+- https://ant-games.itch.io/free-girl-character (free girl character — ANT_games — **Licença custom comercial**: uso comercial e não-comercial, edição permitida)
+- https://fieraryan.itch.io/amber-character-sprite-pack (Amber Character Sprite Pack - A Runner's Spirit — FieraRyan — **CC0** — Public Domain CC0; atribuição apreciada mas não obrigatória)
+- https://aske4.itch.io/antihero-character (Antihero - Free Animated Pixel Art Character — Aske4 — **Licença custom comercial**: uso comercial e gratuito, modificação permitida, não redistribuir/revender)
+- https://raada.itch.io/cute-voxel-adventure (Cute Voxel Adventure — Raada — **Licença custom comercial**: uso comercial e pessoal)
+- https://galacticgod.itch.io/rpg-maker-npc-character-set-mad-scientist (RPG Maker NPC Character Set - Mad Scientist — GalacticGod — **Licença custom comercial**: uso comercial e não-comercial permitido)
+- https://psx-retro-assets.itch.io/psx-japanese-schoolgirl (PSX Japanese Schoolgirl — PSX Retro Assets — **CC0** — Creative Commons Zero)
+- https://grigory-petrov.itch.io/wizard-character-pack-free-3d-model (Wizard Character Pack — Free 3D Model — Grigory_Petrov — **Royalty-free for games**; uso em jogos)
+- https://kinetic-kitsune.itch.io/animated-pixel-art-fox-character (Fox - 2D Animated Pixel Art Character — kinetic-kitsune — **Licença custom comercial**: uso comercial, modificação permitida, não redistribuir/revender)
+- https://alwore.itch.io/goblins-portraits (Goblins Portraits — Alwore — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
 
 ---
 
