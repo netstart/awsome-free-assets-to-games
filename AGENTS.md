@@ -23,3 +23,13 @@ Sempre que encontrar novos assets gratuitos, eles devem ser adicionados nos arqu
 - Nunca duplique um asset que já esteja listado em outro arquivo.
 
 Não inclua assets pagos, de uso apenas pessoal, com licença restrita ou de origem não verificável.
+
+## Coerência, consistência e não duplicidade no catálogo de assets
+
+Todos os assets catalogados na pasta `assets/` devem ser registrados com:
+
+1. **Coerência:** o arquivo segue a mesma estrutura e formatação dos demais arquivos de domínio/tipo.
+2. **Consistência:** URLs corretas, licenças verificáveis na página oficial e uso comercial confirmado.
+3. **Não duplicidade:** nunca inclua um asset que já esteja listado em outro arquivo; verifique antes de adicionar.
+
+**Criação e divisão de arquivos é permitida:** criar um novo arquivo `.md` ou dividir um arquivo existente em vários arquivos menores é permitido, desde que respeitem coerência, consistência e não duplicidade acima, e não haja sobreposição de conteúdo entre arquivos.
