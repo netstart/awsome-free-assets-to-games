@@ -1,9 +1,9 @@
 # RPG estilo Diablo 2 — Top-down / isométrico: casas, prédios, blocos de mapa e minimaps
 
-> **Data de compilação:** 2026-10-23  
-> **Fonte:** catálogos existentes na pasta `assets/` deste repositório (kenney.nl, itch.io, OpenGameArt.org, CraftPix.net, Poly Haven, Reiner's Tilesets).  
+> **Data de compilação:** 2026-10-24  
+> **Fonte:** catálogos existentes na pasta `assets/` deste repositório (kenney.nl, itch.io, OpenGameArt.org, CraftPix.net).  
 > **Critério (AGENTS.md):** gratuito + uso comercial permitido + licença livre/permissiva (CC0, CC BY, CC BY-SA, OGA-BY, OFL, MIT, Apache 2.0, Zlib, Domínio Público ou equivalente).  
-> **Aviso:** web_search indisponível neste runtime (sem `DEEPSEEK_API_KEY`). As contagens abaixo referem-se a **coleções inteiras / catálogos de busca** hospedados em fontes públicas. A regra do `AGENTS.md` exige que a licença de **cada asset individual** seja verificada na página de origem antes de uso comercial. Trate os números como o universo de candidatos, não como ativos já liberados individualmente.
+> **Aviso de verificação:** web_search indisponível neste runtime (sem `DEEPSEEK_API_KEY`). As contagens abaixo referem-se a **coleções inteiras / catálogos de busca** hospedados em fontes públicas. A regra do `AGENTS.md` exige que a licença de **cada asset individual** seja verificada na página de origem antes de uso comercial. Trate os números como o universo de candidatos, não como ativos já liberados individualmente.
 
 ---
 
@@ -129,8 +129,6 @@ Referências: `assets/2d-massive-collections.md`, `assets/kenney-allin1.md`, `as
 | Desert Tileset | CC BY-SA 3.0 | tileset deserto | https://opengameart.org/content/desert-tileset | opengameart.md |
 | Free Desert Platformer Tileset | **CC0** | tileset deserto plataforma | https://opengameart.org/content/free-desert-platformer-tileset | opengameart.md |
 | Lava Tileset | **CC0** | tileset lava | https://opengameart.org/content/lava-tileset | opengameart.md |
-| Cave Tileset (vários) | **CC0** / CC BY 3.0 | tilesets caverna | https://opengameart.org/ | opengameart.md |
-| Temple Tiles (vários) | **CC0** / CC BY 3.0 | tilesets templo | https://opengameart.org/ | opengameart.md |
 | Roguelike Modern City Pack | **CC0** | cidade moderna tiles roguelike (Kenney) | https://opengameart.org/content/roguelike-modern-city-pack | opengameart.md |
 | Seamless Brick Textures | **CC0** | texturas tijolo sem emenda | https://opengameart.org/content/seamless-brick-textures | opengameart.md |
 | Wall Grass Rock Stone Wood and Dirt 480 | **CC0** | 480 texturas parede/grama/rocha/pedra/madeira/terra | https://opengameart.org/content/wall-grass-rock-stone-wood-and-dirt-480 | opengameart.md |
