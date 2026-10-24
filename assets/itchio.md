@@ -385,6 +385,11 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://1camou.itch.io/dungeon-starter-blockimagine (Dungeon Starter – Free Blocky 3D Asset Pack (CC0) — 1CAMOU — **CC0** — Creative Commons Zero; uso comercial sem atribuição)
 - https://immortal-burrito.itch.io/bird-potraits (Bird character portraits — Burrito — **Licença custom comercial**: uso comercial com crédito obrigatório)
 - https://darkknight17.itch.io/eee (Animation Dark Character — DarKKnight17 — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não repackage/redistribuir/revender)
+- https://quickmash.itch.io/fox-asset-pack (Fox Asset Pack — QuickMash — **Licença custom comercial**: uso em projetos comerciais e pessoais, atribuição não obrigatória)
+- https://stadnikova-ekaterina.itch.io/piggys-new-2022-year (PIGGY'S New 2022 Year — littlePIGGY — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
+- https://pngtubermaker.itch.io/free-ai-pngtuber-pack (Free AI PNGTuber Pack: 6 Characters (Idle, Talking, Blink) — PNGTuber Maker — **Licença custom comercial**: uso livre incluindo monetização, crédito não obrigatório)
+- https://piksel-to-pies.itch.io/asset-pack (asset-pack — SomeoneTakesPiksel — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+- https://laphkal.itch.io/pixel-fantasy-character-sprites-pack (Pixel Fantasy Character Sprites Pack — Laphkal — **Licença custom comercial**: crédito obrigatório, não redistribuir ou revender o pacote)
 
 ---
 
