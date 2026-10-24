@@ -532,6 +532,21 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://pixelgearz.itch.io/pixel-art-platformer-character (Pixel Art Platformer Character — pixelgearz — **CC0 1.0 Universal license** — Creative Commons Zero)
 - https://rgsdev.itch.io/animated-voxel-character-for-3d-shooter-games-by-rgsdev (Animated Voxel Character — RGS_Dev — **Licença custom comercial**: uso comercial e não-comercial, não revender/redistribuir)
 - https://pzuh.itch.io/jack-o-lantern-free-sprites (Jack o' Lantern - Free Sprites — pzUH — **Licença custom comercial**: uso gratuito)
+- https://miraeru.itch.io/free-fantasy-enemy-monster-asset-pack-boss-expansion-vol20 (Free Fantasy Enemy Monster Asset Pack: Boss Expansion Vol.20 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://dlou-saiyan.itch.io/anime-schoolgirl-sprite-sheet-basic (Anime Schoolgirl Sprite Sheet – BASIC — Dlou Saiyan — **Licença custom comercial**: uso comercial permitido, não redistribuir ou revender)
+- https://gegx.itch.io/fresh-zombies-walk (Free 5 Freshly Turned Zombies, 192 px, 4 Directions - FRESH ZOMBIES — GegX — **Licença custom comercial**: uso em projetos comerciais e gratuitos, sem crédito necessário, não revender/redistribuir)
+- https://csaf.itch.io/mourncrest-00-the-first-rung (Mourncrest 00: The First Rung — Free Undead Sprites [64x64] — CSAF — **Licença custom comercial**: uso em qualquer projeto pessoal ou comercial, sem atribuição necessária, não revender sprites como asset pack)
+- https://hsdsz.itch.io/bandit-swordsman-2d-animated-character-pack (Bandit Swordsman – 2D Animated Character Pack — hsdsz — **Licença custom comercial**: uso e modificação em jogos pessoais e comerciais, não revender/redistribuir)
+- https://lovelyassets.itch.io/371-elves-portrait-pack (🧝 Elf Portrait Pack — 371 Full-Body Characters — LovelyAssets — **Licença custom comercial**: uso autorizado para comercial)
+- https://free-game-assets.itch.io/free-npc-character-pack (Free NPC Character Pack — Free Game Assets — **Licença custom comercial**: uso gratuito)
+- https://forest-fiends-free-character-pack by ludicarts (Forest Fiends - Free Character Pack — ludicarts — **CC BY 4.0** — Creative Commons Attribution v4.0 International)
+- https://ejgarner118.itch.io/robot-characters-collection-pack (Lowpoly Robot Characters Asset Pack — ejgarner118 — **Licença custom comercial**: uso gratuito)
+- https://mhd0.itch.io/chibihero-cute-pastel-anime-character-rigged-animated (ChibiHero — Cute Pastel Anime Character (Rigged + Animated) — Mhd0 — **Licença custom comercial**: uso gratuito)
+- https://teamphoenix.itch.io/2d-medieval-modular-characters-pack (2d Medieval Modular Characters Pack — TeamPhoenix — **Licença custom comercial**: uso gratuito)
+- https://pixelyarn.itch.io/cute-anime-sprites-school-edition (Cute Anime Sprites-School Edition — Pixelyarn — **Licença custom comercial**: uso comercial, crédito obrigatório)
+- https://bayonsongames.itch.io/shanks-free-low-poly-character-asset (Shanks - Free 3D Low-poly Character Asset — BAYONSON.GAMES — **Licença custom comercial**: uso gratuito)
+- https://g4g-assets.itch.io/crypt-zombie-110-animations (Crypt Zombie with 110 Animations — G4G Assets — **Licença custom comercial**: uso em jogos comerciais, não revender/redistribuir como biblioteca de assets concorrente)
+- https://4filch.itch.io/silver-mage-full-body-pack-16-poses-anime-vn-style (Silver Mage Full Body Pack — 16 Poses | Anime VN Style — 4Filch — **Licença custom comercial**: uso gratuito)
 
 ---
 
