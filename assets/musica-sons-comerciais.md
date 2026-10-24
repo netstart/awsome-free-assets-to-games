@@ -62,13 +62,13 @@ Não duplique entradas entre os arquivos: consulte o arquivo dedicado ao tipo de
 | SoundBible | SFX gratuitos | Attribution 3.0 (CC BY) | Obrigatória |
 | BigSoundBank | SFX | CC0 (domínio público) | Recomendada (não obrigatória) |
 | FreeSFX | SFX gratuitos | Royalty-free comercial | Obrigatória (crédito) |
-| TheMotionMonkey | SFX jogos interativos | Verificar | Verificar |
+| TheMotionMonkey | SFX jogos interativos | CC0 (domínio público) | Não obrigatória |
 | 99Sounds | sons e efeitos gratuitos | Royalty-free comercial | Não obrigatória |
 | SoundJay | SFX gratuitos | Royalty-free comercial | Não obrigatória (apreciada) |
 | SoundDogs | SFX e música | Verificar | Verificar |
 | SignatureSounds | SFX | Verificar | Verificar |
-| sfxr.me | gerador 8 bits online | gerar próprios | — |
-| Sonniss GameAudioGDC | SFX | Verificar | Verificar |
+| sfxr.me | gerador 8 bits online | UNLICENSE (domínio público) | — |
+| Sonniss GameAudioGDC | SFX bundles GDC | Unlimited User License, comercial | Não obrigatória |
 | Pocket Sound (Japão) | ~18 categorias SE | Comercial | Obrigatória (plano grátis) |
 | Taira Komori (Japão) | ~25 categorias | Comercial | Confirmar |
 
