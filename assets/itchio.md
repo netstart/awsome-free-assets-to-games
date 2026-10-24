@@ -434,6 +434,15 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol36 (Free Fantasy Enemy Monster Asset Pack Vol.36 — miraeru — **Licença custom comercial**: crédito obrigatório)
 - https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol7 (Free Fantasy Enemy Monster Asset Pack Vol.07 — miraeru — **Licença custom comercial**: crédito obrigatório, não usar em merchandise)
 - https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol29 (Free Fantasy Enemy Monster Asset Pack Vol.29 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://gegx.itch.io/rogue-hero-128 (Free Pixel Art Rogue Sprite, 172 px, 8 Directions, 16 Animation Loops — GegX — **Licença custom comercial**: uso comercial permitido, sem crédito necessário, não revender os assets)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol35 (Free Fantasy Enemy Monster Asset Pack Vol.35 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol32 (Free Fantasy Enemy Monster Asset Pack Vol.32 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol40 (Free Fantasy Enemy Monster Asset Pack Vol.40 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol10 (Free Fantasy Enemy Monster Asset Pack Vol.10 — miraeru — **Licença custom comercial**: crédito obrigatório, não usar em merchandise)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol19 (Free Fantasy Enemy Monster Asset Pack Vol.19 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol41 (Free Fantasy Enemy Monster Asset Pack Vol.41 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol47 (Free Fantasy Enemy Monster Asset Pack Vol.47 — miraeru — **Licença custom comercial**: crédito obrigatório)
+- https://miraeru.itch.io/free-fantasy-monster-asset-pack-vol11 (Free Fantasy Enemy Monster Asset Pack Vol.11 — miraeru — **Licença custom comercial**: crédito obrigatório, não usar em merchandise)
 
 ---
 
