@@ -179,6 +179,24 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://erisesra.itch.io/character-templates-pack (Character Templates Pack — ErisEsra() — **Licença custom comercial**: uso comercial e não comercial permitido; crédito apreciado mas não obrigatório; proibido revender/reempacotar o template com add-ons ou modificações. Grátis (name your own price).)
 - https://muchopixels.itch.io/character-animation-asset-pack (Character Animation Asset Pack — Mucho Pixels — **GameDev Market Pro Licence**: pode editar e usar em produtos comerciais; não redistribuir diretamente nem usar como logo/marca registrada. Grátis.)
 
+### itch.io — Novos personagens (pesquisados em 23/10/2026, páginas 13-20 da tag Characters)
+
+- https://pixramen.itch.io/2d-action-platformer-sci-fi-vagabond (2d Action Platformer Sci-Fi Character - Vagabond — pixramen — **Licença custom comercial**: name your own price; uso em projetos comerciais permitido)
+- https://engvee.itch.io/free-2d-side-skeleton (FREE 2D Sideview Skeleton — Engvee — **Licença custom comercial**: name your own price; sprite pack para projetos comerciais e não-comerciais)
+- https://xyezawr.itch.io/pixel-art-rpg-character-pack-3 (Pixel Art RPG Character Pack #3 — XYEzawr — **Licença custom comercial**: name your own price; uso em projetos gratuitos e comerciais; gerado por IA)
+- https://mostlydecent.itch.io/8-frame-walk (8-frame pixel art walk cycle template — MostlyDecentGames — **CC0** — Creative Commons Zero v1.0 Universal)
+- https://escape-pixel.itch.io/shadow-series-hallokin (SHADOW Series - Hallokin - Animated Pixel Pumpkin Enemy — escape-pixel — **Licença custom comercial**: name your own price; uso em projetos comerciais)
+- https://lukyaforge.itch.io/free-modern-pack-space-station-biosphere (FREE: Space Station - Biosphere 0.5 — lukyaforge — **Licença custom comercial**: name your own price; projetos comerciais e não-comerciais)
+- https://aralepixel.itch.io/mech-robot-pixel-art (Mech Robot Pixel Art — Aralepixel — **Licença custom comercial**: name your own price; uso em projetos pessoais e comerciais)
+- https://elesrech.itch.io/slime-enemy-pixel-monsters-vol1 (Slime Enemy Pixel Monsters Vol.1 — elesrech — **Licença custom comercial**: name your own price; royalty-free, uso comercial permitido)
+- https://snoblin.itch.io/pixel-rpg-skeleton-free (Skeleton Character (Free) - Pixel RPG — Snoblin — **Licença custom comercial**: name your own price; uso em projetos comerciais e não-comerciais)
+- https://kiyoz.itch.io/fallen-order-enemy-1 (Fallen Order Enemy #1 [Severed Fang] — KiyoZ — **Licença custom comercial**: name your own price; uso em projetos gratuitos e comerciais)
+- https://butterymilk.itch.io/sugary-life (Sugary Life Character Sprite Creator — Butter Milk — **Licença custom comercial**: name your own price; sprites para projetos comerciais e não-comerciais)
+- https://coraxdigitalart.itch.io/500-fantasy-character-portraits-realistic-human-heroes (500 Human Hero Fantasy Character Portraits — Corax Digital Art — **Licença custom comercial**: name your own price; uso pessoal e comercial; gerado por IA)
+- https://sanctumpixel.itch.io/swordman-top-down-pixel-art-character-assets (Swordman - Top down Pixel Art Character Assets — sanctumpixel — **Licença custom comercial**: name your own price; uso no jogo e venda do jogo permitido)
+- https://rznn7.itch.io/low-poly-spider-bot (Low-poly Spider Bot (Rigged) — rznn7 — **CC BY** — Creative Commons Attribution v4.0 International)
+- https://withinamnesia.itch.io/vitruvian-project-cc0 (Vitruvian Project C.C.0 — WithinAmnesia — **CC0** — Creative Commons Zero v1.0 Universal)
+
 ---
 
 ## itch.io — Mapas, tilesets e cenários
