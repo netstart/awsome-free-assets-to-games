@@ -13,28 +13,51 @@ Catálogo de assets de itens que ficam dentro de uma cozinha: panela, copo, garf
 Fonte verificada: FiftySounds (fiftysounds.com/ru) — licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comercial permitido (incluindo videogames), **atribuição obrigatória** (link para o site na descrição), proibido revenda/sublicença, proibido criar serviço concorrente. Cada categoria abaixo = 1 asset de som.
 
 - Chuveiro (Душ) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de chuveiro/água)
+PALAVRAS-CHAVE: som, chuveiro, água, banheiro, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cozinha (Кухня) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (sons de cozinha)
+PALAVRAS-CHAVE: som, cozinha, culinária, preparo, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cozinha detalhada (Кухня детальная) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (sons detalhados de cozinha)
+PALAVRAS-CHAVE: som, cozinha, culinária, preparo, detalhado, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Rubcar carne (Рубка мяса) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de cortar carne)
+PALAVRAS-CHAVE: som, carne, cortar, faca, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Rucar vegetais (Рубка овощей) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de cortar legumes)
+PALAVRAS-CHAVE: som, legume, vegetal, cortar, faca, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cozinhar arroz (Варить рис) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de cozinhar arroz)
+PALAVRAS-CHAVE: som, arroz, cozinhar, panelas, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Fritar (Жарить) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de fritar)
+PALAVRAS-CHAVE: som, fritar, óleo, panela, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Assar (Выпекать) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de assar)
+PALAVRAS-CHAVE: som, assar, forno, pão, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Rescar pão (Резка хлеба) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de cortar pão)
+PALAVRAS-CHAVE: som, pão, cortar, faca, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Café (Кофе) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de café)
+PALAVRAS-CHAVE: som, café, bebida, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Chá (Чай) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de chá)
+PALAVRAS-CHAVE: som, chá, bebida, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Suco (Сок) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de suco)
+PALAVRAS-CHAVE: som, suco, bebida, fruta, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Leite (Молоко) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de leite)
+PALAVRAS-CHAVE: som, leite, bebida, laticínio, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cerveja (Пиво) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de cerveja)
+PALAVRAS-CHAVE: som, cerveja, bebida, álcool, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Vinho (Вино) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de vinho)
+PALAVRAS-CHAVE: som, vinho, bebida, álcool, copo, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Taça (Стакан) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de copo/taça)
+PALAVRAS-CHAVE: som, taça, copo, bebida, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Prato (Тарелка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de prato)
+PALAVRAS-CHAVE: som, prato, louça, talher, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Panela (Кастрюля) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de panela)
+PALAVRAS-CHAVE: som, panela, cozinha, cozinhar, utensílio, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Liquidificador (Блендер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de liquidificador)
+PALAVRAS-CHAVE: som, liquidificador, eletrodoméstico, cozinha, misturar, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Facas (Звук ножа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de faca)
+PALAVRAS-CHAVE: som, faca, cortar, utensílio, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Garfo (Звук вилки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de garfo)
+PALAVRAS-CHAVE: som, garfo, talher, utensílio, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Colher (Звук ложки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de colher)
+PALAVRAS-CHAVE: som, colher, talher, utensílio, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Copo (Звук чашки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de xícara/copo)
+PALAVRAS-CHAVE: som, copo, xícara, bebida, louça, cozinha, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 
 ---
 
