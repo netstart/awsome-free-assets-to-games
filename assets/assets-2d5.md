@@ -199,5 +199,8 @@ Ao encontrar novos assets 2.5D gratuitos compatíveis:
 - `assets/kenney.md` — Kenney (CC0 / domínio público)
 - `assets/opengameart.md` — OpenGameArt.org (CC0 / CC-BY / CC-BY-SA)
 - `assets/itchio.md` — itch.io
+- `assets/itchio-card-game-2d-new.md` — Novos assets 2D de cartas estilo Dixit (itch.io tag card-game)
+- `assets/polyhaven-3d.md` — Modelos 3D e texturas CC0 da Poly Haven
+- `assets/polyhaven-hdris.md` — HDRIs CC0 da Poly Haven para iluminação 2.5D
 - `assets/freegameassets.md` — freegameassets.com (CC0)
 - `AGENTS.md` — regras do projeto (gratuito, comercial, licença livre/permissiva)
