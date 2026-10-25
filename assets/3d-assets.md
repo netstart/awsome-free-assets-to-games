@@ -115,6 +115,25 @@ Todos os assets 3D da Kenney são CC0, livres para uso comercial sem exigência 
 | KayKit: Medieval Builder Pack | kaylousberg | CC0 | 3 estilos (hexagonal, quadrado, livre), múltiplos biomas | https://kaylousberg.itch.io/kaykit-medieval-builder-pack |
 | KayKit: Forest Nature Pack | kaylousberg | CC0 | natureza low-poly modular para ambientes florestais | https://kaylousberg.itch.io/kaykit-forest |
 
+| KayKit: Character Animations | kaylousberg | CC0 | animações de personagem (idle, walk, attack, jump, hurt, death) | https://kaylousberg.itch.io/kaykit-character-animations |
+| KayKit: Dungeon Pack | kaylousberg | CC0 | masmorra low-poly modular (paredes, pisos, portas, baús, tochas) | https://kaylousberg.itch.io/kaykit-dungeon-pack |
+| KayKit: Furniture Bits | kaylousberg | CC0 | móveis low-poly (cadeiras, mesas, camas, armários, prateleiras) | https://kaylousberg.itch.io/kaykit-furniture-bits |
+| KayKit: Prototype Bits | kaylousberg | CC0 | formas geométricas para prototipagem (cubos, esferas, cilindros, cones) | https://kaylousberg.itch.io/kaykit-prototype-bits |
+| KayKit: City Builder Bits | kaylousberg | CC0 | edifícios urbanos low-poly modulares | https://kaylousberg.itch.io/kaykit-city-builder-bits |
+| KayKit: Platformer Pack | kaylousberg | CC0 | plataforma low-poly (platforms, spikes, coins, flags, checkpoints) | https://kaylousberg.itch.io/kaykit-platformer-pack |
+| KayKit: RPG Tools Bits | kaylousberg | CC0 | ferramentas RPG (poções, livros, mapas, bússolas, baús) | https://kaylousberg.itch.io/kaykit-rpg-tools-bits |
+| KayKit: Restaurant Bits | kaylousberg | CC0 | itens de restaurante (mesas, cadeiras, pratos, talheres, comida) | https://kaylousberg.itch.io/kaykit-restaurant-bits |
+| Quaternius Modular Sci-Fi MegaKit | quaternius | CC0 | sci-fi modular (paredes, pisos, portas, consoles, consoles de controle) | https://quaternius.itch.io/modular-scifi-megakit |
+| Quaternius Sci-Fi Essentials Kit | quaternius | CC0 | essenciais sci-fi (naves, estações, asteroides, planetas, satélites) | https://quaternius.itch.io/sci-fi-essentials-kit |
+| Quaternius Modular Character Outfits - Fantasy | quaternius | CC0 | roupas modulares fantasia para personagens 3D | https://quaternius.itch.io/modular-character-outfits-fantasy |
+| Quaternius Fantasy Props MegaKit | quaternius | CC0 | props fantasia (armas, armaduras, poções, itens mágicos) | https://quaternius.itch.io/fantasy-props-megakit |
+| Screaming Brain Studios Seamless Sky Backgrounds | screamingbrainstudios | CC0 | céus sem emenda para 3D/2.5D | https://screamingbrainstudios.itch.io/seamless-sky-backgrounds |
+| Screaming Brain Studios Cloudy Skyboxes | screamingbrainstudios | CC0 | skyboxes nublados para 3D | https://screamingbrainstudios.itch.io/cloudy-skyboxes |
+| Screaming Brain Studios Tiny Texture Pack 2 | screamingbrainstudios | CC0 | texturas pequenas para 3D/2D | https://screamingbrainstudios.itch.io/tiny-texture-pack-2 |
+| ansimuz Explosion Animations Pack | ansimuz | CC0 | explosões animadas (spritesheets 2D para 3D) | https://ansimuz.itch.io/explosion-animations-pack |
+| ghostpixxells Free Pixel foods | ghostpixxells | CC0 | alimentos pixel art (2D/3D) | https://ghostpixxells.itch.io/free-pixel-foods |
+| datagoblin monogram | datagoblin | CC0 | tipografia pixel / fonte | https://datagoblin.itch.io/monogram |
+
 ---
 
 ## 3. OpenGameArt — 3D

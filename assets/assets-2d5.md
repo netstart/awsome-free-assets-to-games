@@ -168,9 +168,11 @@ Já catalogados em `assets/polyhaven-3d.md` (centenas de modelos 3D CC0, 8K text
 
 Todos CC0, uso comercial permitido, sem atribuição obrigatória. Fonte: https://polyhaven.com/license
 
+| **Screaming Brain Studios Seamless Sky Backgrounds** | screamingbrainstudios | **CC0 1.0 Universal** | Céus sem emenda para backgrounds 2.5D / isométricos | <https://screamingbrainstudios.itch.io/seamless-sky-backgrounds> |
+| **Screaming Brain Studios Cloudy Skyboxes** | screamingbrainstudios | **CC0 1.0 Universal** | Skyboxes nublados para pré-render 3D/2.5D | <https://screamingbrainstudios.itch.io/cloudy-skyboxes> |
+
 ---
 
-## 8. Música, SFX e Fontes
 
 Transversais a todo gênero — ver:
 - `assets/opengameart.md` (música e SFX CC0 / CC-BY / CC-BY-SA)

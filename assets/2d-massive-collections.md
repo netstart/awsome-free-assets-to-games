@@ -56,11 +56,12 @@
 | Fonte | Universo de candidatos (contagem da página) | Licença predominante | Uso comercial | Link |
 |-------|---------------------------------------------|----------------------|---------------|------|
 | itch.io free tag-2D | **22.724** | varia (muitos CC0 / comercial livre) | verificar cada pacote | https://itch.io/game-assets/free/tag-2d |
+| itch.io free tag assets-cc0 | **2.398** | CC0 1.0 Universal | ✅ livre (CC0) | https://itch.io/game-assets/assets-cc0/free |
 | OpenGameArt 2D Art | **16.322** | CC-BY / OGA-BY / CC0 / GPL (todas comercial) | ✅ (atribuição quando exigido) | https://opengameart.org/art-search-advanced?field_art_type_tid%5B%5D=9 |
 | Kenney 2D packs | ~35 packs (centenas de arquivos cada) | **CC0** | ✅ livre | https://kenney.nl/assets/category:2D |
-| **Total agregado** | **39.046+** candidatos | — | — | — |
+| **Total agregado** | **41.444+** candidatos | — | — | — |
 
-**O total de candidatos (39.046+) supera a meta de 20.000 assets gratuitos.** Após a verificação individual exigida pelo `AGENTS.md`, o subconjunto com licença comercial confirmada constitui os assets livres para uso comercial.
+**O total de candidatos (41.444+) supera amplamente a meta de 20.000 assets gratuitos.** Após a verificação individual exigida pelo `AGENTS.md`, o subconjunto com licença comercial confirmada constitui os assets livres para uso comercial.
 
 ---
 

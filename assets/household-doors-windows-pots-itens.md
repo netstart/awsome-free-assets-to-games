@@ -13,18 +13,31 @@ Catálogo de assets de itens de construção/acabamento que ficam dentro de uma 
 Fonte verificada: FiftySounds (fiftysounds.com/ru) — licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comercial permitido (incluindo videogames), **atribuição obrigatória** (link para o site na descrição), proibido revenda/sublicença, proibido criar serviço concorrente.
 
 - Porta (Звук двери) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de porta)
+PALAVRAS-CHAVE: som, porta, abertura, fechamento, interior, construção, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Janela (Звук окна) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de janela)
+PALAVRAS-CHAVE: som, janela, abertura, fechamento, interior, construção, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Armário (Звук шкафа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de armário/guarda-roupa)
+PALAVRAS-CHAVE: som, armário, guarda-roupa, abertura, fechamento, interior, mobília, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Caixa (Звук ящика) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de caixa/gaveta)
+PALAVRAS-CHAVE: som, caixa, gaveta, abertura, fechamento, interior, objeto, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Mala/mochila (Звук сумки) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de bolsa/mochila)
+PALAVRAS-CHAVE: som, mala, mochila, bolsa, abrir, fechar, interior, objeto, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Chave (Звук ключа) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de chave)
+PALAVRAS-CHAVE: som, chave, abrir, trancar, porta, interior, objeto, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Campainha (Звонок) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de campainha)
+PALAVRAS-CHAVE: som, campainha, notificação, alerta, porta, entrada, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Papel (Бумага) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de papel)
+PALAVRAS-CHAVE: som, papel, rasgar, dobrar, objeto, escritório, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Madeira (Дерево) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de madeira)
+PALAVRAS-CHAVE: som, madeira, impacto, atrito, material, mobília, piso, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Vidro (Стекло) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de vidro)
+PALAVRAS-CHAVE: som, vidro, estilhaçar, quebrar, janela, garrafa, material, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Pedra (Камень) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de pedra)
+PALAVRAS-CHAVE: som, pedra, impacto, material, piso, cenário, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Plástico (Пластик) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de plástico)
+PALAVRAS-CHAVE: som, plástico, impacto, atrito, material, objeto, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 - Metal (Металл) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de metal)
+PALAVRAS-CHAVE: som, metal, impacto, atrito, material, objeto, 2D, 3D, áudio, SFX, FiftySounds, Rússia, uso comercial, atribuição obrigatória
 
 ---
 
@@ -33,17 +46,23 @@ Fonte verificada: FiftySounds (fiftysounds.com/ru) — licença lida na página 
 Fonte verificada: 効果音ラボ (Sound Effect Lab — soundeffect-lab.info) — licença lida na página https://soundeffect-lab.info/agreement/: comercial grátis; sem crédito; sem link obrigatório.
 
 - Porta (ドア音) — https://soundeffect-lab.info/sound/door.html — ✅ (som de porta)
+PALAVRAS-CHAVE: som, porta, abertura, fechamento, interior, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Chave (鍵音) — https://soundeffect-lab.info/sound/key.html — ✅ (som de chave)
+PALAVRAS-CHAVE: som, chave, abrir, trancar, porta, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Abertura/fechamento (開閉音) — https://soundeffect-lab.info/sound/openclose.html — ✅ (portas, armários)
+PALAVRAS-CHAVE: som, abertura, fechamento, porta, armário, interior, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Água (水音) — https://soundeffect-lab.info/sound/water.html — ✅ (sons de água, torneira/chuveiro)
+PALAVRAS-CHAVE: som, água, torneira, chuveiro, cozinha, banheiro, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 
 Fonte verificada: pipoya.net (ぴぽや倉庫) — licença lida: comercial OK; sem crédito obrigatório.
 
 - Outros materiais (その他) — https://pipoya.net/sozai/?p=362 — ✅ (materiais diversos)
+PALAVRAS-CHAVE: materiais diversos, Japão, pipoya, objetos, interior, 2D, 3D, uso comercial, sem crédito obrigatório
 
 Fonte verificada: DOT ILLUST (dot-illust.net) — licença lida: comercial OK até 30 itens por uma mesma obra.
 
 - Vida/dia a dia (生活) — https://dot-illust.net/ — ✅ (limite: 30 itens/obra)
+PALAVRAS-CHAVE: vida, dia a dia, Japão, DOT ILLUST, objetos domésticos, 2D, 3D, uso comercial, limite 30 itens
 
 ---
 
@@ -52,8 +71,11 @@ Fonte verificada: DOT ILLUST (dot-illust.net) — licença lida: comercial OK at
 Fonte verificada: FiftySounds (chinês — fiftysounds.com/zh) — licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso comercial permitido, **atribuição obrigatória**.
 
 - Campainha (门铃) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, campainha, notificação, entrada, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Chuveiro (淋浴) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅ (chuveiro/água)
+PALAVRAS-CHAVE: som, chuveiro, água, banheiro, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Casa (房屋音效) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅ (efeitos sonoros de casa)
+PALAVRAS-CHAVE: som, casa, interior, doméstico, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 
 ---
 

@@ -13,19 +13,33 @@ Catálogo de assets de itens eletrônicos e eletrodomésticos que ficam dentro d
 Fonte verificada: FiftySounds (fiftysounds.com/ru) — licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comercial permitido (incluindo videogames), **atribuição obrigatória** (link para o site na descrição), proibido revenda/sublicença, proibido criar serviço concorrente.
 
 - Tecnologia (Технологии) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (sons de tecnologia)
+PALAVRAS-CHAVE: som, tecnologia, eletrônicos, dispositivo, aparelho, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Eletrônica (Электроника) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (sons de eletrônica)
+PALAVRAS-CHAVE: som, eletrônica, circuito, dispositivo, aparelho, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Computador (Компьютер) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de computador)
+PALAVRAS-CHAVE: som, computador, PC, teclado, mouse, interface, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Notebook (Ноутбук) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de notebook)
+PALAVRAS-CHAVE: som, notebook, laptop, portátil, computador, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Tablet (Планшет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de tablet)
+PALAVRAS-CHAVE: som, tablet, dispositivo móvel, tela toque, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Telefone (Телефон) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de telefone)
+PALAVRAS-CHAVE: som, telefone, chamada, toque, dispositivo, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Câmera (Камера) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de câmera)
+PALAVRAS-CHAVE: som, câmera, foto, gravação, dispositivo, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Fones de ouvido (Наушники) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de fone)
+PALAVRAS-CHAVE: som, fone, ouvido, áudio, dispositivo, Rússia, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Microfone (Микрофон) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de microfone)
+PALAVRAS-CHAVE: som, microfone, voz, gravação, áudio, dispositivo, Rússia, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Coluna/alto-falante (Колонка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de alto-falante)
+PALAVRAS-CHAVE: som, alto-falante, coluna, áudio, música, dispositivo, Rússia, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Teclado (Клавиатура) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de teclado)
+PALAVRAS-CHAVE: som, teclado, digitação, computador, interface, Rússia, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Mouse (Мышь) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de mouse)
+PALAVRAS-CHAVE: som, mouse, clique, computador, interface, Rússia, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Campainha (Звонок) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de campainha/doorbell)
+PALAVRAS-CHAVE: som, campainha, notificação, alerta, porta, Rússia, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Alarme (Сигнализация) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de alarme)
+PALAVRAS-CHAVE: som, alarme, alerta, sirene, segurança, dispositivo, Rússia, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Sirene (Сирена) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de sirene)
 
 ---
@@ -35,21 +49,34 @@ Fonte verificada: FiftySounds (fiftysounds.com/ru) — licença lida na página 
 Fonte verificada: 効果音ラボ (Sound Effect Lab — soundeffect-lab.info) — licença lida na página https://soundeffect-lab.info/agreement/: comercial grátis; sem crédito; sem link obrigatório.
 
 - Máquinas/veículos (機械・乗り物) — https://soundeffect-lab.info/sound/machine/ — ✅ (sons de máquinas)
+PALAVRAS-CHAVE: som, máquina, veículo, motor, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Sistema (システム音) — https://soundeffect-lab.info/sound/system.html — ✅ (sons de sistema)
+PALAVRAS-CHAVE: som, sistema, interface, notificação, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Interface (UI音) — https://soundeffect-lab.info/sound/ui.html — ✅ (sons de interface)
+PALAVRAS-CHAVE: som, interface, UI, clique, notificação, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Botões (ボタン音) — https://soundeffect-lab.info/sound/button.html — ✅ (som de botões)
+PALAVRAS-CHAVE: som, botão, clique, interface, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Notificações (通知音) — https://soundeffect-lab.info/sound/notice.html — ✅ (som de notificações)
+PALAVRAS-CHAVE: som, notificação, alerta, interface, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Alarmes (アラーム音) — https://soundeffect-lab.info/sound/alarm.html — ✅ (som de alarmes)
+PALAVRAS-CHAVE: som, alarme, alerta, sirene, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Telefone (電話音) — https://soundeffect-lab.info/sound/phone.html — ✅ (som de telefone)
+PALAVRAS-CHAVE: som, telefone, chamada, toque, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Celular (携帯音) — https://soundeffect-lab.info/sound/mobile.html — ✅ (som de celular)
+PALAVRAS-CHAVE: som, celular, toque, notificação, dispositivo móvel, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Câmera (カメラ音) — https://soundeffect-lab.info/sound/camera.html — ✅ (som de câmera)
+PALAVRAS-CHAVE: som, câmera, foto, gravação, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Relógio (時計音) — https://soundeffect-lab.info/sound/clock.html — ✅ (som de relógio)
+PALAVRAS-CHAVE: som, relógio, tempo, alarme, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Máquina de venda (販売機音) — https://soundeffect-lab.info/sound/vending.html — ✅ (som de máquina de venda)
+PALAVRAS-CHAVE: som, máquina de venda, loja, notificação, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Escritório (事務所音) — https://soundeffect-lab.info/sound/office.html — ✅ (sons de escritório, computador)
+PALAVRAS-CHAVE: som, escritório, computador, teclado, impressora, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 
 Fonte verificada: pipoya.net (ぴぽや倉庫) — licença lida: comercial OK; sem crédito obrigatório.
 
 - Outros materiais (その他) — https://pipoya.net/sozai/?p=362 — ✅ (materiais diversos)
+PALAVRAS-CHAVE: materiais diversos, Japão, pipoya, eletrônicos, 2D, 3D, uso comercial, sem crédito obrigatório
 
 ---
 
@@ -58,16 +85,27 @@ Fonte verificada: pipoya.net (ぴぽや倉庫) — licença lida: comercial OK; 
 Fonte verificada: FiftySounds (chinês — fiftysounds.com/zh) — licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso comercial permitido, **atribuição obrigatória**.
 
 - Tecnologia (技术) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, tecnologia, eletrônicos, dispositivo, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Eletrônica (电子) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, eletrônica, circuito, dispositivo, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Computador (电脑) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, computador, PC, teclado, interface, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Celular (手机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, celular, toque, notificação, dispositivo móvel, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Tablet (平板) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, tablet, dispositivo móvel, tela toque, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Notebook (笔记本) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, notebook, laptop, portátil, computador, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Câmera (相机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, câmera, foto, gravação, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Fone de ouvido (耳机) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, fone, ouvido, áudio, dispositivo, China, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Microfone (麦克风) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, microfone, voz, gravação, áudio, dispositivo, China, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Alto-falante (扬声器) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, alto-falante, coluna, áudio, música, dispositivo, China, FiftySounds, SFX, uso comercial, atribuição obrigatória
 - Máquina de venda/loja (商店/超市) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, máquina de venda, loja, notificação, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 
 ---
 
