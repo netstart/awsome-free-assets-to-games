@@ -13,7 +13,7 @@
 | Fonte | Itens | Como a licença foi verificada |
 |-------|-------|-------------------------------|
 | OpenGameArt | 1760 | licença lida na página de cada item (campo License); itens só GPL/NC/sem licença descartados |
-| Sketchfab | 693 | campo `license` da API pública do Sketchfab (busca com `license=` + `downloadable=true`) reconfirmado por modelo em `/v3/models/<uid>` (licença + `isDownloadable`) |
+| Sketchfab | 692 | campo `license` da API pública do Sketchfab (busca com `license=` + `downloadable=true`) reconfirmado por modelo em `/v3/models/<uid>` (licença + `isDownloadable`) |
 | itch.io | 10 | filtro oficial de licença do itch.io + categoria de licença conferida na página do item |
 
 ---
@@ -2309,7 +2309,7 @@
 
 ---
 
-## 5. Sketchfab — Ruínas e Atlântida (190)
+## 5. Sketchfab — Ruínas e Atlântida (189)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -2445,7 +2445,6 @@
 | Space Shuttle Atlantis | andersan_unknown | CC BY 4.0 | atlantis | <https://sketchfab.com/3d-models/space-shuttle-atlantis-d737e7f897ac4327ab606265a7820151> |
 | Space Shuttle Atlantis | Dale_Earnhardt | CC BY 4.0 | atlantis | <https://sketchfab.com/3d-models/space-shuttle-atlantis-19d70a642a934888a931d816601ec41b> |
 | Space Shuttle Atlantis - Opened Cargo Bay | andersan_unknown | CC BY 4.0 | atlantis | <https://sketchfab.com/3d-models/space-shuttle-atlantis-opened-cargo-bay-cdd391fd8b5f4124bbbd5e48bcaa026a> |
-| Stargate | chaitanyak | CC BY 4.0 | atlantis | <https://sketchfab.com/3d-models/stargate-jp4wKz6tRk1kpemRWywOSHx4ogK> |
 | Stargate Atlantis | rossrobotics | CC BY 4.0 | atlantis | <https://sketchfab.com/3d-models/stargate-atlantis-cc5e04fc277941b0b37ac7b066dcbb21> |
 | Stargate Atlantis - cityship | merlincodes | CC BY 4.0 | atlantis | <https://sketchfab.com/3d-models/stargate-atlantis-cityship-443fcec4c6ab42509cd9755466fd0228> |
 | Stargate Atlantis Particle Magnum | Aegis_Wolf | CC BY 4.0 | atlantis | <https://sketchfab.com/3d-models/stargate-atlantis-particle-magnum-db6e50016c2d447b91c67337dac06a69> |
