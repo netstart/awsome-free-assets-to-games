@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~800+ assets catalogados em 140 categorias.
+> **Total:** ~850+ assets catalogados em 167 categorias.
 
 ---
 
@@ -1747,6 +1747,259 @@
 | Low Poly Wine Barrel Asset | Scary Monkey Incorporated | Verificar na página (Free) | 3D/Barrel | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
 | Breakable Dungeon Barrel | Ninefold Forge | Verificar na página (Free) | 3D/Barrel | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
 | Medieval Camp - Low Poly Asset Pack | Linndrey | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
+
+---
+
+## 141. Crystal / Cristal — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 60 Unique 2D Fantasy Ore and Mineral Icons | X World Team 319 | Verificar na página (Free) | Icons/Vector+PNG | A verificar | <https://itch.io/game-assets/free/tag-crystal> |
+| Ice Caves Vol.1 | tempisq | Verificar na página (Free) | Textures/Ice | A verificar | <https://itch.io/game-assets/free/tag-crystal> |
+| Crystal Caverns Vol.1 | tempisq | Verificar na página (Free) | Textures/Crystal | A verificar | <https://itch.io/game-assets/free/tag-crystal> |
+
+---
+
+## 142. Gem / Gema — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Vector gems icon pack | WorD1e | Verificar na página (Free) | Icons/Vector | A verificar | <https://itch.io/game-assets/free/tag-gem> |
+| The Gem Pack | IstMeDut | Verificar na página (Free) | Pack/Gem | A verificar | <https://itch.io/game-assets/free/tag-gem> |
+| 3D Treasure Pack | mehrasaur | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-gem> |
+
+---
+
+## 143. Mining / Mineração — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 8x8 Ores and Rocks | WatermelonFrogy | Verificar na página (Free) | Sprites/8x8 | A verificar | <https://itch.io/game-assets/free/tag-mining> |
+| Frontier Town Buildings | Greanapple Games | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-mining> |
+
+---
+
+## 144. Rock / Pedra — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| David KBD | Verificar na página (Free) | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-rock> |
+| Goddess Classic | Free Game Music Pack | Jens Vide | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free/tag-rock> |
+
+---
+
+## 145. Stone / Pedra — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Stone Tileset 32x32 | falconzitos | Verificar na página (Free) | Tileset/32x32 | A verificar | <https://itch.io/game-assets/free/tag-stone> |
+| Stones & Brick Textures | Pucci Games | Verificar na página (Free) | Textures | A verificar | <https://itch.io/game-assets/free/tag-stone> |
+
+---
+
+## 146. Wood / Madeira — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Simple wood tiles | Gnomenlied | Verificar na página (Free) | Tileset/Wood | A verificar | <https://itch.io/game-assets/free/tag-wood> |
+| Wood Texture Pack | Owletrius | Verificar na página (Free) | Textures/Wood | A verificar | <https://itch.io/game-assets/free/tag-wood> |
+| Pixel Wooden Chess Asset Pack - 32x32 | Yumeji | Verificar na página (Free) | Pack/32x32 | A verificar | <https://itch.io/game-assets/free/tag-wood> |
+
+---
+
+## 147. Metal — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| UI: 04 Gold Theme | Admurin | Verificar na página (Free) | UI/Icons | A verificar | <https://itch.io/game-assets/free/tag-metal> |
+| Texture Pack: Metal & Tiles | JulioVII | Verificar na página (Free) | Textures/PBR | A verificar | <https://itch.io/game-assets/free/tag-metal> |
+
+---
+
+## 148. Glass / Vidro — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| LowPoly_GlassAndCup | pranteman1 | Verificar na página (Free) | 3D/Glass | A verificar | <https://itch.io/game-assets/free/tag-glass> |
+| Realistic water pitcher | stinkDev | Verificar na página (Free) | 3D/Pitcher | A verificar | <https://itch.io/game-assets/free/tag-glass> |
+| Labglass Luminants | brightridge | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-glass> |
+
+---
+
+## 149. Bottle / Garrafa — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Steel Bottle 3D Model – Minimal & Realistic | Chitransh Gaharana | Verificar na página (Free) | 3D/Bottle | A verificar | <https://itch.io/game-assets/free/tag-bottle> |
+| Casual Low Poly Objects 2 (Unity) | SmallBigSquare | Verificar na página (Free) | Pack/Unity | A verificar | <https://itch.io/game-assets/free/tag-bottle> |
+| 3D Bottle Model (free) | Yash Raj | Verificar na página (Free) | 3D/Bottle | A verificar | <https://itch.io/game-assets/free/tag-bottle> |
+
+---
+
+## 150. Pan / Panela — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pan Pride GUI | Rosia | Verificar na página (Free) | GUI/UI | A verificar | <https://itch.io/game-assets/free/tag-pan> |
+| [FREE Sounds] Panned Pans - Royalty Free | Bramster | Verificar na página (Free) | SFX/Pans | A verificar | <https://itch.io/game-assets/free/tag-pan> |
+
+---
+
+## 151. Jar / Jarra — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Bucko Jam | slayerquest01 | Verificar na página (Free) | Pack/Jar | A verificar | <https://itch.io/game-assets/free/tag-jar> |
+| jarra | lobo mestre | Verificar na página (Free) | 3D/Jar | A verificar | <https://itch.io/game-assets/free/tag-jar> |
+| Jar with lid | Puelpo | Verificar na página (Free) | 3D/Jar | A verificar | <https://itch.io/game-assets/free/tag-jar> |
+
+---
+
+## 152. Basket / Cesta — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Playground props collection - low poly | Stanisko | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-basket> |
+| Wicker Basket 01 - Free CC0 GLB 3D Prop | Eclair Assets | CC0 | 3D/Prop | Sim (CC0) | <https://itch.io/game-assets/free/tag-basket> |
+
+---
+
+## 153. Bag / Bolsa — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Voxel Plastic Bag | VOX FOX | Verificar na página (Free) | 3D/Voxel | A verificar | <https://itch.io/game-assets/free/tag-bag> |
+| Free-Stylized Briefcase - Low Poly Game Prop | LOPiE3D | Verificar na página (Free) | 3D/Briefcase | A verificar | <https://itch.io/game-assets/free/tag-bag> |
+| Coin - 8bit | zirtyart | Verificar na página (Free) | Sprite/8x8 | A verificar | <https://itch.io/game-assets/free/tag-bag> |
+
+---
+
+## 154. Carton / Caixa de Papelão — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 16 Free CC0 Dungeon Backgrounds | The Outlander | Verificar na página (Free) | Backgrounds/CC0 | Sim (CC0) | <https://itch.io/game-assets/free/tag-carton> |
+| 5 Cardboard Boxes Pack - Game Ready Low Poly | trantungvn | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-carton> |
+| Voxel Round Box T1 | VOX FOX | Verificar na página (Free) | 3D/Voxel | A verificar | <https://itch.io/game-assets/free/tag-carton> |
+
+---
+
+## 155. Pot / Panela — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Stylized Ceramic Pot 3D Model | Rysia4686 | Verificar na página (Free) | 3D/Pot | A verificar | <https://itch.io/game-assets/free/tag-pot> |
+| 2D PIXEL ART Flower Pot | Lucky Lotus Logesh | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-pot> |
+| Potion | Max Thorne | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-pot> |
+
+---
+
+## 156. Plate / Prato — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| small kitchen asset pack | HVIL | Verificar na página (Free) | Pack/Kitchen | A verificar | <https://itch.io/game-assets/free/tag-plate> |
+
+---
+
+## 157. Bowl / Tigela — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Tupperware Dish | ToastyCatStudios | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-bowl> |
+| Wooden Bowl 01 — Free CC0 GLB Prop | Eclair Assets | CC0 | 3D/Prop | Sim (CC0) | <https://itch.io/game-assets/free/tag-bowl> |
+| Ramen | Shinigami001 | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-bowl> |
+
+---
+
+## 158. Cup / Copo — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Stylized Ceramic Mug 3D Model | Rysia4686 | Verificar na página (Free) | 3D/Mug | A verificar | <https://itch.io/game-assets/free/tag-cup> |
+| LowPoly_GlassAndCup | pranteman1 | Verificar na página (Free) | 3D/Glass | A verificar | <https://itch.io/game-assets/free/tag-cup> |
+| Cafe 244 — Free Coffee Cup & Saucer | komonodo3d | Verificar na página (Free) | 3D/Prop | A verificar | <https://itch.io/game-assets/free/tag-cup> |
+
+---
+
+## 159. Mug / Caneca — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Stylized Ceramic Mug 3D Model | Rysia4686 | Verificar na página (Free) | 3D/Mug | A verificar | <https://itch.io/game-assets/free/tag-mug> |
+| Minimalist 3D Product Mockups Pack - Mug & Glass Bottle | mageedit | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-mug> |
+| Metalik Mug | Kirond | Verificar na página (Free) | 3D/Mug | A verificar | <https://itch.io/game-assets/free/tag-mug> |
+
+---
+
+## 160. Crate / Caixa — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Wooden Pallet | Founding_Sun | Verificar na página (Free) | 3D/Pallet | A verificar | <https://itch.io/game-assets/free/tag-crate> |
+| Tiles,Character,Crate | Quantum Play Studios | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-crate> |
+| Low-Poly Wooden Crate - Free Game Asset | Jhonatanjr | Verificar na página (Free) | 3D/Crate | A verificar | <https://itch.io/game-assets/free/tag-crate> |
+
+---
+
+## 161. Chest / Baú — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 5 free chest models for Roblox Studio | Filwarka | Verificar na página (Free) | Pack/Roblox | A verificar | <https://itch.io/game-assets/free/tag-chest> |
+| chest or treasure generated by ai midjourney | limitation | Verificar na página (Free) | Pack/AI | A verificar | <https://itch.io/game-assets/free/tag-chest> |
+| 100 ROBLOX CHEST ICONS | Stiexeno | Verificar na página (Free) | Icons/Roblox | A verificar | <https://itch.io/game-assets/free/tag-chest> |
+
+---
+
+## 162. Box / Caixa — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Micro Chests (8x8) Free | SkaldingDelight | Verificar na página (Free) | Sprites/8x8 | A verificar | <https://itch.io/game-assets/free/tag-box> |
+| BoxBolt 1000 | Tefell | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-box> |
+
+---
+
+## 163. Coin / Moeda — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| COIN - 2D ANIMATION | Gabriel Ceppas | Verificar na página (Free) | Sprites/16x16 | A verificar | <https://itch.io/game-assets/free/tag-coin> |
+| Gold Coin icon pack [32x32] - 4 Variations | CΣRAS | Verificar na página (Free) | Icons/32x32 | A verificar | <https://itch.io/game-assets/free/tag-coin> |
+
+---
+
+## 164. UI / Interface — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free UI Hologram Interface | Wenrexa | Verificar na página (Free) | PNG/UI | A verificar | <https://itch.io/game-assets/free/tag-ui> |
+| DUNGEON.mode | datagoblin | Verificar na página (Free) | Font | A verificar | <https://itch.io/game-assets/free/tag-ui> |
+
+---
+
+## 165. Font / Fonte — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| DUNGEON.mode | datagoblin | Verificar na página (Free) | Font/Textmode | A verificar | <https://itch.io/game-assets/free/tag-font> |
+
+---
+
+## 166. Music / Música — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Goddess Classic | Free Game Music Pack | Jens Vide | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free/tag-music> |
+
+---
+
+## 167. Sound Effects / Efeitos Sonoros — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| [FREE Sounds] Panned Pans - Royalty Free | Bramster | Verificar na página (Free) | SFX/Pans | A verificar | <https://itch.io/game-assets/free/tag-sound-effects> |
 
 ---
 
