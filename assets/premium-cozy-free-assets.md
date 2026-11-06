@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~2000+ assets catalogados em 277 categorias.
+> **Total:** ~2100+ assets catalogados em 282 categorias.
 
 ---
 
@@ -3165,6 +3165,67 @@
 | Realm of Critters - Enemy Pack 1 - Pixel Art | Foozle | Verificar na página (Free) | Pack/Enemies | A verificar | <https://itch.io/game-assets/free?page=85> |
 | Royal Knight Design | Warren Clark | Verificar na página (Free) | Pack/Knight | A verificar | <https://itch.io/game-assets/free?page=85> |
 | Animated mini characters 3 [Platform] [FREE] | LimeZu | Verificar na página (Free) | Pack/Characters | A verificar | <https://itch.io/game-assets/free?page=85> |
+
+---
+
+## 278. Listing Page 86 / Página 86 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| KiyoZ | KiyoZ | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free?page=86> |
+| Sci-Fi Weapon Shots SFX [Free/CC0] | lentikula | CC0 | Pack/SFX | Sim (CC0) | <https://itch.io/game-assets/free?page=86> |
+| Map Legend Icons 2 | SPOICAT | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=86> |
+| [Free]Medieval Weapons Asset Pack | Wildenza | Verificar na página (Free) | Pack/Weapons | A verificar | <https://itch.io/game-assets/free?page=86> |
+| Dungeon Platformer Tileset [16x16][FREE] | RottingPixels | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free?page=86> |
+| Human Creations for Creative Humans | RatGrrrl Games | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free?page=86> |
+
+---
+
+## 279. Listing Page 87 / Página 87 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Retro City asset pack | MariaParraGames | Verificar na página (Free) | Pack/City | A verificar | <https://itch.io/game-assets/free?page=87> |
+| PSX Retro Zombie – Free Sample Model | Anwar2077 | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=87> |
+| RPG music pack: INFINITY CRYSTAL | sonatina | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=87> |
+| Zeldisaac asset pack | MrBaba | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free?page=87> |
+| Low Poly dead trees | godgoldfear | Verificar na página (Free) | Pack/Trees | A verificar | <https://itch.io/game-assets/free?page=87> |
+
+---
+
+## 280. Listing Page 88 / Página 88 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Environmental asset pack | HumanIsRed | Verificar na página (Free) | Pack/Environment | A verificar | <https://itch.io/game-assets/free?page=88> |
+| Free Kingdom Kit | Penusbmic | Verificar na página (Free) | Pack/Kingdom | A verificar | <https://itch.io/game-assets/free?page=88> |
+| EVERYWHERE UNSEEN | Alfred Valley | Verificar na página (Free) | Pack/Textures | A verificar | <https://itch.io/game-assets/free?page=88> |
+| Pixel font: Stacked pixel | monkopus | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=88> |
+| Dummy2D: Placeholder Character | Benvictus | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=88> |
+
+---
+
+## 281. Listing Page 89 / Página 89 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Kenney (Assets) | Kenney (Assets) | CC0 | Pack/100+ tiles | Sim (CC0) | <https://itch.io/game-assets/free?page=89> |
+| Ren'Py Relationship Menu [Beginner Friendly!] | Rev | Verificar na página (Free) | Pack/Ren'Py | A verificar | <https://itch.io/game-assets/free?page=89> |
+| Unofficial PQ PNGTuber Rigs | cy | Verificar na página (Free) | Pack/Rigs | A verificar | <https://itch.io/game-assets/free?page=89> |
+| Tiny Spaceships (FREE Space Ships) | Disruptor Art | Verificar na página (Free) | Pack/Spaceships | A verificar | <https://itch.io/game-assets/free?page=89> |
+| Battle SpaceShip Free 3D Low Poly Pack | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=89> |
+
+---
+
+## 282. Listing Page 90 / Página 90 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pixel-art ccg-like FRAMES! | Batareya | Verificar na página (Free) | Pack/Frames | A verificar | <https://itch.io/game-assets/free?page=90> |
+| Small Adventure :: Base Top-Down Tileset | Raou | Verificar na página (Free) | Tileset/Pixel | A verificar | <https://itch.io/game-assets/free?page=90> |
+| 7:7 - Card Template | Bruno Prosaiko | Verificar na página (Free) | Pack/Card | A verificar | <https://itch.io/game-assets/free?page=90> |
+| GB Studio Open Tilesets | Elvies | Verificar na página (Free) | Pack/Tilesets | A verificar | <https://itch.io/game-assets/free?page=90> |
+| Nikita | Low poly character base mesh | n0mad | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=90> |
 
 ---
 
