@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1800+ assets catalogados em 267 categorias.
+> **Total:** ~1900+ assets catalogados em 272 categorias.
 
 ---
 
@@ -3048,6 +3048,66 @@
 | Parallax Backgrounds (Demo) | The Pixel Nook | Verificar na página (Free) | Pack/Parallax | A verificar | <https://itch.io/game-assets/free?page=75> |
 | Woman Warrior | Dreamir | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=75> |
 | FREE Action Music Pack | VOiD1 Gaming | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=75> |
+
+---
+
+## 268. Listing Page 76 / Página 76 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Cartoon Low-Poly Rigged Character Base | Overaction Game Studio | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=76> |
+| PIPOYA FREE VFX Bell | Pipoya | Verificar na página (Free) | Pack/VFX | A verificar | <https://itch.io/game-assets/free?page=76> |
+| Survival Kit | Kenney (Assets) | CC0 | Pack/70+ models | Sim (CC0) | <https://itch.io/game-assets/free?page=76> |
+| Full Collection - MyPixelOdyssey | scarloxy | Verificar na página (Free) | Pack/Tileset | A verificar | <https://itch.io/game-assets/free?page=76> |
+| Kuudere Visual novel Sprite | LisadiKaprio | Verificar na página (Free) | Pack/Sprite | A verificar | <https://itch.io/game-assets/free?page=76> |
+
+---
+
+## 269. Listing Page 77 / Página 77 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Titanium Rat | Titanium Rat | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free?page=77> |
+| Robot Master Series - Base Asset Pack | AU_pixel | Verificar na página (Free) | Pack/Robots | A verificar | <https://itch.io/game-assets/free?page=77> |
+| Penguin World Tileset | Atomic Realm | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free?page=77> |
+| Aesthetic Enemies: Slimes (Update 2.0) | Phantom Cooper | Verificar na página (Free) | Pack/Enemies | A verificar | <https://itch.io/game-assets/free?page=77> |
+| Tiny Consumables | Veld | Verificar na página (Free) | Pack/Consumables | A verificar | <https://itch.io/game-assets/free?page=77> |
+
+---
+
+## 270. Listing Page 78 / Página 78 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Wraith [48x48] | Sven | Verificar na página (Free) | Pack/Asset | A verificar | <https://itch.io/game-assets/free?page=78> |
+| PIXEL FANTASY RPG ICONS - Tabletop | Caz | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=78> |
+| Painterly Sky Background | Kalponic Studio | Verificar na página (Free) | Pack/Backgrounds | A verificar | <https://itch.io/game-assets/free?page=78> |
+| Pixel TileMap Platformer | BDragon1727 | Verificar na página (Free) | Pack/Platformer | A verificar | <https://itch.io/game-assets/free?page=78> |
+| Human Crafting Animations FREE | Kevin Iglesias | Verificar na página (Free) | Pack/Animation | A verificar | <https://itch.io/game-assets/free?page=78> |
+
+---
+
+## 271. Listing Page 79 / Página 79 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Cat Pack - Halloween Edition | ToffeeCraft | Verificar na página (Free) | Pack/Cats | A verificar | <https://itch.io/game-assets/free?page=79> |
+| futuristic robot | niko-3d-models | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=79> |
+| 2D Roblox Free Currency Icons | Filwarka | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=79> |
+| Free Pixel Mob! | Henry Software | Verificar na página (Free) | Pack/Slime | A verificar | <https://itch.io/game-assets/free?page=79> |
+| 500+ RPG Icons Pixel Art Pack | Seveneves.ai | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=79> |
+
+---
+
+## 272. Listing Page 80 / Página 80 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| LowPoly Platformer Pack | Quaternius | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=80> |
+| Mini Texture Pack 2: Rooftops | Screaming Brain Studios | Verificar na página (Free) | Pack/Textures | A verificar | <https://itch.io/game-assets/free?page=80> |
+| Healing Spell Impacts [Free/CC0] | lentikula | CC0 | Pack/SFX | Sim (CC0) | <https://itch.io/game-assets/free?page=80> |
+| Precise-M | Mrmo Tarius | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=80> |
+| Free Cute Astronaut Character | Fly | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=80> |
 
 ---
 
