@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1200+ assets catalogados em 240 categorias.
+> **Total:** ~1300+ assets catalogados em 245 categorias.
 
 ---
 
@@ -2728,6 +2728,64 @@
 | Monsters SFX Vol.2 | Atelier Magicae | Verificar na página (Free) | SFX/Monsters | A verificar | <https://itch.io/game-assets/free?page=45> |
 | Tiny Overworld | ansimuz | Verificar na página (Free) | Tileset/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=45> |
 | HEROES FANTASY - Platformer Tileset | AU_pixel | Verificar na página (Free) | Tileset/Platformer | A verificar | <https://itch.io/game-assets/free?page=45> |
+
+---
+
+## 241. Listing Page 46 / Página 46 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| FREE RPG Tileset 16x16 | Pipoya | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free?page=46> |
+| PIPOYA FREE VFX Warp Portal | Pipoya | Verificar na página (Free) | VFX/Portal | A verificar | <https://itch.io/game-assets/free?page=46> |
+| Horror Fantasy Assets | Stealthix | CC-0 | Pack/Horror Fantasy | Sim (CC0) | <https://itch.io/game-assets/free?page=46> |
+| 16x16 TinyWorld | Fliegevogel | Verificar na página (Free) | Pack/16x16 | A verificar | <https://itch.io/game-assets/free?page=46> |
+| Hana - Free Character Sprite | NoranekoGames | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=46> |
+
+---
+
+## 242. Listing Page 47 / Página 47 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Bryce Render Pack v1 | Modus Interactive | Verificar na página (Free) | Pack/CG Images | A verificar | <https://itch.io/game-assets/free?page=47> |
+| Grotto Escape Game Art Pack | ansimuz | Verificar na página (Free) | Pack/2D Platformer | A verificar | <https://itch.io/game-assets/free?page=47> |
+| MEMORIA: RPG Maker RTP Remake | SeraphCircle | Verificar na página (Free) | Pack/RPG Maker | A verificar | <https://itch.io/game-assets/free?page=47> |
+| Voxel Animals & Items Pack — Free Assets | SonaSar | Verificar na página (Free) | Pack/Voxel | A verificar | <https://itch.io/game-assets/free?page=47> |
+| Big music pack for visual novel (or something else) | TERNOX | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=47> |
+
+---
+
+## 243. Listing Page 48 / Página 48 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Ultimate Low Poly Dungeon | Broken Vector | Verificar na página (Free) | Pack/Dungeon | A verificar | <https://itch.io/game-assets/free?page=48> |
+| 80+Fishing Icons Asset pack | Moran | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=48> |
+| Soldier Model - Low Poly - Unrigged | RetroVandal | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=48> |
+| PSX style modular hedges | valsekamerplant | Verificar na página (Free) | Pack/Hedges | A verificar | <https://itch.io/game-assets/free?page=48> |
+| RaccoonSerif Pixel Font | emhuo | Verificar na página (Free) | Font/Pixel | A verificar | <https://itch.io/game-assets/free?page=48> |
+
+---
+
+## 244. Listing Page 49 / Página 49 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| TDMC 2.0 - for GameMaker 2022+ | Pixelated Pope | Verificar na página (Free) | Pack/GameMaker | A verificar | <https://itch.io/game-assets/free?page=49> |
+| Sci-fi Character Pack 2 | Penusbmic | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=49> |
+| SHADOW Series - Hallokin - Animated Pixel Pumpkin Enemy | escape-pixel | Verificar na página (Free) | Pack/Pumpkin | A verificar | <https://itch.io/game-assets/free?page=49> |
+| Isometric Isolation | Zato Pixel Cultist | Verificar na página (Free) | Pack/Isometric | A verificar | <https://itch.io/game-assets/free?page=49> |
+
+---
+
+## 245. Listing Page 50 / Página 50 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free: Skyscraper Buildings and Skylines, in Pixel Art | OldNinjaCat | Verificar na página (Free) | Pack/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=50> |
+| Raven Fantasy Icons HD Ultimate | Clockwork Raven | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=50> |
+| Robot Sprite | BrawlBot | wuhuli | Verificar na página (Free) | Pack/Robot | A verificar | <https://itch.io/game-assets/free?page=50> |
+| Elementals: Metal Bladekeeper | chierit | Verificar na página (Free) | Pack/Animations | A verificar | <https://itch.io/game-assets/free?page=50> |
 
 ---
 
