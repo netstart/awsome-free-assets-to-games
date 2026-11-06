@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~2200+ assets catalogados em 287 categorias.
+> **Total:** ~2300+ assets catalogados em 292 categorias.
 
 ---
 
@@ -3286,6 +3286,63 @@
 | Kobold Robold VRC/Blender | SOI | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=95> |
 | [MAT] PBR Materials Pack | JDSherbert | Verificar na página (Free) | Pack/Textures | A verificar | <https://itch.io/game-assets/free?page=95> |
 | Paint Strokes & Smashes {175 Art Assets} | DINO♥JAM | Verificar na página (Free) | Pack/Art | A verificar | <https://itch.io/game-assets/free?page=95> |
+
+---
+
+## 288. Listing Page 96 / Página 96 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Lady Poodlina (Blender 5.1) | TwilightV0ids | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=96> |
+| Won Won Drone | chiecola | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=96> |
+| Tiny Tiles | odiurd | Verificar na página (Free) | Pack/Tiles | A verificar | <https://itch.io/game-assets/free?page=96> |
+| UI User Interface Pack - Cyber | ToffeeCraft | Verificar na página (Free) | Pack/UI | A verificar | <https://itch.io/game-assets/free?page=96> |
+
+---
+
+## 289. Listing Page 97 / Página 97 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Hempuli Font Bundle | Hempuli | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=97> |
+| factory asset v.2 teaser | Blood_seller | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=97> |
+| Pool And Billiards SFX Pack | papapleygames | Verificar na página (Free) | Pack/SFX | A verificar | <https://itch.io/game-assets/free?page=97> |
+| WW2 pixel top view tanks | jh2assets | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=97> |
+
+---
+
+## 290. Listing Page 98 / Página 98 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Border and Panels Menu Part 3 | BDragon1727 | Verificar na página (Free) | Pack/UI | A verificar | <https://itch.io/game-assets/free?page=98> |
+| 3D Low Poly Potions and Flasks (3 Color variations) | GualtierisGG | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=98> |
+| Sci-Fi Dystopian Tileset | Penusbmic | Verificar na página (Free) | Pack/Tileset | A verificar | <https://itch.io/game-assets/free?page=98> |
+| [VOX] Male Character Vocal Pack | JDSherbert | Verificar na página (Free) | Pack/Audio | A verificar | <https://itch.io/game-assets/free?page=98> |
+| 90 FREE 16x16 Animated Pixel Art Potions | alexkovacsart | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=98> |
+
+---
+
+## 291. Listing Page 99 / Página 99 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| KayKit - Mixed Bag 2 | Kay Lousberg | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=99> |
+| Low Poly Human Mesh - Rigged | Enigma Game Dev | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=99> |
+| Shadow Mines - Free 2D Game Asset Pack | waxx | Verificar na página (Free) | Pack/2D | A verificar | <https://itch.io/game-assets/free?page=99> |
+| Military Voice Pack | VOiD1 Gaming | Verificar na página (Free) | Pack/Audio | A verificar | <https://itch.io/game-assets/free?page=99> |
+| Pixel Art Sci-Fi Spaceships | Frostwindz | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=99> |
+
+---
+
+## 292. Listing Page 100 / Página 100 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Red Guard asset pack | Toulhane | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=100> |
+| VN Character: NPC Village Children (Wuxia) 600px | LinXueLian | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=100> |
+| UI User Interface Pack - Magic | ToffeeCraft | Verificar na página (Free) | Pack/UI | A verificar | <https://itch.io/game-assets/free?page=100> |
+| Universe of Potions | To.ony | Verificar na página (Free) | Pack/Potions | A verificar | <https://itch.io/game-assets/free?page=100> |
 
 ---
 
