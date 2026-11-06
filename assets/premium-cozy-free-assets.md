@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1600+ assets catalogados em 259 categorias.
+> **Total:** ~1700+ assets catalogados em 263 categorias.
 
 ---
 
@@ -2953,6 +2953,54 @@
 | DRAGONBUN - Item Borders: Pack 1 | Mimo | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=65> |
 | Free Music Loop Bundle - Deep Electronic, Cinematic Orchestral, Chilled Beats, Filthy Dubstep | Of Far Different Nature | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=65> |
 | Jungle platformer assets | BigBuckBunny | Verificar na página (Free) | Pack/Jungle | A verificar | <https://itch.io/game-assets/free?page=65> |
+
+---
+
+## 260. Listing Page 67 / Página 67 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| TheRulerMeasure | TheRulerMeasure | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free?page=67> |
+| Post-Apocalyptic - Interiors Pack | Atomic Realm | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=67> |
+| The Dungeon Pack - Part 1 | Pixfinity | Verificar na página (Free) | Pack/Dungeon | A verificar | <https://itch.io/game-assets/free?page=67> |
+| Isometric Blocks | Kenney (Assets) | CC0 | Pack/130+ tiles | Sim (CC0) | <https://itch.io/game-assets/free?page=67> |
+| Gothic-Like Structures | loafbrr | Verificar na página (Free) | Pack/Buildings | A verificar | <https://itch.io/game-assets/free?page=67> |
+
+---
+
+## 261. Listing Page 68 / Página 68 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free!! 16x16 pixel Top down tileset pack | GFragger | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free?page=68> |
+| Pixel-Art Portrait Pack | Loregret | Verificar na página (Free) | Pack/Portraits | A verificar | <https://itch.io/game-assets/free?page=68> |
+| Free Wild Music Pack | Tom Feldmann | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=68> |
+| Pixel Gnome: Customizable Playable Character Pack | PixelGnome | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=68> |
+| Dark Castle Tileset | Fabian Fuchs | Verificar na página (Free) | Tileset/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=68> |
+
+---
+
+## 262. Listing Page 69 / Página 69 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Dark Fantasy Monster Pack 3 | zneeke | Verificar na página (Free) | Pack/Monsters | A verificar | <https://itch.io/game-assets/free?page=69> |
+| Free Pirate Stuff Icons | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=69> |
+| Cyberpunk Portrait Pack (FREE) — 200+ Sci-Fi Character Portraits | SakPix | Verificar na página (Free) | Pack/Portraits | A verificar | <https://itch.io/game-assets/free?page=69> |
+| FREE pixel playing cards | TimberwolfGames | Verificar na página (Free) | Pack/Cards | A verificar | <https://itch.io/game-assets/free?page=69> |
+| Retro 8bit SFX and Music Pack | HUNTER AUDIO PRODUCTION | Verificar na página (Free) | Pack/SFX+Music | A verificar | <https://itch.io/game-assets/free?page=69> |
+
+---
+
+## 263. Listing Page 70 / Página 70 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 3rd series of parallax (winter-ocean-arctic-alien planet) | Bongseng | Verificar na página (Free) | Pack/Parallax | A verificar | <https://itch.io/game-assets/free?page=70> |
+| PIPOYA FREE RPG Character Sprites NEKONIN | Pipoya | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=70> |
+| Tentacles with Geometry Nodes | retroshaper | Verificar na página (Free) | Pack/Blender | A verificar | <https://itch.io/game-assets/free?page=70> |
+| DarkNinja 2D Pixel Art - character animation | Zizzy | Verificar na página (Free) | Pack/Animation | A verificar | <https://itch.io/game-assets/free?page=70> |
+| Pixelated Attack/Hit Animations | Viktor | Verificar na página (Free) | Pack/Animation | A verificar | <https://itch.io/game-assets/free?page=70> |
 
 ---
 
