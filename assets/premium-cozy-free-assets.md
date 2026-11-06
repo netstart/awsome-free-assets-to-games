@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~900+ assets catalogados em 204 categorias.
+> **Total:** ~1000+ assets catalogados em 220 categorias.
 
 ---
 
@@ -2340,6 +2340,154 @@
 |-------|-------|---------|---------|---------------|------|
 | Holiday Bonus Pack — 27 Low-Poly Models | Absurdox Lab | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-summer> |
 | In-Ground Swimming Pool | Camb0 | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-summer> |
+
+---
+
+## 205. Flower / Flor — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 10 Garden flowers' growing stages | LimeadeFish Studio | Verificar na página (Free) | Pack/Flowers | A verificar | <https://itch.io/game-assets/free/tag-flower> |
+| Forest Pixel Pack {Free Demo} | OctoberVibes | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-flower> |
+
+---
+
+## 206. Plant / Planta — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Plant Monster Platformer Sprites | blueapollo | Verificar na página (Free) | Sprites | A verificar | <https://itch.io/game-assets/free/tag-plant> |
+| Plants! and more | fakehiking | Verificar na página (Free) | Pack/Plants | A verificar | <https://itch.io/game-assets/free/tag-plant> |
+| Rose Evolution – 2D Pixel Art Plant Monster Pack | PinoGames | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-plant> |
+
+---
+
+## 207. Vegetable / Vegetal — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Simple Pixel Crops | Srifen | Verificar na página (Free) | Sprites/16x16 | A verificar | <https://itch.io/game-assets/free/tag-vegetable> |
+| PIXEL ART FRUITS & VEGETABLES PACK | CleanAssets | Verificar na página (Free) | Icons/32x32 | A verificar | <https://itch.io/game-assets/free/tag-vegetable> |
+| 2D PIXEL ART FOOD ICONS | CleanAssets | Verificar na página (Free) | Icons/32x32 | A verificar | <https://itch.io/game-assets/free/tag-vegetable> |
+
+---
+
+## 208. Fruit / Fruta — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Angry Fruit Warriors: 20 Character 2D Asset Pack | limitation | Verificar na página (Free) | Pack/2D | A verificar | <https://itch.io/game-assets/free/tag-fruit> |
+| "Bushel of Apples" Asset Pack | Its.Blubrry | Verificar na página (Free) | Pack/Apples | A verificar | <https://itch.io/game-assets/free/tag-fruit> |
+
+---
+
+## 209. Cutlery / Talheres — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| low poly drink and food assetpack | AarniTuli | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-cutlery> |
+| Low Poly Metal Fork | ZunkerBunk | Verificar na página (Free) | 3D/Fork | A verificar | <https://itch.io/game-assets/free/tag-cutlery> |
+| Modern Fork | Multicore AI | Verificar na página (Free) | 3D/Fork | A verificar | <https://itch.io/game-assets/free/tag-cutlery> |
+
+---
+
+## 210. Chair / Cadeira — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Chair 3d low Poly Blockbench | Miguel.almeida | Verificar na página (Free) | 3D/Chair | A verificar | <https://itch.io/game-assets/free/tag-chair> |
+| 3d wooden chair asset | MADTITAN003 | Verificar na página (Free) | 3D/Chair | A verificar | <https://itch.io/game-assets/free/tag-chair> |
+
+---
+
+## 211. Picnic / Piquenique — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 3D Voxel Park Pack | MariaIsMe | Verificar na página (Free) | Pack/Voxel | A verificar | <https://itch.io/game-assets/free/tag-picnic> |
+| Mijanistyle Picnic Addon [24x24] [Mini-pack] | Rekit | Verificar na página (Free) | Pack/Picnic | A verificar | <https://itch.io/game-assets/free/tag-picnic> |
+| YALFA | Knuckle Noise Entertainment | Verificar na página (Free) | Pack/Forest | A verificar | <https://itch.io/game-assets/free/tag-picnic> |
+
+---
+
+## 212. Cooking / Cozinha — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Fast food collection flat design | SunGraphica | Verificar na página (Free) | Pack/Flat Design | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| Dino Nuggets | BrushingBlooms | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+
+---
+
+## 213. Elf / Elfo — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| The Elf Asstes Include Idle Move Attack Death | THUSHAL | Verificar na página (Free) | Pack/Elf | A verificar | <https://itch.io/game-assets/free/tag-elf> |
+| Free Elf Character Sprites | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Sprites/Elf | A verificar | <https://itch.io/game-assets/free/tag-elf> |
+
+---
+
+## 214. Pastel — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Candy Reflections — Free UI Kit | TChepyxa | Verificar na página (Free) | UI Kit | A verificar | <https://itch.io/game-assets/free/tag-pastel> |
+| Pink Beach | bullabit | Verificar na página (Free) | Backgrounds | A verificar | <https://itch.io/game-assets/free/tag-pastel> |
+
+---
+
+## 215. Ice Cream / Sorvete — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Cozy Ice Cream Shop Assets Lite — Free Sample Pack | Gencoglu | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-ice-cream> |
+| Ice cream | DragonEmber | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-ice-cream> |
+
+---
+
+## 216. Character / Personagem — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Ultimate Platformer Pack (100+ Models) | Quaternius | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-character> |
+| Dog Mega Pack | ToffeeCraft | Verificar na página (Free) | Pack/8x8 | A verificar | <https://itch.io/game-assets/free/tag-character> |
+
+---
+
+## 217. Boss / Chefão — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free 2 Animated Monsters, STORM HARPY & STATIC WEAVER | GegX | Verificar na página (Free) | Sprites/Monsters | A verificar | <https://itch.io/game-assets/free/tag-boss> |
+| Robot Series – Pack 6: Bosses | Mekai Games | Verificar na página (Free) | Pack/Robots | A verificar | <https://itch.io/game-assets/free/tag-boss> |
+
+---
+
+## 218. Forest / Floresta — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| A Free pixel Art Assets Pack from a Top-Down View | ansimuz | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-forest> |
+| Taiga: Asset Pack | vnitti | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-forest> |
+| Tiny Platformer - Forest Asset Pack | LuizMelo | Verificar na página (Free) | Pack/Forest | A verificar | <https://itch.io/game-assets/free/tag-forest> |
+
+---
+
+## 219. Woods / Matas — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Forest Trees Set A Pixel Art Environment Sprites | slimeberryStudio2D | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-woods> |
+| Farmhouse Set | Shella Marcelina | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-woods> |
+
+---
+
+## 220. Chimney / Chaminé — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Fireplaces, Chimneys and Stoves: 50 Architectural 3D Props | spajx123c | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-chimney> |
 
 ---
 
