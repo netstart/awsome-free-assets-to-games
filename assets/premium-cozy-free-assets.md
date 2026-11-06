@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1100+ assets catalogados em 236 categorias.
+> **Total:** ~1200+ assets catalogados em 240 categorias.
 
 ---
 
@@ -2682,6 +2682,52 @@
 | High Seas Retro Textures | Strideh | Verificar na página (Free) | Textures | A verificar | <https://itch.io/game-assets/free?page=40> |
 | 8-Direction Top-Down Character Sprites | BossNelNel | Verificar na página (Free) | Sprites/Character | A verificar | <https://itch.io/game-assets/free?page=40> |
 | Car Kit | Kenney (Assets) | CC0 | Pack/3D | Sim (CC0) | <https://itch.io/game-assets/free?page=40> |
+
+---
+
+## 237. Listing Page 41 / Página 41 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pixel Art Icons - Free Pack | Yūki💫 | Verificar na página (Free) | Icons/Pixel | A verificar | <https://itch.io/game-assets/free?page=41> |
+| Scribble Dungeons | Kenney (Assets) | CC0 | Pack/Sprites | Sim (CC0) | <https://itch.io/game-assets/free?page=41> |
+| Crayon Libre Font - CC0 | GGBotNet | CC0 | Font | Sim (CC0) | <https://itch.io/game-assets/free?page=41> |
+| Warped City 2 | ansimuz | Verificar na página (Free) | Pack/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=41> |
+| 2D Pixel Art Squirrel Sprites | Elthen's Pixel Art Shop | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free?page=41> |
+
+---
+
+## 238. Listing Page 42 / Página 42 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| DVA'S Platformer Characer Asset Pack: Thicc 'N' Juicy | DanVelasquezArt | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=42> |
+| World tilesets remastered | MonkeyImage | Verificar na página (Free) | Pack/Tilesets | A verificar | <https://itch.io/game-assets/free?page=42> |
+| Free NPC mage | CreativeKind | Verificar na página (Free) | Pack/NPC | A verificar | <https://itch.io/game-assets/free?page=42> |
+| Top-down Shooter Asset Pack | LaPLaS games inc. | Verificar na página (Free) | Pack/Top-down Shooter | A verificar | <https://itch.io/game-assets/free?page=42> |
+
+---
+
+## 239. Listing Page 43 / Página 43 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 方舟像素字体 / Ark Pixel Font | 狼人小林 | Verificar na página (Free) | Font/Pixel | A verificar | <https://itch.io/game-assets/free?page=43> |
+| Messy Furniture Mega Bundle Free | 0_mem0ry | Verificar na página (Free) | Pack/32x32 | A verificar | <https://itch.io/game-assets/free?page=43> |
+| Fantasy Monsters SFX Vol.1 | Atelier Magicae | Verificar na página (Free) | SFX/Monsters | A verificar | <https://itch.io/game-assets/free?page=43> |
+| Free Guns Pixel Art | Arlan_TR | Verificar na página (Free) | Icons/32x32 | A verificar | <https://itch.io/game-assets/free?page=43> |
+| Free 10 Fantasy Ambient Tracks Music pack | alkakrab | Verificar na página (Free) | Music/Fantasy | A verificar | <https://itch.io/game-assets/free?page=43> |
+
+---
+
+## 240. Listing Page 45 / Página 45 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| [FREE] Vector Ranks | RhosGFX | Verificar na página (Free) | Icons/Vector | A verificar | <https://itch.io/game-assets/free?page=45> |
+| Monsters SFX Vol.2 | Atelier Magicae | Verificar na página (Free) | SFX/Monsters | A verificar | <https://itch.io/game-assets/free?page=45> |
+| Tiny Overworld | ansimuz | Verificar na página (Free) | Tileset/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=45> |
+| HEROES FANTASY - Platformer Tileset | AU_pixel | Verificar na página (Free) | Tileset/Platformer | A verificar | <https://itch.io/game-assets/free?page=45> |
 
 ---
 
