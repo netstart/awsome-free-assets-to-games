@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~950+ assets catalogados em 198 categorias.
+> **Total:** ~900+ assets catalogados em 204 categorias.
 
 ---
 
@@ -2262,6 +2262,9 @@
 
 | Asset | Autor | Licença | Formato | Uso Comercial | Link |
 |-------|-------|---------|---------|---------------|------|
+| Butterflies #1 (2D asset pack) | Vincent Snow | Verificar na página (Free) | Pack/2D | A verificar | <https://itch.io/game-assets/free/tag-butterfly> |
+| Butterfly #2 | DragonEmber | Verificar na página (Free) | Pack/Butterfly | A verificar | <https://itch.io/game-assets/free/tag-butterfly> |
+| LO-FI Forest | crayg | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-butterfly> |
 
 ---
 
@@ -2269,6 +2272,9 @@
 
 | Asset | Autor | Licença | Formato | Uso Comercial | Link |
 |-------|-------|---------|---------|---------------|------|
+| MELTDOWN MISSION IN THE HIVE | lucas.maciel.senac | Verificar na página (Free) | Pack/Game | A verificar | <https://itch.io/game-assets/free/tag-bee> |
+| Honeycomb Vol.1 | tempisq | Verificar na página (Free) | Textures/Honeycomb | A verificar | <https://itch.io/game-assets/free/tag-bee> |
+| Mob Drops - Insect & Hive- 100+ Items | Coffee Beans Studio | Verificar na página (Free) | Pack/Insect | A verificar | <https://itch.io/game-assets/free/tag-bee> |
 
 ---
 
@@ -2276,6 +2282,64 @@
 
 | Asset | Autor | Licença | Formato | Uso Comercial | Link |
 |-------|-------|---------|---------|---------------|------|
+| GIF LADYBUG WALKING | Dante Rossi - Game Designer | Verificar na página (Free) | GIF/Ladybug | A verificar | <https://itch.io/game-assets/free/tag-ladybug> |
+
+---
+
+## 199. Sea / Mar — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Sea Breeze | AvaEstudillo | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-sea> |
+| Water SFX | loadless | Verificar na página (Free) | SFX/Water | A verificar | <https://itch.io/game-assets/free/tag-sea> |
+
+---
+
+## 200. Ocean / Oceano — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Great Pacific Octopus | RAPIDPUNCHES | Verificar na página (Free) | Pack/Octopus | A verificar | <https://itch.io/game-assets/free/tag-ocean> |
+| Forage Fish | RAPIDPUNCHES | Verificar na página (Free) | Pack/Fish | A verificar | <https://itch.io/game-assets/free/tag-ocean> |
+
+---
+
+## 201. Beach / Praia — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free low poly pirate & beach 3D asset pack | reodesuxz | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-beach> |
+| Fish item collection | Gracitation | Verificar na página (Free) | Pack/Fish | A verificar | <https://itch.io/game-assets/free/tag-beach> |
+| Beach Props Asset Pack | Guardian | Verificar na página (Free) | Pack/Props | A verificar | <https://itch.io/game-assets/free/tag-beach> |
+
+---
+
+## 202. Island / Ilha — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Matrix island | BartusBohacer | Verificar na página (Free) | Pack/Island | A verificar | <https://itch.io/game-assets/free/tag-island> |
+| Low-Poly Treasure Island | JMArtsDesign | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-island> |
+| 25 CC0 Islands | Wisedawn | CC0 | Sprites/Island | Sim (CC0) | <https://itch.io/game-assets/free/tag-island> |
+
+---
+
+## 203. Underwater / Subaquático — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 30 high detailed painted background of Underwater | VGDR | Verificar na página (Free) | Backgrounds | A verificar | <https://itch.io/game-assets/free/tag-underwater> |
+| Soviet Submarine | BlenderVoyage | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-underwater> |
+| Watercolor Top Down assets for Maps, battlemaps and games - Water - Beach | Saironwen | Verificar na página (Free) | Pack/Watercolor | A verificar | <https://itch.io/game-assets/free/tag-underwater> |
+
+---
+
+## 204. Summer / Verão — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Holiday Bonus Pack — 27 Low-Poly Models | Absurdox Lab | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-summer> |
+| In-Ground Swimming Pool | Camb0 | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-summer> |
 
 ---
 
