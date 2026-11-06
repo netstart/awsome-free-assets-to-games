@@ -36,6 +36,7 @@ Licença oficial verificada: https://sonniss.com/gdc-bundle-license/ — **Unlim
 
 Parte 1-9 disponíveis em:
 - https://downloads.sonniss.com/Sonniss.com-GDC2024-GameAudioBundle{1-9}of9.zip
+PALAVRAS-CHAVE: pacote de efeitos sonoros, SFX para jogos, áudio comercial, game audio, sons de interface, explosões, passos, feedback sonoro, biblioteca de som, Unlimited User License, Unity, Godot
 - Mirror: https://hippolytus.feralhosting.com/sonniss/
 
 ---
@@ -44,6 +45,7 @@ Parte 1-9 disponíveis em:
 
 Parte 1-14 disponíveis em:
 - https://downloads.sonniss.com/Sonniss.com-GDC2023-GameAudioBundle{1-14}of14.zip
+PALAVRAS-CHAVE: pacote de efeitos sonoros, SFX para jogos, áudio comercial, game audio, sons de interface, explosões, passos, feedback sonoro, biblioteca de som, Unlimited User License, Unity, Godot
 
 ---
 
@@ -51,6 +53,7 @@ Parte 1-14 disponíveis em:
 
 Parte 1-14 disponíveis em:
 - https://downloads.sonniss.com/Sonniss.com%20-%20GDC%202020%20-%20Game%20Audio%20Bundle%20Part{1-14}of14.zip
+PALAVRAS-CHAVE: pacote de efeitos sonoros, SFX para jogos, áudio comercial, game audio, sons de interface, explosões, passos, feedback sonoro, biblioteca de som, Unlimited User License, Unity, Godot
 
 ---
 

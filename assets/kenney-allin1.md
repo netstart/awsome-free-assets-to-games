@@ -26,8 +26,11 @@ Como o bundle agrega o conteúdo livre da kenney.nl, cada pack individual já es
 
 Links diretos:
 - https://kenney.itch.io/kenney-game-assets (página do bundle, 60.000+ assets, CC0)
+PALAVRAS-CHAVE: página do bundle kenney, coleção de 60 mil assets, game assets gratuitos, uso comercial, licença CC0, domínio público, download único, sprites 2D, modelos 3D, UI e áudio, engines Unity Godot Unreal, itch.io
 - https://kenney.nl/assets (página principal de assets, 14 páginas de packs, CC0)
+PALAVRAS-CHAVE: página principal kenney.nl, 14 páginas de packs, assets individuais, game assets gratuitos, uso comercial, licença CC0, domínio público, sprites e tilesets, modelos 3D, UI, áudio e fontes
 - https://kenney.nl/data/itch/preview/ (prévia do que está incluído no bundle)
+PALAVRAS-CHAVE: prévia do bundle kenney, conteúdo incluído, lista de assets, 60 mil assets, visualização prévia, game assets, uso comercial, licença CC0, domínio público, itch.io, kenney.nl
 
 ---
 

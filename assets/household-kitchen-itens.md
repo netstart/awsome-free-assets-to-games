@@ -66,25 +66,39 @@ PALAVRAS-CHAVE: som, copo, xícara, bebida, louça, cozinha, Rússia, FiftySound
 Fonte verificada: 効果音ラボ (Sound Effect Lab — soundeffect-lab.info) — licença lida na página https://soundeffect-lab.info/agreement/: comercial grátis; sem crédito; sem link obrigatório; proibido redistribuir o arquivo de som ou criar app centrado no som; proibido IA, Content ID e uso adulto.
 
 - Cozinha (キッチン音) — https://soundeffect-lab.info/sound/kitchen.html — ✅ (sons de cozinha)
+PALAVRAS-CHAVE: som, cozinha, culinária, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Cozinhar (料理音) — https://soundeffect-lab.info/sound/cooking.html — ✅ (sons de cozinhar)
+PALAVRAS-CHAVE: som, cozinhar, preparo, comida, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Comer (食事音) — https://soundeffect-lab.info/sound/eating.html — ✅ (sons de comer)
+PALAVRAS-CHAVE: som, comer, mastigar, comida, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Escovar dentes (歯磨き音) — https://soundeffect-lab.info/sound/brushing.html — ✅ (som de escovar dentes)
+PALAVRAS-CHAVE: som, escovar, dentes, banheiro, higiene, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Banho (お風呂音) — https://soundeffect-lab.info/sound/bath.html — ✅ (som de banho)
+PALAVRAS-CHAVE: som, banho, banheiro, água, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Limpeza (掃除音) — https://soundeffect-lab.info/sound/cleaning.html — ✅ (som de limpeza)
+PALAVRAS-CHAVE: som, limpeza, varrer, faxina, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Água (水音) — https://soundeffect-lab.info/sound/water.html — ✅ (sons de água)
+PALAVRAS-CHAVE: som, água, torneira, fluxo, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Fogo (火音) — https://soundeffect-lab.info/sound/fire.html — ✅ (sons de fogo)
+PALAVRAS-CHAVE: som, fogo, forno, cozinhar, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Abertura/fechamento (開閉音) — https://soundeffect-lab.info/sound/openclose.html — ✅ (portas, armários, geladeira)
+PALAVRAS-CHAVE: som, abertura, fechamento, porta, armário, geladeira, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Garrafa/Venda (販売機音) — https://soundeffect-lab.info/sound/vending.html — ✅ (máquina de venda)
+PALAVRAS-CHAVE: som, máquina de venda, garrafa, loja, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 
 Fonte verificada: pipoya.net (ぴぽや倉庫) — licença lida: comercial OK para pessoa física e empresa; sem crédito obrigatório; modificação OK; proibido vender/redistribuir o material como arquivo de asset.
 
 - Outros materiais (その他) — https://pipoya.net/sozai/?p=362 — ✅ (materiais diversos, pode incluir itens domésticos)
+PALAVRAS-CHAVE: materiais diversos, Japão, pipoya, cozinha, itens domésticos, 2D, 3D, uso comercial, sem crédito obrigatório
 
 Fonte verificada: DOT ILLUST (dot-illust.net) — licença lida: comercial OK até 30 itens por uma mesma obra; sem crédito; proibido redistribuir/vender o material; proibido NFT, LINE Creators Stickers e uso como gerador.
 
 - Comida (食べ物) — https://dot-illust.net/ — ✅ (limite: 30 itens/obra)
+PALAVRAS-CHAVE: comida, Japão, DOT ILLUST, cozinha, itens, 2D, 3D, uso comercial, limite 30 itens
 - Pratos/cozinha (料理) — https://dot-illust.net/ — ✅ (limite: 30 itens/obra)
+PALAVRAS-CHAVE: pratos, cozinha, Japão, DOT ILLUST, louça, utensílio, 2D, 3D, uso comercial, limite 30 itens
 - Doces (お菓子) — https://dot-illust.net/ — ✅ (limite: 30 itens/obra)
+PALAVRAS-CHAVE: doces, Japão, DOT ILLUST, cozinha, sobremesa, doce, 2D, 3D, uso comercial, limite 30 itens
 
 ---
 
@@ -93,20 +107,35 @@ Fonte verificada: DOT ILLUST (dot-illust.net) — licença lida: comercial OK at
 Fonte verificada: FiftySounds (chinês — fiftysounds.com/zh) — licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso comercial permitido (incluindo videogames), **atribuição obrigatória** (link para o site).
 
 - Cozinha detalhada (厨房详细) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅ (sons detalhados de cozinha)
+PALAVRAS-CHAVE: som, cozinha, culinária, detalhado, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cortar carne (切肉) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, carne, cortar, faca, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cortar legumes (切菜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, legume, vegetal, cortar, faca, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cozinhar arroz (煮饭) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, arroz, cozinhar, panelas, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Fritar (炒菜) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, fritar, óleo, panela, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Assar (烤面包) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, assar, forno, pão, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cortar pão (切面包) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, pão, cortar, faca, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Café (咖啡) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, café, bebida, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Chá (茶) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, chá, bebida, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Suco (果汁) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, suco, bebida, fruta, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Leite (牛奶) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, leite, bebida, laticínio, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Cerveja (啤酒) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, cerveja, bebida, álcool, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Vinho (红酒) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, vinho, bebida, álcool, copo, cozinha, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Chuveiro (淋浴) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, chuveiro, água, banheiro, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Campainha (门铃) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, campainha, notificação, entrada, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 
 ---
 
@@ -122,28 +151,47 @@ Não foram localizados repositórios dedicados de assets gratuitos com domínio 
 
 Já catalogados em `assets/kenney.md` (não duplicar):
 - https://kenney.nl/assets/food-kit (3D — comida)
+PALAVRAS-CHAVE: food-kit, 3D, comida, Kenney, CC0, cozinha, itens, cenário
 - https://kenney.nl/assets/pixel-platformer-food-expansion (2D — expansão comida pixel)
+PALAVRAS-CHAVE: pixel-platformer-food-expansion, 2D, comida, pixel art, Kenney, CC0, platformer, itens
 - https://kenney.nl/assets/generic-items (2D — itens genéricos)
+PALAVRAS-CHAVE: generic-items, 2D, itens genéricos, Kenney, CC0, cozinha, sprites
 
 ### OpenGameArt (opengameart.org) — CC0 / CC-BY / CC-BY-SA / OGA-BY
 
 Verificar licença de cada asset antes de uso comercial. Já catalogados em `assets/opengameart.md` (não duplicar):
 - https://opengameart.org/content/kitchen-background-4-styles (CC0 — fundos de cozinha 4 estilos)
+PALAVRAS-CHAVE: kitchen-background-4-styles, CC0, OpenGameArt, cozinha, fundo, cenário, 4 estilos, 2D
 - https://opengameart.org/content/food (CC0 — ícones de comida variados)
+PALAVRAS-CHAVE: food, CC0, OpenGameArt, ícones, comida, inventário, 2D, variados
 - https://opengameart.org/content/64-16x16-food-sprites (CC0 — 64 sprites de comida 16x16)
+PALAVRAS-CHAVE: 64-16x16-food-sprites, CC0, OpenGameArt, sprites, comida, 16x16, pixel art, inventário
 - https://opengameart.org/content/icons-food (CC0 — ícones de comida para inventário)
+PALAVRAS-CHAVE: icons-food, CC0, OpenGameArt, ícones, comida, inventário, interface, 2D
 - https://opengameart.org/content/cartoon-food (CC0 — comida em estilo cartoon)
+PALAVRAS-CHAVE: cartoon-food, CC0, OpenGameArt, comida, cartoon, estilo, 2D, itens
 - https://opengameart.org/content/food-items-16x16 (CC0 — itens de comida 16x16)
+PALAVRAS-CHAVE: food-items-16x16, CC0, OpenGameArt, comida, 16x16, itens, pixel art, inventário
 - https://opengameart.org/content/32px-food-items (CC0 — itens de comida 32px)
+PALAVRAS-CHAVE: 32px-food-items, CC0, OpenGameArt, comida, 32px, itens, pixel art, inventário
 - https://opengameart.org/content/ice-cream (CC0 — sorvete, do Xom Adept)
+PALAVRAS-CHAVE: ice-cream, CC0, OpenGameArt, sorvete, comida, doce, 2D, Xom Adept
 - https://opengameart.org/content/sweets (CC0 — doces variados, da MELLE)
+PALAVRAS-CHAVE: sweets, CC0, OpenGameArt, doces, comida, doce, 2D, MELLE
 - https://opengameart.org/content/donut (CC0 — donut simples, do joa)
+PALAVRAS-CHAVE: donut, CC0, OpenGameArt, donut, comida, doce, 2D, joa
 - https://opengameart.org/content/cupcake-character-walk-and-jump (CC0 — personagem cupcake animado, do PWL)
+PALAVRAS-CHAVE: cupcake-character-walk-and-jump, CC0, OpenGameArt, cupcake, personagem, animado, comida, doce
 - https://opengameart.org/content/cozy-café-icons (CC BY 4.0 — ícones de café aconchegante, crédito obrigatório)
+PALAVRAS-CHAVE: cozy-café-icons, CC BY 4.0, OpenGameArt, ícones, café, cafeteria, cozinha, crédito obrigatório
 - https://opengameart.org/content/drinks-and-beverages-32×32 (OGA-BY 4.0 — bebidas 32x32, crédito obrigatório)
+PALAVRAS-CHAVE: drinks-and-beverages-32×32, OGA-BY 4.0, OpenGameArt, bebidas, 32x32, cozinha, crédito obrigatório
 - https://opengameart.org/content/potion-bottles (CC0 — frascos de poção, serve como copos/garrafas)
+PALAVRAS-CHAVE: potion-bottles, CC0, OpenGameArt, frascos, poção, copos, garrafas, cozinha, 2D
 - https://opengameart.org/content/potion-bottles-extra (CC0 — frascos de poção extras)
+PALAVRAS-CHAVE: potion-bottles-extra, CC0, OpenGameArt, frascos, poção, extras, copos, garrafas
 - https://opengameart.org/content/potion-set (CC0 — conjunto de poções do Cethiel)
+PALAVRAS-CHAVE: potion-set, CC0, OpenGameArt, poções, conjunto, Cethiel, frascos, fantasia
 
 ### Poly Haven (polyhaven.com) — CC0 / domínio público
 
@@ -152,7 +200,9 @@ Já referenciado em `assets/assets-2d5.md` (não duplicar): mobiliário, vasos, 
 ### itch.io — packs gratuitos (verificar licença individual de cada pacote)
 
 - https://itch.io/game-assets/free/tag-kitchen (busca por tag cozinha, diversos packs gratuitos)
+PALAVRAS-CHAVE: cozinha, tag, itch.io, busca, assets gratuitos, comida, itens, 2D, 3D
 - https://itch.io/game-assets/free/tag-food (busca por tag comida, diversos packs gratuitos)
+PALAVRAS-CHAVE: comida, tag, itch.io, busca, assets gratuitos, itens, cozinha, 2D, 3D
 
 ---
 

@@ -12,6 +12,7 @@ Os packs abaixo foram descobertos acessando diretamente a tag **sound-effects** 
 Licença lida: https://www.fiftysounds.com/ru/license-info/ — uso comercial permitido (incluindo videogames), **atribuição obrigatória** (link para fiftysounds.com/ru/), proibido revenda/sublicença, proibido criar serviço concorrente, proibido reivindicar autoria, proibido usar para criar própria música/remix. Criação humana certificada.
 
 - FiftySounds — biblioteca de efeitos sonoros — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅
+PALAVRAS-CHAVE: biblioteca de efeitos sonoros, SFX, uso comercial em jogos, atribuição obrigatória, qualquer gênero de jogo, cenas de jogo, mecânicas de áudio, estilo variado, categoria efeitos sonoros, engine Unity Unreal Godot, licença comercial
   - Categorias: Uidares, Tiros/Explosões, Escritório, Água, Animais, Terror, Metal, Jogos, Magia, Desenhos animados, Vozes, Pulos, Natureza, Transições, Interface, e mais.
 
 ---
@@ -281,9 +282,7 @@ Licença lida na página oficial de cada asset. Todos gratuitos, uso comercial p
 - OpenGameArt — 100 CC0 metal and wood SFX — https://opengameart.org/content/100-cc0-metal-and-wood-sfx — ✅ CC0
   - Inclui wood: breaking, door closing, cracking, falling, wood hammer, hit, misc, slam, squeaking wood
 
-- OpenGameArt — Foot walking step sounds on stone, water, snow, wood and dirt — https://opengameart.org/content/foot-walking-step-sounds-on-stone-water-snow-wood-and-dirt — ⚠️ GPL 2.0 / GPL 3.0
-  - Sons de passo em madeira entre muitos outros tipos
-  - 7Z 1.2 Mb · 20764 downloads · Tags: snow, step, walking, movement, dirt, Wood, water, wet, footstep, foot, run
+⚠️ REMOVIDO: Foot walking step sounds (GPL 2.0 / GPL 3.0 — não é licença permissiva conforme AGENTS.md)
 
 - OpenGameArt — Wood and Metal Sound Effects: Volume 2 — verificar licença
 - OpenGameArt — Different steps on wood, stone, leaves, gravel and mud — verificar licença
@@ -322,10 +321,13 @@ Licença lida na página oficial de cada asset. Todos gratuitos, uso comercial p
 ### **Kenney.nl — Som/SFX**
 
 - https://kenney.nl/assets/sci-fi-sounds — ✅ CC0 / domínio público
+PALAVRAS-CHAVE: efeitos sonoros sci-fi, SFX ficção científica, naves espaciais, motores e lasers, jogos espaciais, tiro espacial, cenas sci-fi, estilo futurista, categoria sci-fi, engine Unity Unreal Godot, CC0, domínio público
   - 70 arquivos de SFX sci-fi: motores, lasers e naves
 - https://kenney.nl/assets/interface-sounds — ✅ CC0
+PALAVRAS-CHAVE: sons de interface, SFX UI, menus e botões, cliques e bleeps, qualquer gênero de jogo, cenas de menu, mecânica de interface, estilo interface, categoria UI, engine Unity Unreal Godot, CC0, domínio público
   - Sons de interface/UI
 - https://kenney.nl/assets/impact-sounds — ✅ CC0
+PALAVRAS-CHAVE: sons de impacto, SFX impacto, colisões e pancadas, jogos de ação, combate, cenas de colisão, mecânica de impacto, estilo impacto, categoria impactos, engine Unity Unreal Godot, CC0, domínio público
   - Sons de impacto diversos
 
 ### 🌍 Global — Freesound.org (738.703+ sons, licenças CC0/CC BY verificáveis)
@@ -333,6 +335,7 @@ Licença lida na página oficial de cada asset. Todos gratuitos, uso comercial p
 Freesound.org é um repositório colaborativo global de sons com licenças Creative Commons verificáveis por arquivo.
 
 - https://freesound.org/ — ✅ (licenças por arquivo: CC0, CC BY, CC BY-SA, etc.)
+PALAVRAS-CHAVE: repositório de sons, efeitos sonoros, CC0, CC BY, CC BY-SA, uso comercial, qualquer gênero de jogo, cenas de jogo, mecânicas de áudio, estilo variado, categoria efeitos sonoros, engine qualquer
   - Total: 738.703 sons
   - CC0 (domínio público, sem crédito): 384.409 sons
   - CC BY (atribuição obrigatória): 259.846 sons

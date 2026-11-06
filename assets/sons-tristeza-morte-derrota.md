@@ -86,11 +86,17 @@ Licença de cada asset a confirmar na página individual (muitos são CC0 / CC-B
 
 ### Mixkit (Sound Effects — Free License, comercial permitido)
 - https://mixkit.co/free-sound-effects/game-over/ (34 sons)
+PALAVRAS-CHAVE: sons, efeito sonoro, SFX, game over, derrota, falha de nível, jogos, motores de jogo, mixkit, licença gratuita, uso comercial, download
 - https://mixkit.co/free-sound-effects/lose/
+PALAVRAS-CHAVE: sons, efeito sonoro, SFX, perdeu o jogo, falha, derrota, desafio, jogos, motores de jogo, mixkit, licença gratuita, uso comercial
 - https://mixkit.co/free-sound-effects/wrong/
+PALAVRAS-CHAVE: sons, efeito sonoro, SFX, erro, escolha errada, falha de ação, feedback sonoro, jogos, motores de jogo, mixkit, licença gratuita, uso comercial
 - https://mixkit.co/free-sound-effects/sad/
+PALAVRAS-CHAVE: sons, efeito sonoro, SFX, tristeza, decepção, luto, melancolia, jogos, motores de jogo, mixkit, licença gratuita, uso comercial
 - https://mixkit.co/free-sound-effects/hurt/
+PALAVRAS-CHAVE: sons, efeito sonoro, SFX, dor, ferimento, personagem machucado, dano, jogos, motores de jogo, mixkit, licença gratuita, uso comercial
 - https://mixkit.co/free-sound-effects/error/
+PALAVRAS-CHAVE: sons, efeito sonoro, SFX, erro do sistema, falha, aviso sonoro, interface, jogos, motores de jogo, mixkit, licença gratuita, uso comercial
 - Licença: https://mixkit.co/license/#sfxFree
 
 ### Outras (fontes regionais já acessíveis)

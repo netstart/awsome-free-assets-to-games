@@ -4,6 +4,7 @@ Pesquisa realizada em 21/10/2026. Não foram encontrados sites específicos de a
 
 Sites suíços verificados que não contêm assets de jogos reutilizáveis:
 - https://gamedev.ch/ (apenas página de hospedagem web, não contém assets de jogos)
+PALAVRAS-CHAVE: site suíço, comunidade gamedev.ch, página de hospedagem web, desenvolvimento de jogos, comunidade de desenvolvedores, não possui assets de jogos, sem recursos reutilizáveis, plataforma web, navegador, verificação de acessibilidade
 
 Para assets gratuitos de uso comercial, recomenda-se usar os arquivos existentes:
 - `assets/kenney.md` — kenney.nl (CC0 / domínio público)

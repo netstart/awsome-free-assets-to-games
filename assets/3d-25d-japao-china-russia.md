@@ -56,10 +56,12 @@ Booth.pm marketplace japonês com categoria `3Dモデル 商用利用可` (757 i
 ### Catálogo Booth.pm — 3D modelos uso comercial (757 itens)
 
 - https://booth.pm/ja/items?tags%5B%5D=3D%E3%83%A2%E3%83%87%E3%83%AB&tags%5B%5D=%E5%95%86%E7%94%A8%E5%88%A9%E7%94%A8%E5%8F%AF — 757 itens — 🟡 (verificar cada item individualmente)
+PALAVRAS-CHAVE: Japão, catálogo, modelos-3d, assets-gratuitos, uso-comercial, mercado, booth-pm, coleção, download, engine-neutra
 
 ### Catálogo Booth.pm — FREE uso comercial (62 itens)
 
 - https://booth.pm/ja/items?in_stock=true&tags%5B%5D=%E5%95%86%E7%94%A8%E5%88%A9%E7%94%A8%E5%8F%AF&tags%5B%5D=FREE — 62 itens — 🟡
+PALAVRAS-CHAVE: Japão, catálogo, modelos-3d, assets-gratuitos, uso-comercial, gratuito, mercado, booth-pm, coleção, download
 
 
 ---
@@ -71,7 +73,9 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 ### Modelos 3D — China (verificados individualmente)
 
 - https://opengameart.org/content/chinagong (**CC0** â€” Gong chinês 3D (Sanja), mesh China/Ásia, blender) — ✅
+PALAVRAS-CHAVE: China, modelo-3d, gong, CC0, opengameart, blender, mesh, assets-gratuitos, uso-comercial, jogos
 - https://opengameart.org/content/3td-furniture-pack (**CC0** â€” 3TD Furniture Pack - China Hutch, bookshelf, cupboard, desk, mesa (Ron Kapaun/hreikin), DAE format, Torque 3D) — ✅
+PALAVRAS-CHAVE: China, moveis-3d, CC0, opengameart, DAE, torque-3d, modelo-3d, uso-comercial, assets-gratuitos, jogos
 
 ---
 
@@ -82,10 +86,15 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 ### Modelos 3D — Rússia (verificados individualmente)
 
 - https://opengameart.org/content/cc0-flat-guns-east (**CC0** â€” 10 modelos de armas baseadas em projetos russos (Pichuliru), rigged, blend/fbx/glb/obj) — ✅
+PALAVRAS-CHAVE: Rússia, armas-3d, CC0, opengameart, modelo-3d, rigged, fbx, glb, obj, jogos
 - https://opengameart.org/content/pack-of-extremly-low-poly-soviet-vehicles-in-pixel-art-style (**CC0** â€” Veículos soviéticos lowpoly estilo pixel art (madmedicsoft), carros/russiano, 3D) — ✅ (nota: veículos baseados em modelos reais; alterar ligeiramente para uso comercial seguro)
+PALAVRAS-CHAVE: Rússia, veículos-3d, pixel-art, lowpoly, CC0, opengameart, carros, blender, jogos, uso-comercial
 - https://opengameart.org/content/residential-building-lowpoly-apartment-block (**CC0** â€” Prédio residencial soviético baixo polígono, Moscou (Mixazzz), casa russa, Khrushchev-style) — ✅
+PALAVRAS-CHAVE: Rússia, prédio-3d, lowpoly, apartamento, CC0, opengameart, moscou, modelo-3d, jogos, uso-comercial
 - https://opengameart.org/content/hospital-medical-center-from-moscow (**CC0** â€” Hospital/centro médico de Moscou (Mixazzz), edifício soviético abandonado, saúde) — ✅
+PALAVRAS-CHAVE: Rússia, hospital-3d, prédio, lowpoly, CC0, opengameart, moscou, saúde, jogos, uso-comercial
 - https://opengameart.org/content/school-from-moscow-lowpoly-building (**CC0** â€” Escola de Moscou, baixo polígono (Mixazzz), escola russa soviética) — ✅
+PALAVRAS-CHAVE: Rússia, escola-3d, prédio, lowpoly, CC0, opengameart, moscou, modelo-3d, jogos, uso-comercial
 
 ---
 
@@ -96,6 +105,7 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 ### Modelos 3D — Coreia (verificados individualmente)
 
 - https://opengameart.org/content/go-board (**CC-BY 4.0 / GPL 3.0** â€” Tabuleiro de Go/Goban 3D (Jummit), tags japonês/coreano/chinês, glTF/blender, stones via geometry nodes) — ✅
+PALAVRAS-CHAVE: Coreia, tabuleiro-go, 3d, CC-BY-4.0, GPL-3.0, opengameart, gltf, blender, jogos, tabuleiro
 
 ---
 

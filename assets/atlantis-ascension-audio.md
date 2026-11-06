@@ -17,7 +17,7 @@
 
 ---
 
-## 1. OpenGameArt — Música (1385)
+## 1. OpenGameArt — Música (1391)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -45,6 +45,7 @@
 | 2 Part Invention in B Minor | Matthew Pablo | CC BY 3.0 | boss | <https://opengameart.org/content/2-part-invention-in-b-minor> |
 | 2 Whimsical RPG Themes | KarateStudios | CC0 1.0 | city | <https://opengameart.org/content/2-whimsical-rpg-themes> |
 | 2am in Sector 3 (Looping) | Eric Matyas | CC BY 3.0 | city | <https://opengameart.org/content/2am-in-sector-3-looping> |
+| 2D Metroid-like or shooter music | StormKMD | CC0 1.0 | shmup | <https://opengameart.org/content/2d-metroid-like-or-shooter-music> |
 | 4 Chiptunes (Adventure) | SubspaceAudio | CC0 1.0 | boss | <https://opengameart.org/content/4-chiptunes-adventure> |
 | 42 "Monster RPG 2" music tracks | troutsneeze | CC0 1.0 | sea | <https://opengameart.org/content/42-monster-rpg-2-music-tracks> |
 | 7DaysofVGM Free Asset Pack | LemonheadVGM | CC0 1.0 | boss | <https://opengameart.org/content/7daysofvgm-free-asset-pack> |
@@ -437,6 +438,7 @@
 | Derelict Spaceship | vitalezzz | CC0 1.0 | spaceship | <https://opengameart.org/content/derelict-spaceship> |
 | Descholate | MikeeUSA | CC BY-SA 3.0 | clouds | <https://opengameart.org/content/descholate> |
 | Desert March | tcarisland | CC BY 4.0 | wave | <https://opengameart.org/content/desert-march> |
+| Destiny (Wave G) | KLY | CC BY-SA 3.0 | wave | <https://opengameart.org/content/destiny-wave-g> |
 | Determined Pursuit (epic orchestra loop) | Emma_MA | CC0 1.0 | boss | <https://opengameart.org/content/determined-pursuit-epic-orchestra-loop> |
 | Determined to Fly | OwlishMedia | CC0 1.0 | sky | <https://opengameart.org/content/determined-to-fly> |
 | Devonair | cinameng | CC0 1.0 | wave | <https://opengameart.org/content/devonair> |
@@ -1012,6 +1014,7 @@
 | RPG Battle Theme II | CleytonKauffman | CC0 1.0 | boss | <https://opengameart.org/content/rpg-battle-theme-ii> |
 | RPG Exploration (The Lost City) | Hitctrl | CC BY 3.0 | city | <https://opengameart.org/content/rpg-exploration-the-lost-city> |
 | RPG Exploration - (The Black Temple) | Hitctrl | CC BY 3.0 | temple | <https://opengameart.org/content/rpg-exploration-the-black-temple> |
+| RPG Final Fantasy Style - Living Everyday | Circlerun | CC BY 3.0 | city | <https://opengameart.org/content/rpg-final-fantasy-style-living-everyday> |
 | Rpg Melody 9 | Tozan | CC0 1.0 | crystal | <https://opengameart.org/content/rpg-melody-9> |
 | RPG Town/Travel or Credits Song | Patrick Maney | CC BY 3.0 | ruins | <https://opengameart.org/content/rpg-towntravel-or-credits-song> |
 | RPG_Forgotten_Isles | Hitctrl | CC BY 3.0 | island | <https://opengameart.org/content/rpgforgottenisles> |
@@ -1084,6 +1087,7 @@
 | Sky Portal | Alexandr Zhelanov | CC BY 3.0 | sky | <https://opengameart.org/content/sky-portal> |
 | Sky Run | TAD | CC BY 3.0 | sky | <https://opengameart.org/content/sky-run> |
 | Sky Trance | MintoDog | CC0 1.0 | sky | <https://opengameart.org/content/sky-trance> |
+| Sky trance, ciborg destiny & low pridox (Mintodog vs Zodik remixed) | glitchart | CC BY 3.0 | sky | <https://opengameart.org/content/sky-trance-ciborg-destiny-low-pridox-mintodog-vs-zodik-remixed> |
 | Sky Vibe - High Frequency | diligentcircle | CC BY-SA 3.0 | sky | <https://opengameart.org/content/sky-vibe-high-frequency> |
 | Sleep Talking / Loop / Fantasy / RPG / Sci-Fi | KiluaBoy | CC0 1.0 | clouds | <https://opengameart.org/content/sleep-talking-loop-fantasy-rpg-sci-fi> |
 | Sleepy Clouds | Fupi | CC0 1.0 | clouds | <https://opengameart.org/content/sleepy-clouds> |
@@ -1322,6 +1326,7 @@
 | Tyhosiasian | Tozan | CC0 1.0 | city | <https://opengameart.org/content/tyhosiasian> |
 | Typhoon Girls - Untold Stories - Full OST+SFX | Spring Spring | CC BY 3.0 / OGA-BY 3.0 / CC0 1.0 / CC BY-SA 3.0 | shmup | <https://opengameart.org/content/typhoon-girls-untold-stories-full-ostsfx> |
 | Ultimate MIDI Pack | northivanastan | CC BY-SA 4.0 | sea | <https://opengameart.org/content/ultimate-midi-pack> |
+| Unchained Destiny [Rock] | nene | CC0 1.0 | boss | <https://opengameart.org/content/unchained-destiny-rock> |
 | Under Clouds | Snabisch | CC BY 3.0 | clouds | <https://opengameart.org/content/under-clouds> |
 | Under The Sea | KLY | CC BY-SA 3.0 | sea | <https://opengameart.org/content/under-the-sea> |
 | Undersea Neighbors | MNDV.ecb | CC0 1.0 | water | <https://opengameart.org/content/undersea-neighbors> |
@@ -1402,6 +1407,7 @@
 | You And I | KLY | CC BY-SA 4.0 / CC BY-SA 3.0 | octopus | <https://opengameart.org/content/you-and-i> |
 | You can't beat the machine | Loyalty Freak Music | CC0 1.0 | boss | <https://opengameart.org/content/you-cant-beat-the-machine> |
 | Zeal Soul | zesona | CC0 1.0 | temple | <https://opengameart.org/content/zeal-soul> |
+| Zelda Style 8-bit Boss Theme | HydroGene | CC0 1.0 | boss | <https://opengameart.org/content/zelda-style-8-bit-boss-theme> |
 | ZenoStar | Centurion_of_war | CC0 1.0 | spaceship | <https://opengameart.org/content/zenostar> |
 | Zodik - Touch The Sky | Zodik | CC BY 3.0 | sky | <https://opengameart.org/content/zodik-touch-the-sky> |
 | Zozy's Woods | AiTechEye | CC BY 4.0 | water | <https://opengameart.org/content/zozys-woods> |
@@ -1716,7 +1722,7 @@
 
 ---
 
-## 3. itch.io — Música (331)
+## 3. itch.io — Música (332)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -1725,6 +1731,7 @@
 | 16+ Tracks of "Boss Battle" Music | towball | CC BY 4.0 | music | <https://towball.itch.io/15-royalty-free-boss-fight> |
 | 20 Free Authentic Roland MT-32 Retro Tracks | eliaskarhill | CC BY 4.0 | music | <https://eliaskarhill.itch.io/free-music-pack-release-20-authentic-roland-mt-32-retro-tracks> |
 | 24 Bad Songs You Can Have For Free! | gaily-novelry | CC0 1.0 | music | <https://gaily-novelry.itch.io/number-free-songs-that-are-probably-bad> |
+| 26 "Animal Crossing" Style Tracks (Towball's Crossing) | towball | CC BY 4.0 | music | <https://towball.itch.io/towballs-crossing> |
 | 50 sound Fx for Your Game | fallenblood | CC0 1.0 | music | <https://fallenblood.itch.io/50-sfx> |
 | 500 FREE FL Studio VST Presets | retrovandal | CC BY 4.0 | music | <https://retrovandal.itch.io/500-free-fl-studio-vst-presets> |
 | 6 Free Prince of Persia-Style Music Tracks | eliaskarhill | CC BY 4.0 | music | <https://eliaskarhill.itch.io/6-free-prince-of-persia-style-music-tracks> |
@@ -2054,7 +2061,7 @@
 
 ---
 
-## 4. itch.io — SFX (64)
+## 4. itch.io — SFX (65)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -2122,3 +2129,4 @@
 | WARLORD - Announcer Audio Pack | voicebosch | CC BY-SA 4.0 | sound-effects | <https://voicebosch.itch.io/warlord-announcer-audio-pack> |
 | Wetland Ambience | thesoundrack | CC BY 4.0 | sound-effects | <https://thesoundrack.itch.io/wetland-ambience> |
 | Zombie Cartoon Voices Sound Effects | tagirijus | CC BY 4.0 | sound-effects | <https://tagirijus.itch.io/zombie-cartoon-voices-sound-effects> |
+| UI Audio | Kenney (kenney.nl) | CC0 1.0 | sound-effects | <https://kenney.nl/assets/ui-audio> |

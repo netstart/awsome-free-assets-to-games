@@ -5,18 +5,27 @@
 ## Fontes
 
 - https://github.com/ACh-K/Cubic-11 (Cubic 11 / 俐方體11號, OFL)
+PALAVRAS-CHAVE: fonte tipográfica CJK, texto de interface de jogo, chinês japonês coreano, OFL 1.1, uso comercial, tipografia de tela, menus e legendas, qualquer engine de jogos, GitHub, caracteres ideográficos, codificação de caracteres, design tipográfico
 - https://github.com/scott0107000/BoutiqueBitmap9x9 (BoutiqueBitmap9x9 / 精品點陣體, OFL)
+PALAVRAS-CHAVE: fonte bitmap pixel, arte em pixels retrô, interface de jogo pixelada, chinês CJK, OFL 1.1, uso comercial, texto na tela, fontes de pixels, qualquer engine de jogos, glifos 9×9, UI retrô, tipografia de pixel art
 - https://github.com/atelier-anchor/smiley-sans (Smiley Sans / 得意黑, OFL)
+PALAVRAS-CHAVE: fonte sem serifa, tipografia chinesa moderna, interface de usuário, OFL 1.1, uso comercial, texto de tela, menus de jogo, legendas, qualquer engine de jogos, CJK, legibilidade, design tipográfico limpo
 - https://github.com/lxgw/LxgwWenKai (LXGW WenKai / 霞鹜文楷, OFL)
+PALAVRAS-CHAVE: fonte caligráfica chinesa, estilo de escrita com pincel, tipografia artística, OFL 1.1, uso comercial, textos decorativos, títulos de jogo, cenários wuxia e xianxia, qualquer engine de jogos, CJK, caligrafia tradicional
 
 ## Outros
 
 - https://github.com/wanzaixiaoxin/gresource (GResource — índice de assets chinês)
+PALAVRAS-CHAVE: índice de assets chinês, repositório de recursos, assets diversos, uso comercial a verificar, qualquer engine de jogos, domínio .cn, pesquisa de assets, categoria mista, licença a confirmar, catálogo de recursos chinês, distribuição de ativos
 - https://itch.io/game-assets/tag-wuxia (itch.io — tag wuxia)
+PALAVRAS-CHAVE: itch.io, tag wuxia, fantasia oriental chinesa, artes marciais, sprites e cenários 2D, uso comercial a verificar por asset, qualquer engine de jogos, xianxia, kung fu, arte 2D, coleção por tag, ativos gratuitos
 - ~~https://comshadow.itch.io/chinese-wuxia-tileset~~ (REMOVIDO: pago e gerado por IA)
 - https://itch.io/c/5218308/2dcc-0 (coleção 2D CC-0 no itch.io)
+PALAVRAS-CHAVE: itch.io, coleção 2D, CC0, domínio público, uso comercial irrestrito, sprites 2D, tilesets, qualquer engine de jogos, ativos gratuitos, arte bidimensional, sem atribuição obrigatória, coleção curada
 - https://itch.io/c/3002520 (coleção 像素素材 no itch.io)
+PALAVRAS-CHAVE: itch.io, pixel art, arte em pixels, coleção chinesa de pixels, sprites 2D, tiles, uso comercial a verificar, qualquer engine de jogos, retrô, arte bidimensional, ativos de pixel, material gráfico 2D
 - https://itch.io/c/5971646 (coleção 像素素材 no itch.io)
+PALAVRAS-CHAVE: itch.io, pixel art, arte em pixels, coleção chinesa de pixels, sprites 2D, tiles, uso comercial a verificar, qualquer engine de jogos, retrô, arte bidimensional, ativos de pixel, material gráfico 2D
 
 ---
 
@@ -379,8 +388,6 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 | Tiny Farm (130 arquivos, 16×16) | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/tiny-farm |
 | Foliage Sprites | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-sprites |
 | Foliage Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-pack |
-| CC0 Plant Clutter | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/cc0-plant-clutter |
-| Isometric Trees | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/isometric-trees-0 |
 
 ### Chão / tilesets de terreno (2D)
 
@@ -398,8 +405,6 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 | Ninja Adventure - Asset Pack | pixel-boy (itch.io) | CC0 | ✅ livre | 60+ itens: espadas, martelos, foices | https://pixel-boy.itch.io/ninja-adventure-asset-pack |
 | Pixel Crawler - Free Pack | Anokolisa (itch.io) | gratuito permanente (termos no Google Drive) | ⚠️ confirmar comercial | Axe, Sword, Hammer, Dagger, Shield, Pickaxe, Shovel, Long Scythe | https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites |
 | Game Icons | Kenney | CC0 | ✅ livre | ícones diversos | https://kenney.nl/assets/game-icons |
-| 16x16 Weapon RPG Icons | OpenGameArt | verificar na página | ⚠️ confirmar | ícones de armas 16×16 | https://opengameart.org/content/16x16-weapon-rpg-icons |
-| Admurin's Armory | OpenGameArt | verificar na página | ⚠️ confirmar | espadas, martelos | https://opengameart.org/content/admurins-armory |
 
 
 

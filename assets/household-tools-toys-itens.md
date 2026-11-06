@@ -13,16 +13,27 @@ Catálogo de assets de ferramentas e brinquedos que ficam dentro de uma casa: ma
 Fonte verificada: FiftySounds (fiftysounds.com/ru) — licença lida na página https://www.fiftysounds.com/ru/license-info/: uso comercial permitido (incluindo videogames), **atribuição obrigatória** (link para o site na descrição), proibido revenda/sublicença, proibido criar serviço concorrente.
 
 - Construção (Строительство) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de construção)
+PALAVRAS-CHAVE: som, construção, martelo, ferramentas, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Martelo (Молоток) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de martelo)
+PALAVRAS-CHAVE: som, martelo, ferramenta, construção, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Serra (Пила) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de serra)
+PALAVRAS-CHAVE: som, serra, ferramenta, madeira, construção, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Chave de fenda (Отвертка) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de chave de fenda)
+PALAVRAS-CHAVE: som, chave de fenda, ferramenta, parafuso, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Furadeira (Дрель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de furadeira)
+PALAVRAS-CHAVE: som, furadeira, ferramenta, perfurar, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Mecânica (Механика) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de mecânica)
+PALAVRAS-CHAVE: som, mecânica, máquina, motor, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Motor (Двигатель) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de motor)
+PALAVRAS-CHAVE: som, motor, máquina, veículo, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Máquina (Машина) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de máquina)
+PALAVRAS-CHAVE: som, máquina, veículo, motor, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Avião (Самолет) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de avião)
+PALAVRAS-CHAVE: som, avião, veículo, motor, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Trem (Поезд) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de trem)
+PALAVRAS-CHAVE: som, trem, veículo, trilhos, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Navio (Корабль) — https://www.fiftysounds.com/ru/sound-effects-library.html — ✅ (som de navio)
+PALAVRAS-CHAVE: som, navio, veículo, água, Rússia, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 
 ---
 
@@ -31,19 +42,27 @@ Fonte verificada: FiftySounds (fiftysounds.com/ru) — licença lida na página 
 Fonte verificada: 効果音ラボ (Sound Effect Lab — soundeffect-lab.info) — licença lida na página https://soundeffect-lab.info/agreement/: comercial grátis; sem crédito; sem link obrigatório.
 
 - Máquinas/veículos (機械・乗り物) — https://soundeffect-lab.info/sound/machine/ — ✅ (sons de máquinas)
+PALAVRAS-CHAVE: som, máquina, veículo, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Trem (電車音) — https://soundeffect-lab.info/sound/vehicle/train.html — ✅ (som de trem)
+PALAVRAS-CHAVE: som, trem, veículo, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Carro (車の音) — https://soundeffect-lab.info/sound/vehicle/car.html — ✅ (som de carro)
+PALAVRAS-CHAVE: som, carro, veículo, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Avião (飛行機音) — https://soundeffect-lab.info/sound/vehicle/plane.html — ✅ (som de avião)
+PALAVRAS-CHAVE: som, avião, veículo, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 - Barco (船の音) — https://soundeffect-lab.info/sound/vehicle/boat.html — ✅ (som de barco)
+PALAVRAS-CHAVE: som, barco, veículo, água, Japão, Sound Effect Lab, áudio, SFX, uso comercial, sem crédito
 
 Fonte verificada: pipoya.net (ぴぽや倉庫) — licença lida: comercial OK; sem crédito obrigatório.
 
 - Outros materiais (その他) — https://pipoya.net/sozai/?p=362 — ✅ (materiais diversos)
+PALAVRAS-CHAVE: materiais diversos, Japão, pipoya, ferramentas, brinquedos, 2D, 3D, uso comercial, sem crédito obrigatório
 
 Fonte verificada: DOT ILLUST (dot-illust.net) — licença lida: comercial OK até 30 itens por uma mesma obra.
 
 - Hobby (ホビー) — https://dot-illust.net/ — ✅ (limite: 30 itens/obra)
+PALAVRAS-CHAVE: hobby, Japão, DOT ILLUST, brinquedos, 2D, 3D, uso comercial, limite 30 itens
 - Brinquedos/veículos (乗り物) — https://dot-illust.net/ — ✅ (limite: 30 itens/obra)
+PALAVRAS-CHAVE: brinquedos, veículos, Japão, DOT ILLUST, 2D, 3D, uso comercial, limite 30 itens
 
 ---
 
@@ -52,13 +71,21 @@ Fonte verificada: DOT ILLUST (dot-illust.net) — licença lida: comercial OK at
 Fonte verificada: FiftySounds (chinês — fiftysounds.com/zh) — licença lida na página https://www.fiftysounds.com/zh/our-license.html: uso comercial permitido, **atribuição obrigatória**.
 
 - Engenharia (工程) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, engenharia, construção, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Construção civil (土木工程) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, construção civil, obras, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Ponte (桥梁) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, ponte, construção, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Edifício (建筑物) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, edifício, construção, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Demolição (拆除) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, demolição, destruição, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Escavação (挖掘) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, escavação, construção, solo, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Exército (军队) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, exército, militar, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 - Tanque (坦克) — https://www.fiftysounds.com/zh/sound-effects-and-sfx.html — ✅
+PALAVRAS-CHAVE: som, tanque, militar, veículo, China, FiftySounds, áudio, SFX, uso comercial, atribuição obrigatória
 
 ---
 
@@ -74,13 +101,17 @@ Não foram localizados repositórios dedicados de assets gratuitos com domínio 
 
 Já catalogados em `assets/kenney.md` (não duplicar):
 - https://kenney.nl/assets/generic-items (2D — itens genéricos)
+PALAVRAS-CHAVE: generic-items, 2D, itens genéricos, Kenney, CC0, ferramentas, brinquedos, sprites
 - https://kenney.nl/assets/toy-car-kit (3D — carrinho de brinquedo)
+PALAVRAS-CHAVE: toy-car-kit, 3D, carrinho de brinquedo, Kenney, CC0, brinquedos, veículos
 
 ### OpenGameArt (opengameart.org) — CC0 / CC-BY / CC-BY-SA / OGA-BY
 
 Verificar licença de cada asset antes de uso comercial. Já catalogados em `assets/opengameart.md` (não duplicar):
 - https://opengameart.org/content/32px-toy-capsules (CC0 — cápsulas de brinquedo 32x32, do Airos)
+PALAVRAS-CHAVE: 32px-toy-capsules, CC0, OpenGameArt, cápsulas, brinquedo, 32x32, Airos, itens
 - https://opengameart.org/content/stone-age-sprite-set (CC0 — conjunto da idade da pedra: clavas, lanças e ferramentas rústicas)
+PALAVRAS-CHAVE: stone-age-sprite-set, CC0, OpenGameArt, idade da pedra, clavas, lanças, ferramentas, rústico
 
 ### Poly Haven (polyhaven.com) — CC0 / domínio público
 
@@ -89,7 +120,9 @@ Já referenciado em `assets/assets-2d5.md` (não duplicar): ferramentas, máquin
 ### itch.io — packs gratuitos (verificar licença individual de cada pacote)
 
 - https://itch.io/game-assets/free/tag-tools (busca por tag ferramentas)
+PALAVRAS-CHAVE: ferramentas, tag, itch.io, busca, assets gratuitos, construção, 2D, 3D
 - https://itch.io/game-assets/free/tag-toys (busca por tag brinquedos)
+PALAVRAS-CHAVE: brinquedos, tag, itch.io, busca, assets gratuitos, jogos, 2D, 3D
 
 ---
 

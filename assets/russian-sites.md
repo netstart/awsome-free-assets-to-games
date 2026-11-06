@@ -12,6 +12,7 @@
 ## Fontes (cirílico)
 
 - https://www.fonts.uprock.ru/ (Uprock — fontes com cirílico, licença não verificada)
+PALAVRAS-CHAVE: fontes cirílicas, tipografia russa, download de fontes, design de texto, jogos, interface de usuário, site russo, plataforma web, licença não verificada, uso comercial a confirmar
 
 ### Removidos (não verificáveis / bloqueados)
 
@@ -20,14 +21,17 @@
 ## Música
 
 - https://www.no-copyright-music.com/ru/ (no-copyright-music.com — música do compositor italiano Liborio Conti, hospedada com interface em russo)
+PALAVRAS-CHAVE: música sem direitos autorais, trilha sonora, compositor italiano, interface russa, jogos, vídeo, uso comercial gratuito, download de áudio, plataforma web, atribuição não obrigatória
 
 ## Fontes pixel
 
 - https://gamin.me/posts/21860 (gamin.me — fontes pixel com cirílico)
+PALAVRAS-CHAVE: fontes pixel, tipografia 8 bits, cirílico, arte pixel, jogos retrô, interface de usuário, site russo, download gratuito, plataforma web, licença condicional
 
 ## Efeitos sonoros
 
 - https://www.fiftysounds.com/ru/sound-effects-library.html (FiftySounds — efeitos sonoros)
+PALAVRAS-CHAVE: efeitos sonoros, biblioteca de áudio, sons para jogos, interface russa, uso comercial com atribuição, download de SFX, plataforma web, design de som, vídeo games, atribuição obrigatória
 
 ## Assets 2D e 3D — Rússia / temas russos (itch.io tag "russia", free)
 

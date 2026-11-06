@@ -82,6 +82,14 @@
 | Wallpoet | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Wallpoet> |
 | Wellfleet | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Wellfleet> |
 | Zen Dots | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Zen+Dots> |
+| Archivo Black | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Archivo+Black> |
+| Kanit | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Kanit> |
+| Permanent Marker | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Permanent+Marker> |
+| Press Start 2P | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Press+Start+2P> |
+| Rubik | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Rubik> |
+| Special Elite | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Special+Elite> |
+| Syne | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Syne> |
+| Titan One | Google Fonts (diversos) | SIL OFL 1.1 | fonte | <https://fonts.google.com/specimen/Titan+One> |
 
 ---
 
@@ -677,3 +685,4 @@
 | Zerove Font - CC0 | ggbot | CC0 1.0 | gui | <https://ggbot.itch.io/zerove-font> |
 | ❤️☕Static and animated heart mugs | bansexual | CC BY 4.0 | icons | <https://bansexual.itch.io/heart-mug> |
 | 🍦Free Ice-cream Asset Pack ( 32x32 )🍦 | crumpaloo | CC0 1.0 | icons | <https://crumpaloo.itch.io/free-ice-cream-asset-pack> |
+| Sci-Fi UI Kit Sampler (HUD & Icons) | Antahonist | Uso comercial ilimitado (sem royalty, sem crédito) | user-interface | <https://antahonist.itch.io/free-sci-fi-ui-kit-sampler-hud-icons> |

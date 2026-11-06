@@ -58,6 +58,7 @@ Restrições:
 
 ### Track list:
 - https://docs.google.com/spreadsheets/d/1HAJdNA-QIug2IZjUV-DwCo1IZ-XJ4Vv9gWIaumNScfc/edit?usp=sharing
+PALAVRAS-CHAVE: planilha, lista de faixas, efeitos sonoros, áudio para jogos, referência de trilhas, consulta online, Google Sheets, planilha web, uso comercial, royalty free, sem atribuição
 
 ---
 

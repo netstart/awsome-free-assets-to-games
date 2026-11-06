@@ -61,11 +61,8 @@
 | *Happy Clappy* | John Bartmann | **Não** (CC0) | |
 
 ### 1.5 OpenGameArt.org (CC0 / CC-BY)
-| Asset | Autor | Licença | Link |
-|-------|-------|---------|------|
-| **kawaii 8bit** | haruta | **CC0** | <https://opengameart.org/content/kawaii-8bit> |
-| **Free music - CC0** (coleção) | Cawfeecrow | **CC0** | <https://opengameart.org/content/free-music-cc0> |
-| **CC0 Music** | Belmont Republic | **CC0** | <https://opengameart.org/content/cc0-music> |
+
+*Consulte `assets/opengameart.md` para o catálogo completo de assets do OpenGameArt, incluindo música e sprites kawaii/cute.*
 
 ### 1.6 Outras bibliotecas
 | Site | Licença | Busca |
@@ -185,10 +182,7 @@ https://itch.io/game-assets/free/tag-cozy/tag-music
 https://itch.io/game-assets/free/tag-comedy
 
 # OpenGameArt.org
-https://opengameart.org/content/kawaii-8bit
-https://opengameart.org/content/cute-food-sprites
-https://opengameart.org/content/cute-girl-free-sprites
-https://opengameart.org/content/cat-dog-free-sprites
+*Consulte `assets/opengameart.md` para o catálogo completo de assets do OpenGameArt.*
 site:opengameart.org "cute" CC0
 site:opengameart.org "kawaii" CC0
 

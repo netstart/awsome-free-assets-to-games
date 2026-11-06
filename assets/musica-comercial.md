@@ -37,13 +37,21 @@
 
 Buscas recomendadas dentro do site:
 - https://pixabay.com/music/search/cc0/ — faixas CC0
+PALAVRAS-CHAVE: música, áudio, faixa CC0, domínio público, uso comercial, jogos eletrônicos, trilha sonora, busca no site, Pixabay, download gratuito, licença livre, BGM
 - https://pixabay.com/music/search/kawaii/ — kawaii
+PALAVRAS-CHAVE: música, estilo kawaii, fofo, jogos eletrônicos, trilha sonora, uso comercial, busca no site, Pixabay, áudio, CC0, licença livre, atmosfera fofa
 - https://pixabay.com/music/search/kawaii%20pop/ — kawaii-pop
+PALAVRAS-CHAVE: música, kawaii pop, J-pop, jogos eletrônicos, trilha sonora, uso comercial, busca no site, Pixabay, áudio, CC0, licença livre, pop fofo
 - https://pixabay.com/music/search/fantasy/ — fantasia
+PALAVRAS-CHAVE: música, fantasia, mágica, jogos RPG, trilha sonora, uso comercial, busca no site, Pixabay, áudio, CC0, licença livre, orquestral fantasia
 - https://pixabay.com/music/search/cinematic/ — cinemático
+PALAVRAS-CHAVE: música, cinemática, épica, trilha sonora, jogos eletrônicos, uso comercial, busca no site, Pixabay, áudio, CC0, licença livre, orquestral
 - https://pixabay.com/music/search/chip tune/ — chiptune
+PALAVRAS-CHAVE: música, chiptune, 8-bit, jogos retrô, trilha sonora, uso comercial, busca no site, Pixabay, áudio, CC0, licença livre, NES
 - https://pixabay.com/music/search/ambient/ — ambiente
+PALAVRAS-CHAVE: música, ambiente, atmosférica, relaxante, jogos eletrônicos, trilha sonora, uso comercial, busca no site, Pixabay, áudio, CC0, licença livre
 - https://pixabay.com/music/search/rpg/ — RPG
+PALAVRAS-CHAVE: música, RPG, fantasia, jogos RPG, trilha sonora, uso comercial, busca no site, Pixabay, áudio, CC0, licença livre, orquestral RPG
 
 > Nota: o acesso direto ao Pixabay foi bloqueado por 403 na verificação automática, mas o catálogo anterior (`assets/misc-domains.md`, linha 131) já registra 17.840+ faixas com licença Pixabay Content License.
 
@@ -236,64 +244,14 @@ Gêneros (cada um é uma página de download distinta):
 **Licença:** varia por asset (CC0, CC-BY, CC-BY-SA, OGA-BY, GPL). Verificar na página de cada asset.  
 **Fonte:** https://opengameart.org/
 
-Busca avançada — Música (74 resultados, 4 páginas):  
+Busca avançada — Música:  
 https://opengameart.org/art-search-advanced?keys=alien&field_art_type_tid%5B%5D=12
 
-Páginas de música CC0 / livre:
-
-| Asset | Licença | Link |
-|-------|---------|------|
-| free-music-0 | sem atribuição necessária | https://opengameart.org/content/free-music-0 |
-| cc0-music | CC-0 coleção | https://opengameart.org/content/cc0-music |
-| royalty-free-game-music-loops | CC-0 loops | https://opengameart.org/content/royalty-free-game-music-loops |
-| chiptune-battle-music | CC-0 batalha RPG | https://opengameart.org/content/chiptune-battle-music |
-| 10-free-chiptune-tracks-a-bag-of-chips | CC-0 10 tracks | https://opengameart.org/content/10-free-chiptune-tracks-a-bag-of-chips |
-| two-simple-game-music-loops | CC-0 2 loops | https://opengameart.org/content/two-simple-game-music-loops |
-| background-music-loop | CC-0 loop fundo | https://opengameart.org/content/background-music-loop |
-| elective-cave | CC-0 8-bit chiptune | https://opengameart.org/content/elective-cave |
-| indiscriminate-midi-music | CC-0 MIDIs domínio público | https://opengameart.org/content/indiscriminate-midi-music |
-| chase | CC-0 perseguição eletrônica | https://opengameart.org/content/chase |
-| free-music-pack | CC-0 7 tracks orquestral/rock | https://opengameart.org/content/free-music-pack |
-| cc0-remakes | CC-0 remakes antigos | https://opengameart.org/content/cc0-remakes |
-| four-original-midi-loops | CC-0 4 loops MIDI | https://opengameart.org/content/four-original-midi-loops |
-| march-of-the-horde | CC-BY 4.0 | https://opengameart.org/content/march-of-the-horde |
-| a-darkness-opus | OGA-BY 3.0 | https://opengameart.org/content/a-darkness-opus |
-| orchestral-epic-fantasy-music-zefz-johan-brodd-pixelsphere | CC-BY-SA 3.0 | https://opengameart.org/content/orchestral-epic-fantasy-music-zefz-johan-brodd-pixelsphere |
-| battle-in-the-winter | CC-BY 3.0 / GPL 3.0 / OGA-BY 3.0 | https://opengameart.org/content/battle-in-the-winter |
-| battle-theme-a | CC0 | https://opengameart.org/content/battle-theme-a |
-| cc0-bgm | CC0 Axem199 | https://opengameart.org/content/cc0-bgm |
-| cc0-music | CC0 Belmont Republic | https://opengameart.org/content/cc0-music |
-| cc0-remakes | CC0 Umplix + colab. | https://opengameart.org/content/cc0-remakes |
-| alien-blues-8-bit-melody | CC0 sauer2 | https://opengameart.org/content/alien-blues-8-bit-melody |
-| alien-fight | CC0 MegaJackie | https://opengameart.org/content/alien-fight |
-| alien-world | CC0 Tsorthan Grove | https://opengameart.org/content/alien-world |
-| nocydex-station | CC0 Tozan | https://opengameart.org/content/nocydex-station |
-| alien-swamp | CC-BY 3.0 / CC-BY-SA 3.0 | https://opengameart.org/content/alien-swamp |
-| alien-ruins | CC-BY 3.0 | https://opengameart.org/content/alien-ruins |
-| alien-ship-1 | CC-BY 4.0 | https://opengameart.org/content/alien-ship-1 |
-| alien-realm-alt-8-bit-loopable | CC-BY 4.0 | https://opengameart.org/content/alien-realm-alt-8-bit-loopable |
-| oriental-somber | Tozan | https://opengameart.org/content/oriental-somber |
-| 5-chiptunes-action | Juhani Junkala / SubspaceAudio | https://opengameart.org/content/5-chiptunes-action |
-| drums-of-dawn | CC BY 3.0 | https://opengameart.org/content/drums-of-dawn |
-| blackmoor-ninjas-battle-theme | CC BY 3.0 | https://opengameart.org/content/blackmoor-ninjas-battle-theme |
-| samurai | CC BY 4.0 TAD | https://opengameart.org/content/samurai |
-| revenge | CC BY 4.0 TAD | https://opengameart.org/content/revenge |
-| tokyo-chase | CC BY-SA 3.0 | https://opengameart.org/content/tokyo-chase |
-| caketown-cuteplayful | CC BY-SA 3.0 | https://opengameart.org/content/caketown-cuteplayful |
-| dark-ambient-loop-13 | CC BY 3.0 / OGA-BY 3.0 | https://opengameart.org/content/dark-ambient-loop-13 |
-| scary-ambient-wind | CC BY 3.0 | https://opengameart.org/content/scary-ambient-wind |
-| rpg-battle-theme-the-last-encounter-0 | CC BY-SA 3.0 | https://opengameart.org/content/rpg-battle-theme-the-last-encounter-0 |
-| cozy-puzzle-in-game-1 | CC-BY-SA 4.0 | https://opengameart.org/content/cozy-puzzle-in-game-1 |
-
-Música kawaii/cute (OpenGameArt):
-
-| Asset | Licença | Link |
-|-------|---------|------|
-| kawaii 8bit | CC0 haruta | https://opengameart.org/content/kawaii-8bit |
-| Free music - CC0 | CC0 Cawfeecrow | https://opengameart.org/content/free-music-cc0 |
-| CC0 Music | CC0 Belmont Republic | https://opengameart.org/content/cc0-music |
+*Consulte `assets/opengameart.md` para o catálogo completo de músicas e trilhas do OpenGameArt, organizado por tema.*
 
 ---
+
+
 
 ## 10. Outras bibliotecas gerais de música
 

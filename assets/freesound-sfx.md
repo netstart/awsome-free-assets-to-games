@@ -26,7 +26,9 @@ Licença oficial verificada: https://freesound.org/help/faq/#licenses — três 
 ## Exemplos de sons CC0 / CC BY acessíveis
 
 - https://freesound.org/s/406900/ — exemplo de página de som (exemplo genérico)
+PALAVRAS-CHAVE: freesound, página de som, banco de sons, efeito sonoro, áudio, uso comercial, CC0 ou CC BY, download de som, jogo, SFX, plataforma web, licenciamento livre
 - https://freesound.org/browse/tags/cc0 — navegação por tag CC0
+PALAVRAS-CHAVE: freesound, navegação por tag, filtro CC0, domínio público, sons gratuitos, uso comercial, busca por categoria, tema CC0, plataforma web, licença livre, download de áudio, catálogo colaborativo
 
 ---
 

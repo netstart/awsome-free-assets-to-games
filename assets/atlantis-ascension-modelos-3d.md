@@ -859,13 +859,23 @@
 
 ---
 
-## 3. Sketchfab — Criaturas marinhas (254)
+## 3. Sketchfab — Criaturas marinhas (311)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
 | 1962.153 Bottle with Fish Design | clevelandart | CC0 1.0 | fish | <https://sketchfab.com/3d-models/1962153-bottle-with-fish-design-250c1384333d484895778e6b951a0fab> |
 | Abalone fishergirl wrestling with an octopus | artsmia | CC0 1.0 | octopus | <https://sketchfab.com/3d-models/abalone-fishergirl-wrestling-with-an-octopus-b8151f8b50714878ad3aba7b874954d7> |
+| BFBB - Jellyfish Fields A | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbb-jellyfish-fields-a-fae9d44aa1f04f549a665a573af133f2> |
+| BFBB - Jellyfish Fields A | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbb-jellyfish-fields-a-68293b25638e4c72904b59a00a6422cf> |
+| BFBB - Jellyfish Fields B | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbb-jellyfish-fields-b-548c349e3b274767b1fef2e09e76e98e> |
+| BFBB - Jellyfish Fields C | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbb-jellyfish-fields-c-d784c249b63547788dc8bdc70d03e5cc> |
+| BFBB - King Jellyfish Animation | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbb-king-jellyfish-animation-75fea9198e70429f9aafaa1d0b3caec7> |
+| BFBBR - Jellyfish Blue | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbbr-jellyfish-blue-fc100ab1ad7f45f39b5adee271781813> |
+| BFBBR - Jellyfish Fields Sign | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbbr-jellyfish-fields-sign-df8ff4b38fb04e7a8fa99c9f78b881d3> |
+| BFBBR - Jellyfish Pink | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbbr-jellyfish-pink-a5c8b74d6bd243fbafc6d302d0344a97> |
+| BFBBR - King Jellyfish | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/bfbbr-king-jellyfish-54b8dc869bf842858200b105e190e544> |
 | Bigfin squid | ZorDob | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/bigfin-squid-0ce6607b9aa641869ca052ed45735cb5> |
+| Boss - Squid Game | auden.hibbs | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/boss-squid-game-ff30b9b0fad24c238cf2b3a890d18c53> |
 | Box Jellyfish (Cubomedusae) | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/box-jellyfish-cubomedusae-b6050e8eddb34f17bc1c80ff23cadb18> |
 | Bream Fish ( Dorade Royale) | BlueMesh | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/bream-fish-dorade-royale-a3d0e1a597794a9bb74739a13cfc8b77> |
 | Cable reels | thesidekick | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/cable-reels-53d00d26d6e14cd5bca1d7cedd4eb3b4> |
@@ -948,6 +958,7 @@
 | CC0 ヨロイザメ 🦈 Kitefin Shark, Dalatias licha | ffishAsia-and-floraZia | CC0 1.0 | shark | <https://sketchfab.com/3d-models/cc0-kitefin-shark-dalatias-licha-d0e22c15c9a248e183a3f3975154f965> |
 | CC0 ヨロイザメ 🦈 Kitefin Shark, Dalatias licha | ffishAsia-and-floraZia | CC0 1.0 | shark | <https://sketchfab.com/3d-models/cc0-kitefin-shark-dalatias-licha-7cefa855aaa7408487ee192822de5f7d> |
 | Cephalopod: Belemnopsis hastata (PRI 43505) | DigitalAtlasOfAncientLife | CC0 1.0 | squid | <https://sketchfab.com/3d-models/cephalopod-belemnopsis-hastata-pri-43505-fee25817da944f3eb79adb02b871bed9> |
+| circle character squid game | STA_Fattu | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/circle-character-squid-game-24ff6122cc4a4479951bc452ddd568e1> |
 | Clown fish | rubykamen | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/clown-fish-febab3b30f514ebbab4454abfc037a8c> |
 | Colossal squid full | frojidas | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/colossal-squid-full-903030ef4c214268b7f49e45e8aa8790> |
 | Comb Jellyfish | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/comb-jellyfish-baf5d972e1874f9db95fe6bb415c2e37> |
@@ -1005,6 +1016,7 @@
 | Inish Shark - Cross Slab - 10E0399 CL 009 | galway3d | CC0 1.0 | shark | <https://sketchfab.com/3d-models/inish-shark-cross-slab-10e0399-cl-009-fb2617bf4ffd4c4c9e0cfa2b6246540a> |
 | Inish Shark - Cross Slab -10E0399 CL 005 Replica | galway3d | CC0 1.0 | shark | <https://sketchfab.com/3d-models/inish-shark-cross-slab-10e0399-cl-005-replica-742e9dce124342a4ac520c0b556cc47e> |
 | Inside the Space Jellyfish | miguelangelo2k | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/inside-the-space-jellyfish-0cdaf61b32664489b10f39f669410db5> |
+| Jelly Fish (Spongebob) | Yanez-Designs | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jelly-fish-spongebob-4227c0c46a1640ef9c61c455f7bc10f7> |
 | Jellyfish | paulheynen | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-42da7b26f173427f89c9ddb64be1be73> |
 | Jellyfish | truhvanor | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-d9262b63d7e042c0a455dc5d84cda1f9> |
 | jellyfish | yanix | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-d06a5a553fe641ab92f720527b2278f3> |
@@ -1029,10 +1041,16 @@
 | Jellyfish | jrshah | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-8787dadc26454cc9b78c49fc32012dbf> |
 | Jellyfish | cyansprite | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-ec35e70e2cd2428098cf256d6c249b17> |
 | jellyfish | tinysnails | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-918de2465c154e42a3556f5afa885243> |
+| Jellyfish (Sonic Racing: CrossWorlds) | guinavarro.al | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-sonic-racing-crossworlds-44a0560747e443dd9299bd58a7bc6866> |
+| Jellyfish - Spongebob bfbbr | romyblox1234 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-spongebob-bfbbr-08812895b2314344bf4535e284ee7ac2> |
 | jellyfish 3d model | alpher.studio | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-3d-model-15eae51b0fe84e95bfa74b3ee8463731> |
+| Jellyfish BFBB Animation Pack | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-bfbb-animation-pack-a58db954bcab4eeda3ed8e4b7a3cd9bd> |
 | Jellyfish Boss | kennethcplace | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-boss-7ed7d450b7f249cb97b3caa379b06b0b> |
 | Jellyfish electroshocker | OrangeBlueArt13 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-electroshocker-cbeafe93dc554907ac0275406d42307b> |
+| Jellyfish Feilds (bfbb) (gamecube) | romyblox1234 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-feilds-bfbb-gamecube-5051a1ba65f74e8aa1fbc54c683347b2> |
 | Jellyfish Fields From NASB2 | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-fields-from-nasb2-03f7995f58e34eb9874268474cb20f2f> |
+| Jellyfish Fields- Spongebob Squarepants-BFBB | nickocraft486 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-fields-spongebob-squarepants-bfbb-aa9014cd583049d2bdd63fa953e9f27e> |
+| JellyFish Net (Spongebob) | Yanez-Designs | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-net-spongebob-30e08be02db047a39882403e48694c58> |
 | Jellyfish Net - sb Cosmic Shake | romyblox1234 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-net-sb-cosmic-shake-e830674561b44e55b56596bd4538d2ea> |
 | Jellyfish Sandy | pyeerz | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-sandy-89fc5a24870849bd86edc0412871d215> |
 | Jellyfish Sculpt | mfhscoobydoo | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-sculpt-f304013d13f243c89ae0ef5f0441c0c2> |
@@ -1044,6 +1062,8 @@
 | Jellyfish_002 | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-002-5837cbfa2930455184234f772735d913> |
 | Jellyfish_003 | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfish-003-7ef761c3eb2143b6a7178ddfb97e9e88> |
 | Jellyfishs | ArtifactsHub3d | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/jellyfishs-a520d8c9a7714c09b8684f14dd09b11f> |
+| Joker In Squid Game | Tranvanhoa | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/joker-in-squid-game-d3ac0d1b7d9e4c829c48e79322331b14> |
+| Jugador9 Squid Game | franko981 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/jugador9-squid-game-00991a3125dc44e5bf904a4adcf5a0a7> |
 | Kalong Vase, 14th-16th C CE | artsmia | CC0 1.0 | fish | <https://sketchfab.com/3d-models/kalong-vase-14th-16th-c-ce-0797e6f0be7b4045ade19cd5d8db1e4a> |
 | King jellyfish | luke.steel | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/king-jellyfish-aab538004b764790825c800c754fbde0> |
 | Koi Fish | 7plus | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/koi-fish-236859b809984f52b70c94fd040b9c59> |
@@ -1052,6 +1072,7 @@
 | Koi Fish | lesliestowe | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/koi-fish-f7e2e4858f2f438aa2832566220199f4> |
 | Lactophrys bicaudalis | Smithsonian | CC0 1.0 | fish | <https://sketchfab.com/3d-models/lactophrys-bicaudalis-6869040bf5be4f13b1b571f967f35234> |
 | Lava Lamp | mizuhi | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/lava-lamp-e29cc770a3be4fd799c9150aae22002f> |
+| Leader mask from Squid Game (tag me when use it) | LevionDev | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/leader-mask-from-squid-game-tag-me-when-use-it-0e4993d9a0684d03b76644a5253c28a3> |
 | Lidded ritual ewer (guang) | Smithsonian | CC0 1.0 | fish | <https://sketchfab.com/3d-models/lidded-ritual-ewer-guang-c2898500387d40678d26d15d12809608> |
 | Light Blue Jellyfish | lingthyguy | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/light-blue-jellyfish-5f019e0acd30489fb25c6f8a516421be> |
 | Liriope Jellyfish (Trachymedusae) | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/liriope-jellyfish-trachymedusae-6649338cf4314901a2f9251ddf489f8a> |
@@ -1059,6 +1080,9 @@
 | low-poly? jellyfish | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/low-poly-jellyfish-9dd7cfb4fb30436d82454e3d472d28b3> |
 | Luminous Jellyfish | Chenchanchong | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/luminous-jellyfish-4a5c2c7966df4e4c8e6c70155c43d1d2> |
 | Marrus/Deep-Sea Jellyfish (Siphonophora) | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/marrusdeep-sea-jellyfish-siphonophora-4a9d9b8553b14ccda32033cbb6c2c9b7> |
+| Mask squid game. | Zakart | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/mask-squid-game-ef4a3fb8e7264317846000be4765dfeb> |
+| Minecraft - Squid | vinceyanez | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/minecraft-squid-067ae6d5c2224ba08765819f52bb96c7> |
+| Minecraft Glowing Squid | elwwan | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/minecraft-glowing-squid-e9a6d2c0ee1d4e72b69879e13b282fc0> |
 | moon jellyfish | foxcc007 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/moon-jellyfish-fb53480e510c40a7bd5e12e0b182621e> |
 | NASB - Jellyfish Fields | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/nasb-jellyfish-fields-ab81c5e4c45d4b89a1077b2f2df3e7e3> |
 | NASB2 - Jellyfish Fields Casual | cherylhill28 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/nasb2-jellyfish-fields-casual-8cce7db273b1437fb14afc65bd240e0f> |
@@ -1075,13 +1099,18 @@
 | Pointcloud fairy jellyfish | federicagirola | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/pointcloud-fairy-jellyfish-eaeb4c9615e448b285f7efd5d06b610c> |
 | Prins Jellyfish | aeonfitzgerald | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/prins-jellyfish-3cfe9d4021b14a5fad8372bcb490956b> |
 | Putto auf Fisch | www.noe-3d.at | CC0 1.0 | fish | <https://sketchfab.com/3d-models/putto-auf-fisch-8ba656b736a54a24904d163c7097c3c9> |
+| rectangle character squid game free download | STA_Fattu | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/rectangle-character-squid-game-free-download-4661bc762d394e0aaa1be3e38b71e515> |
+| Red Soldier FROM SQUID GAME | 2ad700ss | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/red-soldier-from-squid-game-111366aed5b547c5add63937cc4b99e2> |
 | red-squid | irvinlin | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/red-squid-c11eb3d421af4a44baf13072fbfbdb21> |
+| Rigged Pink Soldier (Squid Game) | Aquaz_Viberz | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/rigged-pink-soldier-squid-game-c8b6d2be669b4047ba4caa3341fb37cf> |
 | Right Whale Dolphin skull | uod_museums | CC0 1.0 | whale | <https://sketchfab.com/3d-models/right-whale-dolphin-skull-8606c5abf5cc4022a4a4258da7f33c5f> |
+| rocket launcher Squid game weapon | Kag3d | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/rocket-launcher-squid-game-weapon-bb61798f392a419eba1412856fcc3684> |
 | salmon Fish | patroo | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/salmon-fish-b8778f50bdc74902b1aff81dc60df10f> |
 | School Of Fish | pcarnage252 | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/school-of-fish-25494f5c4ead471ab8205aadfbfec0bc> |
 | Sculptjanuary 2019, day 1: Giant Squid | mvick13497 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/sculptjanuary-2019-day-1-giant-squid-1f97e07935bf42e3a9cf1aa02f925d7e> |
 | Shark Bone Ring | cineg | CC0 1.0 | shark | <https://sketchfab.com/3d-models/shark-bone-ring-a86d5dd820da4c45aca690fdc64227d4> |
 | Shiny Fish | geneugene | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/shiny-fish-e0bddbcafc5e48c097b40b4bada3811a> |
+| Simon Squid Game Level Structure | lastiberianlynx | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/simon-squid-game-level-structure-00c339e6c85f451ab2446e17f8d7511e> |
 | Simple Jellyfish | ricksticky | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/simple-jellyfish-f77876d8297846eeb23c4ad82dbebb97> |
 | Simple Moon Jellyfish (Baked Animation) | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/simple-moon-jellyfish-baked-animation-3d911c511f2744ec9bfb99d46d2d6e14> |
 | Simple Spotted Jellyfish (Baked Animation) | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/simple-spotted-jellyfish-baked-animation-d5006697ad3c4bc1ac814110cde19af2> |
@@ -1089,6 +1118,7 @@
 | Small fish | SpezX | CC BY 4.0 | fish | <https://sketchfab.com/3d-models/small-fish-8f5de32946f347a0b6c8e55c6a66d46d> |
 | Small Jellyfish | werignac | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/small-jellyfish-714950fd725f4298929ec440b3e2e13e> |
 | Solmundella Jellyfish (Narcomedusae) | n- | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/solmundella-jellyfish-narcomedusae-7bef3b41186e407e935a2da97f04bd3a> |
+| SpongeBob Jellyfishing Glasses | LazyAccountName24 | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/spongebob-jellyfishing-glasses-b93a783f930e402697df0baf16f36751> |
 | Spotted jellyfish | terrielsimmons | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/spotted-jellyfish-cdd801d7a4884e64a470d1b41d94727b> |
 | Squid | morphinometr | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-2e211c13614b433ab6191a814364dacd> |
 | Squid | rkuhlf | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-d3b3ded242cf4abc95f2f734b5a9b3d6> |
@@ -1096,10 +1126,37 @@
 | Squid | gabrielfontenelle | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-8ad9904e278948feb61e9db1bf399263> |
 | Squid | Chenchanchong | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-36dabfe875794d979ca9142d48434143> |
 | Squid Blade | EthanMcG | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-blade-890c24749f10472193df85a33b15889c> |
+| Squid Game | crazyon520 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-0889d49fecc14ab8a6ca80cc5a2073e5> |
+| Squid Game | prasanngaikawad | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-6cd4195011b6423298b4f4898b174fe2> |
+| Squid Game | Ing_eO | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-81f00f5e908f4c43aa050c499de2be19> |
+| Squid Game - Worker | 2Konseil | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-worker-d181e216fd6a402db7cc2626d6f78264> |
+| Squid Game - Worker | rendysix | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-worker-6baecef9ee7c4a8f939ad5a011823528> |
+| Squid Game -- The staircase | dimitrigonzalez682 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-the-staircase-73de299b2a624f6c815611397eee3640> |
+| Squid Game 2 Teaser Machine | VDOFX | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-2-teaser-machine-4ab0657aa14c41398cec814a87a8f2c9> |
+| SQUID GAME 3d Character FREE Download | STA_Fattu | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-3d-character-free-download-745cf352a6dd459aa66f9a237db164c3> |
+| SQUID GAME DOLL - SQUID GAME DOLL | masalmaari | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-doll-squid-game-doll-7b043b254f4446f49a0f65c74854633f> |
+| Squid Game Front Man Mask | morejpeg | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-front-man-mask-b7e7073b249a4d4b8e2714152b502f3a> |
+| Squid Game Glass Bridge Level | vector.studios | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-glass-bridge-level-f7c26f3c9d214529bfe83ac12713a7ce> |
+| Squid Game Guard | VV2006 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-guard-3b74d3ca2439424988a599a8fe17c24b> |
+| Squid Game Invitation Card | thirdimensionalguy | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-invitation-card-55b364bd77db49d4a8b452427c2780bc> |
+| Squid Game Invitation Card free | ouz209 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-invitation-card-free-a0b2100845de4c4ebd809c492094722e> |
+| Squid Game Leader's Mask Front Man free | ouz209 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-leaders-mask-front-man-free-f2c5910572a949f98a2ea5d8a08a198d> |
+| Squid Game Outfit | watermelonjustice | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-outfit-188b98afce204468a8ba9e831b803bc2> |
+| squid game pink soldier | Protyanik25 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-pink-soldier-41a8142416f14665bf0cf82304d02b68> |
+| Squid Game player 456 | playtopiag | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-player-456-3c05d168874c416a99934646be5bf86d> |
+| Squid game S3 Dolls | vitorrafaelglass | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-s3-dolls-6d1055af35a643ca8c9622e67df7e55e> |
+| Squid Game Series – Ddakji | spazio_silvestre | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-series-ddakji-6cd6a24421e34b7a951059b80b6b82a6> |
+| Squid Game Soldier | businessyuen | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-soldier-7f1876fb391840519c9415c4c6ea081c> |
+| Squid Game Soldier | Archivz | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-soldier-e17555fae7d94ca3aeb46037ac23e6f8> |
+| Squid Game Soldier | PhixerArt | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-soldier-9e3a5d1d13324bdc9e9dc5a4c384d978> |
+| Squid Game Staircase Remix | DodoBabypop | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-staircase-remix-6ab39f2651df459d805e8edfc08baadb> |
+| Squid Game Toys | freemannameerf | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-toys-10ccb872a92f4573a338ddd40fa9910d> |
+| Squid Game Young-hee Funko POP doll | kenmarturo | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-young-hee-funko-pop-doll-406df923563f40049f7d51d4f1c1472f> |
 | Squid Monster | CR1STALLL | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-monster-897f957b5ccd4ea2818c1498b450986f> |
 | Squid Npc | janchristian | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-npc-4a308772eb8c4ea5a675cc35d9d99070> |
 | Squid Pirate - Stylized Hand Painted | ulbabrab94 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-pirate-stylized-hand-painted-42eaf3019d8949dd8c9832badae54c63> |
 | Squid Plushie | jacobmougharbel | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-plushie-f5de4cae3c304e78b3b5b2dea0a2e195> |
+| Squid Sisters - Splatoon | Kittytuber | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-sisters-splatoon-864cf6ee1ddd4cd9830b4386e6d2e6ed> |
 | Squid_Dog | VulpesDesigns | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-dog-80cd47cde96d46b8aba99eac205a177b> |
 | squid_game | masterboon2 | CC BY 4.0 | squid | <https://sketchfab.com/3d-models/squid-game-7829fcb6e20145bd8b2e7eb80b95d3a1> |
 | SS JellyFish | krishkuckian | CC BY 4.0 | jellyfish | <https://sketchfab.com/3d-models/ss-jellyfish-2874d7500eaf4bff9e0988779b895acd> |
@@ -1251,7 +1308,7 @@
 
 ---
 
-## 8. itch.io — Modelos 3D (765)
+## 8. itch.io — Modelos 3D (768)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -1519,6 +1576,7 @@
 | Halloween Hockey Masks | greyfroggames | CC BY 4.0 | 3d | <https://greyfroggames.itch.io/halloween-hockey-mask> |
 | Halloween Props | loafbrr | CC0 1.0 | 3d | <https://loafbrr.itch.io/halloween-props> |
 | Halloween Tombstones | greyfroggames | CC BY 4.0 | 3d | <https://greyfroggames.itch.io/halloween-tombstones> |
+| Halo: Combat Evolved | bencanfield | CC BY-SA 4.0 | 3d | <https://bencanfield.itch.io/halo> |
 | Hexagonal Racetrack Collection | fertile-soil-productions | CC0 1.0 | 3d | <https://fertile-soil-productions.itch.io/hexagonal-racetrack-collection> |
 | High School Character \| PS1 PSX | crimsongcat | CC BY 4.0 | low-poly | <https://crimsongcat.itch.io/high-school-character-ps1-psx> |
 | Highlands - Fantasy 3D Buildings Pack | visionsmind | CC0 1.0 | 3d | <https://visionsmind.itch.io/highlands-fantasy-pack-3d> |
@@ -2000,6 +2058,7 @@
 | voxel wirly gig | trockk | CC BY 4.0 | 3d | <https://trockk.itch.io/voxel-wirly-gig> |
 | WA2000 Sniper Rifle | exode | CC BY 4.0 | 3d | <https://exode.itch.io/wa2000> |
 | Walkie-Talkie (CC0) | verzatiledev | CC0 1.0 | 3d | <https://verzatiledev.itch.io/walkie-talkie> |
+| Walt Disney Head | davidoreilly | CC BY 4.0 | 3d | <https://davidoreilly.itch.io/walt-disney-3d-head> |
 | Weapon Pack | forsunka | CC0 1.0 | 3d | <https://forsunka.itch.io/weapon-pack> |
 | Wild West Buildings Asset Pack | maxorbie | CC0 1.0 | 3d | <https://maxorbie.itch.io/wild-west-buildings-asset-pack> |
 | Winter Snowman | greyfroggames | CC BY 4.0 | 3d | <https://greyfroggames.itch.io/winter-snowman> |
@@ -2020,3 +2079,4 @@
 | Young Girl Rigged 3D Model | cg-moon | CC BY 4.0 | 3d | <https://cg-moon.itch.io/character-14> |
 | Zagreus | bencanfield | CC BY-SA 4.0 | 3d | <https://bencanfield.itch.io/zagreus> |
 | ⚔️ Fantasy Weapon Starter Pack | samgrady | CC BY 4.0 | 3d | <https://samgrady.itch.io/fantasy-weapon-starter-pack> |
+| LowPoly Spaceships | Quaternius | CC0 1.0 | spaceship | <https://quaternius.itch.io/lowpoly-spaceships> |

@@ -8,14 +8,20 @@ Pesquisa realizada em 21/10/2026. Verificar os termos de uso de cada site antes 
 
 - Ver também: seções **Samurai, ninja e Japão feudal** e **Ninja e shinobi** em `assets/itchio.md` (packs 2D verificados em 22/10/2026)
 - https://pipoya.net/sozai/terms-of-use/ (ぴぽや倉庫 Pipoya — termos, comercial ok, sem crédito)
+PALAVRAS-CHAVE: site japonês, termos de uso, assets gratuitos, uso comercial, sem crédito, tileset, efeitos sonoros, Pipoya
 - https://pipoya.itch.io/ (Pipoya no itch.io — tileset 16×16 e efeitos grátis)
+PALAVRAS-CHAVE: itch.io, Pipoya, tileset 16x16, efeitos sonoros, assets gratuitos, uso comercial, Japão, pixel art
 
 ## Sons
 
 - https://soundeffect-lab.info/ (効果音ラボ Sound Effect Lab — efeitos sonoros, comercial grátis, sem crédito, sem link necessário; proibido uso adulto e redistribuição)
+PALAVRAS-CHAVE: Sound Effect Lab, Japão, efeitos sonoros, SE, comercial grátis, sem crédito, jogos, áudio
 - https://soundeffect-lab.info/agreement/ (termos de uso)
+PALAVRAS-CHAVE: Sound Effect Lab, termos de uso, acordo, licença, Japão, efeitos sonoros, comercial, verificação
 - https://taira-komori.net/freesound.html (小森平 — efeitos sonoros grátis)
+PALAVRAS-CHAVE: Taira Komori, Japão, efeitos sonoros, SE grátis, uso comercial, site japonês, áudio, jogos
 - https://pocket-se.info/ (ポケットサウンド — efeitos sonoros e BGM; básico gratuito + comercial com crédito obrigatório; sem crédito = plano pago)
+PALAVRAS-CHAVE: Pocket Sound, Japão, efeitos sonoros, BGM, crédito obrigatório, comercial, uso pago, áudio
 
 ## Sites Japoneses — Assets Gratuitos (lista de 32 efeitos sonoros + música) — 23/10/2026
 
@@ -27,7 +33,7 @@ Lista consolidada do site frog-blend (https://frog-blend.hatenablog.com/entry/20
 
 | # | Site | URL | Licença | Uso comercial | Descrição |
 |---|------|-----|---------|-------------|-----------|
-| 1 | DOVA-SYNDROME | https://dova-s.jp/ | Comercial OK | ✅ livre | Regra geral: CCBY-NC-SA, sem crédito |
+⚠️ REMOVIDO: DOVA-SYNDROME (https://dova-s.jp/) — licença geral CC BY-NC-SA não permite uso comercial, não conforme AGENTS.md
 | 5 | 効果音ラボ | https://soundeffect-lab.info/ | Comercial grátis, sem crédito | ✅ livre | 60+ categorias SFX — já catalogado |
 | 8 | 音源堂さくら紅葉 | https://sakurakyobo.ltd.jp/ | Comercial OK | ✅ livre | Sons gratuitos |
 | 9 | 効果音工房 | https://haakudoukobou.net/ | Livre | ✅ livre | Sons gratuitos |
@@ -109,19 +115,27 @@ Os 5 sites parceiros do Maou Audio são todos membros da família de sites japon
 ## Fontes
 
 - https://pixelartmaterial.itch.io/ (Pixel Material Studio — yōkai, monstros pixel; loja com itens pagos e gratuitos, verificar licença de cada asset)
+PALAVRAS-CHAVE: itch.io, Pixel Material, youkai, monstros pixel, sprites, verificar licença, Japão, itens pagos e gratuitos
 
 ## Listas e diretórios japoneses
 
 - https://frog-blend.hatenablog.com/entry/2023/09/15/142040 (lista japonesa de sites de assets)
+PALAVRAS-CHAVE: frog-blend, lista japonesa, sites de assets, blog, referência, Japão, recursos gratuitos, compilação
 - https://benikikyonomori.com/recommend-free-material/ (lista japonesa de materiais gratuitos)
+PALAVRAS-CHAVE: Benikikyonomori, lista japonesa, materiais gratuitos, blog, referência, Japão, assets, compilação
 - https://www.mizukinoko.com/entry/2019/07/30/124152 (lista japonesa de sites)
+PALAVRAS-CHAVE: Mizukinoko, lista japonesa, sites, blog, referência, Japão, materiais gratuitos, compilação
 - https://gamemakers.jp/article/2024_01_26_59516/ (lista japonesa de sites)
+PALAVRAS-CHAVE: Gamemakers.jp, lista japonesa, sites, artigo, referência, Japão, assets gratuitos, compilação
 - https://feynman.co.jp/unityforest/game-work/tool/free-game-character-materials/ (Unity Forest — personagens gratuitos)
+PALAVRAS-CHAVE: Unity Forest, Feynman, personagens gratuitos, jogo, Unity, Japão, assets, personagens 2D
 
 ## Termos e condições (avaliados)
 
 - https://dot-illust.net/terms/ (DOT ILLUST — limite de 30 itens por jogo)
+PALAVRAS-CHAVE: DOT ILLUST, termos, dot art, pixel art, limite 30 itens, uso comercial, Japão, ícones
 - https://hmix.net/terms.html (H/MIX GALLERY — jogo comercial exige licença paga)
+PALAVRAS-CHAVE: H/MIX GALLERY, termos, licença paga, uso comercial, Japão, sons, efeitos sonoros, verificação
 
 ---
 
@@ -558,10 +572,6 @@ Critério (AGENTS.md): gratuito + uso comercial permitido + licença verificáve
 | Asset | Fonte | Licença | Uso comercial | Link |
 |-------|-------|---------|---------------|------|
 | Forest Nature Pack (300+ assets) | toffeecraft (itch.io) | Standart Free = uso pessoal; Premium = comercial | ⚠️ comercial exige pagamento | https://toffeecraft.itch.io/forest-nature-pack |
-| CC0 Plant Clutter | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/cc0-plant-clutter |
-| Isometric Trees | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/isometric-trees-0 |
-| Tree Collection v2.6 | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/tree-collection-v26-bleeds-game-art |
-| Forest Level Decorations (Pixel-Art) | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/forest-level-decorations-pixel-art |
 
 ### Chão / tilesets de terreno (2D)
 
@@ -582,9 +592,10 @@ Vento (風音) e Chuva (雨音) já estão listados acima na seção Efeitos son
 | Ninja Adventure - Asset Pack | pixel-boy (itch.io) | CC0 | ✅ livre | 60+ itens: espadas, martelos, foices | https://pixel-boy.itch.io/ninja-adventure-asset-pack |
 | Pixel Crawler - Free Pack | Anokolisa (itch.io) | gratuito permanente (termos no Google Drive) | ⚠️ confirmar comercial | Axe, Sword, Hammer, Dagger, Shield, Pickaxe, Shovel, Long Scythe | https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites |
 | Game Icons | Kenney | CC0 | ✅ livre | ícones diversos | https://kenney.nl/assets/game-icons |
-| 16x16 Weapon RPG Icons | OpenGameArt | verificar na página | ⚠️ confirmar | ícones de armas 16×16 | https://opengameart.org/content/16x16-weapon-rpg-icons |
 
 ---
+
+
 
 ## 🇯🇵 Novos sites japoneses — fontes verificadas (pesquisa 24/10/2026)
 

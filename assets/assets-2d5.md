@@ -60,7 +60,7 @@ Para esse estilo, os tipos de asset mais úteis são:
 | **[8x8] Isometric TRPG Asset Pack** (entidades) | Gustavo Vituri | **Livre (comercial OK)** | 16 entidades (jogadores e inimigos), animação idle e ataque (2 frames) | <https://gvituri.itch.io/isometric-trpg> |
 | **Tiny Tactics - Battle Kit I** (personagens) | tiopalada | **CC0 1.0 Universal** | 3 personagens (mago, clérigo, guerreiro) com 4 animações × 10 estados cada, 6 armas animadas (espada de madeira, cajado, machadinha, machado de ferro, espada de ferro, cetro) | <https://tiopalada.itch.io/tiny-tactics-battle-kit-i> |
 | **Viking Ship 16 Directions** | Helianthus Games | **CC0 1.0 Universal** (implícito — autor confirmou uso comercial nos comentários) | Navio viking pixel art 64×64 isométrico rotacionado em 16 direções, inclui arquivo Aseprite, frames separados e spritesheet | <https://helianthus-games.itch.io/pixel-art-viking-ship-16-directions> |
-| **Paws & Whiskers - Isometric Dogs** | Netherzapdos | **Versão paga ($5+): comercial OK** | 6 raças (Golden Retriever, Labrador Preto, Corgi, Husky, Pastor Alemão) × idle/caminhada/trabalho + nuvem de poeira. Versão gratuita = só não comercial. | <https://netherzapdos.itch.io/paws-whiskers-isometric-dogs-pack> |
+⚠️ REMOVIDO: Paws & Whiskers - Isometric Dogs (versão gratuita = só não comercial; não conforme AGENTS.md)
 
 ---
 

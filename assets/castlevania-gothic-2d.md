@@ -78,7 +78,7 @@ Castlevania é propriedade intelectual da Konami (Belmont, Alucard, Drácula, ma
 | Graveyard Platformer 32× Tileset | — | **CC0** | tileset cemitério 32×32 | <https://opengameart.org> |
 | Forest Graveyard Tileset | — | **CC0** | tileset floresta/cemitério | <https://opengameart.org> |
 | Graveyard Set Pixel Art | — | **CC BY 4.0** | conjunto cemitério pixel | <https://opengameart.org> |
-| Graveyard Fence and Props | — | **GPL 3.0** | vime e props de cemitério | <https://opengameart.org> |
+| Graveyard Fence and Props | — | ⚠️ REMOVIDO (GPL 3.0 — não é licença permissiva conforme AGENTS.md) | vime e props de cemitério | <https://opengameart.org> |
 | Spooky Castle Tileset | — | **CC0** | tileset castelo assustador | <https://opengameart.org> |
 | Castle Platformer | — | **CC0** | tileset plataforma castelo | <https://opengameart.org> |
 | LPC: Interior Castle Tiles | — | **CC BY 4.0** | interior de castelo | <https://opengameart.org> |

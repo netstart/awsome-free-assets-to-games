@@ -9,6 +9,7 @@
 ## 1. itch.io — tag 2D grátis
 
 - https://itch.io/game-assets/free/tag-2d
+PALAVRAS-CHAVE: coleção massiva 2D, assets gratuitos para jogos, sprites e tilesets, busca filtrada por tag, pacotes para download, uso comercial sob verificação, catálogo itch.io, plataforma web de distribuição, licença varia por pacote, estilo pixel art e retrô
 - **Contagem observada na página:** **22.724** resultados (tag "2D", filtro "Free", ordenação Popular)
 - **Tipos disponíveis:** Sprites, Sound effects, Music, Textures, Characters, Tileset, Backgrounds, Fonts, Icons, User Interface (UI)
 - **Estilos:** 2D, 3D, Pixel Art, 8-Bit, 16-bit, 1-bit, Low-poly, Voxel
@@ -22,6 +23,7 @@
 ## 2. OpenGameArt.org — 2D Art
 
 - https://opengameart.org/art-search-advanced?keys=&field_art_type_tid%5B%5D=9&sort_by=count&sort_order=DESC
+PALAVRAS-CHAVE: repositório de arte para jogos, assets 2D gratuitos, busca avançada filtrada, texturas sons e músicas, download de sprites, uso comercial com atribuição, licenças CC-BY e OGA-BY, plataforma web OpenGameArt, categoria arte 2D, verificação de licença por item
 - **Contagem observada na página:** **16.322** itens (tipo "2D Art")
 - **Licenças disponíveis no filtro:** CC-BY 3.0, OGA-BY 3.0, OGA-BY 4.0, CC-BY 4.0, GPL 3.0, GPL 2.0, CC0, CC-BY-SA 4.0, CC-BY-SA 3.0 (todas permitem uso comercial; CC-BY/OGA-BY exigem atribuição; GPL exige cópia da licença; CC0 e Domínio Público são os mais permissivos)
 - **Subcategorias úteis para os temas solicitados:** Textures, Sound Effects, Music
@@ -32,6 +34,7 @@
 ## 3. Kenney (kenney.nl) — todos CC0 / domínio público
 
 - https://kenney.nl/assets (14 páginas de packs)
+PALAVRAS-CHAVE: catálogo de assets CC0, sprites e tilesets gratuitos, domínio público para jogos, navegação por pacotes, download direto de assets, uso comercial livre sem atribuição, plataforma web kenney.nl, categoria ativos 2D, estilo desenhado e pixel, licença CC0 1.0 Universal
 - **Licença:** CC0 1.0 Universal — uso comercial livre, sem exigência de atribuição, sem IA generativa declarada na maioria dos packs
 - **Packs 2D relevantes para os temas solicitados (árvores, plantas, chão, itens):**
   - foliage-sprites (sprites de folhagem)

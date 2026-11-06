@@ -43,11 +43,7 @@ Como alternativa verificada, os seguintes repositórios internacionais (sem rest
 |-------|-------|---------|---------------|------|
 | Foliage Sprites | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-sprites |
 | Foliage Pack | Kenney | CC0 | ✅ livre | https://kenney.nl/assets/foliage-pack |
-| Tree Collection v2.6 | OpenGameArt (Bleed's Game Art) | verificar na página | ⚠️ confirmar | https://opengameart.org/content/tree-collection-v26-bleeds-game-art |
-| Forest Level Decorations (Pixel-Art) | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/forest-level-decorations-pixel-art |
-| CC0 Plant Clutter | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/cc0-plant-clutter |
 | Nature Tileset | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/nature-tileset |
-| Isometric Trees | OpenGameArt | CC0 | ✅ livre | https://opengameart.org/content/isometric-trees-0 |
 | Assets Free: Nature Sprites (Trees, Shrubs) | OpenGameArt | verificar na página | ⚠️ confirmar | https://opengameart.org/content/assets-free-nature-sprites-trees-shrubs |
 
 ### Chão / tilesets de terreno (2D)
@@ -72,8 +68,6 @@ O vento e a chuva aparecem principalmente como efeitos sonoros, não como assets
 |-------|-------|---------|---------------|-------|------|
 | Ninja Adventure - Asset Pack | pixel-boy (itch.io) | CC0 | ✅ livre | 60+ itens: espadas, martelos, foices, armas várias | https://pixel-boy.itch.io/ninja-adventure-asset-pack |
 | Pixel Crawler - Free Pack | Anokolisa (itch.io) | gratuito permanente (termos no Google Drive) | ⚠️ confirmar comercial | Axe, Sword, Hammer, Dagger, Shield, Pickaxe, Shovel, Long Scythe, Bow | https://anokolisa.itch.io/free-pixel-art-asset-pack-topdown-tileset-rpg-16x16-sprites |
-| 16x16 Weapon RPG Icons | OpenGameArt | verificar na página | ⚠️ confirmar | Ícones de armas 16×16 | https://opengameart.org/content/16x16-weapon-rpg-icons |
-| Admurin's Armory | OpenGameArt | verificar na página | ⚠️ confirmar | Armaria (espadas, martelos, etc.) | https://opengameart.org/content/admurins-armory |
 | Ancient Arms - Free Sampler | OpenGameArt | verificar na página | ⚠️ confirmar | Armas pixel com encantamentos animados | https://opengameart.org/content/ancient-arms-free-sampler-pixel-art-weapons-with-animated-enchantments |
 | Game Icons | Kenney | CC0 | ✅ livre | Ícones de jogo diversos | https://kenney.nl/assets/game-icons |
 | Game Icons Expansion | Kenney | CC0 | ✅ livre | Expansão de ícones | https://kenney.nl/assets/game-icons-expansion |

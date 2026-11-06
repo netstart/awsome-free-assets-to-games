@@ -19,7 +19,7 @@
 
 ---
 
-## 1. OpenGameArt — Textura (211)
+## 1. OpenGameArt — Textura (212)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -165,6 +165,7 @@
 | PhilipK textures | Calinou | CC BY 3.0 | ancient | <https://opengameart.org/content/philipk-textures> |
 | Photo Texture Pack | Drummyfish | CC0 1.0 | sky | <https://opengameart.org/content/photo-texture-pack> |
 | PieTextureset | Spiney | CC0 1.0 | fish | <https://opengameart.org/content/pietextureset> |
+| Pixar's textures | Calinou | CC BY 3.0 | parallax | <https://opengameart.org/content/pixars-textures> |
 | Pixel Patterns 2 | AV Reference | CC0 1.0 | water | <https://opengameart.org/content/pixel-patterns-2> |
 | PK-texturepack | FacadeGaikan | CC0 1.0 | water | <https://opengameart.org/content/pk-texturepack> |
 | Planets: Terran | Jattenalle | CC BY 3.0 / OGA-BY 3.0 | clouds | <https://opengameart.org/content/planets-terran> |

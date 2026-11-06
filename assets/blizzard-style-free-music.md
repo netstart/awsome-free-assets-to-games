@@ -20,14 +20,8 @@ Este catálogo reúne assets **criados pela comunidade** que são *inspirados* o
 
 | Asset | Autor | Licença | Temática Blizzard | Link |
 |-------|-------|---------|-------------------|------|
-| **March of the Horde** | William Hector | **CC-BY 4.0** | Warcraft / Horda | <https://opengameart.org/content/march-of-the-horde> |
-| **A Darkness Opus** | Alexandr Zhelanov | **OGA-BY 3.0** | Diablo (dark fantasy/ambient) | <https://opengameart.org/content/a-darkness-opus> |
-| **Orchestral Epic Fantasy Music** | Zefz, Johan Brodd, pixelsphere | **CC-BY-SA 3.0** | Warcraft 3 (epic/orchestral) | <https://opengameart.org/content/orchestral-epic-fantasy-music-zefz-johan-brodd-pixelsphere> |
-| **Battle in the Winter** | Johan Brodd (jobromedia) | **CC-BY 3.0 / GPL 3.0 / OGA-BY 3.0** | Warcraft 3 (battle/symphonic) | <https://opengameart.org/content/battle-in-the-winter> |
-| **Battle Theme A** | cynicmusic.com / pixelsphere | **CC0** | Warcraft 3 (battle) | <https://opengameart.org/content/battle-theme-a> |
-| **CC0 BGM Pack** | Axem199 | **CC0** | Fantasy/RPG genérico | <https://opengameart.org/content/cc0-bgm> |
-| **CC0 Music Pack** | Belmont Republic | **CC0** | Vários estilos | <https://opengameart.org/content/cc0-music> |
-| **CC0 Remakes** | Umplix + colaboradores | **CC0** | Remakes de temas clássicos | <https://opengameart.org/content/cc0-remakes> |
+
+*Consulte `assets/opengameart.md` para o catálogo completo de músicas e trilhas do OpenGameArt.*
 
 ---
 

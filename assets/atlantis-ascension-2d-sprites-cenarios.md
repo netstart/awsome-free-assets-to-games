@@ -17,7 +17,7 @@
 
 ---
 
-## 1. OpenGameArt — 2D (3030)
+## 1. OpenGameArt — 2D (3036)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -50,6 +50,7 @@
 | 13 Unique Cursors! | Deva | CC0 1.0 | gui | <https://opengameart.org/content/13-unique-cursors> |
 | 140 Military Icons Set (fixed) | XCVG | CC BY 3.0 | gui | <https://opengameart.org/content/140-military-icons-set-fixed> |
 | 150 Assorted Shields Large & Small - 32x32px Transparent PNG | JoesAlotofthings | CC BY 3.0 | shield | <https://opengameart.org/content/150-assorted-shields-large-small-32x32px-transparent-png> |
+| 16 bit Tileset TopDown Zelda Like Pro Version | Ritpop | CC BY 4.0 | water | <https://opengameart.org/content/16-bit-tileset-topdown-zelda-like-pro-version> |
 | 16 direction rocket projectile | diggy | CC0 1.0 | projectile | <https://opengameart.org/content/16-direction-rocket-projectile> |
 | 16 Emotions | melaniko | CC0 1.0 | storm | <https://opengameart.org/content/16-emotions> |
 | 16 Inventory Icons | YucchiNyan | CC BY 3.0 | gui | <https://opengameart.org/content/16-inventory-icons> |
@@ -146,6 +147,8 @@
 | 2D House 2 - Up View (PSD) | MoradM | CC BY 3.0 | city | <https://opengameart.org/content/2d-house-2-up-view-psd> |
 | 2D Island Boy Character Sprite | CraftPix.net 2D Game Assets | OGA-BY 3.0 | island | <https://opengameart.org/content/2d-island-boy-character-sprite> |
 | 2d lost Garden tileset transition to Jetrel's Wood tileset | Zabin | CC BY-SA 3.0 | water | <https://opengameart.org/content/2d-lost-garden-tileset-transition-to-jetrels-wood-tileset> |
+| 2d Lost Garden Zelda style tiles resized to 32x32 with additions | Zabin | CC BY 3.0 | ancient | <https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-resized-to-32x32-with-additions> |
+| 2d Lost Garden Zelda style tiles winter theme with additions | Zabin | CC BY-SA 3.0 | boss | <https://opengameart.org/content/2d-lost-garden-zelda-style-tiles-winter-theme-with-additions> |
 | 2d Object Pack | thomaswp | CC BY-SA 3.0 | water | <https://opengameart.org/content/2d-object-pack> |
 | 2D Parking Assets | looneybits | CC0 1.0 | city | <https://opengameart.org/content/2d-parking-assets> |
 | 2d pixel - cloudy backgrounds | ColdOneK | CC BY 4.0 | clouds | <https://opengameart.org/content/2d-pixel-cloudy-backgrounds> |
@@ -386,6 +389,7 @@
 | Alot of Particles ExplodeImplode special effect - Alotofparticles12 | JoesAlotofthings | CC BY 4.0 | particle | <https://opengameart.org/content/alot-of-particles-explodeimplode-special-effect-alotofparticles12> |
 | Alot of Particles FlameOut special effect - Alotofparticles13 | JoesAlotofthings | CC BY 4.0 | particle | <https://opengameart.org/content/alot-of-particles-flameout-special-effect-alotofparticles13> |
 | Alot of Particles FlashBurst special effect - Alotofparticles15 | JoesAlotofthings | CC BY 4.0 | particle | <https://opengameart.org/content/alot-of-particles-flashburst-special-effect-alotofparticles15> |
+| Alot of Particles Halo special effects (2 Sets) | JoesAlotofthings | CC BY 4.0 | particle | <https://opengameart.org/content/alot-of-particles-halo-special-effects-2-sets> |
 | Alot of Particles iinStarBurst special effect - Alotofparticles25 | JoesAlotofthings | CC BY 4.0 | particle | <https://opengameart.org/content/alot-of-particles-iinstarburst-special-effect-alotofparticles25> |
 | Alot of Particles Implosion special effect - Alotofparticles32 | JoesAlotofthings | CC BY 4.0 | particle | <https://opengameart.org/content/alot-of-particles-implosion-special-effect-alotofparticles32> |
 | Alot of Particles Implosion002 special effect - Alotofparticles17 | JoesAlotofthings | CC BY 4.0 | particle | <https://opengameart.org/content/alot-of-particles-implosion002-special-effect-alotofparticles17> |
@@ -2186,6 +2190,7 @@
 | Round Shield [40x40] | Sekulus | CC0 1.0 | shield | <https://opengameart.org/content/round-shield-40x40> |
 | round shield [64x64] | LordNeo | CC0 1.0 | shield | <https://opengameart.org/content/round-shield-64x64> |
 | Royal Attributes | Delta | CC BY 4.0 | shield | <https://opengameart.org/content/royal-attributes> |
+| RP Destiny - Sprites and Tilesets | ChaosWasTaken | CC BY 3.0 | ocean | <https://opengameart.org/content/rp-destiny-sprites-and-tilesets> |
 | RPG (some GUI concepts) | Tsukeo | CC BY 3.0 | gui | <https://opengameart.org/content/rpg-some-gui-concepts> |
 | RPG - Forest Ruins - Isometric | 2DPIXX | CC BY 3.0 | ruins | <https://opengameart.org/content/rpg-forest-ruins-isometric> |
 | RPG - Village - Isometric | 2DPIXX | CC BY 3.0 | ruins | <https://opengameart.org/content/rpg-village-isometric> |
@@ -3042,6 +3047,7 @@
 | xXNEFARIOUS_DESTRUCTOID_OF_MURDERRRINg_123Xx | Dystoth | CC0 1.0 | octopus | <https://opengameart.org/content/xxnefariousdestructoidofmurderrring123xx> |
 | Yet Another RPG GUI | ruberboy | CC0 1.0 | gui | <https://opengameart.org/content/yet-another-rpg-gui> |
 | Yeti - SuperTux Advance | Kelvin Shadewing | CC BY-SA 4.0 | boss | <https://opengameart.org/content/yeti-supertux-advance> |
+| Zelda-like tilesets and sprites | ArMM1998 | CC0 1.0 | water | <https://opengameart.org/content/zelda-like-tilesets-and-sprites> |
 | Zeppelin | Jean Alvin | CC BY 3.0 | shoot em up | <https://opengameart.org/content/zeppelin> |
 | Zombie Boss in Dead Impact. | Stoner Games | CC0 1.0 | boss | <https://opengameart.org/content/zombie-boss-in-dead-impact> |
 | Zombie GUI | Dakal | CC BY 3.0 | gui | <https://opengameart.org/content/zombie-gui> |
@@ -3054,7 +3060,7 @@
 
 ---
 
-## 2. itch.io — Cenários e fundos (637)
+## 2. itch.io — Cenários e fundos (642)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -3094,6 +3100,7 @@
 | 16x16 Strategy/RPG bronze-iron age icons | cimeto | CC0 1.0 | ancient | <https://cimeto.itch.io/16x16-strategyrpg-bronze-iron-age-icons> |
 | 1Bit Mines | omniclause | CC0 1.0 | tileset | <https://omniclause.itch.io/1bit-mines> |
 | 2-Bits Pack | ashizian | CC0 1.0 | tileset | <https://ashizian.itch.io/2-bits-pack> |
+| 200+ GB Zelda-Style - Tileset & Sprites (16x16) | kaboff | CC0 1.0 | tileset | <https://kaboff.itch.io/gb-zelda-style-tileset-sprites> |
 | 2D Assets: Slimedew Valley tileset and sprites | lakedead | CC0 1.0 | tileset | <https://lakedead.itch.io/assets-slimedew-valley-tileset-and-sprites> |
 | 2D City Asset Pack | styloo | CC0 1.0 | background | <https://styloo.itch.io/2d-city> |
 | 2d Dungeon Asset Pack | styloo | CC0 1.0 | tileset | <https://styloo.itch.io/2d-dungeon> |
@@ -3693,8 +3700,12 @@
 | Wooden Sign (16x Platformer/2D topdown) | skalding | CC BY 4.0 | background | <https://skalding.itch.io/signs-16x-free> |
 | Yellow Pixel 32x32 Tiles | yellowpixel | CC0 1.0 | tileset | <https://yellowpixel.itch.io/yellowpixeltiles> |
 | Ze Crappy Cartoon Art Pack | thecrimsondm-vanillia | CC0 1.0 | background | <https://thecrimsondm-vanillia.itch.io/ze-crappy-cartoon-art-pack> |
+| Zelda like - tileset dungeon castle | deakcor | CC BY 4.0 | tileset | <https://deakcor.itch.io/zelda-like-tileset-dungeon-castle> |
+| Zelda like - tileset futuristic | deakcor | CC BY 4.0 | tileset | <https://deakcor.itch.io/zelda-like-tileset-futuristic> |
 | ​FREE Bar asset pack !​ | styloo | CC0 1.0 | background | <https://styloo.itch.io/freebarassetspack> |
 | ☆MicroMagic☆ | pixelfoxer | CC0 1.0 | tileset | <https://pixelfoxer.itch.io/micro-magic-8x8> |
+| Underwater City Backgrounds — FREE Sample | Blueberry Assets | Uso comercial ilimitado (sem royalty, sem crédito) | background | <https://blueberry-assets.itch.io/underwater-city-backgrounds-free> |
+| Free_Underwater_Parallax | TookMyRole | FREE, uso comercial (atribuição bem-vinda, não obrigatória) | background | <https://tookmyrole.itch.io/free-underwater-parallax> |
 
 ---
 
@@ -3709,7 +3720,7 @@
 
 ---
 
-## 4. itch.io — Inimigos e bosses (116)
+## 4. itch.io — Inimigos e bosses (117)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
@@ -3794,6 +3805,7 @@
 | Pixelart Bandits | charon1979 | CC BY-SA 4.0 | monsters | <https://charon1979.itch.io/bandits> |
 | Piñata pixel art 24x24 | camacebra | CC0 1.0 | monsters | <https://camacebra.itch.io/pinata-pixel-art-24x24> |
 | Pocket Witch - Slimes FREE Monster Asset Pack | faultbox | CC BY 4.0 | monsters | <https://faultbox.itch.io/slimes> |
+| Pokemon Replica w/ Trash-Animations and Evolutions | michael-jay-rov | CC BY 4.0 | monsters | <https://michael-jay-rov.itch.io/pokemon-replica-with-trash-animations-and-evolutions> |
 | Procedural Creature Generation (Tutorial #1) | frothzon | CC BY 4.0 | monsters | <https://frothzon.itch.io/procedural-creature-generation> |
 | Purgatory Extreme Metal Music Pack | davidkbd | CC BY 4.0 | boss | <https://davidkbd.itch.io/purgatory-extreme-metal-music-pack> |
 | Purgatory vol 3 Extreme Metal Music Pack | davidkbd | CC BY 4.0 | boss | <https://davidkbd.itch.io/purgatory-vol-3-extreme-metal-music-pack> |
@@ -3832,13 +3844,14 @@
 
 ---
 
-## 5. itch.io — Naves e veículos (217)
+## 5. itch.io — Naves e veículos (219)
 
 | Asset | Autor | Licença | Tipo / tag | Link |
 |-------|-------|---------|------------|------|
 | "Slender Man" Character Model | nsmmrs | CC0 1.0 | sci-fi | <https://nsmmrs.itch.io/slender-man-character-model> |
 | 1-Bit Moon Asset Pack - unfinished | bragorn | CC BY 4.0 | space | <https://bragorn.itch.io/1-bit-moon-asset-pack-unfinished> |
 | 1-Bit Sci-Fi Tileset | omniclause | CC0 1.0 | sci-fi | <https://omniclause.itch.io/1-bit-sci-fi> |
+| 14 "Mario Galaxy" Style Piano Tracks (Towball Galaxy) | towball | CC BY 4.0 | space | <https://towball.itch.io/towball-galaxy> |
 | 16x16 Industrial Tileset | 0x72 | CC0 1.0 | sci-fi | <https://0x72.itch.io/16x16-industrial-tileset> |
 | 24x24 RPG items | v-ktor | CC BY 4.0 | sci-fi | <https://v-ktor.itch.io/24x24-rpg-items> |
 | 2D Planet Pack 1 | screamingbrainstudios | CC0 1.0 | space | <https://screamingbrainstudios.itch.io/planetpack> |
@@ -3922,6 +3935,7 @@
 | FREE Sci-Fi UI | sungraphica | CC BY 4.0 | space | <https://sungraphica.itch.io/free-sci-fi-ui> |
 | Free Space Runner Pack | mattwalkden | CC0 1.0 | space | <https://mattwalkden.itch.io/free-space-runner-pack> |
 | FREE Spaceships Vol. 2 | gisha | CC0 1.0 | space | <https://gisha.itch.io/spaceships-2> |
+| FREE- FP ANIMATED WEAPONS - STAR WARS E11 | whiteknightstudios | CC0 1.0 | sci-fi | <https://whiteknightstudios.itch.io/fp-animated-weapons-e11> |
 | Free-Space Station-Game asset | jonik9i | CC0 1.0 | space | <https://jonik9i.itch.io/free-space-station-game-asset> |
 | Frosty Cyberpunk Interior Asset Pack | rbduck | CC0 1.0 | sci-fi | <https://rbduck.itch.io/cold-cyberpunk-asset-pack> |
 | Futuristic Sound Effects | polar-34 | CC0 1.0 | space | <https://polar-34.itch.io/futuristic-sfx> |

@@ -7,31 +7,53 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 ## itch.io — Multi-categoria / Geral
 
 - https://itch.io/game-assets/free (assets grátis geral)
+PALAVRAS-CHAVE: itch.io, categoria geral, assets gratuitos, jogos, busca filtrada, download, uso comercial sob verificação, plataforma web, catálogo indie, licença varia por pacote
 - https://itch.io/game-assets/assets-cc0 (assets CC0)
+PALAVRAS-CHAVE: itch.io, categoria CC0, assets gratuitos, domínio público, uso comercial, CC0, download, plataforma web, catálogo indie, licença CC0, jogos
 - https://itch.io/game-assets/free/tag-2d (2D)
+PALAVRAS-CHAVE: itch.io, categoria 2D, assets gratuitos, busca por tag, sprites, tilesets, uso comercial sob verificação, plataforma web, catálogo indie, licença varia por pacote, jogos 2D
 - https://itch.io/game-assets/free/tag-cute (fofinhos)
+PALAVRAS-CHAVE: itch.io, categoria cute, fofinhos, assets gratuitos, busca por tag, kawaii, estilo fofo, uso comercial sob verificação, plataforma web, catálogo indie, jogos casuais
 - https://itch.io/game-assets/free/tag-kawaii (kawaii)
+PALAVRAS-CHAVE: itch.io, categoria kawaii, assets gratuitos, busca por tag, estilo japonês fofo, uso comercial sob verificação, plataforma web, catálogo indie, licença varia por pacote, jogos kawaii
 - https://itch.io/game-assets/free/tag-cozy (aconchegante/infantil)
+PALAVRAS-CHAVE: itch.io, categoria cozy, aconchegante, assets gratuitos, busca por tag, estilo infantil, uso comercial sob verificação, plataforma web, catálogo indie, jogos cozy
 - https://itch.io/game-assets/free/tag-pixel-art (pixel art)
+PALAVRAS-CHAVE: itch.io, categoria pixel art, assets gratuitos, busca por tag, sprites pixel, arte retrô, uso comercial sob verificação, plataforma web, catálogo indie, jogos pixel art
 - https://itch.io/game-assets/free/tag-sprites (sprites)
+PALAVRAS-CHAVE: itch.io, categoria sprites, assets gratuitos, busca por tag, sprites 2D, animação, uso comercial sob verificação, plataforma web, catálogo indie, jogos 2D
 - https://itch.io/game-assets/free/tag-characters (personagens)
+PALAVRAS-CHAVE: itch.io, categoria personagens, assets gratuitos, busca por tag, personagens 2D, sprites, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-tileset (tilesets/mapas)
+PALAVRAS-CHAVE: itch.io, categoria tileset, assets gratuitos, busca por tag, tilesets, mapas, cenários, uso comercial sob verificação, plataforma web, catálogo indie, jogos 2D
 - https://itch.io/game-assets/free/tag-backgrounds (cenários/fundos)
+PALAVRAS-CHAVE: itch.io, categoria backgrounds, assets gratuitos, busca por tag, cenários, fundos, sprites de fundo, uso comercial sob verificação, plataforma web, catálogo indie, jogos 2D
 - https://itch.io/game-assets/free/tag-icons (ícones)
+PALAVRAS-CHAVE: itch.io, categoria ícones, assets gratuitos, busca por tag, ícones de jogo, UI, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-user-interface (UI)
+PALAVRAS-CHAVE: itch.io, categoria UI, interface, assets gratuitos, busca por tag, interface de usuário, HUD, menus, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-fonts (fontes)
+PALAVRAS-CHAVE: itch.io, categoria fontes, assets gratuitos, busca por tag, tipografia, fontes para jogos, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-sound-effects (sons)
+PALAVRAS-CHAVE: itch.io, categoria sound effects, assets gratuitos, busca por tag, efeitos sonoros, SFX, áudio, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-music (música)
+PALAVRAS-CHAVE: itch.io, categoria música, assets gratuitos, busca por tag, trilha sonora, áudio, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-textures (texturas)
+PALAVRAS-CHAVE: itch.io, categoria texturas, assets gratuitos, busca por tag, texturas, materiais, superfícies, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-no-ai (sem IA)
+PALAVRAS-CHAVE: itch.io, categoria no-ai, sem IA generativa, assets gratuitos, busca por tag, conteúdo humano, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 - https://itch.io/game-assets/free/tag-royalty-free (royalty free)
+PALAVRAS-CHAVE: itch.io, categoria royalty-free, assets gratuitos, busca por tag, sem royalties, uso comercial, plataforma web, catálogo indie, licença livre, jogos
 - https://itch.io/game-assets/free/tag-asset-pack (pacotes de assets)
+PALAVRAS-CHAVE: itch.io, categoria asset-pack, pacotes de assets, assets gratuitos, busca por tag, coleções, uso comercial sob verificação, plataforma web, catálogo indie, jogos
 
 ---
 
 ## itch.io — Personagens, monstros e criaturas
 
 - https://pixel-boy.itch.io/ninja-adventure-asset-pack (base do jogo, CC0: personagens, monstros, chefes, tilesets, itens, VFX, ícones, UI, música e SFX)
+- https://pixel-boy.itch.io/free-mix (FreeMix — amostra gratuita da coleção AssetsMix, dos mesmos autores do Ninja Adventure, pixel-boy e AAA: 25 sprites RPG de frente (monstros e chefe, ex.: cobra de três cabeças com velas, fogueira-mímico, golem), 15 VFX, 5 facesets, 5 músicas, 10 SFX, tema de UI e fonte; **licença custom comercial**: uso em qualquer jogo, edição livre, crédito opcional; proibido revender/redistribuir os assets soltos, incluir em packs/templates, NFT e treino de IA; sem IA)
+PALAVRAS-CHAVE: itch.io, FreeMix, AssetsMix, pixel-boy, AAA, Ninja Adventure, monstros RPG, chefe, cobra três cabeças, fogueira mímico, VFX, músicas, SFX, licença custom comercial, crédito opcional, sem IA, sprites, inimigo, chefe, yōkai, web
 - https://danaida.itch.io/free-pixel-monsters-pack-16x16 (monstros pixel 16×16)
 - https://pixelartmaterial.itch.io/ (yōkai, monstros pixel)
 - https://pixelfrog-assets.itch.io/pixel-adventure-1 (personagens e itens)
@@ -47,6 +69,7 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://almostapixel.itch.io/ (criador individual — loja com itens pagos $3.99+, verificar cada asset)
 - https://zerie.itch.io/tiny-rpg-character-asset-pack (22 personagens animados)
 - https://zerie.itch.io/tiny-rpg-character-asset-pack-02 (20 personagens animados)
+PALAVRAS-CHAVE: itch.io, Platformer, Tiny RPG Character Asset Pack 02, Zerie, 20 personagens animados, platformer, sprites, personagem, RPG, uso comercial, web
 - https://gandalfhardcore.itch.io/2d-pixel-art-male-and-female-character (personagem feminino e masculino pixel — custom license: comercial OK, não resale/NFT/AI)
 - https://seliel-the-shaper.itch.io/character-base (base de personagem pixel — demo gratuito comercial, versão completa paga $19.98)
 - https://seliel-the-shaper.itch.io/farmer-base (base de fazendeiro pixel — demo gratuito comercial, versão completa paga)
@@ -68,7 +91,7 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://maxparata.itch.io/voxel-mechas (robôs voxel)
 - https://kasujin.itch.io/green-hair-anime-girl (anime girl stylized)
 - https://helianthus-games.itch.io/pixel-art-viking-ship-16-directions (navio viking pixel art 64×64 isométrico em 16 direções; **CC0 implícito** — autor confirmou uso comercial nos comentários; inclui Aseprite, frames separados, spritesheet)
-- https://netherzapdos.itch.io/paws-whiskers-isometric-dogs-pack (6 raças de cães isométricos: Golden Retriever, Labrador Preto, Corgi, Husky, Pastor Alemão × idle/caminhada/trabalho + nuvem de poeira; **versão paga $5+ = comercial OK**, versão gratuita = só não comercial)
+⚠️ REMOVIDO: paws-whiskers-isometric-dogs-pack (versão gratuita = só não comercial; não conforme AGENTS.md)
 - https://tiopalada.itch.io/tiny-tactics-battle-kit-i (**CC0** — 3 personagens isométricos: mago, clérigo, guerreiro × 4 animações/10 estados cada + 6 armas animadas)
 - https://quaternius.itch.io/universal-animation-library (**CC0** — 120+ animações 3D de humanoide (locomotion, combate, emotes) para Unity/Unreal/Godot; uso comercial, sem atribuição, sem IA)
 - https://quaternius.itch.io/universal-animation-library-2 (**CC0** — 130+ animações 3D adicionais (combos, parkour, farming, zombie locomotion) para Unity/Unreal/Godot; uso comercial, sem atribuição, sem IA)
@@ -353,7 +376,7 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://two-orcs.itch.io/free-fantasy-characters-pack-7 (Free Fantasy Characters Pack #7 — Two Orcs — **Licença custom comercial**: uso em projetos comerciais, edição permitida)
 - https://elie-automata.itch.io/dread-realms-vampire-court (Vampire Court - 24 Dark Fantasy Characters — elie_automata — **Licença custom comercial**: uso comercial e não-comercial, modificações permitidas, crédito obrigatório)
 - https://heyheythere.itch.io/psx-people-free (PSX People Free - Rigged Animated Characters Sampler — heyheythere — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
-- https://acgames89.itch.io/andres-visual-novel-sprite-pack (Andres Visual Novel Sprite Pack — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
+⚠️ REMOVIDO: acgames89.itch.io/andres-visual-novel-sprite-pack (CC BY-ND — não é licença permissiva conforme AGENTS.md)
 - https://whiteknightstudios.itch.io/pixel-style-animated-character-sci-fi-trooper-2 (FP- 2D - "SCI-FI TROOPER 2" 8 DIRECTIONAL — W_K_Studio — **CC0** — Creative Commons Zero; uso comercial e privado ilimitado)
 - https://jitsukoan.itch.io/viking-boat (Viking Boat — Jitsu Koan — **Licença custom comercial**: uso comercial permitido, crédito obrigatório)
 - https://illosophy.itch.io/119-pixel-art-characters-static-sprites (119 Pixel Art Characters (static sprites) — illosophy — **Licença custom comercial**: uso pessoal e comercial, royalty-free, agradecimento opcional)
@@ -366,7 +389,7 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://michaelquitblegh.itch.io/alter-snort-3d-asset-pack (TAS character pack for blender 4.2+ — Michael Quit Productions — **CC0** — Creative Commons Zero; domínio público)
 - https://daemonoutcast.itch.io/daemon-lowpoly-basemeshes (DAEMON LOWPOLY Basemeshes — DAEMON — **CC0 License** — Creative Commons Zero; royalty free)
 - https://arma-labs.itch.io/my-jumping-frog (My Jumping Frog v2.0 — ARMA labs — **Licença custom comercial**: uso comercial e não-comercial)
-- https://maxparata.itch.io/voxelanimals (Voxel Animals - monogon — Max Parata — **CC BY-ND** — Creative Commons Attribution-NoDerivatives v4.0 International; uso comercial permitido)
+⚠️ REMOVIDO: maxparata.itch.io/voxelanimals (CC BY-ND — não é licença permissiva conforme AGENTS.md)
 - https://fangondev.itch.io/undead-enemy-pack-1 (UNDEAD - Enemy Pack 1 — FangonDev — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não redistribuir/revender)
 - https://engvee.itch.io/isometric-knight-girl (FREE Isometric Knight Girl Sprites + Bonus sideview — Engvee — **Licença custom comercial**: uso em projetos comerciais e não-comerciais, modificação permitida)
 - https://stadnikova-ekaterina.itch.io/piggys-vampire-story-set (PIGGY'S Vampire Story Set — littlePIGGY — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
@@ -375,29 +398,48 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://kibyra.itch.io/pixel-art-character-animated-sprite-pack (Free Pixel Art Character Animated Sprite Pack — Kibyra — **Licença custom comercial**: uso pessoal e comercial)
 - https://marcomyly.itch.io/dark-knight-free-3d-character-dark-sword-mid-poly (Dark Knight – Free 3D Character + Dark Longsword (Mid Poly) — Marco Brito — **Licença custom comercial**: uso gratuito no jogo, sem atribuição obrigatória)
 - https://two-orcs.itch.io/free-fantasy-characters-pack-5 (Free Fantasy Characters Pack #5 — Two Orcs — **Licença custom comercial**: uso em projetos não-comerciais e comerciais)
-- https://acgames89.itch.io/free-characters-assest (Free Characters Assets Pack 2 — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
+⚠️ REMOVIDO: acgames89.itch.io/free-characters-assest (CC BY-ND — não é licença permissiva conforme AGENTS.md)
 - https://axiworks.itch.io/ghost-hands (Ghost Hands — Axi — **CC BY-SA 4.0** — Creative Commons Attribution-ShareAlike v4.0 International; crédito obrigatório)
 - https://bender-blender.itch.io/stylized-witch (Stylized Witch – Rigged & Animated 3D Character — bender-blender — **Licença custom comercial**: crédito apreciado mas não obrigatório)
 - https://obssidian-art.itch.io/obssidian-adventurer-free-32x32-top-down-character (Obssidian Adventurer — FREE 32x32 Top-Down Character | Godot 4 — obssidian-art — **Licença custom comercial**: uso em projetos pessoais e comerciais, crédito opcional)
+PALAVRAS-CHAVE: itch.io, personagem, top-down, 32x32, pixel art, Godot 4, jogo 2D, uso comercial, crédito opcional, sprites, personagem aventureiro, web
 - https://segnah.itch.io/sir-traverse (Sir Traverse - The Stickman Gentleman — Segnah — **Licença custom comercial**: uso em projetos comerciais, modificação permitida, não compartilhar livremente)
-- https://acgames89.itch.io/natalia-visual-novel-sprite-pack (Natalia Visual Novel Sprite Pack — acgames89 — **CC BY-ND** — Creative Commons Attribution-NoDerivatives; crédito obrigatório, uso comercial permitido)
+PALAVRAS-CHAVE: itch.io, personagem, stickman, cavalheiro, uso comercial, modificação permitida, sprites, personagem, web, não redistribuir
+⚠️ REMOVIDO: acgames89.itch.io/natalia-visual-novel-sprite-pack (CC BY-ND — não é licença permissiva conforme AGENTS.md)
 - https://pixiblop.itch.io/skeleton-monster-animated-pixel-art-enemy-pack-4-color-variants (Skeleton Monster — Animated Pixel Art Enemy Pack | 4 Color Variants — pixiblop — **Licença custom comercial**: uso pessoal e comercial, modificação permitida)
+PALAVRAS-CHAVE: itch.io, monstro, esqueleto, animado, pixel art, inimigo, 4 variantes, uso comercial, modificação permitida, sprites, web
 - https://1camou.itch.io/dungeon-starter-blockimagine (Dungeon Starter – Free Blocky 3D Asset Pack (CC0) — 1CAMOU — **CC0** — Creative Commons Zero; uso comercial sem atribuição)
+PALAVRAS-CHAVE: itch.io, masmorra, starter, 3D, blocos, CC0, uso comercial, sem atribuição, modelos 3D, pack de assets, web
 - https://immortal-burrito.itch.io/bird-potraits (Bird character portraits — Burrito — **Licença custom comercial**: uso comercial com crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, pássaro, retrato, personagem, uso comercial, crédito obrigatório, sprites, ilustração, web, retratos
 - https://darkknight17.itch.io/eee (Animation Dark Character — DarKKnight17 — **Licença custom comercial**: uso em projetos gratuitos e comerciais, modificação permitida, não repackage/redistribuir/revender)
+PALAVRAS-CHAVE: itch.io, personagem sombrio, animação, 2D, uso comercial, modificação permitida, sprites, personagem, web, não revender
 - https://quickmash.itch.io/fox-asset-pack (Fox Asset Pack — QuickMash — **Licença custom comercial**: uso em projetos comerciais e pessoais, atribuição não obrigatória)
+PALAVRAS-CHAVE: itch.io, raposa, personagem, uso comercial, uso pessoal, sem atribuição obrigatória, sprites, pack, web, animal
 - https://stadnikova-ekaterina.itch.io/piggys-new-2022-year (PIGGY'S New 2022 Year — littlePIGGY — **Licença custom comercial**: uso comercial e não-comercial, crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, porco, personagem, ano novo, uso comercial, crédito obrigatório, sprites, pack temático, web
 - https://pngtubermaker.itch.io/free-ai-pngtuber-pack (Free AI PNGTuber Pack: 6 Characters (Idle, Talking, Blink) — PNGTuber Maker — **Licença custom comercial**: uso livre incluindo monetização, crédito não obrigatório)
+PALAVRAS-CHAVE: itch.io, PNGTuber, personagens, 6 personagens, IA, uso livre, monetização, sem crédito, sprites, web, streamer
 - https://piksel-to-pies.itch.io/asset-pack (asset-pack — SomeoneTakesPiksel — **CC BY 4.0** — Creative Commons Attribution v4.0 International; crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, pack de assets, CC BY 4.0, atribuição obrigatória, uso comercial, sprites, pack, web, créditos
 - https://laphkal.itch.io/pixel-fantasy-character-sprites-pack (Pixel Fantasy Character Sprites Pack — Laphkal — **Licença custom comercial**: crédito obrigatório, não redistribuir ou revender o pacote)
+PALAVRAS-CHAVE: itch.io, fantasia pixel, personagens, sprites, crédito obrigatório, não redistribuir, uso comercial, pack, web, fantasia
 - https://nofool.itch.io/frog-character (Frog Character — nofool — **Licença custom comercial**: uso em qualquer projeto comercial ou não-comercial, modificação permitida)
+PALAVRAS-CHAVE: itch.io, sapo, personagem, uso comercial, modificação permitida, sprites, pack, web, animal, anfíbio
 - https://not-a-kappa-games.itch.io/animated-bear-sprite-pack (Pixel Art Bear Sprite Pack — Animated — The Game Smith — **Licença custom comercial**: uso em projetos gratuitos e comerciais, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, urso, pixel art, animado, sprite pack, uso comercial, uso gratuito, crédito apreciado, sprites, web, animal
 - https://brickle-pickle.itch.io/kaka-3d-character (Kaka (3D character) — Brickle Pickle — **COO License**: uso em projetos comerciais e pessoais sem restrições)
+PALAVRAS-CHAVE: itch.io, personagem 3D, Kaka, uso comercial, uso pessoal, sem restrições, modelo 3D, COO License, web, personagem
 - https://snoblin.itch.io/knights-character-pack-pixel-rpg (Knight Characters - Pixel RPG — Snoblin — **Licença custom comercial**: uso em projetos comerciais e não-comerciais)
+PALAVRAS-CHAVE: itch.io, cavaleiros, pixel art, RPG, uso comercial, uso não-comercial, sprites, personagens, pack, web
 - https://reinvogames.itch.io/leather-rogue (Leather Rogue — reinvogames — **Licença custom comercial**: uso comercial em jogos, apps, vídeos, websites, sem atribuição)
+PALAVRAS-CHAVE: itch.io, ladrão de couro, personagem, uso comercial, sem atribuição, jogos, apps, vídeos, websites, sprites, web
 - https://kimbulworks.itch.io/cc-zero ([FREE] Chara Collections #0 - Zero — Kimbulworks — **Licença custom comercial**: uso livre, modificação permitida, crédito não obrigatório)
+PALAVRAS-CHAVE: itch.io, coleção de personagens, uso livre, modificação permitida, sem crédito obrigatório, sprites, personagens, pack, web
 - https://hnnnnnnn.itch.io/village-npc-vol1-6-characters-8-dir-9696 (Village NPC Vol.1 — 6 Characters — hnnnnnnn — **Licença custom comercial**: uso comercial permitido, não revender/redistribuir arquivos brutos)
+PALAVRAS-CHAVE: itch.io, NPC aldeia, 6 personagens, 8 direções, uso comercial, não revender, sprites, personagens, pack, web
 - https://free-game-assets.itch.io/free-2d-pirate-sprites (Free 2D Pirate Sprites — Free Game Assets — **Licença custom comercial**: uso em vários projetos)
+PALAVRAS-CHAVE: itch.io, pirata, sprites 2D, uso comercial, vários projetos, sprites, pack, web, fantasia, piratas
 - https://two-orcs.itch.io/free-fantasy-characters-pack-4 (Free Fantasy Characters Pack #4 — Two Orcs — **Licença custom comercial**: uso em projetos não-comerciais e comerciais)
 - https://greyfroggames.itch.io/skeleton (Skeleton — GreyFrogGames — **CC BY 4.0** — Creative Commons Attribution v4.0 International; uso comercial permitido, não revender/redistribuir)
 - https://riekahq.itch.io/vesna-fighter-lite (Vesna Fighter Lite - Free 64x64 Pixel Art Fighting Game Character — riekahq — **Licença custom comercial**: uso em jogos comerciais e pessoais, crédito apreciado)
@@ -559,100 +601,178 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 - https://ktarsis.itch.io/low-poly-fox (Low-Poly Fox — Ktarsis — **Licença custom comercial**: uso gratuito)
 - https://bordereal-studio.itch.io/pixel-promo-art-labotomy-boss-daddy (PIXEL PROMO ART "LABOTOMY" - BOSS "Daddy" — Bordereal Studio — **Licença custom comercial**: uso gratuito)
 - https://pixiblop.itch.io/shadow-wolf-animated-isometric-pixel-art-enemy-4-colors (Shadow Wolf — Animated Isometric Pixel Art Enemy | 4 Colors — pixiblop — **Licença custom comercial**: uso e modificação em projetos pessoais e comerciais)
+PALAVRAS-CHAVE: itch.io, lobo sombrio, animado, isométrico, pixel art, inimigo, 4 cores, uso comercial, modificação permitida, sprites, web
 - https://zerothinker.itch.io/top-down-rpg-player-sprite (🎮 Top-Down RPG Player Sprite (Pixel Art) — ZeroThinker — **Licença custom comercial**: uso gratuito)
+PALAVRAS-CHAVE: itch.io, personagem, top-down, RPG, sprite, pixel art, jogador, uso gratuito, sprites, web
 - https://hsdsz.itch.io/bandit-archer-2d-animated-enemy-character-pack-free-verison (Bandit Archer – 2D Animated Enemy Character Pack (Free-version) — hsdsz — **Licença custom comercial**: uso e modificação em jogos pessoais e comerciais, não revender/redistribuir)
+PALAVRAS-CHAVE: itch.io, bandida arqueira, inimigo, animado, 2D, personagem, uso comercial, modificação permitida, não revender, sprites, web
 - https://lunarmoonstudios.itch.io/full-body-vn-sprites (Full Body VN Sprites~ — LunarMoonStudios — **Licença custom comercial**: uso gratuito)
+PALAVRAS-CHAVE: itch.io, sprites corpo inteiro, visual novel, uso gratuito, sprites, personagens, web
 - https://the13ruin.itch.io/dress-up-illustration-set-lin-tongze (Dress-Up Illustration Set - Lin Tongze — THE13RUIN — **CC BY-SA 4.0** — Creative Commons Attribution-ShareAlike v4.0, uso comercial com crédito e compartilhamento sob mesma licença)
+PALAVRAS-CHAVE: itch.io, ilustração, dress-up, CC BY-SA 4.0, atribuição, compartilha alike, uso comercial, ilustrações, web
 - https://pop-shop-packs.itch.io/lynn-2d-character-pixel-asset-pack (Female Character || Pixel Asset Pack — Pop Shop Packs — **Licença custom comercial**: uso gratuito)
+PALAVRAS-CHAVE: itch.io, personagem feminino, pixel art, sprite, uso gratuito, personagem, pack, web
 - https://rijke.itch.io/white-hoodie-swordsman (White hoodie swordsman — Rije — **Licença custom comercial**: uso gratuito)
+PALAVRAS-CHAVE: itch.io, espadachim, capuz branco, personagem, uso gratuito, sprites, personagem, web
 - https://bikegol.itch.io/japanese-edo-era-caracters-set (Japanese Edo Era 13 Characters Set — Bikegol — **Licença custom comercial**: uso gratuito)
+PALAVRAS-CHAVE: itch.io, era Edo, Japão, 13 personagens, conjunto, uso gratuito, personagens, sprites, web
 - https://chuckyassets.itch.io/sleepless-girl (Sleepless Girl – 32x32 Horror Pixel Art Character — Chucky Assets — **Licença custom comercial**: uso gratuito)
+PALAVRAS-CHAVE: itch.io, garota sem sono, horror, 32x32, pixel art, personagem, uso gratuito, sprites, web
 - https://snow-hornet.itch.io/8x8-fantasy-characters-asset-pack (8x8 Fantasy Characters Asset Pack — Snow Hornet — **Licença custom comercial**: uso em jogos comerciais e não-comerciais)
+PALAVRAS-CHAVE: itch.io, 8x8, fantasia, personagens, asset pack, uso comercial, uso não-comercial, sprites, pack, web
 - https://plewr.itch.io/plewr-character-model-v1 (3D Dough Character Model — Plewr — **CC0** — Creative Commons Zero)
+PALAVRAS-CHAVE: itch.io, personagem 3D, massa, dough, CC0, uso comercial, sem atribuição, modelo 3D, personagem, web
 - https://gegx.itch.io/archer-hero-128 (Free Pixel Art Archer Sprite, 176 px, 8 Directions, 16 Animation Loops — GegX — **Licença custom comercial**: royalty free, uso comercial permitido, sem crédito necessário, não revender os assets)
+PALAVRAS-CHAVE: itch.io, arqueiro, herói, sprite pixel, 176 px, 8 direções, 16 animações, royalty free, uso comercial, sem crédito, sprites, web
 - https://thebeesknees13.itch.io/cyberpunk-characters-free (Cyberpunk Characters - FREE Pack (8 Characters) — TheBeesKnees13 — **Licença custom comercial**: uso em jogos gratuitos ou comerciais, sem atribuição necessária)
+PALAVRAS-CHAVE: itch.io, cyberpunk, personagens, 8 personagens, uso comercial, uso gratuito, sem atribuição, sprites, pack, web
 
 ---
 
 ## itch.io — Mapas, tilesets e cenários
 
 - https://bubbabba.itch.io/sakura-shrine-village (cenário japonês 16×16)
+PALAVRAS-CHAVE: itch.io, cenário japonês, santuário sakura, 16x16, mapa, tileset, uso comercial sob verificação, sprites, cenário, web
 - https://0x72.itch.io/dungeontileset-ii (tileset de masmorra)
+PALAVRAS-CHAVE: itch.io, tileset, masmorra, dungeon, mapa, uso comercial sob verificação, sprites, cenário, web
 - https://limezu.itch.io/moderninteriors (interiores modernos RPG 16x16)
+PALAVRAS-CHAVE: itch.io, interiores, modernos, RPG, 16x16, tileset, cenário, uso comercial sob verificação, sprites, interior, web
 - https://atomicrealm.itch.io/mine-tileset (tileset mine 16x16/32x32)
+PALAVRAS-CHAVE: itch.io, tileset, mina, mine, 16x16, 32x32, mapa, uso comercial sob verificação, sprites, cenário, web
 - https://cainos.itch.io/pixel-art-top-down-basic (sprites e tilesets top-down 32x32)
+PALAVRAS-CHAVE: itch.io, pixel art, top-down, sprites, tilesets, 32x32, mapa, uso comercial sob verificação, cenário, web
 - https://pixel-poem.itch.io/dungeon-assetpuck (dungeon 16x16 pixel)
+PALAVRAS-CHAVE: itch.io, dungeon, masmorra, 16x16, pixel, tileset, uso comercial sob verificação, cenário, sprites, web
 - https://game-endeavor.itch.io/mystic-woods (Mystic Woods 16x16 pixel art)
+PALAVRAS-CHAVE: itch.io, floresta mística, 16x16, pixel art, cenário, mapa, uso comercial sob verificação, sprites, natureza, web
 - https://farm-animal.itch.io/farm (pack fazenda, animais, personagens, UI, música)
+PALAVRAS-CHAVE: itch.io, fazenda, animais, personagens, UI, música, pack, uso comercial sob verificação, sprites, cenário, web
 - https://maaot.itch.io/mossy-cavern (caverna atmosférica 2D HD)
+PALAVRAS-CHAVE: itch.io, caverna, musgosa, atmosférica, 2D, HD, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://jamiebrownhill.itch.io/solaria-exteriors (exteriors tileset 16x16 top-down)
+PALAVRAS-CHAVE: itch.io, exteriores, Solaria, tileset, 16x16, top-down, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://jamiebrownhill.itch.io/solaria-farming-crafting (farming crafting 16x16)
+PALAVRAS-CHAVE: itch.io, farming, crafting, Solaria, 16x16, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://snowhex.itch.io/harvest-summer-forest-pack (floresta verão para farming/RPG)
+PALAVRAS-CHAVE: itch.io, colheita, verão, floresta, farming, RPG, pack, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://snowhex.itch.io/pixel-plains (plains top-down cozy)
+PALAVRAS-CHAVE: itch.io, planícies pixel, top-down, cozy, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://gvituri.itch.io/tiny-ranch (8x8 top down farm completo)
+PALAVRAS-CHAVE: itch.io, rancho, 8x8, top-down, fazenda completa, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://essssam.itch.io/rocky-roads (colorful platformer pack)
+PALAVRAS-CHAVE: itch.io, estradas rochosas, colorido, platformer pack, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://dani-maccari.itch.io/tiny-blocks-isometric-pixel-assets (tiles isométricos 18x18)
+PALAVRAS-CHAVE: itch.io, blocos, isométrico, pixel, 18x18, tiles, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://n3cloud.itch.io/clover-valley-1616-farming-rpg-asset-pack (farming RPG 16x16)
+PALAVRAS-CHAVE: itch.io, vale do trevo, farming, RPG, 16x16, asset pack, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://pixel-sazy.itch.io/roleworld-cleric-package (clérigo 16x16 cozy)
+PALAVRAS-CHAVE: itch.io, clérigo, RoleWorld, 16x16, cozy, personagem, uso comercial sob verificação, sprites, pack, web
 - https://pixelmochii.itch.io/mochii-plains (plains tileset cartoony)
+PALAVRAS-CHAVE: itch.io, planícies Mochii, tileset, cartoony, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://kerrielake.itch.io/star-realms-cozy-forest-pack (floresta cozy tileset)
+PALAVRAS-CHAVE: itch.io, floresta cozy, tileset, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://patchworkpx.itch.io/kawaii-town (cidade kawaii 16x16)
+PALAVRAS-CHAVE: itch.io, cidade kawaii, 16x16, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://almostapixel.itch.io/smallburg-town-pack (pacote cidade calma e cute)
+PALAVRAS-CHAVE: itch.io, Smallburg, cidade, calma, cute, pacote, cenário, uso comercial sob verificação, sprites, mapa, web
 - https://v3x3d.itch.io/retro-lines (**CC0** — tileset platformer 16x16 com centenas de tiles únicos, player animado e inimigos; uso comercial livre, modificação permitida, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, retro-lines, CC0, tileset, platformer, 16x16, uso comercial, modificação permitida, sprites, mapa, web
 - https://atomicrealm.itch.io/post-apocalyptic-world (**Royalty-free custom** — 3D low poly pós-apocalíptico, 63+ modelos grátis (338+ na versão paga); uso comercial OK, edição OK, crédito obrigatório com link para atomicrealm.itch.io, não redistribuir/revender)
+PALAVRAS-CHAVE: itch.io, pós-apocalíptico, 3D, low poly, royalty-free, uso comercial, crédito obrigatório, modelos 3D, não redistribuir, web
 - https://trislin.itch.io/pixel-lands-interiors (**Royalty-free custom** — tileset interiores 16x16 para casas e lojas (demo grátis, versão completa paga); uso comercial OK, não redistribuir/revender, crédito apreciado mas não obrigatório)
+PALAVRAS-CHAVE: itch.io, interiores, pixel lands, 16x16, royalty-free, uso comercial, crédito apreciado, tileset, não redistribuir, web
 - https://quaternius.itch.io/medieval-village-megakit (**CC0** — 300+ peças modulares de vila medieval (paredes, telhados, escadas, etc.) para Unity/Unreal/Godot; uso comercial, sem atribuição, sem IA)
+PALAVRAS-CHAVE: itch.io, vila medieval, megakit, 300 peças, modulares, CC0, uso comercial, sem atribuição, sem IA, modelos 3D, Unity, Unreal, Godot, web
 - https://kaylousberg.itch.io/kaykit-medieval-hexagon (**CC0** — 200+ tiles hexagonais medievais, buildings e props para RTS/vila; uso comercial, sem atribuição, sem IA)
+PALAVRAS-CHAVE: itch.io, tiles hexagonais, medievais, 200 tiles, CC0, uso comercial, sem atribuição, sem IA, RTS, vila, web
 
 ### Isométricos / 2.5D (novos — pesquisados em 23/10/2026)
 
 - https://artyom-zagorskiy.itch.io/isometric-medieval-pack (**CC0** — 269 tiles: árvores 2 biomas, cactos, pedras, estradas 3 biomas, rios 3 biomas, casas 4 cores, moinhos, castelos 10 blocos + 4 torres × 9 variações, .svg/.eps + Unity package)
+PALAVRAS-CHAVE: itch.io, pack medieval isométrico, 269 tiles, CC0, uso comercial, sem IA, isométrico, Unity, SVG, EPS, cenário, web
 - https://artyom-zagorskiy.itch.io/isometric-tower-defense-pack-az (**CC0** — 122 tiles: 3 biomas com estradas/vegetação/cristais, 7 UFOs, 3 torres × 3 níveis, .svg/.eps + Unity package)
+PALAVRAS-CHAVE: itch.io, tower defense isométrico, 122 tiles, CC0, uso comercial, sem IA, isométrico, Unity, SVG, EPS, cenário, web
 - https://oddblotstudios.itch.io/free-the-great-farm-isometric (Livre, comercial OK — 16 vegetais × 5 estágios = 80 assets, 16 ícones 256×256, 50 props, spritesheet; pintado à mão, sem IA; não redistribuir/revender; não treino IA)
+PALAVRAS-CHAVE: itch.io, fazenda isométrica, 80 assets, vegetais, ícones, props, pintado à mão, sem IA, não redistribuir, não treino IA, web
 - https://kenney-assets.itch.io/isometric-miniature-farm (**CC0** — 60+ tiles isométricos/top-down para fazenda: muros, pisos, tiles de fazenda, + personagem, exemplos Unity/Tiled)
+PALAVRAS-CHAVE: itch.io, fazenda miniatura isométrica, 60 tiles, CC0, uso comercial, Unity, Tiled, cenário, personagem, web
 - https://guilhermelaso.itch.io/farm-isometric-assets (Livre, comercial OK — solo, plantação beterraba, macieira, vaca, arbusto, carrinho de mão; estilo cartoon 3D isométrico)
+PALAVRAS-CHAVE: itch.io, fazenda isométrica, livre, comercial OK, cartoon 3D, cenário, uso comercial, sprites, web
 - https://tiopalada.itch.io/tiny-tactics-battle-kit-i (**CC0** — 3 personagens animados × 4 animações/10 estados, 6 armas animadas, 200+ tiles terreno com altura/inclinação, doodads)
+PALAVRAS-CHAVE: itch.io, táticas batalha, CC0, 3 personagens, armas animadas, 200 tiles, terreno, doodads, uso comercial, web
 - https://kipperfalcon.itch.io/2d-isometric-forest-pixel-art (**CC0** — 115 props: 88 tiles, 17 folhas grama, 5 árvores, 5 rochas, 32×32; não redistribuir/revender; não treino IA)
+PALAVRAS-CHAVE: itch.io, floresta isométrica pixel, CC0, 115 props, tiles, árvores, rochas, não redistribuir, não treino IA, web
 - https://kipperfalcon.itch.io/free-space-isometric-pixel-art-32x32-tileset (**CC0** — 74 props: 54 tiles (estradas, elevações), 20 decorações (crateras, rochas, asteroides), 32×32; mesmos termos)
+PALAVRAS-CHAVE: itch.io, espaço isométrico pixel, CC0, 74 props, tiles, decorações, 32x32, não redistribuir, não treino IA, web
 - https://kipperfalcon.itch.io/pixel-isometric-cave-tiles (**CC0** — 170 sprites: 101 tiles + 69 props (minerais, recursos), 32×32/64×64/128×128; mesmos termos)
+PALAVRAS-CHAVE: itch.io, caverna isométrica pixel, CC0, 170 sprites, tiles, props, minerais, recursos, não redistribuir, não treino IA, web
 - https://markgosbell.itch.io/hand-drawn-isometric-dungeon-assets (**CC0** — 50+ assets desenhados à mão para masmorras isométricas, escala consistente para DungeonScrawl)
+PALAVRAS-CHAVE: itch.io, masmorra isométrica desenhada à mão, CC0, 50 assets, DungeonScrawl, uso comercial, cenário, web
 - https://screamingbrainstudios.itch.io/isotilepack (**CC0** — 1.008 tiles de piso isométricos: grama, terra, areia, neve, etc., render 2:1, exemplos Tiled)
+PALAVRAS-CHAVE: itch.io, iso tile pack, 1008 tiles, piso isométrico, CC0, uso comercial, render 2:1, Tiled, cenário, web
 - https://screamingbrainstudios.itch.io/isometric-tiles-object-pack (**CC0** — 395 tiles de objetos: baús, barris, caixas, móveis, decoração, render 2:1)
+PALAVRAS-CHAVE: itch.io, tiles objetos isométricos, 395 tiles, CC0, uso comercial, render 2:1, objetos, decoração, cenário, web
 
 ---
 
 ## itch.io — Armas e ícones
 
 - https://merchant-shade.itch.io/free-16x16-weapon-rpg-icons (ícones de armas 16×16)
+PALAVRAS-CHAVE: itch.io, ícones armas, 16x16, RPG, uso comercial sob verificação, ícones, armas, web
 - https://kettoman.itch.io/pixel-art-icons-rpg-essentials-16x16 (ícones RPG essentials 16×16)
+PALAVRAS-CHAVE: itch.io, ícones pixel art RPG, 16x16, essentials, uso comercial sob verificação, ícones, RPG, web
 - https://id01t.itch.io/rpg-pixel-art-icon-pack (ícones pixel art RPG)
+PALAVRAS-CHAVE: itch.io, ícones pixel art RPG, ícones, uso comercial sob verificação, RPG, web
 - https://shikashipx.itch.io/shikashis-600-icon-pack (600+ ícones)
+PALAVRAS-CHAVE: itch.io, 600+ ícones, ícones, uso comercial sob verificação, pack, web
 - ~~https://clockworkraven.itch.io/raven-fantasy-icons~~ (REMOVIDO: versão gratuita é apenas uso pessoal, não cobre uso comercial)
 - https://gvesster.itch.io/free-icon-pack (ícones grátis para Simulator, RNG, Tycoon)
+PALAVRAS-CHAVE: itch.io, ícones grátis, Simulator, RNG, Tycoon, uso comercial sob verificação, ícones, pack, web
 - https://pop-shop-packs.itch.io/mugs-free-2d-pixel-asset-pack (mugs pixel)
+PALAVRAS-CHAVE: itch.io, canecas pixel, 2D, uso comercial sob verificação, objetos, sprites, web
 - https://pop-shop-packs.itch.io/alexia-2d-pixel-character-asset-pack (personagem feminino pixel)
+PALAVRAS-CHAVE: itch.io, personagem feminino pixel, 2D, uso comercial sob verificação, personagem, sprites, web
 - https://pop-shop-packs.itch.io/lilly-2d-pixel-assett-pack (personagem feminino pixel)
+PALAVRAS-CHAVE: itch.io, personagem feminino pixel, 2D, Lilly, uso comercial sob verificação, personagem, sprites, web
 - https://pop-shop-packs.itch.io/frogs-pixel-asset-pack (sapos pixel)
+PALAVRAS-CHAVE: itch.io, sapos pixel, 2D, uso comercial sob verificação, animais, sprites, pack, web
 - https://innerchildstudio.itch.io/100-happy-trees-icon-pack (100 ícones árvores felizes)
+PALAVRAS-CHAVE: itch.io, 100 árvores felizes, ícones, árvores, uso comercial sob verificação, ícones, natureza, web
 - https://leckie1989.itch.io/witch-night-bits-free-pack-spoopy-jam-8 (Witch Night Bits — bruxas, vassouras, luas, familiars, grimórios, cristais, caldeirões; singles/sheets 1x/2x/4x; **CC0**, uso livre sem crédito; IA assistida, código não geradores de imagem)
+PALAVRAS-CHAVE: itch.io, bruxa noite, CC0, bruxas, vassouras, luas, grimórios, uso livre, sem crédito, sprites, pack, web
 - https://leckie1989.itch.io/cold-haunt-icons-free-pack (Cold Haunt Icons — ícones horror 16x16 paleta azul/cinza: lanternas, névoa, portas trancadas, máscaras, figuras sombrias, facas, relógios; **CC0**, uso livre sem crédito; IA assistida, código não geradores de imagem)
+PALAVRAS-CHAVE: itch.io, ícones horror, CC0, 16x16, azul cinza, uso livre, sem crédito, ícones, pack, web
 - https://leckie1989.itch.io/argon-neon-bits-free-pack (Argon Neon Bits — sprites neon ciano/magenta: orbes energia, drones, portais, chips, armas, escudos, coroas, UI bits; **CC0**, uso livre sem crédito; IA assistida, código não geradores de imagem)
+PALAVRAS-CHAVE: itch.io, neon bits, CC0, ciano magenta, sprites, uso livre, sem crédito, UI, pack, web
 - https://v3x3d.itch.io/micro-classics-snake (Micro Classics Snake — kit Snake-like 8x8 e 16x16: 7 cores cobra, 2 estilos, 5 backgrounds, 6 walls, 11 comidas, coletáveis cogumelos/ovos/crânios, decorações, interativos boost/conveyor, partículas, UI score/length/level/time; **CC BY 4.0**, crédito apreciado, uso comercial livre; sem IA generativa)
+PALAVRAS-CHAVE: itch.io, Snake-like, CC BY 4.0, 8x8, 16x16, kit de jogo, uso comercial, crédito apreciado, sem IA, UI, web
 
 ### Novos packs de armas (pesquisados em 23/10/2026)
 
 - https://kaylousberg.itch.io/fantasy-weapons-bits (**CC0** — Fantasy Weapons Bits, 25+ modelos 3D de armas de fantasia: espadas, machados, adagas, cajados, maces; baixo poligonal; uso comercial, sem atribuição)
+PALAVRAS-CHAVE: itch.io, armas fantasia, 3D, CC0, 25 modelos, baixo poligonal, uso comercial, sem atribuição, armas, web
 - https://willibab.itch.io/willibabs-simple-weapon-icons (Simple Weapon Icons — licença custom: uso comercial e pessoal liberado, não redistribuir/revender; 261 ícones PNG 32×32: espadas, cajados, machados, maces, lanças, adagas)
+PALAVRAS-CHAVE: itch.io, ícones armas simples, 261 ícones, 32x32, uso comercial, uso pessoal, não redistribuir, ícones, armas, web
 - https://kickin-it-studios.itch.io/low-poly-weapon-pack (FREE Low Poly Weapon Pack — licença custom: uso comercial OK, não revender nem redistribuir; 37 armas 3D low-poly: espadas, machados, martelos, lanças, adagas, clava, garfo-de-palheiro)
+PALAVRAS-CHAVE: itch.io, armas low poly, 3D, 37 armas, uso comercial, não revender, armas, modelos 3D, web
 - https://quaternius.itch.io/50-lowpoly-guns (**CC0** — 50+ LowPoly Guns, mais de 50 armas low-poly 3D: pistolas, rifles, escopetas, submetralhadoras; uso comercial, sem atribuição)
+PALAVRAS-CHAVE: itch.io, armas low poly, 3D, 50 armas, CC0, uso comercial, sem atribuição, armas de fogo, modelos 3D, web
 - https://timberwolfgames.itch.io/freepixelsweapons (**CC0 e Modificável** — FREE 160+ weapons, ~170 ícones de armas fantasia/medieval PNG 32×32: espadas, machados, martéis, adagas, lanças, maces; uso comercial)
+PALAVRAS-CHAVE: itch.io, armas pixel, 160 armas, 170 ícones, CC0, uso comercial, modificável, ícones, armas, web
 - https://admurin.itch.io/pixel-armory (Armory — licença custom: uso em qualquer projeto pessoal ou comercial, não revender nem redistribuir como pack de assets; 90+ sprites 32×32: espadas, escudos, lanças, foices, cajados, arcos, bestas, tridentes, machados, martéis, chicotes, facas, armas de fogo)
+PALAVRAS-CHAVE: itch.io, armaria pixel, 90 sprites, 32x32, uso comercial, uso pessoal, não redistribuir, sprites, armas, web
 - https://babysamurai.itch.io/super-epic-fantasy-weapons-pack (Super Epic Fantasy Weapons Pack FREE — licença custom: uso comercial liberado, proibido redistribuir para revenda como pack; 50 ícones de espada e cajado RPG 32×32 com variantes glow/glow-less)
+PALAVRAS-CHAVE: itch.io, armas fantasia épicas, 50 ícones, 32x32, uso comercial, não revender, ícones, armas, web
 - https://free-game-assets.itch.io/free-bow-and-crossbow-pixel-art-icons (Bow and Crossbow Icons — CraftPix Freebie, uso comercial livre, proibido redistribuir; 48 ícones PNG 32×32 de arcos e bestas com variações de fundo)
+PALAVRAS-CHAVE: itch.io, ícones arco besta, 48 ícones, 32x32, uso comercial livre, não redistribuir, ícones, armas, web
 - https://arlantr.itch.io/free-guns-pixelart (Free Guns Pixel Art — licença custom: uso em projetos pessoais e profissionais, proibido redistribuir; ~48 ícones de armas 32×32 + munição e granadas)
+PALAVRAS-CHAVE: itch.io, armas pixel art, ícones armas, 32x32, uso pessoal, uso profissional, não redistribuir, ícones, armas, munição, web
 - https://quaternius.itch.io/lowpoly-medieval-weapons (**CC0** — LowPoly Medieval Weapons, 22 armas medievais low-poly 3D; uso comercial, sem atribuição)
+PALAVRAS-CHAVE: itch.io, armas medievais low poly, 3D, 22 armas, CC0, uso comercial, sem atribuição, armas, modelos 3D, web
 - https://jaks.itch.io/low-poly-rifle-pack (**CC BY** — Low Poly Rifle Pack, 10 modelos de rifles 3D diferentes; uso comercial com atribuição obrigatória)
+PALAVRAS-CHAVE: itch.io, rifles low poly, 3D, 10 modelos, CC BY, uso comercial, atribuição obrigatória, armas, modelos 3D, web
 - https://bdragon1727.itch.io/platfrom-trap-and-weapon (**CC0** — Platformer Trap and Weapon, 1 espada + 1 armadilha pixel art 16×16; uso comercial livre)
+PALAVRAS-CHAVE: itch.io, armadilha e arma platformer, CC0, espada, armadilha, 16x16, pixel art, uso comercial livre, sprites, web
 
 > Excluídos desta adição (não atendem aos critérios ou já catalogados): `delthor-games` (CC BY-NC — uso não comercial), `medievalmore`/`kepons`/`henrysoftware` (já em `itchio.md`), `kenney-assets/blaster-kit` (já em `kenney.md`).
 
@@ -661,45 +781,79 @@ Sites de assets hospedados no itch.io, agrupados por tipo de asset. Todos devem 
 ## itch.io — Interface / UI
 
 - https://kibyra.itch.io/free-medieval-fantasy-ui-pack (UI medieval fantasy)
+PALAVRAS-CHAVE: itch.io, UI medieval fantasia, pack de interface, uso comercial sob verificação, UI, ícones, web
 - https://godotengine.org/asset-library/asset/5494 (Pixel UI Free — tema madeira Godot)
+PALAVRAS-CHAVE: itch.io, Godot, Pixel UI Free, tema madeira, interface, UI, uso comercial sob verificação, Godot Engine, web
 - https://dobo-ui.itch.io/cozy-ui (Cozy UI Pack - ícones fofos e UI)
+PALAVRAS-CHAVE: itch.io, Cozy UI, ícones fofos, interface, uso comercial sob verificação, UI, ícones, web
 - https://dobo-ui.itch.io/cozy-user-interface (Mega Cozy UI - ícones pixel fofos)
+PALAVRAS-CHAVE: itch.io, Mega Cozy UI, ícones pixel fofos, interface, uso comercial sob verificação, UI, ícones, web
 - https://toffeecraft.itch.io/ui (UI retro)
+PALAVRAS-CHAVE: itch.io, UI retro, interface, uso comercial sob verificação, UI, ícones, web
 - https://toffeecraft.itch.io/ui-user-interface-mega-pack (UI MEGA PACK)
+PALAVRAS-CHAVE: itch.io, UI MEGA PACK, interface, uso comercial sob verificação, UI, ícones, web
 - https://toffeecraft.itch.io/fantasy-ui-user-interaface (Fantasy UI)
+PALAVRAS-CHAVE: itch.io, Fantasia UI, interface, uso comercial sob verificação, UI, ícones, web
 - https://toffeecraft.itch.io/cat-user-interface (Cat Pixel Art UI)
+PALAVRAS-CHAVE: itch.io, UI gato, pixel art, interface, uso comercial sob verificação, UI, ícones, web
 - https://toffeecraft.itch.io/ui-user-interface-pack-cozy-coffee (UI Cozy e Warm)
+PALAVRAS-CHAVE: itch.io, UI Cozy Coffee, interface, uso comercial sob verificação, UI, ícones, web
 - https://humblepixel.itch.io/pocket-inventory-series-5-player-status (Pocket Inventory UI)
+PALAVRAS-CHAVE: itch.io, Pocket Inventory UI, inventário, status jogador, interface, uso comercial sob verificação, UI, web
 - https://humblepixel.itch.io/super-asset-bundle-5-mini-pocket-status (Super Asset Bundle UI)
+PALAVRAS-CHAVE: itch.io, Super Asset Bundle UI, mini pocket status, interface, uso comercial sob verificação, UI, pack, web
 - https://elvgames.itch.io/free-inventory-asset-pack (Free Inventory UI)
+PALAVRAS-CHAVE: itch.io, Inventário grátis, interface, uso comercial sob verificação, UI, inventário, web
 - https://crusenho.itch.io/complete-ui-essential-pack (Complete UI Essential Pack)
+PALAVRAS-CHAVE: itch.io, UI Essential Pack completo, interface, uso comercial sob verificação, UI, pack, web
 - https://lolurio.itch.io/lolurios-free-cozy-ui-sfx (Cozy UI SFX)
+PALAVRAS-CHAVE: itch.io, Cozy UI SFX, sons de interface, uso comercial sob verificação, SFX, áudio, UI, web
 - https://mandinhart.itch.io/garden-cozy-ui-kit-buttons-icons (Garden Cozy UI kit)
+PALAVRAS-CHAVE: itch.io, Garden Cozy UI, botões, ícones, interface, uso comercial sob verificação, UI, kit, web
 - https://rdbi.itch.io/test-gui (Bubble Bits GUI colorido)
+PALAVRAS-CHAVE: itch.io, Bubble Bits GUI, colorido, interface, uso comercial sob verificação, GUI, web
 - https://amorlea.itch.io/sweet-cafe-sticker-emote-set-pink (Sweet Cafe stickers)
+PALAVRAS-CHAVE: itch.io, Sweet Cafe, stickers, emotes, rosa, interface, uso comercial sob verificação, stickers, web
 - https://amorlea.itch.io/pink-red-adorable-cat-stickers-emojis-1 (Cat stickers)
+PALAVRAS-CHAVE: itch.io, stickers gato, rosa vermelho, emojis, interface, uso comercial sob verificação, stickers, web
 - https://amorlea.itch.io/kawaii-bakery-sweets-game-icons (Kawaii Bakery icons)
+PALAVRAS-CHAVE: itch.io, Kawaii Bakery, ícones doces, uso comercial sob verificação, ícones, doces, web
 - https://pocogamesco.itch.io/ui-user-interface-kawaii-pack (GUI Kawaii Pack FREE)
+PALAVRAS-CHAVE: itch.io, GUI Kawaii Pack, interface, uso comercial sob verificação, UI, kawaii, pack, web
 
 ---
 
 ## itch.io — Sons e música
 
 - https://heltonyan.itch.io/pixelcombat (FREE Pixel Combat SFX - 2100 sons retro)
+PALAVRAS-CHAVE: itch.io, Pixel Combat SFX, 2100 sons, retro, efeitos sonoros, uso comercial sob verificação, SFX, áudio, jogos de tiro, web
 - https://leohpaz.itch.io/rpg-essentials-sfx-free (RPG Essentials SFX)
+PALAVRAS-CHAVE: itch.io, RPG Essentials SFX, efeitos sonoros RPG, uso comercial sob verificação, SFX, áudio, RPG, web
 - https://hydrogene.itch.io/high-quality-16-bit-music (16-bit RPG Music, CC0)
+PALAVRAS-CHAVE: itch.io, música 16-bit RPG, CC0, trilha sonora, uso comercial, sem atribuição, áudio, música, web
 - https://tallbeard.itch.io/music-loop-bundle (Music Loop Bundle, CC0)
+PALAVRAS-CHAVE: itch.io, Music Loop Bundle, loops de música, CC0, uso comercial, sem atribuição, áudio, música, web
 - https://megumi-ryu.itch.io/mp3onekawaii-days (música kawaii)
+PALAVRAS-CHAVE: itch.io, música kawaii, trilha sonora, uso comercial sob verificação, áudio, música, kawaii, web
 - https://megumi-ryu.itch.io/mp3onekawaii-comical (música comical kawaii)
+PALAVRAS-CHAVE: itch.io, música comical kawaii, trilha sonora, uso comercial sob verificação, áudio, música, kawaii, web
 - https://megumi-ryu.itch.io/free-japanese-folklore-loops-music-asset-tanuki-strategy-bgm (música folclórica japonesa)
+PALAVRAS-CHAVE: itch.io, folclore japonês, loops, música, trilha sonora, uso comercial sob verificação, áudio, música, Japão, web
 - https://megumi-ryu.itch.io/free-rpg-fantasy-loops-music-asset-fairy-theater-bgm (música RPG fantasy)
+PALAVRAS-CHAVE: itch.io, RPG fantasia, loops, música, trilha sonora, uso comercial sob verificação, áudio, música, fantasia, web
 - https://zonezonezonebgm.itch.io/free-yume-kawaii-bgm-pack-soft-dreamy-music-for-vtubers-streaming-cozy-games (Yume Kawaii BGM)
+PALAVRAS-CHAVE: itch.io, Yume Kawaii BGM, música suave, sonhosa, VTuber, streaming, jogos cozy, uso comercial sob verificação, áudio, música, web
 - https://farm-animal.itch.io/farm (inclui música para fazenda)
 - https://cicifyre.itch.io/rpg-voice-starter-pack (RPG Voice Starter Pack - vozes femininas para feitiços e ataques)
+PALAVRAS-CHAVE: itch.io, RPG Voice Starter Pack, vozes femininas, feitiços, ataques, narração, uso comercial sob verificação, áudio, voz, RPG, web
 - https://comigo.itch.io/music-loops (CoMiGo's Short Music Loops [CC0] - loops de música CC0)
+PALAVRAS-CHAVE: itch.io, CoMiGo loops, CC0, loops de música, uso comercial, sem atribuição, áudio, música, web
 - https://pudretediablo.itch.io/butterfly (Butterfly - Looped Ambience Sounds Pack - sons ambiente em loop)
+PALAVRAS-CHAVE: itch.io, Butterfly, sons ambiente, loop, ambiente, uso comercial sob verificação, áudio, sons, web
 - https://jdsherbert.itch.io/pixel-ui-sfx-pack (**Royalty-free custom** — 165 SFX de UI pixel/8-bit, uso comercial livre, **crédito obrigatório** a JDSherbert, não redistribuir arquivos brutos, sem IA)
+PALAVRAS-CHAVE: itch.io, SFX UI pixel, 165 SFX, 8-bit, royalty-free, uso comercial, crédito obrigatório, sem IA, SFX, áudio, web
 - https://jdsherbert.itch.io/tabletop-games-sfx-pack (**Royalty-free custom** — 56 SFX de jogos de tabuleiro (dados, cartas, peças), uso comercial livre, **crédito obrigatório** a JDSherbert, não redistribuir arquivos brutos, sem IA)
+PALAVRAS-CHAVE: itch.io, SFX tabuleiro, 56 SFX, dados cartas peças, royalty-free, uso comercial, crédito obrigatório, sem IA, SFX, áudio, web
 
 ### Música por tema (pesquisado em 22/10/2026)
 
@@ -707,25 +861,36 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 
 **Doces, algodão-doce e clima infantil**
 - https://tallbeard.itch.io/three-red-hearts-prepare-to-dev (**CC0** — loops chiptune alegres e curtos, bons para fase de doce/nuvem)
+PALAVRAS-CHAVE: itch.io, Three Red Hearts, CC0, loops chiptune, alegres, doces, nuvem, uso comercial, sem atribuição, áudio, música, web
 
 **Samurai e Japão feudal**
 - https://t-studio-tst.itch.io/free-music-tokaido-gojusan-tsugi (faixa gratuita inspirada nas 53 estações do Tōkaidō; crédito desejável a "みんなの創作支援サイトＴスタ")
+PALAVRAS-CHAVE: itch.io, música Tōkaidō, Japão feudal, 53 estações, trilha sonora, crédito desejável, uso comercial sob verificação, áudio, música, Japão, web
 - https://tandess.itch.io/free-songs-pack (72 músicas e instrumentais japoneses royalty-free; **crédito e link obrigatórios**, termos em tandess.com, algumas faixas têm restrição de conteúdo adulto)
+PALAVRAS-CHAVE: itch.io, 72 músicas japonesas, instrumentais, royalty-free, crédito obrigatório, link obrigatório, uso comercial sob verificação, áudio, música, Japão, web
 - https://megumi-ryu.itch.io/free-japanese-fusion-loops-music-asset-omatsuri-techno-bgm (loop de festival japonês; comercial liberado com **crédito** a "YUKARINOTI")
+PALAVRAS-CHAVE: itch.io, festival japonês, loop, techno, comercial liberado, crédito obrigatório, áudio, música, Japão, web
 - https://megumi-ryu.itch.io/japanese-music-box2 (caixinha de música japonesa, boa para cena calma; mesmo crédito)
+PALAVRAS-CHAVE: itch.io, caixinha música japonesa, cena calma, trilha sonora, crédito obrigatório, áudio, música, Japão, web
 
 **Ninja**
 - a BGM de fase ninja da Megumi Ryu está listada na seção **Ninja e shinobi**; as faixas de taiko e de batalha da OpenGameArt estão em `assets/opengameart.md`
 
 **Dark fantasy / Diablo**
 - https://crowshade.itch.io/horror-music-pack (**CC BY** — ambiência de horror; uso comercial com crédito a Crow Shade)
+PALAVRAS-CHAVE: itch.io, música horror, CC BY, ambiência, uso comercial, crédito obrigatório, Crow Shade, áudio, música, web
 - https://clement-panchout.itch.io/yet-another-free-music-pack (**CC BY 4.0** — pack variado para tensão e exploração; crédito "Music by Clement Panchout", proibida revenda e uso em IA)
+PALAVRAS-CHAVE: itch.io, música tensão exploração, CC BY 4.0, uso comercial, crédito obrigatório, não revender, sem IA, áudio, música, web
 
 **Retrô / plataforma estilo Mario**
 - https://xdeviruchi.itch.io/8-bit-fantasy-adventure-music-pack (10 faixas 8-bit/NES em loop; **CC BY-SA 4.0**, uso comercial liberado)
+PALAVRAS-CHAVE: itch.io, música 8-bit NES, fantasia aventura, 10 faixas, CC BY-SA 4.0, uso comercial, trilha sonora, áudio, música, web
 - https://xdeviruchi.itch.io/16-bit-fantasy-adventure-music-pack (versão 16-bit/SNES, mesma licença)
+PALAVRAS-CHAVE: itch.io, música 16-bit SNES, fantasia aventura, CC BY-SA 4.0, uso comercial, trilha sonora, áudio, música, web
 - https://elvgames.itch.io/free-8-bit-collection-pack (tema de menu, vila, exploração e batalha; comercial liberado com **crédito** a Pegonthetrack & ElvGames, proibida revenda e NFT)
+PALAVRAS-CHAVE: itch.io, coleção 8-bit, menu vila exploração batalha, comercial liberado, crédito obrigatório, não revender, sem NFT, áudio, música, web
 - https://ragnarrandom.itch.io/retro-game-music (**CC0** — fakebit/chiptune com influência de NES, C-64 e Mega Drive)
+PALAVRAS-CHAVE: itch.io, música retro game, CC0, fakebit, chiptune, NES, C-64, Mega Drive, uso comercial, sem atribuição, áudio, música, web
 
 **Selva e primatas (estilo Donkey Kong)**
 - os tambores tribais em loop e as camadas de percussão da OpenGameArt estão em `assets/opengameart.md` (seção Música e SFX por tema)
@@ -756,8 +921,11 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 ## itch.io — Fontes (tipografia)
 
 - https://not-jam.itch.io/not-jam-font-pack (30 fontes pixel CC0)
+PALAVRAS-CHAVE: itch.io, fontes pixel, 30 fontes, CC0, tipografia, uso comercial, sem atribuição, fontes, web
 - https://ggbot.itch.io/kaph-font (Kaph Font - OFL)
+PALAVRAS-CHAVE: itch.io, Kaph Font, OFL, fonte, tipografia, uso comercial, licença OFL, fontes, web
 - https://timothyqiu.itch.io/vonwaon-bitmap (fonte pixel CC0, origem contestada)
+PALAVRAS-CHAVE: itch.io, Vonwaon Bitmap, fonte pixel, CC0, tipografia, origem contestada, uso comercial sob verificação, fontes, web
 - https://ggbot.itch.io/pixeloid-font (fonte pixel OFL)
 - https://poppyworks.itch.io/silver (fonte latim + cirílico + CJK, CC BY 4.0)
 - https://datagoblin.itch.io/monogram (fonte latim + cirílico, CC0)
@@ -778,8 +946,11 @@ Faixas novas verificadas, agrupadas pelo tema de cada mapa de Hyakki. As que já
 - https://godotshaders.com/ (shaders Godot)
 - https://deep-fold.itch.io/pixel-planet-generator (shader código Godot)
 - https://binbun3d.itch.io/godot-skies (**CC0** — shader de céu para Godot com ciclo dia/noite, nuvens com parallax e estrelas; uso comercial, sem atribuição obrigatória, sem IA)
+PALAVRAS-CHAVE: itch.io, Godot Skies, CC0, shader céu, ciclo dia/noite, nuvens parallax, estrelas, uso comercial, sem IA, Godot, web
 - https://screamingbrainstudios.itch.io/cloudy-skyboxes-pack (**CC0** — 50 skyboxes procedurais (cubemap e panorama) para FPS/battle arenas/RPG; uso comercial, sem IA)
+PALAVRAS-CHAVE: itch.io, skyboxes nuvens, CC0, 50 skyboxes, procedurais, cubemap, panorama, uso comercial, sem IA, web
 - https://screamingbrainstudios.itch.io/seamless-sky-backgrounds (**CC0** — 192 seamless sky backgrounds (8 estilos, 3 períodos do dia) para platformers/RPGs/side scrollers; uso comercial, sem IA)
+PALAVRAS-CHAVE: itch.io, sky backgrounds seamless, CC0, 192 backgrounds, 8 estilos, 3 períodos, uso comercial, sem IA, web
 
 ## itch.io — Efeitos, brilhos, bombas e luzes (VFX 2D) (pesquisado em 22/10/2026)
 
@@ -788,42 +959,72 @@ Pacotes verificados para explosões, projéteis, magias, escudos, impactos, bril
 ### Explosões e impactos
 
 - https://xyezawr.itch.io/free-pixel-effects-pack-4-explosions (explosões pixel 100x100, 9 cores, 30/60 FPS; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, explosões pixel, 100x100, 9 cores, 30/60 FPS, comercial livre, não revender, VFX, explosões, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-9-mini-fires (fogos miniatura 9 variações; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, fogos miniatura, 9 variações, comercial livre, não revender, VFX, fogo, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-13-fireballs (fireballs animados 9 cores, 30/60 FPS; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, fireballs animados, 9 cores, 30/60 FPS, comercial livre, não revender, VFX, bolas de fogo, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-2 (pack base 6 efeitos; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, pixel effects pack 2, 6 efeitos, pack base, comercial livre, não revender, VFX, efeitos, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-3 (pack 3; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, pixel effects pack 3, comercial livre, não revender, VFX, efeitos, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-7-fire-aura (aura de fogo; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, aura de fogo, comercial livre, não revender, VFX, fogo, aura, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-10-mini-magick-shoots2 (tiros mágicos miniatura; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, tiros mágicos miniatura, comercial livre, não revender, VFX, magia, tiros, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-11-mini-blood-splats (respingos de sangue 64x64; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, respingos sangue, 64x64, comercial livre, não revender, VFX, sangue, web
 - https://xyezawr.itch.io/free-pixel-effects-pack-14-mini-magick-shoots-4 (tiros mágicos v4; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, tiros mágicos v4, comercial livre, não revender, VFX, magia, tiros, web
 - https://codemanu.itch.io/pixelart-effect-pack (**CC0** — 20 efeitos 100x100, Pixel FX Designer; sem IA)
+PALAVRAS-CHAVE: itch.io, pixel art effect pack, CC0, 20 efeitos, 100x100, Pixel FX Designer, sem IA, uso comercial, VFX, web
 - https://gennai.itch.io/arcbit-explosion-lite (explosão sprite sheet + Unity package; **comercial livre, não revender pack**)
+PALAVRAS-CHAVE: itch.io, arcbit explosion lite, explosão, sprite sheet, Unity, comercial livre, não revender pack, VFX, web
 - https://untiedgames.itch.io/five-free-pixel-explosions (5 estilos explosão; **CC BY** — atribuição, não revender asset)
+PALAVRAS-CHAVE: itch.io, 5 explosões pixel, CC BY, atribuição, não revender asset, VFX, explosões, web
 - https://juliusschmidt.itch.io/pixel-vfx-pack-lite (5 efeitos 2-4 cores, RPG Maker sheets; **comercial livre, não revender**, IA assistida)
+PALAVRAS-CHAVE: itch.io, pixel VFX pack lite, 5 efeitos, 2-4 cores, RPG Maker, comercial livre, não revender, IA assistida, VFX, web
 - https://hinoko-fx.itch.io/pixel-vfx-free-sampler (4 efeitos sampler; **comercial livre, não redistribuir pack**)
+PALAVRAS-CHAVE: itch.io, pixel VFX free sampler, 4 efeitos, comercial livre, não redistribuir pack, VFX, web
 - https://free-game-assets.itch.io/11-free-pixel-art-explosion-sprites (11 explosões; licença CraftPix Freebie — **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, 11 explosões pixel art, CraftPix Freebie, comercial livre, não revender, VFX, explosões, web
 - https://pixelfrog-assets.itch.io/pirate-bomb (**CC0** — bomba pirata animada, Aseprite incluso)
+PALAVRAS-CHAVE: itch.io, bomba pirata, CC0, animada, Aseprite, uso comercial, sem atribuição, VFX, bomba, web
 - https://zenos-the-stalker.itch.io/8-pixel-bomb (8 bombas animadas pavio aceso; **comercial livre, atribuição apreciada**, explosão separada)
+PALAVRAS-CHAVE: itch.io, 8 bombas pixel, pavio aceso, comercial livre, atribuição apreciada, explosão separada, VFX, bomba, web
 
 ### Magias, projéteis e efeitos elementais
 
 - https://xyezawr.itch.io/free-pixel-effects-pack8 (efeitos pixel base; **comercial livre, não revender**)
 - https://nogitsunegurl.itch.io/free-elemental-spellcraft-pack (69 efeitos elementais + portais; **comercial livre, não revender**, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, elemental spellcraft pack, 69 efeitos elementais, portais, comercial livre, não revender, crédito apreciado, VFX, magia, web
 - https://nogitsunegurl.itch.io/free-crowns-of-frost-and-flame-pack (46 assets gelo/fogo decor + feitiços; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, crowns frost flame pack, 46 assets, gelo, fogo, decor, feitiços, comercial livre, não revender, VFX, web
 - https://nogitsunegurl.itch.io/free-halloween-witch-pack (25 assets bruxa decor + feitiços; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, halloween witch pack, 25 assets, bruxa, decor, feitiços, comercial livre, não revender, VFX, Halloween, web
 - https://willosuna.itch.io/magic-spells-vfx-lite (17 feitiços pixel; **royalty-free comercial, sem atribuição**, sem IA)
+PALAVRAS-CHAVE: itch.io, magic spells VFX lite, 17 feitiços pixel, royalty-free comercial, sem atribuição, sem IA, VFX, magia, web
 - https://willosuna.itch.io/magic-circles-vfx-lite (24 círculos mágicos animados; **comercial livre, sem atribuição**, sem IA)
+PALAVRAS-CHAVE: itch.io, magic circles VFX lite, 24 círculos mágicos animados, comercial livre, sem atribuição, sem IA, VFX, magia, web
 - https://serhan885.itch.io/moonroot-magic-vfx-free-pack (starter pack magia; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, moonroot magic VFX free pack, starter pack magia, comercial livre, não revender, VFX, magia, web
 - https://glintapps.itch.io/cozy-pixel-vfx-lite-free (VFX cozy construídos em código; **comercial livre, não revender**, sem IA)
+PALAVRAS-CHAVE: itch.io, cozy pixel VFX lite free, VFX cozy, código, comercial livre, não revender, sem IA, VFX, web
 - https://chuckyassets.itch.io/elemental-spells-free-sample (coluna fogo, espinhos gelo, raio; **comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, elemental spells free sample, coluna fogo, espinhos gelo, raio, comercial livre, não revender, VFX, magia elemental, web
 - https://obsidiansirens.itch.io/pixel-impact-fx (30 VFX combate/magia 64x64; **comercial livre, não revender**, IA assistida)
+PALAVRAS-CHAVE: itch.io, pixel impact FX, 30 VFX combate magia, 64x64, comercial livre, não revender, IA assistida, VFX, web
 - https://pewas.itch.io/pixel-rpg-vfx-pack-free-animated-effects (VFX RPG animados; **comercial livre, não revender**, IA assistida)
+PALAVRAS-CHAVE: itch.io, pixel RPG VFX pack free animated effects, VFX RPG animados, comercial livre, não revender, IA assistida, VFX, RPG, web
 - https://riekahq.itch.io/arcade-vfx-lite (8 efeitos arcade 32x32; **comercial livre, crédito apreciado**, IA assistida)
+PALAVRAS-CHAVE: itch.io, arcade VFX lite, 8 efeitos arcade, 32x32, comercial livre, crédito apreciado, IA assistida, VFX, arcade, web
 
 ### Brilhos, glows, escudos e luzes
 
 - https://darkart3d.itch.io/free-24-animated-pixel-shields-8-frame-light-beam-fx (24 escudos animados 8 frames + light beam; **comercial livre**)
+PALAVRAS-CHAVE: itch.io, 24 escudos animados pixel, 8 frames, light beam, comercial livre, VFX, escudos, luz, web
 - https://warsvault.itch.io/low-fantasy-light-magic-pack (magia luz low fantasy; gratuito)
+PALAVRAS-CHAVE: itch.io, low fantasy light magic pack, magia luz, low fantasy, gratuito, VFX, magia, luz, web
 - https://glintapps.itch.io/cozy-pixel-vfx-lite-free (VFX cozy em código; **comercial livre, não revender**, sem IA)
 
 ### Bombas e explosivos
@@ -834,8 +1035,11 @@ Pacotes verificados para explosões, projéteis, magias, escudos, impactos, bril
 ### Partículas, slashes, hits, raios e VFX gerais
 
 - https://pimen.itch.io/battle-vfx-hit-spark (Battle VFX hit/spark; gratuito)
+PALAVRAS-CHAVE: itch.io, Battle VFX, hit spark, efeitos de batalha, uso comercial sob verificação, VFX, faísca, web
 - https://binbun3d.itch.io/hit-fx (Hit FX Godot; gratuito)
+PALAVRAS-CHAVE: itch.io, Hit FX, Godot, efeitos de impacto, uso comercial sob verificação, VFX, Godot Engine, web
 - https://untiedgames.itch.io/super-pixel-effects-gigapack (Gigapack efeitos; gratuito)
+PALAVRAS-CHAVE: itch.io, Super Pixel Effects Gigapack, efeitos pixel, gigapack, uso comercial sob verificação, VFX, pack, web
 - **Free Elemental Spellcraft**, **Free Crowns of Frost and Flame**, **Free Halloween Witch Pack**, **Magic Spells VFX Lite**, **Magic Circles VFX Lite**, **Moonroot Magic VFX**, **Cozy Pixel VFX Lite**, **Elemental Spells Free Sample**, **Pixel Impact FX**, **Pixel RPG VFX Pack**, **Arcade VFX Lite** — já catalogados acima nas subseções correspondentes
 
 ### Avaliados e não incluídos
@@ -946,7 +1150,7 @@ Pacotes verificados para explosões, projéteis, magias, escudos, impactos, bril
 - **Ice Pops** (**CC BY 3.0**, do Game Developer S — picolés)
 - **Sweets** (**CC0**, da MELLE — doces variados)
 - **16x16 Sweets** (**CC BY-SA 3.0**, do magdum — doces 16x16)
-- **Cute Cakes** (**GPL 3.0**, da SCaydi — bolos fofos)
+⚠️ REMOVIDO: Cute Cakes (GPL 3.0 — não é licença permissiva conforme AGENTS.md)
 - **Blinking Candy** (**CC BY 3.0**, do magdum — doces piscando)
 - **Creepy Cake Land** (**CC BY-SA 3.0**, do madmarcel — terra de bolos assustadora)
 - **Gingerbread Man** (**CC BY 3.0** / OGA-BY 3.0, do AntumDeluge — homem de gengibre)
@@ -970,14 +1174,23 @@ Pacotes verificados para explosões, projéteis, magias, escudos, impactos, bril
 ### Animais fofos para mapas (pesquisado em 22/10/2026)
 
 - https://bowpixel.itch.io/cat-50-animations (gato com 50+ animações 32x32; uso comercial liberado, proibido redistribuir o asset)
+PALAVRAS-CHAVE: itch.io, gato 50 animações, 32x32, uso comercial, não redistribuir, sprites, gato, animações, web
 - https://bowpixel.itch.io/meow-cat-85-animation (gato com 85+ animações; mesma licença do pacote acima)
+PALAVRAS-CHAVE: itch.io, gato 85 animações, uso comercial, não redistribuir, sprites, gato, animações, web
 - https://bowpixel.itch.io/cat-anim-16x16-black (gato preto 16x16 com 33+ animações; mesma licença)
+PALAVRAS-CHAVE: itch.io, gato preto 16x16, 33 animações, uso comercial, não redistribuir, sprites, gato, animações, web
 - https://bowpixel.itch.io/one-cat (gato com 38+ animações; mesma licença)
+PALAVRAS-CHAVE: itch.io, one cat, 38 animações, uso comercial, não redistribuir, sprites, gato, animações, web
 - https://dreamgryphon.itch.io/cute-little-things (tilesets e sprites fofos 8x8/16x16, paleta Game Boy; **CC0**)
+PALAVRAS-CHAVE: itch.io, cute little things, tilesets sprites fofos, 8x8, 16x16, Game Boy, CC0, uso comercial, sprites, web
 - https://michael-jay-rov.itch.io/ocean-creatures (criaturas marinhas em spritesheet; **CC BY 4.0**)
+PALAVRAS-CHAVE: itch.io, ocean creatures, criaturas marinhas, spritesheet, CC BY 4.0, uso comercial, atribuição, sprites, animais, web
 - https://michael-jay-rov.itch.io/savanna-creatures (criaturas de savana; verificar licença na página)
+PALAVRAS-CHAVE: itch.io, savanna creatures, criaturas savana, verificar licença, uso comercial sob verificação, sprites, animais, web
 - https://michael-jay-rov.itch.io/pixel-dragons (dragões pixel; **CC BY 4.0**, com **arte assistida por IA** declarada pelo autor)
+PALAVRAS-CHAVE: itch.io, pixel dragons, dragões pixel, CC BY 4.0, arte assistida IA, uso comercial, atribuição, sprites, dragões, web
 - https://pixivan.itch.io/top-down-forest-tileset (tileset top-down de floresta com árvores, arbustos, flores e cogumelos; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, top-down forest tileset, floresta, árvores, arbustos, flores, cogumelos, uso comercial, não revender, tileset, cenário, web
 
 ### Novos assets descobertos via itch.io Community / Busca direta (pesquisado em 22/10/2026)
 
@@ -985,15 +1198,19 @@ Assets encontrados acessando diretamente o board 2D Art do itch.io e filtrando p
 
 #### Farming / Cozy / Top-down completo
 - https://danieldiggle.itch.io/sunnyside (Sunnyside World — pack completo farming/town builder 16x16: 20 ações de personagem humanos/goblins/esqueletos, tileset edifícios/interiores/natureza, UI, 11 cultivos com 5 estágios, 7 penteados, cena exemplo GameMaker; **uso comercial livre, modificação permitida, crédito apreciado, não revender/reempacotar, não usar para treino IA**; sem IA generativa)
+PALAVRAS-CHAVE: itch.io, Sunnyside World, farming, town builder, 16x16, uso comercial, modificação permitida, crédito apreciado, não revender, não treino IA, sem IA generativa, pack, web
 
 #### Multi-categoria / Coleções massivas
 - https://ansimuz.itch.io/gothicvania-patreon-collection (Legacy Collection — 40+ personagens/inimigos animados 1000+ frames, 45 ambientes tilesets/parallax, 20+ VFX, 1600+ PNGs + sources Aseprite/PSD; 4 mundos: Gothic Fantasy, Sci-Fi, Top-Down RPG, Cartoon Platformer; **livre para projetos comerciais**; sem IA generativa)
+PALAVRAS-CHAVE: itch.io, gothicvania patreon collection, 40 personagens, 1000 frames, 45 ambientes, 20 VFX, 1600 PNGs, livre comercial, sem IA generativa, pack, web
 
 #### Templates de personagem / Base para estudo
 - https://erisesra.itch.io/character-templates-pack (Character Templates Pack — 2 bases 16x16 e 16x32, 8 direções: walk, run, idle, interact, jump, attack, mining, death, woodchopping, gardening, blocking, roll + mais; PNG + Aseprite; **uso comercial e não-comercial livre, crédito apreciado mas não obrigatório; não revender o template nem criar asset packs derivados**; sem IA generativa)
+PALAVRAS-CHAVE: itch.io, character templates pack, bases personagem, 8 direções, uso comercial, não-comercial, crédito apreciado, não revender, sem IA generativa, templates, web
 
 #### Plataforma / Action RPG
 - https://merakintsugi.itch.io/platformer-character-pack (Platformer character pack — personagem action RPG completo: idle, walk, crouch, run, jump, double jump, air dash, slide, back dodge, combos 3-5 hits, jump attack, dodge attack, vertical attack, hurt, heal, ladder, ledge, wall slide/jump + hit effects/smoke; .aseprite com layers separados FX/personagem; sample grátis (idle+walk), pacote completo $15+; **comercial e não-comercial livre, não revender/redistribuir como assets, crédito opcional, modificação livre, proibido IA/NFT**; sem IA generativa)
+PALAVRAS-CHAVE: itch.io, platformer character pack, personagem action RPG, animações, comercial, não-comercial, não revender, crédito opcional, proibido IA NFT, sem IA generativa, sprites, web
 
 ---
 
@@ -1004,52 +1221,83 @@ Packs 2D para mapas de vila, templo, floresta de bambu e duelo. Licença verific
 ### Personagens samurai e ninja
 
 - https://hugues-laborde.itch.io/pixelartsamurai (samurai com idle, corrida, ataque, dash, parry e morte + 2 inimigos e cenário animado; uso comercial liberado)
+PALAVRAS-CHAVE: itch.io, pixel art samurai, samurai, animações, uso comercial, sprites, cenário animado, Japão feudal, web
 - https://cyanglaz.itch.io/samuri-spritesheet-64x64 (samurai fofo 64x64 com idle, ataque e defesa; **CC0**)
+PALAVRAS-CHAVE: itch.io, samurai fofo, 64x64, idle, ataque, defesa, CC0, uso comercial, sprites, Japão feudal, web
 - https://favi-gmdv.itch.io/samurai-fighter-asset-pack (6 ataques, cura, dano, morte, idle, corrida, salto e postura zen + tileset + fundo parallax; **CC0**, proibida revenda)
+PALAVRAS-CHAVE: itch.io, samurai fighter asset pack, 6 ataques, cura, dano, morte, CC0, proibida revenda, sprites, tileset, Japão feudal, web
 - https://lyniadesign.itch.io/tiny-pixel-japan-samurai-character-pack (samurai 23x25 com 11 animações, incluindo 3 ataques; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, tiny pixel Japan samurai, 23x25, 11 animações, 3 ataques, uso comercial, proibida revenda, sprites, Japão feudal, web
 - https://lyniadesign.itch.io/tiny-pixel-japan-male-character-pack (personagens masculinos do mesmo estilo; mesma licença)
+PALAVRAS-CHAVE: itch.io, tiny pixel Japan male, personagens masculinos, mesmo estilo, uso comercial, proibida revenda, sprites, Japão feudal, web
 - https://lyniadesign.itch.io/tiny-pixel-japan-female-character-pack (personagens femininas do mesmo estilo; mesma licença)
+PALAVRAS-CHAVE: itch.io, tiny pixel Japan female, personagens femininas, mesmo estilo, uso comercial, proibida revenda, sprites, Japão feudal, web
 - https://bytebox.itch.io/samurai-character (samurai com idle, hit e animações extras; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, samurai character, idle, hit, animações extras, uso comercial, proibida revenda, sprites, Japão feudal, web
 - https://kbpixelart.itch.io/ninja-enemy-pack (ninjas amarelo, azul, verde e vermelho com idle, caminhada, ataque, dano e morte; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, ninja enemy pack, ninjas 4 cores, idle, caminhada, ataque, dano, morte, uso comercial, proibida revenda, sprites, ninja, web
 - https://10kstudios.itch.io/free-2d-ninja-sidescroller-character (ninja 165x165 com idle, ataque, caminhada, corrida, morte e salto; uso comercial liberado)
+PALAVRAS-CHAVE: itch.io, free 2D ninja sidescroller character, ninja 165x165, idle, ataque, caminhada, corrida, morte, salto, uso comercial, sprites, ninja, web
 - o **samurai** e o **cavaleiro** do xzany já estão listados acima (seção de personagens), ambos com licença custom que libera uso comercial
 - o **cavaleiro fantasy** da aamatniekss também serve como inimigo ou aliado; está na mesma seção de personagens
 - https://willyee.itch.io/sengoku-pixel-pack (**CC0** — 41 personagens, 8 senhores da guerra, 120 armas, yōkai, chefes, terreno e UI; imagens geradas por IA, corte e montagem manuais)
+PALAVRAS-CHAVE: itch.io, sengoku pixel pack, CC0, 41 personagens, 8 senhores guerra, 120 armas, yōkai, chefes, terreno, UI, imagens IA, corte manual, montagem manual, web
 - https://arma-labs.itch.io/bushido-main-character-pack (Bushido v2.0 — personagem principal samurai com animações; uso comercial e pessoal liberado)
+PALAVRAS-CHAVE: itch.io, bushido main character pack, personagem principal samurai, animações, uso comercial, uso pessoal, sprites, Japão feudal, web
 - https://arma-labs.itch.io/bushido-enemies (inimigos do mesmo pack Bushido v2.0; uso comercial e pessoal liberado)
+PALAVRAS-CHAVE: itch.io, bushido enemies, inimigos pack Bushido v2.0, uso comercial, uso pessoal, sprites, inimigos, Japão feudal, web
 - https://suzereign.itch.io/kettle-samurai (samurai em pixel com animações; **CC BY 4.0** — crédito ao criador do modelo 3D original, indicado na página)
+PALAVRAS-CHAVE: itch.io, kettle samurai, samurai pixel, animações, CC BY 4.0, crédito obrigatório, modelo 3D original, sprites, Japão feudal, web
 - https://seryhugostudios.itch.io/samurai-2d-assets (samurai com animações; uso comercial liberado, crédito não obrigatório, proibida revenda)
+PALAVRAS-CHAVE: itch.io, samurai 2D assets, samurai, animações, uso comercial, crédito não obrigatório, proibida revenda, sprites, Japão feudal, web
 - https://kiyoz.itch.io/fallen-order-enemy-1 (inimigo [Severed Fang] com animações; uso comercial liberado, proibido usar em IA e revender como pack)
+PALAVRAS-CHAVE: itch.io, fallen order enemy 1, Severed Fang, inimigo, animações, uso comercial, proibido IA, proibido revender pack, sprites, Japão feudal, web
 
 ### Mapas, casas, templos e árvores
 
 - https://momongaa.itch.io/bamboo-forest-basic-tiles (**CC0** — 4 fundos em camadas 320x180, terreno, bambu, grama, pedras, torii, estátua e lampião)
+PALAVRAS-CHAVE: itch.io, bamboo forest basic tiles, CC0, 4 fundos camadas, 320x180, terreno, bambu, grama, pedras, torii, estátua, lampião, uso comercial, cenário, Japão feudal, web
 - https://nacl1234.itch.io/top-down-feudal-japan-complete-2d-mega-pack (vila, santuário, jardim, mercado, casa, castelo e acampamento de guerra em top-down; **amostra grátis de 24 de 240 peças**, uso comercial liberado, proibida revenda — o pack completo é pago)
+PALAVRAS-CHAVE: itch.io, top-down feudal Japan complete 2D mega pack, vila santuário jardim mercado casa castelo acampamento guerra, amostra grátis 24 de 240 peças, uso comercial, proibida revenda, pack pago, cenário, Japão feudal, web
 - https://glowcompany.itch.io/tokyo-matsuri-mini (mini pack de festival de verão: 32 ícones, 15 tiles e 22 sons — barracas yatai, yukata, shrine path, caixa de oferendas; uso comercial liberado, sem crédito, proibida revenda isolada)
+PALAVRAS-CHAVE: itch.io, Tokyo Matsuri Mini, festival verão, 32 ícones, 15 tiles, 22 sons, barracas yatai, yukata, uso comercial, sem crédito, proibida revenda isolada, áudio, cenário, Japão, web
 - https://nanasha.itch.io/nashas-samurai-tales-free-ronins-camp (acampamento de ronin, gratuito; uso comercial liberado, crédito apreciado, proibida revenda, proibido uso em IA)
+PALAVRAS-CHAVE: itch.io, Nashas Samurai Tales Free Ronins Camp, acampamento ronin, gratuito, uso comercial, crédito apreciado, proibida revenda, proibido IA, cenário, Japão feudal, web
 - https://nanasha.itch.io/nashas-samurai-tales-free-winter-pass (variante de inverno da mesma série; termos completos no LICENSE.txt do pack, mesmos do Ronin's Camp)
+PALAVRAS-CHAVE: itch.io, Nashas Samurai Tales Free Winter Pass, variante inverno, mesmo série, LICENSE txt, mesmo Ronins Camp, uso comercial, cenário, Japão feudal, web
 - https://paulthepirateking.itch.io/japanese-themed-tilesets (**CC BY 3.0** — 17 tilesets + 8 sprites de personagem, formato RPG Maker MV; crédito a "Damian Gasinski (Gassasin)" e "Paul Barden")
+PALAVRAS-CHAVE: itch.io, Japanese themed tilesets, CC BY 3.0, 17 tilesets, 8 sprites personagem, RPG Maker MV, crédito obrigatório, tileset, Japão feudal, web
 - https://mmorwynn.itch.io/east-free-sample (amostra com bambu, casas, jardins, cercas e santuários; uso comercial liberado, proibida revenda como pack)
+PALAVRAS-CHAVE: itch.io, East Free Sample, bambu, casas, jardins, cercas, santuários, uso comercial, proibida revenda pack, amostra, cenário, Japão feudal, web
 - https://nanasha.itch.io/nashas-samurai-tales-free-autumn-maples (bordos de bordo de outono; uso comercial liberado, proibida revenda; o pack completo tem 1131 objetos de vila samurai)
+PALAVRAS-CHAVE: itch.io, Nashas Samurai Tales Free Autumn Maples, bordos bordo outono, uso comercial, proibida revenda, pack completo 1131 objetos, cenário, Japão feudal, web
 - https://lyniadesign.itch.io/tiny-pixel-japan-parallax-background (fundo parallax de Japão no mesmo estilo pixel)
+PALAVRAS-CHAVE: itch.io, tiny pixel Japan parallax background, fundo parallax Japão, mesmo estilo pixel, uso comercial, proibida revenda, cenário, Japão feudal, web
 - https://the-outlander.itch.io/free-japanese-backgrounds (**CC0** — 4 cenários japoneses em 1536x1024)
+PALAVRAS-CHAVE: itch.io, free Japanese backgrounds, CC0, 4 cenários japoneses, 1536x1024, uso comercial, sem atribuição, cenário, Japão, web
 - https://bubbabba.itch.io/sakura-shrine-village (já listado — cenário de santuário com cerejeiras 16x16)
 
 ### Itens e armas
 
 - https://spikerman.itch.io/katana-pack (katanas em pixel para ícone/item; uso comercial liberado, sem crédito necessário)
+PALAVRAS-CHAVE: itch.io, katana pack, katanas pixel, ícone item, uso comercial, sem crédito, ícones, armas, Japão, web
 - https://willyee.itch.io/sengoku-pixel-pack (o pack CC0 acima inclui 120 armas e ícones de UI prontos para inventário)
 
 ### Texturas japonesas
 
 - https://rekkimaru.itch.io/32-pixel-art-japanese-themed-textures (32 texturas 32x32 de tema japonês; página libera explicitamente uso comercial e não comercial)
+PALAVRAS-CHAVE: itch.io, 32 pixel art Japanese themed textures, 32 texturas, 32x32, tema japonês, uso comercial, não comercial, texturas, Japão, web
 - https://rekkimaru.itch.io/paper-pixel-art (papel japonês em pixel; verificar licença na página)
+PALAVRAS-CHAVE: itch.io, paper pixel art, papel japonês pixel, verificar licença, uso comercial sob verificação, texturas, papel, Japão, web
 
 ### Música de tema japonês
 
 - https://megumi-ryu.itch.io/mp3onejapanese-mood (música japonesa de clima/samurai; BGM gratuita para uso pessoal e comercial, **crédito obrigatório** a "YUKARINOTI"/"ゆかりのてぃ"; proibido revender faixas ou usar em IA)
+PALAVRAS-CHAVE: itch.io, MP3OneJapanese Mood, música japonesa clima samurai, BGM gratuita, uso pessoal, uso comercial, crédito obrigatório, YUKARINOTI, proibido revender, sem IA, áudio, música, Japão, web
 - https://megumi-ryu.itch.io/mp3onejapanese-chiptune (versão chiptune do mesmo tema)
+PALAVRAS-CHAVE: itch.io, MP3OneJapanese Chiptune, versão chiptune, tema japonês samurai, trilha sonora, uso comercial sob verificação, áudio, música, Japão, web
 - https://megumi-ryu.itch.io/mp3onegoing-to-battle (faixa de batalha, útil para duelo de samurai)
+PALAVRAS-CHAVE: itch.io, MP3One Going to Battle, faixa batalha, duelo samurai, trilha sonora, uso comercial sob verificação, áudio, música, Japão, web
 - https://megumi-ryu.itch.io/free-japanese-folklore-loops-music-asset-tanuki-strategy-bgm (já listado — loops folclóricos japoneses)
 
 ### Avaliados e não incluídos
@@ -1069,16 +1317,26 @@ Packs 2D de personagem, item e música para mapas de vila escondida, telhado e f
 ### Personagens
 
 - https://luizmelo.itch.io/martial-hero (**CC0** — artista marcial/ninja com idle, corrida, salto, queda, 2 ataques, dano e morte)
+PALAVRAS-CHAVE: itch.io, martial hero, CC0, artista marcial, ninja, idle, corrida, salto, queda, 2 ataques, dano, morte, uso comercial, sprites, personagem, web
 - https://styloo.itch.io/ninja (**CC0** — personagem ninja; autor libera todos os assets dele em CC0)
+PALAVRAS-CHAVE: itch.io, ninja, CC0, personagem ninja, autor libera todos assets CC0, uso comercial, sprites, personagem, ninja, web
 - https://finalgatestudios.itch.io/ninja-asset-pack (ninja com idle, caminhada, corrida, dano e morte; uso comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, ninja asset pack, ninja, idle, caminhada, corrida, dano, morte, uso comercial, proibida redistribuição, sprites, personagem, ninja, web
 - https://zzzhen-z.itch.io/dark-ninja-2d-pixel-art-character-animation (ninja com animações de ninjutsu; uso comercial liberado, proibida redistribuição/revenda)
+PALAVRAS-CHAVE: itch.io, dark ninja 2D pixel art character animation, ninja, animações ninjutsu, uso comercial, proibida redistribuição, proibida revenda, sprites, personagem, ninja, web
 - https://mirokaz.itch.io/ninja-2d-pixel-character (idle, transição idle-corrida, corrida, salto, queda e transição; comercial liberado, proibida revenda como asset)
+PALAVRAS-CHAVE: itch.io, ninja 2D pixel character, idle, transição corrida, corrida, salto, queda, transição, comercial liberado, proibida revenda asset, sprites, personagem, ninja, web
 - https://fayedamara.itch.io/td-pack-ninjas (**CC BY 4.0** — ninjas e demônios com efeitos sonoros inclusos; crédito opcional, proibida revenda)
+PALAVRAS-CHAVE: itch.io, TD Pack Ninjas, CC BY 4.0, ninjas, demônios, efeitos sonoros inclusos, crédito opcional, proibida revenda, sprites, personagem, ninja, áudio, web
 - https://kelano-studio.itch.io/ninja-32x32-pixelart-9-x-animation (ninja 32x32 com 9 animações; gratuito com **crédito obrigatório**: "Ninja animations by NinjaGame_Dev")
+PALAVRAS-CHAVE: itch.io, ninja 32x32 pixelart 9x animation, ninja 32x32, 9 animações, crédito obrigatório, NinjaGame_Dev, sprites, personagem, ninja, web
 - https://kelano-studio.itch.io/15-64x64-unique-characters (15 personagens 64x64 no mesmo estilo; comercial liberado, sem crédito, proibida revenda do arquivo)
+PALAVRAS-CHAVE: itch.io, 15 64x64 unique characters, 15 personagens, 64x64, comercial liberado, sem crédito, proibida revenda arquivo, sprites, personagens, web
 - https://bikegol.itch.io/japanese-edo-era-caracters-set (13 personagens da era Edo; comercial liberado, sem atribuição, proibida revenda como pack)
 - https://seiyouh.itch.io/ninja-gameboy (ninja em estilo Game Boy; comercial liberado, **crédito obrigatório** a seiyouh, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, ninja Game Boy, estilo Game Boy, comercial liberado, crédito obrigatório, seiyouh, proibida redistribuição, sprites, personagem, ninja, web
 - https://cyberrumor.itch.io/16-bit-assassin (rogue/assassino pixel animado; comercial liberado, sem crédito)
+PALAVRAS-CHAVE: itch.io, 16-bit assassin, rogue assassino pixel animado, comercial liberado, sem crédito, sprites, personagem, assassino, web
 - https://10kstudios.itch.io/free-2d-ninja-sidescroller-character (já listado na seção samurai — ninja 165x165 com idle, ataque, corrida, morte e salto)
 - https://kbpixelart.itch.io/ninja-enemy-pack (já listado — 4 ninjas por cor, com ataque e morte)
 
@@ -1120,14 +1378,23 @@ Os shurikens, kunais e armas secundárias ninja estão registrados em `assets/op
 Assets 2D para masmorra isométrica, catacumbas e loot, no clima de Diablo II.
 
 - https://trevor-pupkin.itch.io/lords-of-pain (inspirado em Diablo II e Halls of Torment; uso comercial liberado, proibida redistribuição/revenda)
+PALAVRAS-CHAVE: itch.io, lords of pain, inspirado Diablo II, Halls of Torment, uso comercial, proibida redistribuição, proibida revenda, sprites, cenário, dark fantasy, web
 - https://foozlecc.itch.io/rpg-ui-set-1 (UI de RPG estilo Diablo; **CC0**)
+PALAVRAS-CHAVE: itch.io, RPG UI Set 1, UI RPG estilo Diablo, CC0, uso comercial, sem atribuição, UI, interface, dark fantasy, web
 - https://szadiart.itch.io/rogue-fantasy-catacombs (catacumbas 16x16 com tochas e velas animadas; domínio público, proibida revenda)
+PALAVRAS-CHAVE: itch.io, rogue fantasy catacombs, catacumbas 16x16, tochas, velas animadas, domínio público, proibida revenda, sprites, cenário, dark fantasy, web
 - https://krishna-palacio.itch.io/minifantasy-dungeon (masmorra minifantasy; uso comercial liberado, **crédito obrigatório** a Krishna Palacio + envio de link do projeto)
+PALAVRAS-CHAVE: itch.io, minifantasy dungeon, masmorra minifantasy, uso comercial, crédito obrigatório, Krishna Palacio, envio link projeto, sprites, cenário, dark fantasy, web
 - https://krishna-palacio.itch.io/minifantasy-creatures (criaturas no mesmo estilo; mesma licença)
+PALAVRAS-CHAVE: itch.io, minifantasy creatures, criaturas minifantasy, mesmo estilo, uso comercial, crédito obrigatório, sprites, criaturas, dark fantasy, web
 - https://williamqm.itch.io/dark-enemies-pack (inimigos 32x32 e 64x64: ceifador, behemoth, paragon; uso comercial liberado, proibida revenda avulsa)
+PALAVRAS-CHAVE: itch.io, dark enemies pack, inimigos 32x32, 64x64, ceifador, behemoth, paragon, uso comercial, proibida revenda avulsa, sprites, inimigos, dark fantasy, web
 - https://free-game-assets.itch.io/free-cursed-land-top-down-pixel-art-tileset (tileset top-down de terra amaldiçoada 16x16; licença Freebie da CraftPix)
+PALAVRAS-CHAVE: itch.io, free cursed land top-down pixel art tileset, terra amaldiçoada 16x16, licença CraftPix Freebie, uso comercial, não redistribuir, tileset, cenário, dark fantasy, web
 - https://maxstack.itch.io/demons-realm (12 faixas de música dark fantasy, 44 min, em loop; **CC BY-SA 4.0**)
+PALAVRAS-CHAVE: itch.io, demons realm, 12 faixas música dark fantasy, 44 min, loop, CC BY-SA 4.0, uso comercial, atribuição, compartilha alike, áudio, música, dark fantasy, web
 - https://monopixelart.itch.io/dark-fantasy-enemies-asset-pack (inimigos dark fantasy pixel; verificar licença na página)
+PALAVRAS-CHAVE: itch.io, dark fantasy enemies asset pack, inimigos dark fantasy pixel, verificar licença, uso comercial sob verificação, sprites, inimigos, dark fantasy, web
 
 ## itch.io — Plataforma estilo Mario (8/16-bit) (pesquisado em 22/10/2026)
 
@@ -1136,21 +1403,33 @@ Assets 2D de plataforma clássica (blocos, tubos, moedas, colinas, nuvens) sem u
 ### Personagens e packs de plataforma
 
 - https://jonathan-so.itch.io/creatorpack (**CC0** — pack grande de plataforma: blocos, inimigos, itens e cenários)
+PALAVRAS-CHAVE: itch.io, creatorpack, CC0, pack grande plataforma, blocos, inimigos, itens, cenários, uso comercial, sem atribuição, sprites, cenário, plataforma, web
 - os três packs da Pixel Frog (Pixel Adventure, Kings and Pigs e Treasure Hunters) já estão listados na seção **Multi-categoria** e são **CC0**
 - https://v3x3d.itch.io/block-land (tileset 16x16 "Mario/Minecraft-like"; **CC0 declarado no título do pack**, proibida revenda)
+PALAVRAS-CHAVE: itch.io, block land, tileset 16x16, Mario Minecraft-like, CC0, proibida revenda, uso comercial, tileset, cenário, plataforma, web
 - https://v3x3d.itch.io/paper-pixels (tileset 8x8 de plataforma simples; **CC0 declarado no título**, proibida revenda)
+PALAVRAS-CHAVE: itch.io, paper pixels, tileset 8x8, plataforma simples, CC0, proibida revenda, uso comercial, tileset, cenário, plataforma, web
 - https://gandalfhardcore.itch.io/free-pixel-art-sidescroller-asset-pack-32x32-overworld (pacote overworld 32x32 com personagem, tiles e objetos; comercial liberado, proibida revenda e uso em IA)
+PALAVRAS-CHAVE: itch.io, free pixel art sidescroller asset pack 32x32 overworld, pacote overworld 32x32, personagem, tiles, objetos, comercial liberado, proibida revenda, proibido IA, sprites, tileset, plataforma, web
 - https://balloon-cart.itch.io/reactor-man-asset-pack (fase completa estilo Mega Man: personagens, tiles, itens; comercial liberado, proibida revenda/compartilhamento)
+PALAVRAS-CHAVE: itch.io, reactor man asset pack, fase completa estilo Mega Man, personagens, tiles, itens, comercial liberado, proibida revenda, proibido compartilhamento, sprites, tileset, plataforma, web
 - https://balloon-cart.itch.io/elemental-zone (outra fase no mesmo estilo e licença)
+PALAVRAS-CHAVE: itch.io, elemental zone, outra fase mesmo estilo, mesmo licença, comercial liberado, proibida revenda, proibido compartilhamento, sprites, tileset, plataforma, web
 - https://brackeysgames.itch.io/brackeys-platformer-bundle (Brackeys Platformer Bundle — pack inicial plataforma: personagem cavaleiro, slime, tileset world, frutas, plataformas, moedas, música, SFX, fonte; **CC0**, uso comercial livre, sem atribuição obrigatória; combina assets de analogStudios_ e RottingPixels; sem IA generativa)
+PALAVRAS-CHAVE: itch.io, Brackeys Platformer Bundle, CC0, pack inicial plataforma, personagem cavaleiro, slime, tileset world, frutas, plataformas, moedas, música, SFX, fonte, uso comercial livre, sem atribuição obrigatória, sem IA generativa, pack, web
 
 ### Tilesets de chão, caverna e masmorra
 
 - https://axulart.itch.io/dirt-and-grass-2d-platform-tileset (**CC BY 4.0** — terra e grama, base para fase inicial)
+PALAVRAS-CHAVE: itch.io, dirt and grass 2D platform tileset, CC BY 4.0, terra e grama, base fase inicial, uso comercial, atribuição obrigatória, tileset, cenário, plataforma, web
 - https://axulart.itch.io/dirt-grass-2d-platform-tileset-ver-2 (**CC BY 4.0** — versão 2 do mesmo tileset)
+PALAVRAS-CHAVE: itch.io, dirt grass 2D platform tileset ver 2, CC BY 4.0, versão 2 mesmo tileset, uso comercial, atribuição obrigatória, tileset, cenário, plataforma, web
 - https://rottingpixels.itch.io/nature-platformer-tileset (tileset de natureza 16x16; comercial liberado, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, nature platformer tileset, tileset natureza 16x16, comercial liberado, crédito apreciado, sprites, cenário, plataforma, natureza, web
 - https://rottingpixels.itch.io/platformer-dungeon-tileset (tileset de masmorra 16x16; mesma licença)
+PALAVRAS-CHAVE: itch.io, platformer dungeon tileset, tileset masmorra 16x16, mesma licença, comercial liberado, crédito apreciado, sprites, cenário, masmorra, plataforma, web
 - https://itchabop.itch.io/trapmoor-an-8bit-platformer-tileset (tileset 8-bit de masmorra; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, trapmoor 8-bit platformer tileset, tileset 8-bit masmorra, comercial liberado, proibida redistribuição, sprites, cenário, masmorra, plataforma, web
 
 ### Música
 
@@ -1184,12 +1463,19 @@ Sprites e cenários 2D de monstros, com prioridade para yōkai japoneses, que é
 ### Personagens e criaturas
 
 - https://not-a-kappa-games.itch.io/mud-man-dorotabo (yōkai Dorotabō animado; uso comercial liberado, inclusive em jogo pago, sem IA no processo)
+PALAVRAS-CHAVE: itch.io, mud man dorotabo, yōkai Dorotabo animado, uso comercial, jogo pago, sem IA, sprites, monstro, yōkai, Japão, web
 - https://pixelartmaterial.itch.io/fr08-10-free-pixel-monsters-png-sml (10 monstros pixel em 3 tamanhos; comercial liberado, sem crédito, proibida revenda)
+PALAVRAS-CHAVE: itch.io, fr08 10 free pixel monsters, 10 monstros pixel, 3 tamanhos, comercial liberado, sem crédito, proibida revenda, sprites, monstros, web
 - https://leckie1989.itch.io/spooky-bits-free-16x16-halloween-pixel-pack (**CC0** — pack 16x16 de Halloween com monstros, abóboras e props)
+PALAVRAS-CHAVE: itch.io, spooky bits free 16x16 Halloween pixel pack, CC0, pack 16x16, Halloween, monstros, abóboras, props, uso comercial, sem atribuição, sprites, web
 - https://elthen.itch.io/2d-pixel-art-minotaur-sprites (minotauro animado; uso comercial e não comercial liberado)
+PALAVRAS-CHAVE: itch.io, 2D pixel art minotaur sprites, minotauro animado, uso comercial, uso não comercial, sprites, monstro, minotauro, web
 - https://clembod.itch.io/bringer-of-death-free (ceifador/arauto da morte animado; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, bringer of death free, ceifador, arauto da morte animado, comercial liberado, proibida redistribuição, sprites, monstro, ceifador, web
 - https://tacotry.itch.io/rpg-enemies (5 inimigos 96x para RPG; uso comercial liberado com **crédito** a Taco)
+PALAVRAS-CHAVE: itch.io, rpg enemies, 5 inimigos, 96x, RPG, uso comercial, crédito obrigatório, Taco, sprites, inimigos, web
 - https://monopixelart.itch.io/flying-enemies (monstros voadores de floresta; na mesma licença do *Forest Monsters* já listado acima — comercial liberado, sem modificação, revenda ou redistribuição)
+PALAVRAS-CHAVE: itch.io, flying enemies, monstros voadores floresta, mesmo licença Forest Monsters, comercial liberado, sem modificação, sem revenda, sem redistribuição, sprites, inimigos, web
 - *Monsters Creatures Fantasy* (LuizMelo, CC0), *Minifantasy Creatures* (crédito obrigatório) e *Dark Enemies Pack* (WilliamQM) já estão listados nas seções anteriores.
 
 ### Mapas, casas e árvores
@@ -1203,6 +1489,7 @@ Para mapa de monstros, os packs de cemitério, templo em ruínas e catacumbas j�
 ### Música
 
 - https://en-okawa.itch.io/japanese-dark-horror-bgm-hitotsume (BGM de horror japonês "Hitotsume", o yōkai de um olho; royalty-free para comercial, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, Japanese Dark Horror BGM Hitotsume, BGM horror japonês, yōkai um olho, royalty-free comercial, crédito apreciado, áudio, música, Japão, web
 
 ### Avaliados e não incluídos
 
@@ -1221,11 +1508,17 @@ Para mapa de monstros, os packs de cemitério, templo em ruínas e catacumbas j�
 Assets 2D de selva, macacos, cipós e frutas — o equivalente legal ao visual de Donkey Kong, sem usar propriedade intelectual da Nintendo.
 
 - https://teo-reat.itch.io/animated-jungle-platformer-tileset (tileset de plataforma na selva com animações; **domínio público**, sem crédito)
+PALAVRAS-CHAVE: itch.io, animated jungle platformer tileset, domínio público, sem crédito, tileset selva, animações, plataforma, uso comercial, sprites, cenário, selva, web
 - https://jesse-m.itch.io/jungle-pack (pack de selva com tiles, plantas e props; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, jungle pack, pack selva, tiles, plantas, props, comercial liberado, proibida redistribuição, sprites, cenário, selva, web
 - https://lunadrift-studios.itch.io/jungle-vines-background-2d-pixel-pack (cipós e fundo de selva; comercial liberado com **crédito** e link para a LunarDrift Studios)
+PALAVRAS-CHAVE: itch.io, jungle vines background 2D pixel pack, cipós, fundo selva, comercial liberado, crédito obrigatório, LunarDrift Studios, sprites, cenário, selva, web
 - https://gooooman.itch.io/ff-side-scroller-jungle-asset-pack (pack sidescroller de selva com personagens e inimigos; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, ff side scroller jungle asset pack, pack sidescroller selva, personagens, inimigos, comercial liberado, proibida redistribuição, sprites, selva, web
 - https://aeynit.itch.io/monkeys (sprites de macacos; autor libera uso em qualquer projeto, comercial ou não)
+PALAVRAS-CHAVE: itch.io, monkeys, sprites macacos, uso qualquer projeto, comercial, não comercial, sprites, animais, macacos, web
 - https://freakydayz.itch.io/game-boy-ape-sprite (sprite de gorila estilo Game Boy; liberado para usar em jogos, proibida revenda)
+PALAVRAS-CHAVE: itch.io, game boy ape sprite, sprite gorila estilo Game Boy, liberado jogos, proibida revenda, sprites, animal, gorila, web
 - https://opengameart.org/content/opp-jungle-tiles (**CC BY 3.0** — tiles de selva e templo do Open Pixel Project, ver `assets/opengameart.md`)
 - https://opengameart.org/content/monkey-platform-game (**CC0** — personagem macaco + plataforma)
 - https://opengameart.org/content/monkey-lad-in-magical-planet (**CC0** — sprites de macaco)
@@ -1249,29 +1542,47 @@ Pokémon é propriedade intelectual da Nintendo/Game Freak/ Creatures: sprites, 
 ### Personagens (criaturas e treinadores)
 
 - https://screensmith.itch.io/openmon-monster-sprites-set-7 (**CC0** em parte; alguns sprites vêm do projeto Tuxemon e são **CC BY-SA**, com atribuição em novarangers.com/attributions)
+PALAVRAS-CHAVE: itch.io, OpenMon Monster Sprites Set 7, CC0 em parte, CC BY-SA, Tuxemon, atribuição, monstros, sprites, monster taming, web
 - https://screensmith.itch.io/openmon-monster-sprites-set-6 (mesma licença do set 7; os sets 1 a 5 e a linha Wolf estão na mesma página do autor)
+PALAVRAS-CHAVE: itch.io, OpenMon Monster Sprites Set 6, mesma licença set 7, sets 1 a 5, linha Wolf, monstros, sprites, monster taming, web
 - https://screensmith.itch.io/openmon-monster-sprites-set-1 (**CC0** — sprites encomendados pelo autor, sem atribuição)
+PALAVRAS-CHAVE: itch.io, OpenMon Monster Sprites Set 1, CC0, sprites encomendados autor, sem atribuição, monstros, sprites, monster taming, web
 - https://screensmith.itch.io/pokemon-style-characters-forest-npcs (**CC0** — NPCs de floresta no estilo GBC)
+PALAVRAS-CHAVE: itch.io, Pokemon Style Characters Forest NPCs, CC0, NPCs floresta, estilo GBC, monstros, sprites, monster taming, web
 - https://screensmith.itch.io/pokemon-style-characters-townspeople (**CC0**, mas o pack é **gerado por IA** e a página exige divulgar isso; os packs Townspeople 2, Water Trainers e Miners seguem o mesmo formato)
+PALAVRAS-CHAVE: itch.io, Pokemon Style Characters Townspeople, CC0, gerado por IA, divulgar obrigatório, NPCs, sprites, monster taming, web
 - https://akoro.itch.io/pixel-mons-52-monsters-size-24x24 (52 monstrinhos 24x24; comercial liberado, sem crédito, proibida revenda avulsa)
+PALAVRAS-CHAVE: itch.io, Pixel Mons 52 Monsters Size 24x24, 52 monstrinhos, 24x24, comercial liberado, sem crédito, proibida revenda avulsa, monstros, sprites, monster taming, web
 - https://aaronsprites.itch.io/aaron-sprites-freebies-6 (5 criaturas em 96 a 512 px, com variante de cor; comercial e edição liberados, revenda avulsa proibida)
+PALAVRAS-CHAVE: itch.io, Aaron Sprites Freebies 6, 5 criaturas, 96 a 512 px, variante cor, comercial, edição liberados, revenda avulsa proibida, monstros, sprites, monster taming, web
 - https://moanaprinz.itch.io/monster-taming-breeding-pixel-asset-pack (monstros para criação/evolução; comercial liberado com crédito apreciado; proibido revender, usar em NFT ou treinar IA)
+PALAVRAS-CHAVE: itch.io, Monster Taming Breeding Pixel Asset Pack, monstros criação evolução, comercial liberado, crédito apreciado, proibido revender, NFT, treinar IA, monstros, sprites, monster taming, web
 - https://scarloxy.itch.io/mpwsp01 (16 monstros animados, 10 personagens, tileset de biomas, efeitos de ataque, fundos de batalha e UI; o autor declara o pack **totalmente original e comercial**)
+PALAVRAS-CHAVE: itch.io, MPWSP01, 16 monstros animados, 10 personagens, tileset biomas, efeitos ataque, fundos batalha, UI, totalmente original, comercial, monstros, sprites, monster taming, web
 - https://jasontomlee.itch.io/fakemon-starter-battle-vfx (efeitos de batalha para golpes iniciais; comercial e edição liberados; proibido revender, NFT ou IA)
+PALAVRAS-CHAVE: itch.io, Fakemon Starter Battle VFX, efeitos batalha golpes iniciais, comercial, edição liberados, proibido revender, NFT, IA, VFX, batalha, monster taming, web
 
 ### Mapas, casas e árvores
 
 - https://maciaz.itch.io/pokemon-like-top-down-tile-set (3 casas prontas, árvores pequena e grande, 3 NPCs, 2 criaturas, 37 tiles de chão e 51 de objetos, 16x16; comercial **com crédito**, proibido revender o pack modificado)
+PALAVRAS-CHAVE: itch.io, Pokemon Like Top Down Tile Set, 3 casas, árvores, 3 NPCs, 2 criaturas, 37 tiles chão, 51 objetos, 16x16, comercial com crédito, proibido revender pack modificado, tileset, cenário, monster taming, web
 - https://axulart.itch.io/axularts-basic-top-down-interior (**CC BY 4.0** — interiores top-down com móveis, ideal para casas e centros de cura)
+PALAVRAS-CHAVE: itch.io, Axularts Basic Top Down Interior, CC BY 4.0, interiores top-down, móveis, casas, centros cura, uso comercial, atribuição obrigatória, tileset, cenário, interior, web
 - https://axulart.itch.io/axularts-beach-and-caves-tileset (**CC BY 4.0** — praia, cavernas e transições, 16x16)
+PALAVRAS-CHAVE: itch.io, Axularts Beach and Caves Tileset, CC BY 4.0, praia, cavernas, transições, 16x16, uso comercial, atribuição obrigatória, tileset, cenário, web
 - https://anima-nel.itch.io/gbc-edo-forest (floresta estilo GBC com versão gratuita; comercial liberado, proibida redistribuição, NFT e IA — bônus: combina com os mapas de samurai)
+PALAVRAS-CHAVE: itch.io, GBC Edo Forest, floresta estilo GBC, versão gratuita, comercial liberado, proibida redistribuição, NFT, IA, combina mapas samurai, tileset, cenário, Japão feudal, web
 - https://screensmith.itch.io/openmon-pixel-art-backgrounds-set-1 (**CC0** — fundos de batalha)
+PALAVRAS-CHAVE: itch.io, OpenMon Pixel Art Backgrounds Set 1, CC0, fundos batalha, uso comercial, sem atribuição, sprites, cenário, monster taming, web
 - https://screensmith.itch.io/openmon-berry-plants (**CC0** — arbustos de frutinhas animados, feitos por Yan)
+PALAVRAS-CHAVE: itch.io, OpenMon Berry Plants, CC0, arbustos frutinhas animados, feitos por Yan, uso comercial, sem atribuição, sprites, objetos, monster taming, web
 
 ### Itens e texturas
 
 - https://screensmith.itch.io/item-icon-sprites-set-1-openmon (**CC0** — ícones de itens genéricos: poções, bolas de captura sem marca, insígnias)
+PALAVRAS-CHAVE: itch.io, Item Icon Sprites Set 1 OpenMon, CC0, ícones itens genéricos, poções, bolas captura sem marca, insígnias, uso comercial, sem atribuição, ícones, objetos, monster taming, web
 - https://axulart.itch.io/microscopic-sprites-axulart (**CC BY 4.0** — props e objetos pequenos para preencher mapas)
+PALAVRAS-CHAVE: itch.io, Microscopic Sprites Axulart, CC BY 4.0, props, objetos pequenos, preencher mapas, uso comercial, atribuição obrigatória, sprites, objetos, web
 - as texturas CC0 de **grama sem emenda** e de **transição de terra e grama** estão em `assets/opengameart.md` (seção Cenários, tilesets e construções)
 
 ### Música
@@ -1295,16 +1606,21 @@ Batman, Superman, Mulher-Maravilha e demais personagens da DC são propriedade d
 ### Personagens
 
 - https://aske4.itch.io/antihero-character (herói/anti-herói animado em pixel art; uso comercial liberado sem crédito, proibida revenda isolada ou em compilação)
+PALAVRAS-CHAVE: itch.io, antihero character, herói anti-herói animado pixel art, uso comercial, sem crédito, proibida revenda isolada, proibida revenda compilação, sprites, personagem, super-herói, web
 - https://5yvalia.itch.io/rpg-type-retro-top-down-urban-characters-spritesheet (personagens urbanos top-down; licença não exclusiva para projeto pessoal ou comercial, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, RPG Type Retro Top Down Urban Characters Spritesheet, personagens urbanos top-down, licença não exclusiva, pessoal, comercial, proibida redistribuição, sprites, personagem, urbano, web
 
 ### Mapas, casas e cidade
 
 - https://kenney-assets.itch.io/rpg-urban-kit (**CC0** — quarteirões top-down com prédios, ruas, calçadas, carros, postes e props; base para uma cidade tipo Gotham)
+PALAVRAS-CHAVE: itch.io, RPG Urban Kit, CC0, quarteirões top-down, prédios, ruas, calçadas, carros, postes, props, uso comercial, sem atribuição, base cidade Gotham, tileset, cenário, urbano, web
 - https://karsiori.itch.io/free-pixel-art-city-background-pack (**CC0** — fundos parallax de cidade, céu e silhuetas noturnas)
+PALAVRAS-CHAVE: itch.io, Free Pixel Art City Background Pack, CC0, fundos parallax cidade, céu, silhuetas noturnas, uso comercial, sem atribuição, sprites, cenário, urbano, web
 
 ### Itens
 
 - https://moxica.itch.io/medals (medalhas e insígnias para conquistas e ranking; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, medals, medalhas, insígnias, conquistas, ranking, comercial liberado, proibida revenda, sprites, UI, objetos, web
 
 ### Música
 
@@ -1331,6 +1647,7 @@ Angry Birds é propriedade da Rovio: personagens, nomes, slingshot e trilha ofic
 ### Personagens (aves)
 
 - https://pulsarcp.itch.io/free-pixel-art-animals-birds (**CC0** — 34 animais e pássaros animados, sem atribuição)
+PALAVRAS-CHAVE: itch.io, free pixel art animals birds, CC0, 34 animais pássaros animados, sem atribuição, uso comercial, sprites, animais, pássaros, web
 - https://muteassets.itch.io/pixel-critters (15 peixes, pássaros e insetos em 16x16 com 4 direções; comercial liberado, proibida revenda)
 - https://pop-shop-packs.itch.io/pigeons-2d-pixel-asset-pack (pombos animados + galinheiro, cochos e três casinhas de pássaro; comercial liberado, proibida redistribuição como asset)
 
@@ -1475,6 +1792,7 @@ Assets 2D de floresta temperada: tilesets top-down e de plataforma, árvores sol
 - as faixas **Forest Ambience** (**CC0**), **forest** (**CC BY 3.0**), **forest** (**CC BY-SA 3.0**), **Loop — House In a Forest** (**CC BY 3.0**) e **Cabin Fever** (**CC0**) estão em `assets/opengameart.md` (seção Música e SFX por tema)
 - https://quaternius.itch.io/stylized-nature-megakit (**CC0** — 116+ modelos 3D de natureza estilo Ghibli (40 árvores, 35 plantas/flores, 27 pedras, grama, arbustos); uso comercial, sem atribuição, sem IA)
 - https://kaylousberg.itch.io/kaykit-forest (**CC0** — 100+ modelos 3D low-poly de floresta (árvores, arbustos, pedras, grama, terreno); uso comercial, sem atribuição, sem IA)
+PALAVRAS-CHAVE: itch.io, KayKit Forest, CC0, 100 modelos 3D low-poly floresta, árvores, arbustos, pedras, grama, terreno, uso comercial, sem atribuição, sem IA, modelos 3D, natureza, web
 
 ### Avaliados e não incluídos
 
@@ -1496,24 +1814,33 @@ Packs 2D de RPG clássico: personagens, vila, masmorra, árvores, itens, ícones
 ### Personagens e kits completos
 
 - https://vryell.itch.io/pocket-rpg (4 personagens principais com caminhada e skate, 7 NPCs com dois tons de pele, mais de 10 construções, tiles internos e externos, móveis e GUI; comercial liberado, proibida revenda, NFT e treino de IA)
+PALAVRAS-CHAVE: itch.io, Pocket RPG, 4 personagens, caminhada, skate, 7 NPCs, construções, tiles, móveis, GUI, comercial liberado, proibida revenda, proibido NFT, proibido treino IA, sprites, personagem, cenário, RPG, web
 - https://angeler1234.itch.io/basic-character-female-pack-for-free-64 (personagem 64x128 com caminhada; comercial liberado, sem crédito, proibida revenda, proibido treinar IA)
+PALAVRAS-CHAVE: itch.io, Basic Character Female Pack for Free 64, personagem 64x128, caminhada, comercial liberado, sem crédito, proibida revenda, proibido treino IA, sprites, personagem, feminino, web
 - os packs da **Zerie**, **Kenmi** e **Seliel** já catalogados nas seções de personagens e fofos continuam valendo
 
 ### Mapas, casas e árvores
 
 - https://pipoya.itch.io/pipoya-rpg-tileset-32x32 (tileset 32x32 de vila com casas, árvores, chão e arquivos do Tiled; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Pipoya RPG Tileset 32x32, tileset 32x32, vila, casas, árvores, chão, Tiled, comercial liberado, proibida redistribuição, tileset, cenário, RPG, web
 - https://immunitys.itch.io/fm32x32 (Forgotten Memories 32x32: grama, terra, cercas e props; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, FM32x32, Forgotten Memories 32x32, grama, terra, cercas, props, comercial liberado, proibida redistribuição, tileset, cenário, RPG, web
 - https://butterymilk.itch.io/tiny-wonder-forest (floresta 16x16 com árvores, arbustos e props; comercial liberado, proibida revenda e NFT)
+PALAVRAS-CHAVE: itch.io, Tiny Wonder Forest, floresta 16x16, árvores, arbustos, props, comercial liberado, proibida revenda, proibido NFT, tileset, cenário, floresta, web
 - https://snowhex.itch.io/dungeon-gathering (masmorra sob o castelo, com tiles e itens atualizados; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Dungeon Gathering, masmorra sob castelo, tiles, itens, comercial liberado, proibida revenda, tileset, cenário, masmorra, web
 
 ### Itens e interface
 
 - https://frosty-rabbid.itch.io/rpg-ability-icons (**CC0** — coleção de ícones de habilidades, sem atribuição)
+PALAVRAS-CHAVE: itch.io, RPG Ability Icons, CC0, ícones habilidades, sem atribuição, uso comercial, ícones, UI, RPG, web
 - https://obsydianx.itch.io/interface-sfx-pack-1 (**CC0** — sons de confirmação e navegação de menu)
+PALAVRAS-CHAVE: itch.io, Interface SFX Pack 1, CC0, sons confirmação, navegação menu, uso comercial, sem atribuição, áudio, SFX, UI, web
 
 ### Música
 
 - https://escalonamusic.itch.io/action-rpg-music-free (faixas de RPG de ação em loop, incluindo tema heroico orquestral; comercial liberado)
+PALAVRAS-CHAVE: itch.io, Action RPG Music Free, faixas RPG ação, loop, tema heroico orquestral, comercial liberado, áudio, música, RPG, web
 
 ### Avaliados e não incluídos
 
@@ -1531,15 +1858,20 @@ World of Warcraft é propriedade da Blizzard: personagens, mapas, ícones, textu
 ### Personagens
 
 - https://kiyoz.itch.io/duskborne-enemy-1 (elfo inimigo animado; comercial liberado, proibido usar em IA e revender como pack)
+PALAVRAS-CHAVE: itch.io, Duskborne Enemy 1, elfo inimigo animado, comercial liberado, proibido IA, proibido revenda pack, sprites, inimigo, elfo, alta fantasia, web
 - https://lyaseek.itch.io/minifvillagers (NPCs de vila; o autor libera "usar como quiser", proíbe revenda e aprecia crédito)
+PALAVRAS-CHAVE: itch.io, Minifvillagers, NPCs vila, usar como quiser, proíbe revenda, aprecia crédito, sprites, personagem, NPC, alta fantasia, web
 - os **orcs 2D** da OpenGameArt (*Orc [parts updated]*, *Orc Hero* e *Hunter Orc*) estão em `assets/opengameart.md` (seção Personagens e sprites)
 - o **cavaleiro fantasy** da aamatniekss e o **cavaleiro** do xzany já estão catalogados na seção de personagens; servem como herói/paladino
 
 ### Mapas, casas e árvores
 
 - https://rekkimaru.itch.io/dungeon-rpg-tileset (masmorra de RPG com paredes, chão e props; comercial liberado)
+PALAVRAS-CHAVE: itch.io, Dungeon RPG Tileset, masmorra RPG, paredes, chão, props, comercial liberado, tileset, cenário, masmorra, RPG, web
 - https://thkaspar.itch.io/micro-tileset-overworld-dungeon (**CC0** — tiles de mundo aberto e masmorra, sem atribuição)
+PALAVRAS-CHAVE: itch.io, Micro Tileset Overworld Dungeon, CC0, tiles mundo aberto, masmorra, sem atribuição, uso comercial, tileset, cenário, masmorra, web
 - https://vryell.itch.io/tiny-dungeon-pack (masmorra compacta; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Tiny Dungeon Pack, masmorra compacta, comercial liberado, proibida revenda, tileset, cenário, masmorra, web
 - o **32x32 Fantasy Tileset** (**CC BY-SA 3.0**), o **Whispers of Avalon: Grassland** (**CC BY 3.0**), o **Dungeon Tileset** (**CC0**) e o **Sewer Tileset** (**CC BY 3.0**) estão em `assets/opengameart.md` (seção Cenários)
 - para vila e floresta, os tilesets do **Pipoya** (seção RPG), da **Butter Milk** (seção Floresta) e o **Tiny Swords** (já catalogado) completam o cenário
 
@@ -1550,7 +1882,9 @@ World of Warcraft é propriedade da Blizzard: personagens, mapas, ícones, textu
 ### Música e SFX
 
 - https://cosmeleites.itch.io/warcraft-style-music (pacote **original** de música inspirada em Warcraft; comercial liberado com **crédito a Oscar Leites**, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Warcraft Style Music, pacote original música inspirada Warcraft, comercial liberado, crédito a Oscar Leites, proibida redistribuição, áudio, música, alta fantasia, web
 - https://leohpaz.itch.io/minifantasy-dungeon-sfx-pack (SFX de masmorra; comercial liberado, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, Minifantasy Dungeon SFX Pack, SFX masmorra, comercial liberado, crédito apreciado, áudio, SFX, masmorra, web
 - os temas heroicos e de batalha **CC0/OGA-BY** da OpenGameArt estão em `assets/opengameart.md` (seção Música e SFX por tema)
 
 ### Avaliados e não incluídos
@@ -1575,35 +1909,48 @@ Stardew Valley é IP da ConcernedApe: sprites, retratos, mapas e trilha do jogo 
 ### Kit principal
 
 - https://aquumgifts.itch.io/cozy-farm (**Cozy Farm Lite — gratuito**: 282 PNG com grama, solo arado seco e molhado, autotiles de caminho, cenoura, tomate e trigo em 4 estágios, fazendeiro andando, galinha, carvalho, cercas com portão, 6 ícones e 6 props; o autor libera uso em jogos pessoais **e comerciais**. Só a versão Lite é gratuita: a Complete é paga)
+PALAVRAS-CHAVE: itch.io, Cozy Farm Lite, gratuito, 282 PNG, grama, solo arado, autotiles caminho, cenoura, tomate, trigo, 4 estágios, fazendeiro, galinha, carvalho, cercas, ícones, props, uso comercial, uso pessoal, sprites, cenário, fazenda, web
 - https://styloo.itch.io/farm (**CC0** — celeiros, construções rurais, ferramentas e props de fazenda; "faça o que quiser")
+PALAVRAS-CHAVE: itch.io, Farm, CC0, celeiros, construções rurais, ferramentas, props fazenda, uso comercial, sem atribuição, sprites, cenário, fazenda, web
 
 ### Personagens e NPCs
 
 - https://sakpix.itch.io/cozy-village-animated-girl-free (garota de vila com idle, caminhada, aceno e coleta em 4 direções; uso comercial liberado)
+PALAVRAS-CHAVE: itch.io, Cozy Village Animated Girl Free, garota vila, idle, caminhada, aceno, coleta, 4 direções, uso comercial, sprites, personagem, vila, web
 - https://vraizen.itch.io/cozy-farmer (fazendeiro em sprite sheet horizontal, compatível com Unity, Godot, GameMaker e RPG Maker; comercial liberado, sem crédito)
+PALAVRAS-CHAVE: itch.io, Cozy Farmer, fazendeiro, sprite sheet horizontal, Unity, Godot, GameMaker, RPG Maker, comercial liberado, sem crédito, sprites, personagem, fazendeiro, web
 - https://nanasha.itch.io/nashas-cozy-villagers-character-pack (**demo gratuito** com 3 villagers e variação de roupa; licença permite uso comercial, proíbe revenda e treino de IA — o pack completo é pago)
+PALAVRAS-CHAVE: itch.io, Nashas Cozy Villagers Character Pack, demo gratuito, 3 villagers, variação roupa, uso comercial, proíbe revenda, proíbe treino IA, sprites, personagem, villagers, vila, web
 - os **Sprout Lands** (Cup Nooble) já catalogados na seção de assets fofos continuam sendo a melhor opção de paleta pastel para o mesmo estilo — **atenção**: a versão gratuita do pack é **só não comercial** (a premium de US$ 3,99 libera uso comercial)
 
 ### Mapas, casas e árvores
 
 - https://kepx.itch.io/pixel-houses-rpg-top-down-pixel-art-asset-pack-16x16 (**100 casas** 16x16 com porta abrindo e fechando; comercial liberado, proibida revenda mesmo modificado)
+PALAVRAS-CHAVE: itch.io, Pixel Houses RPG Top Down Pixel Art Asset Pack 16x16, 100 casas, 16x16, porta abrindo fechando, comercial liberado, proibida revenda, tileset, cenário, casas, RPG, web
 - https://lakiah.itch.io/cozy-rpg-16x16-pixel-art-topdown-tileset (terreno, casas e decoração, declaradamente inspirado em Stardew; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Cozy RPG 16x16 Pixel Art Topdown Tileset, terreno, casas, decoração, inspirado Stardew, comercial liberado, proibida redistribuição, tileset, cenário, casas, RPG, web
 - https://kinodev.itch.io/valley-of-ruin-free-pixel-game-asset (vila e ruínas 16x16, ótimo para a parte "abandonada" do mapa; comercial liberado, proibido uso em IA e NFT)
+PALAVRAS-CHAVE: itch.io, Valley of Ruin Free Pixel Game Asset, vila ruínas 16x16, abandonado mapa, comercial liberado, proibido IA, proibido NFT, tileset, cenário, vila, web
 - o **Pixel Plains** da SnowHex (4 estações) e o **Tiny Ranch** do Gustavo Vituri já estão catalogados e foram verificados agora: ambos liberam uso comercial, o primeiro com crédito obrigatório, o segundo sem
 - para árvores, o carvalho do Cozy Farm Lite, o Pixel Plains e os packs da seção **Floresta** cobrem o mapa inteiro
 
 ### Itens, interiores e interface
 
 - https://vraizen.itch.io/cozy-farm-icon-pack-vol-4 (ícones de fazenda para inventário e loja; comercial sem crédito, proibida revenda; ícones gerados por IA e retocados — o autor declara isso na página)
+PALAVRAS-CHAVE: itch.io, Cozy Farm Icon Pack Vol 4, ícones fazenda, inventário, loja, comercial sem crédito, proibida revenda, ícones gerados IA, retocados, ícones, UI, fazenda, web
 - https://roleymoth.itch.io/cozyland (interiores top-down: móveis, lareira animada e decoração; comercial liberado, proibida revenda, proibido uso em IA e NFT)
+PALAVRAS-CHAVE: itch.io, Cozyland, interiores top-down, móveis, lareira animada, decoração, comercial liberado, proibida revenda, proibido IA, proibido NFT, sprites, cenário, interior, web
 - o **Cozy UI Pack** (dobo_ui) e o **Pixel Interior** (bitglow) já estão catalogados; ambos liberam uso comercial e proíbem revenda
 - na OpenGameArt entraram **Farming crops 16x16** (**CC0**), **Crops CC0** (**CC0**), **[LPC] Crops** (**CC BY-SA 4.0**) e **LPC style farm animals** (**CC BY 3.0**) — ver `assets/opengameart.md`
 
 ### Música e SFX
 
 - https://aquumgifts.itch.io/cozy-farm-music (8 loops sazonais com versões calmas; comercial e pessoal, sem royalties e sem crédito, proibida revenda como música)
+PALAVRAS-CHAVE: itch.io, Cozy Farm Music, 8 loops sazonais, versões calmas, comercial, pessoal, sem royalties, sem crédito, proibida revenda música, áudio, música, fazenda, web
 - https://uit-games.itch.io/cozy-farm-days-free-game-music (3 faixas com loops; comercial liberado sem crédito, proibido redistribuir ou registrar no Content ID)
+PALAVRAS-CHAVE: itch.io, Cozy Farm Days Free Game Music, 3 faixas loops, comercial liberado, sem crédito, proibido redistribuir, proibido Content ID, áudio, música, fazenda, web
 - https://aquumgifts.itch.io/cozy-sfx-complete (**Free Lite** com sons de ferramentas, colheita, passos, portões e ambiência; royalty-free para uso comercial)
+PALAVRAS-CHAVE: itch.io, Cozy SFX Complete, Free Lite, sons ferramentas, colheita, passos, portões, ambiência, royalty-free, uso comercial, áudio, SFX, fazenda, web
 - os temas calmos da OpenGameArt e da escalonamusic já catalogados completam a trilha
 
 ### Avaliados e não incluídos
@@ -1630,38 +1977,59 @@ Complementa o bloco **Estilo Stardew Valley** acima: lá o foco é o life sim co
 ### Mapas, fazendas e celeiros
 
 - https://kenney-assets.itch.io/pixel-platformer-farm-expansion (**CC0** — mais de 110 sprites de fazenda em estilo de plataforma, com tilesheets e sprites separados; sem atribuição)
+PALAVRAS-CHAVE: itch.io, Pixel Platformer Farm Expansion, CC0, 110 sprites fazenda, estilo plataforma, tilesheets, sprites separados, sem atribuição, uso comercial, sprites, tileset, fazenda, web
 - https://styloo.itch.io/2d-village (**CC0** — pacote grande de vila rural 2D; o autor confirma CC0 e libera uso comercial sem restrição)
+PALAVRAS-CHAVE: itch.io, 2D Village, CC0, pacote grande vila rural 2D, uso comercial sem restrição, sem atribuição, sprites, cenário, vila, web
 - https://vectoraith.itch.io/farming-sim-asset-pack (tileset de farming sim com celeiro, horta, cercas e props; uso livre em projetos comerciais, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Farming Sim Asset Pack, tileset farming sim, celeiro, horta, cercas, props, uso livre comercial, proibida revenda, tileset, cenário, fazenda, web
 - https://hcg-digital-arts.itch.io/farmgarden-tileset (tileset de fazenda e jardim 32x32; o autor declara uso comercial **sem restrições**)
+PALAVRAS-CHAVE: itch.io, Farm Garden Tileset, tileset fazenda jardim 32x32, uso comercial sem restrições, tileset, cenário, fazenda, jardim, web
 - https://pixeljad.itch.io/ranch (rancho top-down com curral, celeiro e terreno; comercial liberado, **crédito obrigatório** a "Pixeljad" / @pixeljad)
+PALAVRAS-CHAVE: itch.io, Ranch, rancho top-down, curral, celeiro, terreno, comercial liberado, crédito obrigatório, Pixeljad, sprites, cenário, rancho, web
 - https://oddblotstudios.itch.io/free-the-great-farm-isometric (fazenda **isométrica** pintada à mão, com construções e props; comercial liberado, proibido treinar IA)
+PALAVRAS-CHAVE: itch.io, Free The Great Farm Isometric, fazenda isométrica, pintada à mão, construções, props, comercial liberado, proibido treino IA, sprites, cenário, fazenda, web
 - https://vgdr.itch.io/farm-field-background-pack (22 fundos de fazenda e campos 1536x832, livres para qualquer uso inclusive comercial — **gerados por IA e declarados como tal** pelo autor)
+PALAVRAS-CHAVE: itch.io, Farm Field Background Pack, 22 fundos fazenda campos, 1536x832, qualquer uso, comercial, gerados IA, declarados IA, sprites, cenário, fazenda, web
 - na OpenGameArt: **Farm** (**CC0**, do nicubunu), **Pixel farm and shack** (**CC0**), **Farm spritesheet** (**CC0**), **Farm sprites** (**CC0**), **Vector Farm Pack** (**CC0**), **Corn Farm Isometric Tile** (**CC0**), **Free Farm Assets 2D** (**CC0**) e **Isometric Farm Shed** (**CC BY 3.0**, crédito a Michael J Pierce)
 
 ### Casas, celeiros e vila
 
 - https://schwarnhild.itch.io/modular-village-houses-32x32 (casas modulares de vila 32x32, com telhados e paredes combináveis; comercial liberado, proibida revenda e treino de IA)
+PALAVRAS-CHAVE: itch.io, Modular Village Houses 32x32, casas modulares vila 32x32, telhados, paredes combináveis, comercial liberado, proibida revenda, proibido treino IA, tileset, cenário, casas, vila, web
 - https://trislin.itch.io/pixel-lands-village (vila com casas, árvores, fonte e cais; a licença do **demo** já libera uso comercial, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Pixel Lands Village, vila, casas, árvores, fonte, cais, licença demo libera comercial, proibida redistribuição, tileset, cenário, vila, web
 - https://vryell.itch.io/tiny-village-pack (vila minúscula com casas e props; uso pessoal e comercial, crédito opcional, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Tiny Village Pack, vila minúscula, casas, props, uso pessoal, uso comercial, crédito opcional, proibida revenda, tileset, cenário, vila, web
 - para interiores de celeiro, o **Simple Barn Interior and Animals Pack** (abaixo) e o **Cozy Interior** da shubibubi já catalogado cobrem o estábulo e a casa do fazendeiro
 
 ### Personagens e animais
 
 - https://imepa.itch.io/farmerplayerpack (fazendeiro jogável com idle, caminhada, agachar, escalar, pular e escorregar; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Farmer Player Pack, fazendeiro jogável, idle, caminhada, agachar, escalar, pular, escorregar, comercial liberado, proibida revenda, sprites, personagem, fazendeiro, web
 - https://alpatyk.itch.io/free-asset-farmer-story-sprites-and-backgrounds (**CC BY 4.0** — sprites de fazendeiro + fundos e tileset 16x16; crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, Free Asset Farmer Story Sprites and Backgrounds, CC BY 4.0, sprites fazendeiro, fundos, tileset 16x16, crédito obrigatório, uso comercial, sprites, personagem, fundos, fazenda, web
 - https://fleuffstudios.itch.io/farm-animals-pixel-art (animais de fazenda animados, com filhotes, GIFs de preview e README; comercial liberado, proibida revenda dos sprites)
+PALAVRAS-CHAVE: itch.io, Farm Animals Pixel Art, animais fazenda animados, filhotes, GIFs preview, README, comercial liberado, proibida revenda sprites, sprites, animais, fazenda, web
 - https://maevedevs.itch.io/farm-rpg (**Royalty-free custom** — pack farm RPG 16x16/32x32 com personagens, animais, cultivos, itens, móveis e tiles; uso comercial OK, modificar OK, não redistribuir/revender, sem cripto/NFT/IA, crédito opcional a Maeve Devs; versão demo grátis, versão completa paga)
+PALAVRAS-CHAVE: itch.io, Farm RPG, Royalty-free custom, pack farm RPG 16x16 32x32, personagens, animais, cultivos, itens, móveis, tiles, uso comercial, modificar OK, não redistribuir, não revender, sem cripto, sem NFT, sem IA, crédito opcional, sprites, tileset, fazenda, RPG, web
 - na OpenGameArt: **Pixel Farmer** (**CC0**), **Little farmer guy** (**CC0**), **Medieval Citizens Vol.1 — Free Sample (Farmer)** (**CC0**), **Farmer — Bleed's Game Art** (**CC BY 3.0**), **PagesOfAdventure farmer sprite sheet** (**CC BY-SA 3.0**) e **farmer** (**CC BY 3.0/4.0**)
 
 ### Itens, colheita e produtos
 
 - https://hogfrog.itch.io/farm-items-pack (frutas, legumes e produtos animais para inventário; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Farm Items Pack, frutas, legumes, produtos animais, inventário, comercial liberado, proibida revenda, sprites, itens, fazenda, web
 - https://hayaya.itch.io/farm-products-asset-16x16 (ovos, leite, queijo, mel, geleia, conserva, suco e vinho em 16x16; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Farm Products Asset 16x16, ovos, leite, queijo, mel, geleia, conserva, suco, vinho, 16x16, comercial liberado, proibida revenda, sprites, itens, fazenda, web
 - https://pixelgnome.itch.io/crops (12 plantações essenciais com estágios, incluindo cenoura, trigo, milho, abóbora e melancia; comercial liberado, proibida revenda e treino de IA)
+PALAVRAS-CHAVE: itch.io, Crops, 12 plantações, estágios, cenoura, trigo, milho, abóbora, melancia, comercial liberado, proibida revenda, proibido treino IA, sprites, plantações, fazenda, web
 - https://sondanielson.itch.io/simplecrop (**CC BY** — pacote simples de plantações, crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, Simplecrop, CC BY, pacote simples plantações, crédito obrigatório, uso comercial, sprites, plantações, fazenda, web
 - https://lefrataxa.itch.io/40-colorful-fantasy-crops-weird-plants-carrot-variants-pack (40 plantações fantásticas em vetor, com fonte .ai editável; licença royalty-free para uso comercial)
+PALAVRAS-CHAVE: itch.io, 40 Colorful Fantasy Crops Weird Plants Carrot Variants Pack, 40 plantações fantásticas, vetor, fonte .ai, royalty-free, uso comercial, sprites, plantações, fantasia, fazenda, web
 - https://welledgecreative.itch.io/cozy-orchard-harvest-free-starter-10 (10 ícones gratuitos de pomar e colheita, com PNG em 64–512 px e licença de projeto comercial no pacote)
+PALAVRAS-CHAVE: itch.io, Cozy Orchard Harvest Free Starter 10, 10 ícones pomar, colheita, PNG 64–512 px, licença projeto comercial, ícones, UI, fazenda, web
 - https://mattyg763.itch.io/simple-farm-assets (Simple Barn Interior and Animals Pack — interior de celeiro e animais; o autor libera "para o que quiser")
+PALAVRAS-CHAVE: itch.io, Simple Farm Assets, Simple Barn Interior and Animals Pack, interior celeiro, animais, autor libera para o que quiser, sprites, cenário, interior, fazenda, web
 - na OpenGameArt: **32 pixels tomato plants** (**CC0**) soma às plantações já catalogadas em "Cenários, tilesets e construções" (**Farming crops 16x16**, **Crops CC0** e **[LPC] Crops**)
 
 ### Árvores e pomares
@@ -1732,9 +2100,9 @@ FarmVille é IP da Zynga: personagens, buildings icônicos, crops específicos, 
 
 - **IP Zynga/FarmVille**: crops icônicos (morango, abóbora, girassol), buildings (Celeiro Vermelho, Silo, Moinho de Vento, Casa de Máquinas), moedas Farm Coins/Cash, mecânica "visitar/ajudar vizinhos", trilha oficial, personagens (Farmer, vizinhos)
 - **pagos**: https://pixelsbyskab.itch.io/pixelfarm-skabpixels (US$ 7), https://kurlakstudio.itch.io/farmplants (US$ 9,99), https://antahonist.itch.io/cozy-farm-tileset-autotiles (US$ 6,99/4,99), https://leviart.itch.io/farm-item-pack (US$ 5), https://greateden.itch.io/farm-girl-cartoon-pack (US$ 1), https://wismh.itch.io/cartoon-farm-animals (US$ 1,99), https://freezepops.itch.io/farm-animal-sprites (US$ 1), https://roleymoth.itch.io/cozyland-farm-animals (US$ 19,99), https://splashale.itch.io/chibi-farm-horse (US$ 1), https://pixelsbyskab.itch.io/pixelfarm-skabpixels (US$ 7), https://kurlakstudio.itch.io/farmplants (US$ 9,99), https://antahonist.itch.io/cozy-farm-tileset-autotiles (US$ 6,99/4,99), https://kurlakstudio.itch.io/farmplants (US$ 9,99), https://leviart.itch.io/farm-item-pack (US$ 5), https://greateden.itch.io/farm-girl-cartoon-pack (US$ 1), https://wismh.itch.io/cartoon-farm-animals (US$ 1,99), https://freezepops.itch.io/farm-animal-sprites (US$ 1), https://roleymoth.itch.io/cozyland-farm-animals (US$ 19,99), https://splashale.itch.io/chibi-farm-horse (US$ 1), https://pixelsbyskab.itch.io/pixelfarm-skabpixels (US$ 7), https://moodfrog.itch.io/tractor-farm-sfx-pack (US$ 1), https://bit-by-bit-sound.itch.io/ultimate-game-music-asset-pack (US$ 97), https://nappingcloud.itch.io/jamkit-farm-sim-side-scroller-asset-pack (US$ 1), https://roninlabstudio.itch.io/farm-sim-asset-pack (gratuito mas "name your price"), https://kymelion.itch.io/pixelart-cozy-farming-game-assets (gratuito), https://madteapartydevelopment.itch.io/we-built-this-city-farmer (CC BY 4.0, Unreal Engine), https://archibald-the-third-games.itch.io/radish-farmer-deluxe (gratuito)
-- **não comercial**: https://abyssalhunter.itch.io/haven-farmstead-version-10 (grátis só não-comercial, comercial US$ 9,99), https://aztrakatze.itch.io/simple-cute-farm (licença "após comprar"), https://cecixp.itch.io/2d-farmer-sprites-leftright-18x18 (**CC BY-NC-SA 4.0**), https://farm-animal.itch.io/farm (free tier sem licença comercial, premium US$ 3,99)
 - **sem licença declarada**: https://rbatistadelima.itch.io/pico8-farm, https://kale-game.itch.io/2d-pixel-art (comercial só com consentimento Instagram), https://rbatistadelima.itch.io/pico8-farm, https://spectrecz.itch.io/farmer-sprite-with-animation, https://layau.itch.io/cozy-cat-farmer-character-sprite-pack-tileset, https://soulherder.itch.io/farm-animals-character-pack, https://108hvs.itch.io/animated-the-blossom-big-tree, https://rbatistadelima.itch.io/pico8-farm, https://vertexcat.itch.io/farm-animals-set (**CC0**, mas 3D), https://quaternius.itch.io/lowpoly-farm-buildings (3D), https://polyyai.itch.io/3d-scarecrows-pack (3D), https://penzilla.itch.io/garden-game-pack (pago), https://comshadow.itch.io/farm-tileset-pixel-art-farming-game-assets (pago), https://free-game-assets.itch.io/farming-pixel-art-pack (pago), https://free-game-assets.itch.io/48-farming-pixel-art-icons (pago), https://free-game-assets.itch.io/50-rpg-farming-icons (pago), https://free-game-assets.itch.io/farming-pixel-art-pack (pago), https://free-game-assets.itch.io/fantasy-rpg-loot-icons-512512 (pago), https://o-het.itch.io/544-pixel-art-inventory-icons-bundle (pago), https://elvgames.itch.io/farming-game-world (pago), https://hurt666.itch.io/pixel-farm-pack (pago), https://penzilla.itch.io/garden-game-pack (pago), https://iannaz1228.itch.io/farming-game-assets (pago), https://aiyi1.itch.io/pixel-farm-props-pack (pago), https://comshadow.itch.io/farm-tileset-pixel-art-farming-game-assets (pago), https://polyforgeassets.itch.io/polyforge-cozy-farm-starter (3D), https://falvey.itch.io/planetfall-top-down-16x16-alien-planet-tileset (autor problemático), https://falvey.itch.io/xenoterra-kit-16x16-alien-planet-platformer-tileset-kit-28-assets (autor problemático)
 - **autores problemáticos**: https://falvey.itch.io (múltiplos packs), https://penzilla.itch.io (múltiplos packs pagos), https://free-game-assets.itch.io (múltiplos packs pagos/sem licença), https://comshadow.itch.io (pago), https://assetsmithy.itch.io (pago, IA), https://chiewaters.itch.io (3D/pago), https://o-het.itch.io (pago), https://elvgames.itch.io (pago), https://hurt666.itch.io (pago), https://polyforgeassets.itch.io (3D)
+⚠️ Removidos (não comerciais / CC BY-NC-SA): abyssalhunter.itch.io/haven-farmstead-version-10, aztrakatze.itch.io/simple-cute-farm, cecixp.itch.io/2d-farmer-sprites-leftright-18x18 (CC BY-NC-SA 4.0), farm-animal.itch.io/farm
 
 ## itch.io — Dragões, covil e santuário (pesquisado em 22/10/2026)
 
@@ -1743,7 +2111,9 @@ Mapa de dragão para o Hyakki: covil vulcânico, santuário/templo do dragão, f
 ### Mapas, tilesets e cenários
 
 - https://kbpixelart.itch.io/dragon-lands (tileset 24x24 de **Dragon Lands**, com chão de terra queimada, árvores carbonizadas, props e camadas de parallax; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Dragon Lands, tileset 24x24, chão terra queimada, árvores carbonizadas, props, camadas parallax, uso comercial, proibida revenda, tileset, cenário, dragão, covil, web
 - https://biloumaster.itch.io/free-rpg-asset (**CC BY-SA 4.0** — pacote de RPG com dragões, floresta e tileset, feito para a Ludum Dare; o autor declara que não há conteúdo gerado por IA)
+PALAVRAS-CHAVE: itch.io, Free RPG Asset, CC BY-SA 4.0, pacote RPG, dragões, floresta, tileset, Ludum Dare, sem IA, uso comercial, tileset, cenário, dragão, web
 - na OpenGameArt: **2D Platformer Volcano Pack 1.1** (**CC0**), **Free Volcano Platform Tileset** (**CC BY 3.0**), **Volcano Pack** (**CC BY 4.0**), **Volcano Background** (**CC BY 3.0**), **Lava tileset** (**CC0**), **Seamless Lava Animated Tile** (**CC BY 3.0**), **16x16 and animated lava tile (45 frames)** (**CC0**) e **Lava river** (**OGA-BY 3.0**) montam o covil vulcânico
 - para o santuário do dragão, a OpenGameArt tem **Classical Temple Tiles** (**CC0**), **Minimalist Chinese Temple tileset** (**CC BY 3.0**), **Sunset Temple Tiles** (**CC0**), **2D Temple Platformer Tileset 16x16** (**CC0**), **Temple Sidescroller Tileset** (**CC BY 3.0**), **Temple Entrance** (**CC BY-SA 3.0** / GPL 2.0) e **Elemental Stones/Shrines** (**CC BY 4.0**)
 - para as casas e a vila ao redor do covil, reaproveite os packs de vila já catalogados (**kepx 100 houses**, **styloo 2D Village CC0**, **schwarnhild Modular Village Houses**, **vryell Tiny Village**); nada de duplicar
@@ -1751,11 +2121,17 @@ Mapa de dragão para o Hyakki: covil vulcânico, santuário/templo do dragão, f
 ### Personagens e criaturas
 
 - https://deepdivegamestudio.itch.io/dragon-asset-pack (pack de dragões 16x16 com cerca de 45 sprites; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Dragon Asset Pack, pack dragões 16x16, 45 sprites, uso comercial, proibida revenda, sprites, dragão, criaturas, web
 - https://originum.itch.io/comodo-dragon (dragão de Komodo animado, em estilo pixel; comercial liberado com **crédito ao autor**)
+PALAVRAS-CHAVE: itch.io, Comodo Dragon, dragão Komodo animado, estilo pixel, comercial liberado, crédito ao autor, sprites, dragão, criaturas, web
 - https://browser-games-plus.itch.io/tiny-dragon-sprite-pack (dragõezinhos minúsculos com animação de voo; comercial liberado e **proibido usar em treino de IA**)
+PALAVRAS-CHAVE: itch.io, Tiny Dragon Sprite Pack, dragõezinhos minúsculos, animação voo, comercial liberado, proibido treino IA, sprites, dragão, criaturas, web
 - https://engvee.itch.io/isometric-three-head-dragon (dragão de três cabeças **isométrico** animado, ótimo como chefe; comercial liberado)
+PALAVRAS-CHAVE: itch.io, Isometric Three Head Dragon, dragão três cabeças isométrico, animado, chefe, comercial liberado, sprites, dragão, criaturas, web
 - https://goblinportal.itch.io/dragon-sprite-sheet (sprite sheet de dragão com animações; o autor libera uso comercial e proíbe revenda como asset solto)
+PALAVRAS-CHAVE: itch.io, Dragon Sprite Sheet, sprite sheet dragão, animações, uso comercial, proíbe revenda asset solto, sprites, dragão, criaturas, web
 - https://michael-jay-rov.itch.io/characterbirddragon-sprites (**CC BY-SA 4.0** — sprites de personagem, pássaro e dragão; o autor declara **arte assistida por IA**)
+PALAVRAS-CHAVE: itch.io, Character Bird Dragon Sprites, CC BY-SA 4.0, sprites personagem pássaro dragão, arte assistida IA, uso comercial, sprites, dragão, criaturas, web
 - o **Pixel Dragons** da michael-jay-rov, já listado em "Animais fofos para mapas", teve a licença confirmada na página: **CC BY 4.0**, com **arte assistida por IA** declarada
 - na OpenGameArt: **Dragon 1** (**CC0**, richtaur), **Dragon 9** (**CC0**, kotnaszynce), **Flappy Dragon Sprite Sheets** (**CC0**, bevouliin), **Dragon animated sprite** (**CC BY-SA 3.0**), **Red Dragon** (**CC BY 3.0**), **Baby Dragon Sprites** (**CC BY 3.0**), **Dragon Idle Animation** (**CC BY 3.0**), **Whispers of Avalon dragon NPC** (**CC BY 3.0**) e **Flying Dragon Rework** (**CC BY 3.0**)
 
@@ -1778,6 +2154,7 @@ Mapa de dragão para o Hyakki: covil vulcânico, santuário/templo do dragão, f
 ### Interface e HUD
 
 - https://kibyra.itch.io/ui-fonts-dragon-huds-pack (fontes de UI e molduras de HUD com tema de dragão, com barras de vida e menu de chefe; comercial liberado, **arte assistida por IA** declarada pelo autor)
+PALAVRAS-CHAVE: itch.io, UI Fonts Dragon HUDs Pack, fontes UI, molduras HUD, tema dragão, barras vida, menu chefe, comercial liberado, arte assistida IA, UI, HUD, dragão, web
 
 ### Música e SFX
 
@@ -1804,43 +2181,64 @@ Equivalente legal de Terraria para o Hyakki: mundo 2D visto de lado, blocos esca
 ### Mapas, tilesets e cenários
 
 - https://slippixel.itch.io/8x8-pixel-sandbox (**CC0** — tileset 8x8 de sandbox com blocos autotile, terra, pedra, minério e decoração; o autor declara **sem IA** e é o pack mais próximo do loop de Terraria)
+PALAVRAS-CHAVE: itch.io, 8x8 Pixel Sandbox, CC0, tileset 8x8, sandbox, blocos autotile, terra, pedra, minério, decoração, sem IA, uso comercial, tileset, cenário, Terraria, web
 - https://the-pixel-nook.itch.io/cave-tileset-free (**CC BY 4.0** — caverna 16-bit com chão, paredes e fundo; autor declara **sem IA**)
+PALAVRAS-CHAVE: itch.io, Cave Tileset Free, CC BY 4.0, caverna 16-bit, chão, paredes, fundo, sem IA, uso comercial, tileset, cenário, caverna, web
 - https://rottingpixels.itch.io/cave-platformer-tileset-16x16free (caverna para plataforma 16x16; uso livre em projetos comerciais, crédito opcional)
+PALAVRAS-CHAVE: itch.io, Cave Platformer Tileset 16x16 Free, caverna plataforma 16x16, uso livre comercial, crédito opcional, tileset, cenário, caverna, web
 - https://aurusenth.itch.io/shroom-cave-tileset-remastered (caverna de cogumelos 16x16 remasterizada; livre para uso comercial, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, Shroom Cave Tileset Remastered, caverna cogumelos 16x16 remasterizada, livre uso comercial, crédito apreciado, tileset, cenário, caverna, cogumelos, web
 - https://graycatgames.itch.io/cave-tileset (tileset de caverna 16x16 com peças flexíveis e decoração; licença libera uso comercial e venda do jogo)
+PALAVRAS-CHAVE: itch.io, Cave Tileset, tileset caverna 16x16, peças flexíveis, decoração, uso comercial, venda jogo, tileset, cenário, caverna, web
 - https://inklestudios.itch.io/cave-tileset (autotile de caverna; comercial liberado, proibido repostar o asset)
+PALAVRAS-CHAVE: itch.io, Cave Tileset, autotile caverna, comercial liberado, proibido repostar asset, tileset, cenário, caverna, web
 - https://exploitdev.itch.io/classic-16x16-free-pixel-art-platformer-tileset (tileset clássico 16x16; comercial liberado com **atribuição ao ExploitDev**, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Classic 16x16 Free Pixel Art Platformer Tileset, tileset clássico 16x16, comercial liberado, atribuição ExploitDev, proibida redistribuição, tileset, cenário, plataforma, web
 - https://soulares.itch.io/moonroar-cave-field (tileset de caverna **e** campo aberto com mais de 150 peças 16x16; comercial liberado com **crédito a Studios SoulAres**)
+PALAVRAS-CHAVE: itch.io, Moonroar Cave Field, tileset caverna campo aberto, 150 peças 16x16, comercial liberado, crédito Studios SoulAres, tileset, cenário, caverna, web
 - na OpenGameArt: **DB32 Cave tileset** (**CC0**), **[M13] Cave Tileset** (**CC0**), **Cave Tileset** (yewt, **CC0**), **Pixel land 1.5** (**CC0**), **Cave tileset** (Beast, **CC BY 3.0** / GPL 2.0), **[M13] Cave Platformer Extension** (**CC BY 3.0**), **Cave tiles-sprites** (**OGA-BY 3.0**), **Seamless cave background** (**CC0**), **Underground sidescroller background** (**CC0**), **Mining Platformer** (**CC BY 3.0**), **[LPC] Mine** (**CC BY 4.0**), **Farm and underground cave tileset** (**CC BY-SA 4.0**) e **[LPC] Mine Carts and Tracks** (**CC BY-SA 3.0** — trilhos e carrinhos)
 
 ### Casas, oficina e vila
 
 - https://bruxopixels.itch.io/pixel-journey-fantasy-tileset-free (**CC BY-SA 4.0** — tileset 16x16 com mesa de crafting, caixotes, paredes e chão; autor declara **sem IA**; combina com o pacote de ícones da mesma autora)
+PALAVRAS-CHAVE: itch.io, Pixel Journey Fantasy Tileset Free, CC BY-SA 4.0, tileset 16x16, mesa crafting, caixotes, paredes, chão, sem IA, uso comercial, tileset, cenário, fantasia, web
 - https://crumpaloo.itch.io/four-leaf-asset-pack16x16 (**CC0** — pack modular 16x16 de terreno e construções, com curvas suaves para montar casa de NPC e vila)
+PALAVRAS-CHAVE: itch.io, Four Leaf Asset Pack 16x16, CC0, pack modular 16x16, terreno, construções, curvas suaves, casa NPC, vila, uso comercial, sem atribuição, tileset, cenário, web
 - o **SmallBurg Town Pack** da almostapixel, já listado em "Assets fofos para jogos infantis", libera o **subset gratuito para uso comercial** — serve como vila de NPCs sem precisar comprar o pack completo
 - para as casas de madeira, reaproveite os packs já catalogados (**kepx 100 houses**, **styloo 2D Village CC0**, **schwarnhild Modular Village Houses**) e os interiores da **shubibubi**
 
 ### Personagens e criaturas
 
 - https://blacis.itch.io/pixel-monsters-mega-pack (**CC0** — megapack de monstros 8x8, ótimo para a fauna da caverna e do bioma corrompido; a página sinaliza uso de **IA** em parte da arte)
+PALAVRAS-CHAVE: itch.io, Pixel Monsters Mega Pack, CC0, megapack monstros 8x8, fauna caverna, bioma corrompido, arte parcial IA, sprites, monstros, web
 - https://evan-le.itch.io/dwarf-character-sprite-sheet (sprite sheet de anão minerador; comercial liberado com **crédito ao autor**)
+PALAVRAS-CHAVE: itch.io, Dwarf Character Sprite Sheet, sprite sheet anão minerador, comercial liberado, crédito ao autor, sprites, personagem, anão, web
 - na OpenGameArt: **Dwarves** (**CC BY-SA 3.0**), **Dwarf miner run** (**CC0**), **Bevouliin Underground Worm** (**CC0** — verme gigante de subsolo), **Mining Pixel Game Asset** (**CC0**) e **Miners cave** (**CC0**)
 
 ### Itens, minérios e forja
 
 - https://kdrn.itch.io/free-ores-and-minerals-minipack-24 (**CC0** — 24 ícones de minério e mineral, sem atribuição)
+PALAVRAS-CHAVE: itch.io, Free Ores and Minerals Minipack 24, CC0, 24 ícones minério, mineral, sem atribuição, uso comercial, ícones, minério, web
 - https://beast-pixels.itch.io/crafting-materials (**CC0** — materiais de crafting com variantes de sombra, sem fundo e com contorno, mais arquivo-fonte)
+PALAVRAS-CHAVE: itch.io, Crafting Materials, CC0, materiais crafting, variantes sombra, sem fundo, com contorno, arquivo fonte, uso comercial, sem atribuição, sprites, itens, web
 - https://karsiori.itch.io/pixel-art-rock-pile-pack (**CC0** — 15 pilhas de pedra em dois tamanhos, para veios e escombros)
+PALAVRAS-CHAVE: itch.io, Pixel Art Rock Pile Pack, CC0, 15 pilhas pedra, dois tamanhos, veios, escombros, uso comercial, sem atribuição, sprites, objetos, pedra, web
 - https://verysmallsquares.itch.io/free-16-bit-ores-sprite-sheet (**CC BY 4.0** — folha de minérios 16-bit, com autor declarando **sem IA**)
+PALAVRAS-CHAVE: itch.io, Free 16-bit Ores Sprite Sheet, CC BY 4.0, folha minérios 16-bit, sem IA, crédito obrigatório, uso comercial, sprites, minério, web
 - https://tofame.itch.io/mining-resources-icons (ícones de minério e gema, incluindo diamante e cristal; comercial liberado com **crédito a Tofame**)
+PALAVRAS-CHAVE: itch.io, Mining Resources Icons, ícones minério, gema, diamante, cristal, comercial liberado, crédito a Tofame, ícones, minério, web
 - https://pixel-late.itch.io/stones-nodes-ores-and-bars (pedras, veios de minério e barras fundidas; uso livre, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Stones Nodes Ores and Bars, pedras, veios minério, barras fundidas, uso livre, proibida revenda, sprites, minério, objetos, web
 - https://stewv.itch.io/free-mineral-ore-asset-collection (4 folhas 256x192 de minerais e minérios; comercial liberado, **arte assistida por IA** declarada)
+PALAVRAS-CHAVE: itch.io, Free Mineral Ore Asset Collection, 4 folhas 256x192, minerais, minérios, comercial liberado, arte assistida IA, sprites, minério, web
 - https://qoupy.itch.io/qoupys-rock-ore-and-gem-nodes (veios de rocha, minério e gema animados; a licença "premium" do autor libera uso comercial e proíbe revenda)
+PALAVRAS-CHAVE: itch.io, Qoupys Rock Ore and Gem Nodes, veios rocha, minério, gema animados, licença premium, uso comercial, proíbe revenda, sprites, minério, web
 - na OpenGameArt: **CC0 Mineral Icons** (**CC0**), **Ore Tileset — Eight Ores** (**CC0**), **Various stones and ore/gem veins 16x16** (**CC0**), **GEMS!!!** e **Gems & Jewels** (**CC0** os dois), **RTS Mining Resources 16x16** (**CC BY 3.0** / OGA-BY 3.0) e **[LPC] Ore and Forge** (**CC BY 4.0** / OGA-BY — minério e forja)
 
 ### Árvores e vegetação
 
 - https://blacis.itch.io/pixeltrees (**CC0** — megapack de árvores em pixel, com variantes de bioma; a página sinaliza uso de **IA**)
+PALAVRAS-CHAVE: itch.io, Pixel Trees, CC0, megapack árvores pixel, variantes bioma, arte parcial IA, sprites, árvore, natureza, web
 - na OpenGameArt: **Pine Tree Pack** (**CC BY 3.0**), **Tree variations from Jetrel's Wood tileset** (**CC BY-SA 3.0**), **Gnarled Tree** (**CC BY 3.0**) e **A Tree** (**CC0**)
 - a **árvore morta** e o **Dead Tree (Yar's Tree Rework)** da OpenGameArt já estão catalogados no bloco Floresta e servem para o bioma corrompido
 
@@ -1853,7 +2251,9 @@ Equivalente legal de Terraria para o Hyakki: mundo 2D visto de lado, blocos esca
 ### Música e SFX
 
 - https://jhawk-studios.itch.io/cave-music-free-music (**CC BY** — pacote de músicas de caverna; comercial liberado com crédito a JHawk, autor declara 100% humano)
+PALAVRAS-CHAVE: itch.io, Cave Music Free Music, CC BY, músicas caverna, comercial liberado, crédito a JHawk, 100% humano, áudio, música, caverna, web
 - https://poltergasm.itch.io/rpg-cave-theme-music (**CC BY 4.0** — tema de caverna/floresta esquecida, autor declara **sem IA**)
+PALAVRAS-CHAVE: itch.io, RPG Cave Theme Music, CC BY 4.0, tema caverna, floresta esquecida, sem IA, áudio, música, caverna, web
 - na OpenGameArt: **Cave Theme** (**CC0** / OGA-BY 3.0), **Crystal Cave** (**CC0**), **Cave Music** (**CC0**), **Cave Explorer** (**CC0**), **Canary** (**CC0**), **Underground** (TAD, **CC BY 4.0**), **Exploring a Cave** (**CC BY 3.0**), **Underground Storm** (**CC BY-SA 3.0**) e **Pumpkin Cave** (**CC BY 3.0**)
 - os SFX de escavação e impacto podem vir do **RPG Sound Pack** e do **512 Sound Effects 8-bit Style**, já catalogados
 
@@ -1893,20 +2293,30 @@ Mapa de magia para o Hyakki: torre do mago, academia arcana, biblioteca proibida
 ### Personagens, magos e fadas
 
 - https://luizmelo.itch.io/wizard-pack (**CC0** — mago completo com idle, corrida, ataque, ataque 2, dano e morte)
+PALAVRAS-CHAVE: itch.io, Wizard Pack, CC0, mago completo, idle, corrida, ataque, ataque 2, dano, morte, uso comercial, sem atribuição, sprites, personagem, mago, web
 - https://luizmelo.itch.io/evil-wizard (**CC0** — mago maligno com as mesmas animações; par ideal para o chefe)
+PALAVRAS-CHAVE: itch.io, Evil Wizard, CC0, mago maligno, mesmas animações, chefe, uso comercial, sem atribuição, sprites, personagem, mago, web
 - https://gandalfhardcore.itch.io/top-down-pixel-art-character (mago top-down com idle, caminhada, corrida, ataque, morte e uma bola de fogo azul; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Top Down Pixel Art Character, mago top-down, idle, caminhada, corrida, ataque, morte, bola fogo azul, comercial liberado, proibida revenda, sprites, personagem, mago, web
 - https://lionheart963.itch.io/wizard (mago animado para herói ou inimigo; o autor declara na página que é livre para usar "de qualquer forma")
+PALAVRAS-CHAVE: itch.io, Wizard, mago animado, herói, inimigo, livre para usar qualquer forma, sprites, personagem, mago, web
 - https://deepdivegamestudio.itch.io/magical-asset-pack (45 sprites 16x16 com animação de idle, para fauna mágica e criaturas de masmorra; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Magical Asset Pack, 45 sprites 16x16, animação idle, fauna mágica, criaturas masmorra, comercial liberado, proibida revenda, sprites, criaturas, mágico, web
 - na OpenGameArt: **Wizard** (wizard-2, **CC BY-SA 3.0**), **Animated Wizard** (**CC BY 3.0**), **Sara — Wizard** (**CC BY 3.0** / CC BY-SA 3.0 / GPL), **Wizard** (wizard-5, **CC0**), **wizard warrior** (**CC0**), **Puck — Wizard** (**CC BY 3.0** / GPL), **Young Wizard** (**CC BY 3.0**) e **Crazy Wizard** (**CC BY 3.0**)
 - fadas na OpenGameArt: **Fairy 2D Sprite** (**OGA-BY 3.0**, do CraftPix), **[LPC] Fairy** (**CC BY 3.0** / CC BY-SA 3.0 / GPL), **fairy NPC** (**CC BY 3.0**) e **Fairy** (**CC BY 4.0** / CC BY 3.0)
 
 ### Itens, feitiços e poções
 
 - https://wenrexa.itch.io/spells-4 (**CC0** — mais de 70 ícones de habilidade e feitiço; a autora declara **sem IA**)
+PALAVRAS-CHAVE: itch.io, Spells 4, CC0, 70 ícones habilidade, feitiço, sem IA, uso comercial, ícones, magia, feitiço, web
 - https://foozlecc.itch.io/pixel-magic-sprite-effects (**CC0** — efeitos de magia em sprite, uso livre inclusive comercial)
+PALAVRAS-CHAVE: itch.io, Pixel Magic Sprite Effects, CC0, efeitos magia sprite, uso livre comercial, sprites, efeitos, magia, web
 - https://thundersnowpixel.itch.io/magic-vfx-pack-1 (pack de VFX de magia: a versão gratuita traz 1 efeito e o pacote completo com 9 custa US$ 3; comercial liberado, proibida revenda e treino de IA)
+PALAVRAS-CHAVE: itch.io, Magic VFX Pack 1, pack VFX magia, versão gratuita 1 efeito, pacote completo 9 efeitos, comercial liberado, proibida revenda, proibido treino IA, VFX, efeitos, magia, web
 - https://pimen.itch.io/fire-spell-effect-02 (efeito de feitiço de fogo com explosões em 14 e 5 quadros; comercial liberado, crédito opcional)
+PALAVRAS-CHAVE: itch.io, Fire Spell Effect 02, efeito feitiço fogo, explosões 14 quadros, 5 quadros, comercial liberado, crédito opcional, VFX, efeitos, magia, fogo, web
 - https://batareya.itch.io/250-magical-icons-pixel-art-icons (250 ícones mágicos; gratuito para uso comercial com **crédito ao autor**, **arte assistida por IA** declarada)
+PALAVRAS-CHAVE: itch.io, 250 Magical Icons Pixel Art Icons, 250 ícones mágicos, gratuito uso comercial, crédito ao autor, arte assistida IA, ícones, magia, web
 - na OpenGameArt: **Skill, item and spell icons** (**CC0**), **Painterly Spell Icons** partes 1 e 4 (**CC BY 3.0** / CC BY-SA 4.0), **Lightning Shock Spell** (**CC BY 3.0**), **Potion Bottles** e **Potion Bottles Extra** (**CC0**), **Potion Set** (**CC0**), **Rune Pack** (**CC0**, do Kenney), **CC0 Rune Icons** (**CC0**), **Enchanted weapon Icons** (**CC BY-SA 3.0**) e **Loyalty Lies Items — Magic Objects** (**CC BY 3.0**)
 
 ### Texturas arcanas, runas e círculos
@@ -1968,17 +2378,17 @@ Sonic é IP da SEGA: personagens, tilesets do Green Hill, trilha, sprites ripado
 ### Música
 
 - https://davidkbd.itch.io/mach-overdrive-32-bit64-bit-high-octane-rock-music-pack (rock de alta octanagem em estilo 32/64-bit; comercial liberado **com crédito a DavidKBD**, proibida revenda avulsa)
+PALAVRAS-CHAVE: itch.io, Mach Overdrive 32 Bit 64 Bit High Octane Rock Music Pack, rock alta octanagem, estilo 32/64-bit, comercial liberado, crédito a DavidKBD, proibida revenda avulsa, áudio, música, rock, web
 - na OpenGameArt: **Arcade Racing Tune** (**CC BY 3.0**), **Wild West Coast Racing (Looping)** (**CC BY 4.0**, do Eric Matyas), **Techno DRIVE!!!** (**CC BY 4.0**), **Fast, high music** (**CC BY-SA 3.0**), **Arcade fast flow Sound** (**CC BY 3.0**), **Chiptune Music for Arcade Games** (**CC BY 4.0**) e **Short Theme [Rock/Metal]** (**CC0**)
 - para os SFX de mola, anel e dash, use o **512 Sound Effects 8-bit Style** e o **RPG Sound Pack** (**CC0**) já catalogados
 
 ### Avaliados e não incluídos
 
-- **IP da SEGA** — tudo abaixo é fã-arte, sprite ripado, modelo de fã ou trilha rearranjada, então fica fora mesmo sendo gratuito: https://momentsonline.itch.io/sonic-spritesheets, https://irregularhunter.itch.io/sonic-1-tileset-for-smile-game-builder, https://aeriavelocity.itch.io/green-hill-zone-simulator, https://workertr23.itch.io/green-hill-rush, https://reassembler68k.itch.io/aonic, https://facetgames.itch.io/aoghz, https://future2k.itch.io/unity-edition-green-hill-zone-act-1, https://loneliiii.itch.io/sonic-green-hill-blocks-stinger-scene-transition-video-transition, https://snabisch.itch.io/sonic-green-hill-theme-reimagined, https://thegamerdownloader2020.itch.io/sonic-3d-in-2d-100-save, https://greenie2.itch.io/sonic-rsdk-files, https://recrafted-studios.itch.io/sonic-recrafted-skin-pack, https://dash-the-cat.itch.io/sonic-pixeltoon-template, https://xenfar.itch.io/cshud, https://frequentgamer.itch.io/sonic-space-boss e https://rodrigues-estudios.itch.io/exclusive-1-of-1-cyber-dash-complete-sonic-inspired-game-kit
-- **modelos 3D de fã** (incluindo personagens de creepypasta): https://darksartworks.itch.io/2011x-v2-model-release, https://darksartworks.itch.io/lord-model-release e https://ziyanthus.itch.io/sonic-idw-kitsunami-fan-model
-- https://fauzanaztera.itch.io/letsfast — a própria página declara **licença paga**
-- https://fatcatgamesstudio.itch.io/green-island-16-x-16-plastic-retro-platformer-tilest — a **versão gratuita é só não comercial**; uso comercial fica na versão de US$ 4,99
-- https://danieltelesost.itch.io/mascot-themes (**US$ 15,00**), https://astora-sound.itch.io/super-side-scroller-music-pack (**US$ 24,99**), https://digitalforge.itch.io/2d-pixel-art-asset-pack-platformer (**US$ 3,00**), https://keltonwu.itch.io/platformer-tilesest-series (**US$ 5,00** e **CC BY-ND**, que proíbe obra derivada) e https://chiewaters.itch.io/momentum-forge-neon-caverns-16-bit-platformer-assets (**US$ 14,99**, com **arte assistida por IA**) — pagos
-- https://oleteras.itch.io/loop-towers-tileset, https://kevins-moms-house.itch.io/volcanic-spring-pico-platformer-tileset e https://herio.itch.io/cutemascots — **sem licença declarada**
+⚠️ Removidos do catálogo por não atenderem às regras de licença do AGENTS.md:
+- IP de franquia (Sonic/SEGA e personagens de creepypasta)
+- Licença paga
+- Versão gratuita restrita a não-comercial
+- Sem licença declarada
 
 ## itch.io — Combate medieval (cavaleiro, torneio e cerco) (pesquisado em 22/10/2026)
 
@@ -1987,11 +2397,17 @@ Mapa de guerra medieval para o Hyakki: cavaleiros e paladinos, infantaria, arque
 ### Personagens, cavaleiros e soldados
 
 - https://pixivan.itch.io/knight-hero-platfor (cavaleiro-herói para plataforma com idle, corrida, salto, ataque, escalada de parede e agarrão de borda; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Knight Hero Platfor, cavaleiro herói plataforma, idle, corrida, salto, ataque, escalada parede, agarrão borda, comercial liberado, proibida revenda, sprites, personagem, cavaleiro, web
 - https://ozanoyunbozan.itch.io/pixel-art-hooded-knight (chefe "cavaleiro encapuzado" com idle, corrida e ataque; comercial liberado, proibida revenda, crédito opcional)
+PALAVRAS-CHAVE: itch.io, Pixel Art Hooded Knight, chefe cavaleiro encapuzado, idle, corrida, ataque, comercial liberado, proibida revenda, crédito opcional, sprites, personagem, cavaleiro, web
 - https://heirey.itch.io/mud-knight (cavaleiro de lama top-down com idle, caminhada e ataque; comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Mud Knight, cavaleiro lama top-down, idle, caminhada, ataque, comercial liberado, proibida redistribuição, sprites, personagem, cavaleiro, web
 - https://gegx.itch.io/knight-hero-128 (cavaleiro-herói 164 px, 8 direções e 16 loops de animação, 198 PNGs; uso comercial liberado sem crédito, proibida revenda; **arte assistida por IA** declarada)
+PALAVRAS-CHAVE: itch.io, Knight Hero 128, cavaleiro herói 164 px, 8 direções, 16 loops animação, 198 PNGs, uso comercial, sem crédito, proibida revenda, arte assistida IA, sprites, personagem, cavaleiro, web
 - https://slavocshop.itch.io/valor-vanguard (pacote de heróis de fantasia em 512x512 para retrato ou personagem; comercial liberado, proibida revenda; **arte assistida por IA** declarada)
+PALAVRAS-CHAVE: itch.io, Valor Vanguard, pacote heróis fantasia 512x512, retrato, personagem, comercial liberado, proibida revenda, arte assistida IA, sprites, personagem, herói, web
 - https://kenney-assets.itch.io/tiny-battle (**CC0** — mais de 180 sprites de guerra em miniatura, com folhas de tiles e sprites separados; serve para infantaria, cavalaria e arqueiros)
+PALAVRAS-CHAVE: itch.io, Tiny Battle, CC0, 180 sprites guerra miniatura, folhas tiles, sprites separados, infantaria, cavalaria, arqueiros, uso comercial, sem atribuição, sprites, cenário, guerra, web
 - já catalogados e prontos para o campo: o **cavaleiro** do xzany, o **cavaleiro fantasy animado** da aamatniekss, o **Tiny Swords** da pixelfrog, o **2D SL Character** da szadiart e o **Nightborne Warrior** da creativekind (chefe de ala)
 
 ### Mapas, arenas e campos de batalha
@@ -2015,14 +2431,23 @@ Mapa de guerra medieval para o Hyakki: cavaleiros e paladinos, infantaria, arque
 ### Itens, armas, armaduras e cerco
 
 - https://snoopethduckduck.itch.io/swords (**CC0** — espadas, machados, lanças e cajados em 16x16 e 32x32, com arquivo .pdn editável)
+PALAVRAS-CHAVE: itch.io, Swords, CC0, espadas, machados, lanças, cajados, 16x16, 32x32, arquivo PDN editável, uso comercial, sem atribuição, sprites, armas, web
 - https://henrysoftware.itch.io/free-pixel-gear (**CC0** — equipamento pixel 8/16-bit: armas, armaduras e itens de masmorra; **sem IA**)
+PALAVRAS-CHAVE: itch.io, Free Pixel Gear, CC0, equipamento pixel 8 16 bit, armas, armaduras, itens masmorra, sem IA, uso comercial, sem atribuição, sprites, itens, armas, armaduras, web
 - https://willibab.itch.io/willibabs-simple-32x32-armor-icons (armaduras 32x32: 14 elmos, 7 peitorais e 5 escudos com centenas de variantes de cor; comercial liberado)
+PALAVRAS-CHAVE: itch.io, Willibabs Simple 32x32 Armor Icons, armaduras 32x32, 14 elmos, 7 peitorais, 5 escudos, variantes cor, comercial liberado, ícones, armaduras, web
 - https://eduardscarpato.itch.io/armor-itens-16x16-fantasy-pack (conjunto de armaduras 16x16 em 12 materiais, de madeira a angelical; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Armor Itens 16x16 Fantasy Pack, armaduras 16x16, 12 materiais, madeira, angelical, comercial liberado, proibida revenda, sprites, armaduras, fantasia, web
 - https://medievalmore.itch.io/free-weapon-icons (ícones de arma em PNG e PSD; comercial e privado, projetos ilimitados, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Free Weapon Icons, ícones arma, PNG, PSD, comercial, privado, projetos ilimitados, proibida revenda, ícones, armas, web
 - https://corwin-zx.itch.io/big-fantasy-pack (armas e itens de fantasia, o FAQ da página libera explicitamente o uso comercial)
+PALAVRAS-CHAVE: itch.io, Big Fantasy Pack, armas itens fantasia, FAQ libera uso comercial, sprites, itens, armas, fantasia, web
 - https://idylwild.itch.io/idylwilds-armory (arsenal de ícones; licença permite remix e uso comercial, atribuição opcional)
+PALAVRAS-CHAVE: itch.io, Idylwilds Armory, arsenal ícones, licença permite remix, uso comercial, atribuição opcional, ícones, armas, fantasia, web
 - https://pixstuff.itch.io/110-pixel-art-chest-armors (110 peitorais 64x64; comercial liberado; a página traz **declaração de IA**)
+PALAVRAS-CHAVE: itch.io, 110 Pixel Art Chest Armors, 110 peitorais, 64x64, comercial liberado, declaração IA, sprites, armaduras, peitoral, web
 - https://ludicarts.itch.io/free-rpg-icon-set-ii (**CC BY 3.0** — 30 ícones de fantasia em 3 tamanhos, do mesmo autor do tileset de vulcão CC BY 3.0 da OGA; o tileset de floresta mágica dele continua rejeitado por ser pago)
+PALAVRAS-CHAVE: itch.io, Free RPG Icon Set II, CC BY 3.0, 30 ícones fantasia, 3 tamanhos, uso comercial, atribuição obrigatória, ícones, fantasia, web
 - na OpenGameArt: **Armor Icons by Equipment Slot** (**CC0**), **24 Armor Icons** (**CC BY 3.0**), **Armor Icons 32x32 px (painterly)** (**CC BY 3.0** / CC BY-SA 3.0 / GPL), **Game Icons Knight Armor** (**OGA-BY 3.0**), **48 Paladin Skills** (**OGA-BY 3.0**), **Shield** (**CC BY 3.0**), **spiral shield [64x64]** (**CC0**), **Fantasy Shield — Deer Shield** (**CC0**) e **Crossbow / Arbalest** (**CC0**)
 - cerco na OpenGameArt: **Catapult** (do yd, **CC0**), **Catapult** (catapult-1, **CC BY 3.0**), **Medieval Catapult — Free Version** (**CC BY 3.0**, do Bleed), **[LPC] Siege Weapons** (**CC BY 4.0** / CC BY 3.0 / GPL) e **Siege weapons** (**CC BY-SA 4.0** / GPL)
 - estandartes: **Medieval themed banner** (**CC0**) e **Banner flag scroll** (**CC BY 3.0**) — ótimos para marcar o time do jogador e o time inimigo no campo
@@ -2036,7 +2461,9 @@ Mapa de guerra medieval para o Hyakki: cavaleiros e paladinos, infantaria, arque
 ### Música e SFX
 
 - https://alkakrab.itch.io/6-dark-fantasy-boss-battle-tracks (6 faixas de chefe em MP3, WAV e OGG; **grátis para uso comercial**, o autor declara que não usou IA)
+PALAVRAS-CHAVE: itch.io, 6 Dark Fantasy Boss Battle Tracks, 6 faixas chefe, MP3, WAV, OGG, grátis uso comercial, sem IA, áudio, música, chefe, batalha, web
 - https://hizumi-tail.itch.io/music-for-event-scenes-echoes-of-the-battlefield ("Echoes of the Battlefield" em loop OGG; uso comercial e não comercial liberado; a página traz **declaração de IA**)
+PALAVRAS-CHAVE: itch.io, Music for Event Scenes Echoes of the Battlefield, Echoes of the Battlefield, loop OGG, uso comercial, uso não comercial, declaração IA, áudio, música, batalha, web
 - na OpenGameArt: **Orchestral Battle Music** (**CC BY-SA 3.0** / GPL), **Fast fight / battle music** (**CC0**), **Battle Music** (**CC BY 3.0**, do Alexandr Zhelanov), **Boss Battle Music** (**CC0**), **Colossal Boss Battle Theme** (**CC BY 3.0**, do Matthew Pablo), **Is it a Battle?** (**CC0**), **Massive Battle** (**CC0**), **War Theme** (**CC0**), **Laments of the War** (**CC0**) e **Medieval** (**CC BY-SA 3.0**)
 - para os golpes, reaproveite os **20 Sword Sound Effects** (**CC0**), o **RPG Sound Pack** (**CC0**) e o **Drums of Dawn** (**CC BY 3.0**) já catalogados
 
@@ -2063,6 +2490,7 @@ Mapa de escala colossal para o Hyakki: titãs de pedra e fogo, ogros, trolls, ci
 ### Personagens e criaturas
 
 - https://bontt.itch.io/giant-pixel-art-asset (gigante em pixel art 64x64 com animação de caminhada em duas vistas, feito no Piskel; o autor libera para qualquer uso **desde que você dê o crédito**)
+PALAVRAS-CHAVE: itch.io, Giant Pixel Art Asset, gigante pixel art 64x64, animação caminhada, duas vistas, Piskel, crédito obrigatório, uso qualquer, sprites, gigante, titã, web
 - na OpenGameArt: **Troll Sprites** (**CC BY 3.0**), **Troll Character Sprites** (**OGA-BY 3.0**, do CraftPix), **Top down troll, animated** (**CC BY 3.0**), **[LPC] Female Orc/Ogre/Goblin/Troll (base walkcycle)** (**OGA-BY 3.0**), **Ogre** (ogre-2, **CC BY-SA 3.0**), **Muscleman Ogre Minotaur** (**CC BY 3.0**), **Orc, Ogre and Goblin Chibi Sprites** (**OGA-BY 3.0**) e **Top Down Ogre Fighters, Animated** (**CC BY 3.0**)
 - golems na OpenGameArt: **[LPC] Golem** (**CC BY 4.0** / CC BY 3.0 / GPL), **Golem Animations** (**CC BY 3.0**), **Ice Golem RPG Enemy Sprite** (**CC BY 3.0** / OGA-BY 3.0), **Fire Golem** (**CC0**) e **Mechanical Giant (vectorized)** (**CC BY 3.0** / GPL), que é um robô-titã gigante
 - ciclopes na OpenGameArt: **Cyclops** (**GPL 2.0** / GPL 3.0), **Cyclops Monster 2D** (**CC BY 3.0** / CC BY-SA 3.0 / GPL) e **Jade Cyclops** (**CC BY 4.0** / CC BY 3.0 / CC0)
@@ -2119,24 +2547,35 @@ Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores f
 ### Personagens
 
 - https://penusbmic.itch.io/sci-fi-character-pack-12 (personagem sci-fi que controla três sabres por telecinese, com animações de ataque; comercial liberado, proibida revenda individual)
+PALAVRAS-CHAVE: itch.io, Sci-Fi Character Pack 12, personagem sci-fi, três sabres telecinese, animações ataque, comercial liberado, proibida revenda individual, sprites, personagem, sci-fi, web
 - https://0x72.itch.io/16x16-robot-tileset (**CC0** — tileset 16x16 **com 9+ robôs jogáveis**, lasers e botões; sem crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, 16x16 Robot Tileset, CC0, tileset 16x16, 9 robôs jogáveis, lasers, botões, sem crédito obrigatório, uso comercial, tileset, sprites, robô, sci-fi, web
 - https://mattwalkden.itch.io/free-robot-warfare-pack (**CC0** — 5 robôs inseto, 6 classes de soldado e efeitos de tiro; o autor libera explicitamente uso comercial)
+PALAVRAS-CHAVE: itch.io, Free Robot Warfare Pack, CC0, 5 robôs inseto, 6 classes soldado, efeitos tiro, uso comercial explícito, sprites, robô, sci-fi, guerra, web
 - https://aralepixel.itch.io/mech-robot-pixel-art (mech 200x150 com caminhada e camadas recolhíveis; comercial liberado, sem crédito)
+PALAVRAS-CHAVE: itch.io, Mech Robot Pixel Art, mech 200x150, caminhada, camadas recolhíveis, comercial liberado, sem crédito, sprites, mech, robô, sci-fi, web
 - **3 Cyberpunk Characters** (**OGA-BY 3.0**, crédito obrigatório) e os demais personagens tech estão em `assets/opengameart.md`
 
 ### Mapas, casas e construções
 
 - https://everlywritesgames.itch.io/retro-cyberpunk-streets-tileset (ruas cyberpunk em pixel, com letreiros e fachadas; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Retro Cyberpunk Streets Tileset, ruas cyberpunk pixel, letreiros, fachadas, comercial liberado, proibida revenda, tileset, cenário, cyberpunk, web
 - https://samvieten.itch.io/minimal-futureset-pixelart-2d (**CC BY 4.0** — 176 tiles 8x8 de cidade futurista minimalista, sem crédito obrigatório mas apreciado)
+PALAVRAS-CHAVE: itch.io, Minimal Futureset Pixelart 2D, CC BY 4.0, 176 tiles 8x8, cidade futurista minimalista, crédito apreciado, uso comercial, tileset, cenário, cyberpunk, web
 - https://livingtheindie.itch.io/pixel-cyberpunk-interior (interiores cyberpunk 32x32 para RPG; comercial liberado, crédito apreciado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Pixel Cyberpunk Interior, interiores cyberpunk 32x32, RPG, comercial liberado, crédito apreciado, proibida revenda, sprites, cenário, interior, cyberpunk, web
 - https://atomicrealm.itch.io/industrial-tileset (galpões, tubulações e chão industrial; comercial liberado **com crédito obrigatório**)
+PALAVRAS-CHAVE: itch.io, Industrial Tileset, galpões, tubulações, chão industrial, comercial liberado, crédito obrigatório, tileset, cenário, industrial, sci-fi, web
 - https://xenophero.itch.io/sci-fi-furniture-sprites (móveis sci-fi com monitores e radar animados, teleporte e portas; comercial liberado com crédito)
+PALAVRAS-CHAVE: itch.io, Sci-Fi Furniture Sprites, móveis sci-fi, monitores, radar animados, teleporte, portas, comercial liberado, crédito, sprites, objetos, sci-fi, web
 - https://trevor-pupkin.itch.io/tech-dungeon-roguelite (**demo gratuita** com tileset 32x32, props, UI, 2 jogadores, 5 inimigos e chefe; a licença do pack libera uso comercial, mas o pack completo é pago)
+PALAVRAS-CHAVE: itch.io, Tech Dungeon Roguelite, demo gratuita, tileset 32x32, props, UI, 2 jogadores, 5 inimigos, chefe, uso comercial, pack completo pago, sprites, tileset, masmorra, sci-fi, web
 - na OpenGameArt entraram **Cyberpunk Tiles** (**CC BY 4.0**), **Cyberpunk Tileset and Assets — Slim Version** (**CC0**) e **24x Sci-Fi Cyberpunk Tiles** (**CC0**) — ver `assets/opengameart.md`
 
 ### Itens, UI e texturas
 
 - https://sungraphica.itch.io/sci-fi-game-ui-collection-free-version (**CC BY 4.0** — painéis, botões e HUD sci-fi)
+PALAVRAS-CHAVE: itch.io, Sci-Fi Game UI Collection Free Version, CC BY 4.0, painéis, botões, HUD sci-fi, crédito obrigatório, UI, interface, sci-fi, web
 - o **UI for a Cyberpunk Game** (**CC BY 3.0**, HUD e molduras) está em `assets/opengameart.md`
 - os robôs **CC0** do 0x72 e do MattWalkden, os props animados do Tech Dungeon e os móveis do Xenophero cobrem inventário, máquinas e cenário interno
 - para solo e paredes metálicas, o Industrial Tileset e os tiles **CC0** da OpenGameArt se encaixam direto no grid 16x16 e 32x32
@@ -2144,8 +2583,11 @@ Para um mapa cyber/tech no Hyakki: robôs, cidade neon, indústria, interiores f
 ### Música e SFX
 
 - https://davidkbd.itch.io/code-injection-dark-techno-music-pack (**CC BY 4.0** — 14 loops de techno sombrio para estética hacker/glitch)
+PALAVRAS-CHAVE: itch.io, Code Injection Dark Techno Music Pack, CC BY 4.0, 14 loops techno sombrio, estética hacker, glitch, crédito obrigatório, áudio, música, techno, sci-fi, web
 - https://heltonyan.itch.io/retro-mecha-sfx (**CC BY 4.0** — 265 arquivos de SFX mecha retrô)
+PALAVRAS-CHAVE: itch.io, Retro Mecha SFX, CC BY 4.0, 265 arquivos SFX, mecha retrô, crédito obrigatório, áudio, SFX, mecha, sci-fi, web
 - https://hoveaudio.itch.io/free-sci-fi-ui-sound-effects-pack (mais de 100 bleeps, cliques, glitches e impactos; royalty-free para uso comercial, sem crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, Free Sci-Fi UI Sound Effects Pack, mais de 100 bleeps cliques glitches impactos, royalty-free, uso comercial, sem crédito obrigatório, áudio, SFX, UI, sci-fi, web
 - na OpenGameArt: **T & T Free Cyberpunk Pack** (**CC0**), **Cyberpunk Menu Music** (**CC0**) e **Cyberpunk City (Looping)** (**CC BY 4.0**)
 
 ### Cyber-samurai (ponte com os mapas de samurai do Hyakki)
@@ -2172,18 +2614,27 @@ Castlevania é IP da Konami: Belmont, Alucard, Drácula, mapas e trilha oficiais
 ### Personagens
 
 - https://creativekind.itch.io/necromancer-free (necromante 128x128 com idle, ataque, dano e morte; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Necromancer Free, necromante 128x128, idle, ataque, dano, morte, comercial liberado, proibida revenda, sprites, personagem, necromante, gótico, web
 - https://creativekind.itch.io/nightborne-warrior (cavaleiro sombrio do mesmo autor e mesma licença — serve de chefe de ala)
+PALAVRAS-CHAVE: itch.io, Nightborne Warrior, cavaleiro sombrio, mesma licença necromancer, chefe de ala, sprites, personagem, cavaleiro, gótico, web
 - https://pixel-moon-studio.itch.io/wight-knight-vampire-pixel-art-sprite-pack (cavaleiro vampiro com caminhada e ataque; comercial liberado, proibida revenda e NFT)
+PALAVRAS-CHAVE: itch.io, Wight Knight Vampire Pixel Art Sprite Pack, cavaleiro vampiro, caminhada, ataque, comercial liberado, proibida revenda, proibido NFT, sprites, personagem, vampiro, gótico, web
 - os vampiros 2D da OpenGameArt — **Vampire animations** e **Pixel Vampire** (**CC BY 3.0**) e **RPG Character 'Vampire'** (**CC0**) — estão em `assets/opengameart.md`
 
 ### Mapas, castelos e interiores
 
 - https://studio-schneeya.itch.io/vampire-castle-asset-pack (**versão gratuita** com 3 criaturas, parede de castelo e fundo em 32x32; comercial liberado, sem crédito obrigatório — o pack completo tem 8 criaturas e tiles extras pagos)
+PALAVRAS-CHAVE: itch.io, Vampire Castle Asset Pack, versão gratuita, 3 criaturas, parede castelo, fundo 32x32, comercial liberado, sem crédito obrigatório, sprites, cenário, castelo, vampiro, gótico, web
 - https://rottingpixels.itch.io/castle-platformer-tileset-16x16free (tileset de castelo 16x16; comercial liberado, crédito apreciado)
+PALAVRAS-CHAVE: itch.io, Castle Platformer Tileset 16x16 Free, tileset castelo 16x16, comercial liberado, crédito apreciado, tileset, cenário, castelo, plataforma, web
 - https://pixel-1992.itch.io/free-pixel-art-background-dark-gothic-caslte-and-entrance-sprite (fundo de castelo gótico em 192x108 e 1920x1080 + sprite de entrada; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Free Pixel Art Background Dark Gothic Castle and Entrance Sprite, fundo castelo gótico, 192x108, 1920x1080, sprite entrada, comercial liberado, proibida revenda, sprites, cenário, castelo, gótico, web
 - https://xenophero.itch.io/gothic-rpg-furniture (móveis góticos: cadeiras, estantes, lustres; comercial liberado **com crédito**)
+PALAVRAS-CHAVE: itch.io, Gothic RPG Furniture, móveis góticos, cadeiras, estantes, lustres, comercial liberado, crédito, sprites, objetos, gótico, web
 - https://hypnobius.itch.io/grungy-dungeon-props (props sujos de masmorra: correntes, barris, ossadas; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Grungy Dungeon Props, props sujos masmorra, correntes, barris, ossadas, comercial liberado, proibida revenda, sprites, objetos, masmorra, gótico, web
 - https://butterhands.itch.io/doomcrypt-kit (**CC0** — kit 1-bit de cripta do mal, ótimo para um andar monocromático)
+PALAVRAS-CHAVE: itch.io, Doomcrypt Kit, CC0, kit 1-bit, cripta do mal, andar monocromático, uso comercial, sem atribuição, sprites, cenário, cripta, gótico, web
 - na OpenGameArt: **Spooky Castle Tileset** (**CC0**), **castle platformer** (**CC0**), **LPC: Interior Castle Tiles** (**CC BY 4.0**), **Castle Tiles for RPG's** (**CC BY 3.0**) e **Isometric Tileset: Gothic Archways** (**CC BY 4.0**) — ver `assets/opengameart.md`
 
 ### Itens e interface
@@ -2224,7 +2675,9 @@ Metroid é IP da Nintendo: Samus, os metroids, mapas e trilha oficiais **não en
 ### Personagens
 
 - https://ansimuz.itch.io/warped-caves (**CC0** — o achado da rodada: pack completo declaradamente "Metroid-style", com personagem feminina de 9 animações, 3 inimigos animados, tileset, props e parallax de duas camadas)
+PALAVRAS-CHAVE: itch.io, Warped Caves, CC0, pack Metroid-style, personagem feminina, 9 animações, 3 inimigos animados, tileset, props, parallax duas camadas, uso comercial, sem atribuição, sprites, tileset, cenário, metroidvania, alienígena, web
 - https://greenbear8.itch.io/pixelart-green-alien-monster (monstro alienígena verde animado; o autor libera uso pessoal e comercial)
+PALAVRAS-CHAVE: itch.io, Pixelart Green Alien Monster, monstro alienígena verde animado, uso pessoal, uso comercial, sprites, monstro, alienígena, web
 - os packs sci-fi da seção **Tecnologia** (Penusbmic de três sabres, robôs CC0 do 0x72 e do MattWalkden) servem de caçadora, drones e inimigos mecânicos
 - na OpenGameArt: **Platformer Art: Xeno Diversity** (**CC0** — personagens alienígenas) e **3X 32x32 Sci-Fi Roguelike Enemies** (**CC BY 3.0**/OGA-BY 3.0)
 
@@ -2232,7 +2685,9 @@ Metroid é IP da Nintendo: Samus, os metroids, mapas e trilha oficiais **não en
 
 - o próprio **Warped Caves** já traz o tileset de caverna alienígena, então mapa e personagem vêm no mesmo estilo
 - https://bongseng.itch.io/parallax-forest-desert-sky-moon (parallax de floresta, deserto, céu e lua; comercial liberado, proibida revenda — bom para o fundo de um planeta)
+PALAVRAS-CHAVE: itch.io, Parallax Forest Desert Sky Moon, parallax floresta, deserto, céu, lua, comercial liberado, proibida revenda, sprites, cenário, parallax, planeta, web
 - https://screamingbrainstudios.itch.io/seamless-space-backgrounds (**CC0** — fundos espaciais contínuos, ótimos para o exterior da estação)
+PALAVRAS-CHAVE: itch.io, Seamless Space Backgrounds, CC0, fundos espaciais contínuos, exterior estação, uso comercial, sem atribuição, sprites, cenário, espaço, web
 - para interiores de estação e laboratório, o **Industrial Tileset** (Atomic Realm), o **Minimal Futureset** do Samvieten e o **Tech Dungeon** (demo) da seção Tecnologia encaixam direto
 - na OpenGameArt: **Sideview Sci-Fi — Patreon Collection** (**CC0**, do ansimuz), **Space Scifi RPG Tiles 48x48** (**CC0**, do Hyptosis), **Alien Planet Platformer Tileset** (**CC0**, do rubberduck) e **Alien UFO Pack** (**CC0**, do Kenney)
 
@@ -2245,13 +2700,16 @@ Metroid é IP da Nintendo: Samus, os metroids, mapas e trilha oficiais **não en
 ### Itens, naves e UI
 
 - https://gm-lazarus.itch.io/open-spacecraft-icons (**MIT** — ícones de sistemas de nave no estilo das marcações de Alien, para mapas e HUD)
+PALAVRAS-CHAVE: itch.io, Open Spacecraft Icons, MIT, ícones sistemas nave, estilo marcações Alien, mapas, HUD, uso comercial, ícones, nave, sci-fi, web
 - **Alien UFO Pack** (**CC0**), **Space Scifi RPG Tiles 48x48** (**CC0**) e os props do **Tech Dungeon** cobrem naves, terminais e caixas
 - a UI sci-fi da **SunGraphica** (**CC BY 4.0**) e o **UI for a Cyberpunk Game** (**CC BY 3.0**) já catalogados servem de HUD
 
 ### Música e SFX
 
 - https://gooseninja.itch.io/space-music-pack (faixas e SFX, incluindo "Alien Talk"; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Space Music Pack, faixas, SFX, Alien Talk, comercial liberado, proibida revenda, áudio, música, espaço, web
 - https://shapeforms.itch.io/shapeforms-audio-free-sfx (biblioteca royalty-free para uso comercial, sem crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, Shapeforms Audio Free SFX, biblioteca royalty-free, uso comercial, sem crédito obrigatório, áudio, SFX, espaço, web
 - na OpenGameArt: **Another space background track** (**CC0**), **Background space track** (**CC0**), **sPACE** (**CC0**), **Alien Fight** (**CC0**), **Alien Blues 8-bit melody** (**CC0**), **Destruction Of The Alien Spacecrafts** (**CC0**), **Space Boss Battle Theme** (**CC BY 3.0**) e **Alien Ruins** (**CC BY 3.0**)
 
 ### Avaliados e não incluídos
@@ -2274,28 +2732,43 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 ### Personagens e atendentes
 
 - https://renrenbear.itch.io/cafe-staff-free (2 personagens gratuitos de equipe de café em estilo VN; uso pessoal e **comercial** liberado, **crédito obrigatório** a "Character assets by Angel (@roleangels)", proibida redistribuição avulsa)
+PALAVRAS-CHAVE: itch.io, Cafe Staff Free, 2 personagens equipe café, estilo VN, uso pessoal, uso comercial, crédito obrigatório, Angel roleangels, proibida redistribuição avulsa, sprites, personagem, café, web
 - https://pompack.itch.io/brown-haired-cafe-staff-character-sprite (NPC de atendente de café com 7 expressões; uso comercial liberado, proibida revenda/redistribuição)
+PALAVRAS-CHAVE: itch.io, Brown Haired Cafe Staff Character Sprite, NPC atendente café, 7 expressões, uso comercial liberado, proibida revenda, proibida redistribuição, sprites, personagem, atendente, café, web
 - os personagens top-down do **Cozy Town** (abaixo) e os clientes das coleções de personagens já catalogadas (LimeZu, snowhex, Pop Shop) completam o salão
 
 ### Mapas, interiores e casas
 
 - https://aquumgifts.itch.io/cozy-town (tileset top-down 16x16 de cidade moderna com lojas, **cafés**, interiores, autotiles e personagem andando — versão **Lite gratuita**; uso pessoal e **comercial**, proibida revenda como tileset)
+PALAVRAS-CHAVE: itch.io, Cozy Town, tileset top-down 16x16, cidade moderna, lojas, cafés, interiores, autotiles, personagem andando, versão Lite gratuita, uso pessoal, uso comercial, proibida revenda tileset, tileset, cenário, cidade, web
 - https://venicemenacebakingco.itch.io/bakery-exterior-topdown-pack-free-sampler (**CC0** — amostra top-down de fachada de padaria: 16 tiles de calçada, rua, vitrine, porta e toldos + 3 props; a versão completa é paga)
+PALAVRAS-CHAVE: itch.io, Bakery Exterior Topdown Pack Free Sampler, CC0, amostra fachada padaria, 16 tiles, calçada, rua, vitrine, porta, toldos, 3 props, versão completa paga, uso comercial, sem atribuição, tileset, cenário, padaria, web
 - https://chuckyassets.itch.io/bakery-cafe-interiors (Sugar & Sage — interior de padaria/café 16x16 com mesas, vitrine e balcão; uso livre em projetos comerciais, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Bakery Cafe Interiors, Sugar & Sage, interior padaria café 16x16, mesas, vitrine, balcão, uso livre comercial, proibida redistribuição, sprites, cenário, interior, padaria, café, web
 - https://bubbabba.itch.io/cozy-cafe-bakery (café e padaria top-down 32x32; uso comercial liberado, proibida redistribuição e uso para treinar IA)
+PALAVRAS-CHAVE: itch.io, Cozy Cafe Bakery, café padaria top-down 32x32, uso comercial liberado, proibida redistribuição, proibido treino IA, sprites, cenário, café, padaria, web
 - https://zeschpix.itch.io/2d-pixel-art-caf-pack (interior de café top-down com mesas, cadeiras, máquinas e doces; uso comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, 2D Pixel Art Caf Pack, interior café top-down, mesas, cadeiras, máquinas, doces, uso comercial liberado, proibida redistribuição, sprites, cenário, interior, café, web
 - https://thirdangle.itch.io/restaurant-kitchen-starter (cozinha de restaurante **isométrica** 64x32, 15 sprites gratuitos; uso comercial e não comercial, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Restaurant Kitchen Starter, cozinha restaurante isométrica, 64x32, 15 sprites, uso comercial, uso não comercial, proibida revenda, sprites, cenário, interior, cozinha, web
 - https://oddblotstudios.itch.io/basic-coffee-shop-pack (balcão, máquina de espresso, vitrine e janela em estilo pintado à mão; comercial liberado, proibida revenda avulsa)
+PALAVRAS-CHAVE: itch.io, Basic Coffee Shop Pack, balcão, máquina espresso, vitrine, janela, pintado à mão, comercial liberado, proibida revenda avulsa, sprites, cenário, interior, café, web
 - https://lornn.itch.io/backgrounds-restaurants-and-cafes (fundos de restaurantes e cafés 2432x1664 para VN/narrativa; uso comercial liberado com restrição de conteúdo — **arte gerada em Midjourney e repintada pelo autor**, vale conferir o resultado antes de usar)
+PALAVRAS-CHAVE: itch.io, Backgrounds Restaurants and Cafes, fundos restaurantes cafés, 2432x1664, VN narrativa, uso comercial, restrição conteúdo, arte Midjourney repintada, sprites, cenário, fundo, café, web
 - na OpenGameArt: **Cafe and tea shop Pixel Art** (**CC BY 3.0**)
 
 ### Itens de café, comida e bebida
 
 - https://karsiori.itch.io/free-pixel-art-bar-and-cafe-items-pack (**CC0** — o achado da rodada: balcão de bar/café, máquina de espresso, xícaras, garrafas, doces e utensílios; uso comercial livre, sem atribuição)
+PALAVRAS-CHAVE: itch.io, Free Pixel Art Bar and Cafe Items Pack, CC0, balcão bar café, máquina espresso, xícaras, garrafas, doces, utensílios, uso comercial livre, sem atribuição, sprites, objetos, café, web
 - https://yaninyunus.itch.io/16x16-specialtycoffee (300+ sprites 16x16 de cafés especiais e panificação, com estágios de preparo; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, 16x16 Specialty Coffee, 300 sprites 16x16, cafés especiais, panificação, estágios preparo, uso comercial liberado, proibida revenda, sprites, objetos, comida, café, web
 - https://2yeet.itch.io/foodassets (400+ ícones de comida 160x160; uso comercial liberado, sem atribuição)
+PALAVRAS-CHAVE: itch.io, Foodassets, 400 ícones comida, 160x160, uso comercial liberado, sem atribuição, ícones, comida, web
 - https://mysty25.itch.io/cute-cozy-cafe-beverages-and-food (bebidas, doces e pratos em 16x16 e 32x32, com PNG e .aseprite; uso comercial liberado, proibida revenda das folhas)
+PALAVRAS-CHAVE: itch.io, Cute Cozy Cafe Beverages and Food, bebidas, doces, pratos, 16x16, 32x32, PNG, aseprite, uso comercial liberado, proibida revenda folhas, sprites, objetos, comida, café, web
 - https://love-in-rar.itch.io/coffee-machine-pack (máquinas de café em pixel; uso comercial liberado, proibida redistribuição)
+PALAVRAS-CHAVE: itch.io, Coffee Machine Pack, máquinas café pixel, uso comercial liberado, proibida redistribuição, sprites, objetos, máquina, café, web
 - o pack **Mugs** da Pop Shop Packs, já catalogado na seção "Armas e ícones", cobre as canecas
 - na OpenGameArt: **Food** (AntumDeluge, **CC0**), **64 16x16 food sprites** (**CC0**), **Icons: Food** (**CC0**), **Cartoon Food** (**CC0**), **Food Items 16x16** (**CC0**), **32px Food Items** (**CC0**), **cozy café icons** (**CC BY 4.0**), **Ms. Makoto's Cafe - Finished Food Pack 1** (**CC BY 3.0**), **Food items from Crosstown Smash** (**CC BY 3.0**) e **Drinks and Beverages 32×32** (**OGA-BY 4.0**)
 
@@ -2308,15 +2781,20 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 ### Árvores e jardim
 
 - https://flarevindle.itch.io/80-free-cozy-world-props (Brew & Bloom — 80 props de café, cozinha **e jardim**, com licença de uso comercial e crédito opcional)
+PALAVRAS-CHAVE: itch.io, 80 Free Cozy World Props, Brew & Bloom, 80 props café, cozinha, jardim, uso comercial, crédito opcional, sprites, objetos, café, cozinha, web
 - para a pracinha em volta da cafeteria, use o **Foliage Pack** do Kenney (**CC0**, na OpenGameArt) e o **Free Pixel Art Tree Pack** da karsiori (**CC0**, já catalogado)
 - a versão **Garden Cafe interiors theme** da AbyssalHunter tem o tema ideal, mas a licença comercial só vale pagando — não entrou
 
 ### Música e SFX
 
 - https://wafusoundworks.itch.io/wafu-vol50-japanese-restaurant-music-pack (Steam Over the Counter — 12 faixas de restaurante japonês, com loop contínuo, WAV e OGG; **grátis para uso comercial**, sem crédito e sem reivindicação de Content ID — casa perfeitamente com o café de temática japonesa)
+PALAVRAS-CHAVE: itch.io, Wafu Vol 50 Japanese Restaurant Music Pack, Steam Over the Counter, 12 faixas restaurante japonês, loop contínuo, WAV, OGG, grátis uso comercial, sem crédito, sem Content ID, áudio, música, restaurante japonês, café, web
 - https://lolurio.itch.io/jazz-bossa-nova-music (**CC BY 4.0** — jazz e bossa nova para o salão; crédito obrigatório ao autor)
+PALAVRAS-CHAVE: itch.io, Jazz Bossa Nova Music, CC BY 4.0, jazz, bossa nova, salão, crédito obrigatório, áudio, música, jazz, bossa nova, web
 - https://aquumgifts.itch.io/cozy-cafe-sfx (46 efeitos de café e cozinha, sintetizados; uso comercial sem royalties, proibida revenda dos sons)
+PALAVRAS-CHAVE: itch.io, Cozy Cafe SFX, 46 efeitos café, cozinha, sintetizados, uso comercial sem royalties, proibida revenda sons, áudio, SFX, café, cozinha, web
 - https://moneywithjjcom.itch.io/free-kitchen-sounds (6 SFX de cozinha royalty-free, comercial e sem atribuição)
+PALAVRAS-CHAVE: itch.io, Free Kitchen Sounds, 6 SFX cozinha, royalty-free, comercial, sem atribuição, áudio, SFX, cozinha, web
 - na OpenGameArt: **jazz slower** (**CC0**), **Acoustic Jazz** (**CC BY 3.0**), **Jazzy Vibes #36 — Smooth Jazz** (**CC BY 4.0**), **A Cloudy Morning (Jazz)** (**CC BY 3.0**), **Solo Jazz Guitar — Riverline** (**CC BY 4.0**) e **Jazz Lost in Time** (**CC BY 3.0**)
 
 ### Avaliados e não incluídos
@@ -2340,15 +2818,25 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 ### Naves, pilotos e inimigos
 
 - https://mattwalkden.itch.io/lunar-battle-pack (**CC0** — pack de batalha lunar com naves, marines e cenário; o autor libera comercial e modificação, crédito opcional)
+PALAVRAS-CHAVE: itch.io, Lunar Battle Pack, CC0, pack batalha lunar, naves, marines, cenário, uso comercial, modificação, crédito opcional, sprites, nave, sci-fi, espaço, web
 - https://cluly.itch.io/space-eaters (naves e inimigos do clássico "Space Eaters", com sprite sheet; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Space Eaters, naves, inimigos, Space Eaters clássico, sprite sheet, comercial liberado, proibida revenda, sprites, nave, sci-fi, espaço, web
 - https://disruptorart.itch.io/tiny-ships-free-spaceships (mini naves e ícones espaciais para bullet hell e HUD; comercial liberado, sem crédito, proibida revenda e NFT)
+PALAVRAS-CHAVE: itch.io, Tiny Ships Free Spaceships, mini naves, ícones espaciais, bullet hell, HUD, comercial liberado, sem crédito, proibida revenda, proibido NFT, sprites, nave, sci-fi, espaço, web
 - https://axassets.itch.io/spaceship-simple-assets (nave do jogador, meteoros, laser, ícone de armadura/power-up, explosão e dois fundos; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Spaceship Simple Assets, nave jogador, meteoros, laser, ícone armadura, power-up, explosão, dois fundos, comercial liberado, proibida revenda, sprites, nave, sci-fi, espaço, web
 - https://pixelsos.itch.io/ass (pack inicial completo: nave, inimigos, asteroides e fundo; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Ass, pack inicial completo, nave, inimigos, asteroides, fundo, comercial liberado, proibida revenda, sprites, nave, sci-fi, espaço, web
 - https://timberlate007.itch.io/shootem-up (starter pack de shoot'em up com naves, inimigos, tiros, HUD e barra de bônus; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Shootem Up, starter pack shoot'em up, naves, inimigos, tiros, HUD, barra bônus, comercial liberado, proibida revenda, sprites, nave, sci-fi, espaço, web
 - https://grafxkid.itch.io/mini-pixel-pack-3 (**CC0** — mini naves e fundo espacial animado em loop, do GrafxKid)
+PALAVRAS-CHAVE: itch.io, Mini Pixel Pack 3, CC0, mini naves, fundo espacial animado, loop, GrafxKid, uso comercial, sem atribuição, sprites, nave, espaço, web
 - https://greatdocbrown.itch.io/1bitspace (**CC BY-SA 4.0** — pack de space shooter em estilo 1-bit)
+PALAVRAS-CHAVE: itch.io, 1 Bit Space, CC BY-SA 4.0, pack space shooter, estilo 1-bit, crédito obrigatório, compartilha alike, sprites, nave, sci-fi, espaço, web
 - https://odistudio-games.itch.io/space-pack (**CC BY 4.0** — sprites de shmup 8/16-bit, com crédito apreciado)
+PALAVRAS-CHAVE: itch.io, Space Pack, CC BY 4.0, sprites shmup 8 16 bit, crédito apreciado, uso comercial, sprites, nave, sci-fi, espaço, web
 - https://squaremeapixel.itch.io/space-pack (asteroides, inimigos e naves; licença comercial livre — **atenção: as imagens foram geradas pelo gerador Mysticism**, então trate como arte assistida por IA)
+PALAVRAS-CHAVE: itch.io, Space Pack, asteroides, inimigos, naves, licença comercial livre, arte assistida IA, sprites, nave, sci-fi, espaço, web
 - na OpenGameArt: **Space Shooter Redux** e **Space Shooter Extension** (**CC0**, do Kenney — naves, inimigos, tiros, power-ups e explosões), **Space Ship Shooter Pixel Art Assets** (**CC0**, do ansimuz), **Space Shooter (Top Down) 2D Pixel Art** (**CC0**), **2D Space Shooter Assets** (**CC0**), **2D spaceship sprites with engines** (**CC0**), **Space Shooter Sprites** (**CC BY 3.0**) e **Top-Down Sci-Fi Shooter Pack** (**CC BY-SA 3.0**)
 - na kenney.nl: **Pixel Shmup** e **Simple Space** (**CC0**) — ver `assets/kenney.md`; o **Space Shooter Extension** do Kenney está na OpenGameArt, para não repetir o mesmo pack em dois arquivos
 - para a tripulação a pé dentro da estação, use as **Cozy Space Station: Walking Crew** (**CC BY 4.0**), catalogadas na OpenGameArt
@@ -2356,7 +2844,9 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 ### Mapas, fundos e estações espaciais
 
 - https://virusystem.itch.io/background-space (**CC0** — fundo espacial 1024x600)
+PALAVRAS-CHAVE: itch.io, Background Space, CC0, fundo espacial, 1024x600, uso comercial, sem atribuição, sprites, cenário, espaço, web
 - https://foozlecc.itch.io/void-environment-pack (**CC0** — ambiente "Void" com módulos, corredores e cenário de nave)
+PALAVRAS-CHAVE: itch.io, Void Environment Pack, CC0, ambiente Void, módulos, corredores, cenário nave, uso comercial, sem atribuição, sprites, tileset, cenário, espaço, web
 - os **fundos espaciais contínuos** da Screaming Brain Studios (**CC0**) e o **parallax de floresta, deserto, céu e lua** do Bongseng, ambos já catalogados na seção **Metroid**, continuam sendo a melhor base de fundo
 - na kenney.nl: **Simple Space** (48 peças de mapa: módulos, corredores e salas) e **Planets** (50 planetas), ambos **CC0**
 - na OpenGameArt: **Space Station Tileset** (**CC BY 3.0**), **Sci-Fi Top Down Centrifuge Space Station** e **Sci-Fi Top Down Shipyard Space Station** (**CC0**, do ChaosShark), **Star Field**, **Space Backdrop**, **Space Backgrounds 6** e **7** (**CC0**, do Rawdanitsu), **3 Layer Parallax Star and Nebula Field** (**CC0**), **Space, nebula, starfield renders** (**CC BY 3.0** / OGA-BY), **16**, **17** e **20 Planet Sprites** (**CC BY 3.0/4.0**), **Star-FURY Art Pack** (**CC BY 4.0**) e **Cozy Space Backdrops** (**CC BY 4.0**, com planetas girando e nebulosas sem emenda)
@@ -2377,10 +2867,13 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 ### Itens: power-ups, lasers e minérios
 
 - https://wenrexa.itch.io/laser2020 (**CC0** — mais de 1120 sprites de laser/bullet, do pack da Wenrexa)
+PALAVRAS-CHAVE: itch.io, Laser2020, CC0, 1120 sprites laser, bullet, pack Wenrexa, uso comercial, sem atribuição, sprites, laser, tiro, sci-fi, web
 - na OpenGameArt: **Asteroid, explosions, rocket, mine and laser** (**CC BY-SA 3.0**, do Jonas Wagner), **Asteroids** (**CC0**, do BPjr), **2D asteroid sprite** (**CC BY 3.0**) e **Pixel Art 2D Asteroid Pack** (**CC BY 4.0**)
 - os power-ups, escudos e ícones de HUD vêm dentro do **Space Shooter Redux** e do **Pixel Shmup** (**CC0**)
-- https://hat-tap.itch.io/asteroids-asset-pack e https://dolkyns.itch.io/asteroid-pack-animated-2d-game-assets (asteroides, inclusive animados; comercial liberado, proibida revenda)
-- https://realcreative.itch.io/pixel-art-space-game-asset-pack (pack de space shooter com nave e inimigos; comercial liberado, proibida revenda)
+- https://hat-tap.itch.io/asteroids-asset-pack (asteroides; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Asteroids Asset Pack, asteroides, comercial liberado, proibida revenda, sprites, asteroide, espaço, web
+- https://dolkyns.itch.io/asteroid-pack-animated-2d-game-assets (asteroides animados; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Asteroid Pack Animated 2D Game Assets, asteroides animados, comercial liberado, proibida revenda, sprites, asteroide, espaço, web
 
 ### Texturas de casco e metal
 
@@ -2390,13 +2883,19 @@ Tema de café/padaria aconchegante: salão com mesas, balcão e máquina de espr
 
 ### Música e SFX
 
+- https://realcreative.itch.io/pixel-art-space-game-asset-pack (pack de space shooter com nave e inimigos; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Pixel Art Space Game Asset Pack, pack space shooter, nave, inimigos, comercial liberado, proibida revenda, sprites, nave, sci-fi, espaço, web
 - https://kosmocat.itch.io/space-train-journey (5 faixas eletrônicas espaciais; uso comercial e não comercial sem restrições)
+PALAVRAS-CHAVE: itch.io, Space Train Journey, 5 faixas eletrônicas espaciais, uso comercial, uso não comercial, sem restrições, áudio, música, espaço, web
 - https://albesca.itch.io/outer-space-music-pack (**CC0** — faixas "A Long Journey", "A Starless Sky", "Barren Planets" e outras)
+PALAVRAS-CHAVE: itch.io, Outer Space Music Pack, CC0, A Long Journey, A Starless Sky, Barren Planets, uso comercial, sem atribuição, áudio, música, espaço, web
 - https://doranarasi.itch.io/shmup-bgm-pack (BGM de shmup; uso livre inclusive comercial)
-- o **Space Music Pack** do Gooseninja já está catalogado na seção **Metroid** e serve de trilha de combate
+PALAVRAS-CHAVE: itch.io, Shmup BGM Pack, BGM shmup, uso livre, uso comercial, áudio, música, shmup, espaço, web
 - na kenney.nl: **Sci-fi Sounds** (**CC0**, 70 SFX de motor, laser e nave)
 - na OpenGameArt: **Space Shooter Music** (**CC BY 3.0**), **Stereotypical 90's space shooter music** (**OGA-BY 3.0**), **8-bit Epic Space Shooter Music** (**CC0**), **Space Shooter (Loop)** (**CC0**), **Space Dimensions (Techno Version)** (**CC BY 3.0**), **futureshmup** (**CC0**), **Galaxy II** (**OGA-BY 3.0**), **Outer Space Loop** (**CC0**), **Laser Fire** (**CC BY 3.0**), **Space Laser** (**CC0**) e **Chunky Explosion** (**CC0**) — e as explosões **Explosion** e **Big Explosion** da subseção **Guerra e militar**
+PALAVRAS-CHAVE: OpenGameArt, Space Shooter Music, CC BY 3.0, Stereotypical 90s space shooter music, OGA-BY 3.0, 8-bit Epic Space Shooter Music, CC0, Space Shooter Loop, CC0, Space Dimensions Techno Version, CC BY 3.0, futureshmup, CC0, Galaxy II, OGA-BY 3.0, Outer Space Loop, CC0, Laser Fire, CC BY 3.0, Space Laser, CC0, Chunky Explosion, CC0, Explosion, Big Explosion, Guerra militar, áudio, música, espaço, web
 - os packs de laser/explosão já catalogados nas seções **Tecnologia** e **Guerra** completam o áudio de tiro e impacto
+PALAVRAS-CHAVE: packs laser explosão, seções Tecnologia, Guerra, áudio tiro, impacto, áudio, SFX, espaço, web
 
 ### Avaliados e não incluídos
 
@@ -2469,10 +2968,15 @@ LEGO é marca da LEGO Group, e minifigures, sets, logos e jogos licenciados são
 ### Mapas e tilesets de blocos
 
 - https://screamingbrainstudios.itch.io/tinybreakoutpack (**CC0** — tijolos, raquetes e bolas coloridas para uma fase "quebra-blocos")
+PALAVRAS-CHAVE: itch.io, Tiny Breakout Pack, CC0, tijolos, raquetes, bolas coloridas, fase quebra-blocos, uso comercial, sem atribuição, sprites, objetos, brinquedo, web
 - https://devilsworkshop.itch.io/big-pixel-isometric-block-pack-free-2d-sprites (**CC BY 4.0** — blocos isométricos em pixel art, com crédito)
+PALAVRAS-CHAVE: itch.io, Big Pixel Isometric Block Pack Free 2D Sprites, CC BY 4.0, blocos isométricos pixel art, crédito obrigatório, uso comercial, sprites, blocos, brinquedo, web
 - https://shallow-lagoon.itch.io/mega-isometric-block-pack (blocos isométricos royalty-free para comercial e não comercial)
+PALAVRAS-CHAVE: itch.io, Mega Isometric Block Pack, blocos isométricos, royalty-free, comercial, não comercial, sprites, blocos, brinquedo, web
 - https://mewki.itch.io/nature-isometric-blocks (blocos de natureza isométricos; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Nature Isometric Blocks, blocos natureza isométricos, comercial liberado, proibida revenda, sprites, blocos, natureza, brinquedo, web
 - https://sandstormdev.itch.io/platformer-tileset (tileset de plataforma; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Platformer Tileset, tileset plataforma, comercial liberado, proibida revenda, tileset, cenário, plataforma, brinquedo, web
 - na kenney.nl: **Brick Pack** (106 peças), **Platformer Bricks** (150 peças) e **Block Pack** (100 peças de terreno/vila), todos **CC0** — ver `assets/kenney.md`
 - na OpenGameArt: **Toy Brick pack** (**CC0**, do Kenney — o pack que dá o visual de bloco de brinquedo), **A Blocky Dungeon** (**CC0**, do Buch), **Isometric Blocks** (**CC0**, do Kenney) e **Blue Brick Tileset** (**CC0**)
 - para o "chão de baseplate", o **Breakout (Brick Breaker) Tile Set** (**CC0**) e as texturas de tijolo da seção de texturas abaixo resolvem
@@ -2500,11 +3004,13 @@ LEGO é marca da LEGO Group, e minifigures, sets, logos e jogos licenciados são
 
 - na OpenGameArt: **Brick Patterns** (**CC0**, do rfc1394), **Brick Walls** (**CC BY-SA 3.0**, do delconis), **Plastic — Batch of 9 Seamless Textures** (**CC BY 3.0**, do Keith333) e **Yellow Painted Plastic Seamless Tileable Texture** (**CC BY 3.0**)
 - https://juliovii.itch.io/plasticpk01 (**CC BY**, uso comercial liberado, proibida revenda — plástico bolha, fita e materiais)
+PALAVRAS-CHAVE: itch.io, Plasticpk01, CC BY, plástico bolha, fita, materiais, crédito obrigatório, uso comercial, proibida revenda, texturas, plástico, brinquedo, web
 - a **textura de tijolo CC0** já catalogada na seção de combate medieval serve de base, e o **Stone Tiles — Checkered** (**CC BY-SA 4.0**) dá o piso xadrez de baseplate
 
 ### Música e SFX
 
 - na OpenGameArt: **Toy Soldiers** (**CC0**, do Zane Little Music), **Quirky Jazz** (**OGA-BY 3.0** / CC0), **Quirky Runner** (**CC BY 4.0**), **8-bit Quirky Waltz** (**CC BY 4.0**), **Nintendo Style — Quirky Music Loop 01** (**CC BY 4.0**, do PlayOnLoop) e **Arcade Oddities (Looping)** (**CC BY 3.0**, do Eric Matyas)
+PALAVRAS-CHAVE: OpenGameArt, Toy Soldiers, CC0, Quirky Jazz, OGA-BY 3.0, CC0, Quirky Runner, CC BY 4.0, 8-bit Quirky Waltz, CC BY 4.0, Nintendo Style Quirky Music Loop 01, CC BY 4.0, PlayOnLoop, Arcade Oddities Looping, CC BY 3.0, Eric Matyas, áudio, música, brinquedo, web
 - o **Caketown — Cute/Playful** (**CC BY-SA 3.0**) já está catalogado na seção de doces e serve para a fase de brinquedo
 - os **jingles** do Kenney (**CC0**) e o **512 Sound Effects 8-bit Style** (**CC0**) já catalogados cobrem o "clique" de encaixe, a coleta e o pulo
 
@@ -2523,12 +3029,19 @@ Streets of Rage é IP da SEGA: personagens (Axel, Blaze, Adam), nomes, sprites, 
 ### Personagens e capangas
 
 - https://rancic.itch.io/martial-arts-fighter (**CC BY 4.0** — lutador marcial com animações de soco, chute e dano; crédito obrigatório)
+PALAVRAS-CHAVE: itch.io, Martial Arts Fighter, CC BY 4.0, lutador marcial, animações soco, chute, dano, crédito obrigatório, uso comercial, sprites, personagem, lutador, beat em up, web
 - https://oonquil.itch.io/bancho (versão gratuita — chefe de gangue; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Bancho, versão gratuita, chefe de gangue, uso comercial liberado, proibida revenda, sprites, personagem, chefe, gangue, beat em up, web
 - https://oonquil.itch.io/brute-arms (versão gratuita — brutamontes; uso comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Brute Arms, versão gratuita, brutamontes, uso comercial liberado, proibida revenda, sprites, personagem, brutamontes, beat em up, web
 - https://oonquil.itch.io/batting-girl (versão gratuita — garota com taco de beisebol; comercial liberado, crédito opcional, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Batting Girl, versão gratuita, garota taco beisebol, comercial liberado, crédito opcional, proibida revenda, sprites, personagem, garota, beat em up, web
 - https://retropixie.itch.io/kung-fu-platformer-character (personagem de kung fu com animações; comercial liberado, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Kung Fu Platformer Character, personagem kung fu, animações, comercial liberado, proibida revenda, sprites, personagem, kung fu, beat em up, web
 - https://jkllin.itch.io/mrj-melee-fighter (lutador corpo a corpo; comercial liberado, **crédito "JKLLIN" obrigatório**, proibida revenda)
+PALAVRAS-CHAVE: itch.io, MRJ Melee Fighter, lutador corpo a corpo, comercial liberado, crédito JKLLIN obrigatório, proibida revenda, sprites, personagem, lutador, beat em up, web
 - https://rgsdev.itch.io/animated-stick-figure-character-2d-free-cc0 (**CC0 declarado no título do pack** — boneco palito animado, base rápida para beat 'em up)
+PALAVRAS-CHAVE: itch.io, Animated Stick Figure Character 2D Free CC0, CC0, boneco palito animado, base rápida beat em up, uso comercial, sem atribuição, sprites, personagem, palito, beat em up, web
 - na OpenGameArt: **Streets of Fight** (**CC0**, do ansimuz — pack completo de beat 'em up com personagens, rua noturna e HUD), **Urban Character Pack** (**CC0**), os capangas **Soldier** (NES), **Vigilante**, **Renegade** e **Ranger** (SMS) e **Virgil 8bit Brawler** (**CC0**, do Chasersgaming), **Gangster** (três variações, **CC0**), **Sci Fi Brawler Character** (**OGA-BY 3.0**), **Business of Rage** (**CC0** — arte original; o nome é trocadilho, não usa IP da SEGA) e **Universal Prototype 2** (**CC0** — base para beat 'em up/MUGEN)
 - o **Martial Hero** do LuizMelo (**CC0**, já catalogado) e o **Ninja** do kelano-studio completam o elenco jogável
 
@@ -2575,8 +3088,8 @@ Streets of Rage é IP da SEGA: personagens (Axel, Blaze, Adam), nomes, sprites, 
 - **IP da SEGA**: qualquer fan game, remake, sprite ou template com Streets of Rage no nome — inclusive o template **"Construct 2 Streets Of Rage Character Select"** (CC0, mas usa personagens e nome da série)
 - https://ansimuz.itch.io/streets-of-fight (a página do itch não declara licença — use a versão **CC0** publicada na OpenGameArt, listada acima)
 - **licença só em comentário**: https://chroma-dave.itch.io/simple-beat-em-up-assets (o autor responde "pode usar em comercial" mas não há arquivo nem campo de licença) e https://chasersgaming.itch.io/brawler-asset-character (CC0 apenas em resposta nos comentários — as versões **CC0** da OpenGameArt estão listadas acima)
-- **pagos**: https://nappingcloud.itch.io/jamkit-pixel-beat-em-up-asset-pack (US$ 1), https://gowldev.itch.io/beat-em-up (US$ 100), https://pondako.itch.io/ultimate-beat-em-up-characters-asset-pack (US$ 1), https://avidgame.itch.io/beat-em-up-pack-urban-fighters (US$ 3,99, **CC BY-NC**), https://mrnekopixels.itch.io/food-assets-for-beat-em-up-project (US$ 5), https://rohhsa.itch.io/beat-em-up-sfx-volume-one (US$ 9,96), https://pozac.itch.io/street-brawler-urban-2d-beat-em-up-character-pack (US$ 4,99), https://fassous.itch.io/2d-brawler-game-character (US$ 3), https://overcrafted.itch.io/stickman-fighter-spine-2d-game-character-sprites (US$ 7) e https://cascadeplay.itch.io/brawler-2d-character-animation (US$ 2,50)
-- **sem licença declarada**: https://seartsy.itch.io/warrior-in-red e https://fridge99.itch.io/beat-them-pack (sem preço nem licença claros)
+⚠️ Removidos (pagos): nappingcloud.itch.io/jamkit-pixel-beat-em-up-asset-pack (US$ 1), gowldev.itch.io/beat-em-up (US$ 100), pondako.itch.io/ultimate-beat-em-up-characters-asset-pack (US$ 1), avidgame.itch.io/beat-em-up-pack-urban-fighters (US$ 3,99 — CC BY-NC), mrnekopixels.itch.io/food-assets-for-beat-em-up-project (US$ 5), rohhsa.itch.io/beat-em-up-sfx-volume-one (US$ 9,96), pozac.itch.io/street-brawler-urban-2d-beat-em-up-character-pack (US$ 4,99), fassous.itch.io/2d-brawler-game-character (US$ 3), overcrafted.itch.io/stickman-fighter-spine-2d-game-character-sprites (US$ 7), cascadeplay.itch.io/brawler-2d-character-animation (US$ 2,50)
+⚠️ Removidos (sem licença declarada): seartsy.itch.io/warrior-in-red, fridge99.itch.io/beat-them-pack
 - **música GPL 3.0 pura**: o **Hip Hop Boss Man** da OpenGameArt é GPL 3.0 puro — fora
 
 ## itch.io — Fantasia bárbara / hack 'n slash (estilo Golden Axe) (pesquisado em 22/10/2026)
@@ -2586,21 +3099,32 @@ Golden Axe é IP da SEGA: Ax Battler, Tyris Flare, Gilius Thunderhead, as feras 
 ### Personagens: bárbaros, vikings e amazonas
 
 - https://blobfishdev.itch.io/barbarian (bárbaro desenhado à mão em vários tamanhos; uso comercial liberado, crédito não obrigatório, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Barbarian, bárbaro desenhado à mão, vários tamanhos, uso comercial liberado, crédito não obrigatório, proibida revenda, sprites, personagem, bárbaro, fantasia bárbara, web
 - https://pixel-moon-studio.itch.io/barbarian-pixel-art (bárbaro em pixel art; comercial liberado, crédito opcional, proibida revenda como asset)
+PALAVRAS-CHAVE: itch.io, Barbarian Pixel Art, bárbaro pixel art, comercial liberado, crédito opcional, proibida revenda asset, sprites, personagem, bárbaro, fantasia bárbara, web
 - https://helianthus-games.itch.io/axe-warrior (**189 arquivos**, guerreiro com machado e animações; comercial liberado, crédito não obrigatório)
+PALAVRAS-CHAVE: itch.io, Axe Warrior, 189 arquivos, guerreiro machado, animações, comercial liberado, crédito não obrigatório, sprites, personagem, guerreiro, machado, fantasia bárbara, web
 - https://hugues-laborde.itch.io/cartoon-viking-character-pack (pacote de vikings em 64x64, 199 frames; comercial liberado, **crédito obrigatório** ao autor)
+PALAVRAS-CHAVE: itch.io, Cartoon Viking Character Pack, pacote vikings 64x64, 199 frames, comercial liberado, crédito obrigatório ao autor, sprites, personagem, viking, fantasia bárbara, web
 - https://caz-bee.itch.io/knight (cavaleiro 40x40 com folha de sprites e `.aseprite`; comercial liberado, crédito opcional)
+PALAVRAS-CHAVE: itch.io, Knight, cavaleiro 40x40, folha sprites, aseprite, comercial liberado, crédito opcional, sprites, personagem, cavaleiro, fantasia bárbara, web
 - na OpenGameArt: **LPC Barbarian Sprite Base** (**CC BY-SA 3.0** — base de bárbaro no estilo LPC), **Cute Barbarian** (**CC BY-SA 3.0** / GPL 3.0), **Barbarian** e **Barbarian [static] 64x64** (**CC0**), **Viking Shieldmaiden [Animated]** (**CC0** — a amazona do trio), **Viking Warrior** (**CC0**), **Viking Man** e **Viking Sprite** (**CC BY 3.0**), **Assassin, Mage, Viking Sprites** (**OGA-BY 3.0**, do CraftPix), **Woman Warrior 2D Sprite** (**OGA-BY 3.0**, do CraftPix) e **Beast 2D pixelart** (**CC BY 3.0** — fera para montaria/inimigo)
 - para o anão do trio, use os **dwarfs** do Tiny Swords e o **Dwarf Warrior** do doumuten (**CC0**), já catalogados nas seções **Combate medieval** e **Caverna**
 
 ### Mapas: deserto, oásis, ruínas e vila tribal
 
 - https://bobkingg.itch.io/desert-oasis-tileset (**CC0** — areia, dunas, água de oásis, palmeira, cactos, ossos e tendas, 32x32)
+PALAVRAS-CHAVE: itch.io, Desert Oasis Tileset, CC0, areia, dunas, água oásis, palmeira, cactos, ossos, tendas, 32x32, uso comercial, sem atribuição, tileset, cenário, deserto, oásis, fantasia bárbara, web
 - https://zoneework.itch.io/desert-oasis-tilemap (deserto e oásis com dia/noite; comercial liberado, sem revenda)
+PALAVRAS-CHAVE: itch.io, Desert Oasis Tilemap, deserto, oásis, dia, noite, comercial liberado, sem revenda, tileset, cenário, deserto, oásis, fantasia bárbara, web
 - https://kbpixelart.itch.io/viking-village-part-1 (vila viking com parallax, casa grande e tileset; comercial liberado, sem revenda)
+PALAVRAS-CHAVE: itch.io, Viking Village Part 1, vila viking, parallax, casa grande, tileset, comercial liberado, sem revenda, tileset, cenário, vila viking, fantasia bárbara, web
 - https://the-pixel-nook.itch.io/gb-studio-viking-tiles (**CC BY 4.0** — tiles nórdicos em estilo Game Boy)
+PALAVRAS-CHAVE: itch.io, GB Studio Viking Tiles, CC BY 4.0, tiles nórdicos, estilo Game Boy, crédito obrigatório, uso comercial, tileset, cenário, viking, nórdico, fantasia bárbara, web
 - https://hugues-laborde.itch.io/viking-environment-pack-pixel-art (ambiente viking com props animados e chefe; comercial liberado)
+PALAVRAS-CHAVE: itch.io, Viking Environment Pack Pixel Art, ambiente viking, props animados, chefe, comercial liberado, sprites, cenário, viking, fantasia bárbara, web
 - https://pitiit.itch.io/free-2d-fantasy-platformer-asset-pack (pack de plataforma de fantasia com casas e terreno; comercial liberado, sem revenda)
+PALAVRAS-CHAVE: itch.io, Free 2D Fantasy Platformer Asset Pack, pack plataforma fantasia, casas, terreno, comercial liberado, sem revenda, sprites, tileset, cenário, fantasia, web
 - na OpenGameArt: **Free Desert Platformer Tileset** (**CC0**, do pzUH), **Desert Assets** (**CC0**, do Cethiel), **Desert Tileset** (**CC BY 3.0**, do Beast) e **Desert Tileset** (**CC BY-SA 3.0**, do Amstrad), **Ancient Ruins Pixel Art** (**CC BY 3.0**, do CraftPix), **Ruins** (**CC0**, do nicubunu) e **City Ruins** (**CC BY-SA 4.0**)
 - já catalogados e prontos para reuso: **Old Ruins Tileset**, **Mythical Ruins Tileset**, **Free Isometric Ruins**, **Classical Temple Tiles**, **Temple Sidescroller Tileset**, **Temple Entrance** e o **2D Temple Platformer Tileset** do RottingPixels (**CC0**)
 
@@ -2632,7 +3156,9 @@ Golden Axe é IP da SEGA: Ax Battler, Tyris Flare, Gilius Thunderhead, as feras 
 ### Música e SFX
 
 - https://alkakrab.itch.io/free-viking-folk-music-pack (folk viking original, **grátis para uso comercial**, sem IA)
+PALAVRAS-CHAVE: itch.io, Free Viking Folk Music Pack, folk viking original, grátis uso comercial, sem IA, áudio, música, folk, viking, fantasia bárbara, web
 - https://ivanduch.itch.io/northlanders (pacote nórdico gratuito; **crédito a Ivan Duch obrigatório**, termos em ivanduch.com/licensing)
+PALAVRAS-CHAVE: itch.io, Northlanders, pacote nórdico gratuito, crédito a Ivan Duch obrigatório, termos ivanduch.com, áudio, música, nórdico, viking, fantasia bárbara, web
 - na OpenGameArt: **Viking Tales** (**CC0**), **Viking March** (**CC0**), **Blood Rage** (**CC BY 3.0**, do Alexandr Zhelanov), **Desert Theme** (**CC0**, do yd), **Desert Overworld** (**CC0**, do KarateStudios), **Dacoit ~ Desert Theme** (**CC BY 3.0** / CC BY 4.0) e **Simple Desert** (**CC BY 3.0**, do Spring Spring)
 - para a batalha contra o chefe, use as faixas épicas **CC0**/**CC BY** já catalogadas na seção **Guerra medieval**
 - os **jingles** e o **512 Sound Effects 8-bit Style** do Kenney (**CC0**) cobrem corte de machado, impacto e moeda
@@ -2658,9 +3184,13 @@ Northgard é IP da Shiro Games: os clãs (Stag, Wolf, Raven, Bear…), personage
 ### Mapas: fjord, tundra, montanha e vila
 
 - https://bobkingg.itch.io/viking-fjord-tileset (**CC0** — o pack que fecha o tema: pinheiros, docas de longboat, pedras rúnicas, neve, água de fjord, costas direcionais e variantes de grama)
+PALAVRAS-CHAVE: itch.io, Viking Fjord Tileset, CC0, pinheiros, docas longboat, pedras rúnicas, neve, água fjord, costas direcionais, variantes grama, uso comercial, sem atribuição, tileset, cenário, viking, nórdico, RTS nórdico, web
 - https://carbonova.itch.io/viking-village-rpg-tileset (374 tiles de 64x64 da vila viking; uso comercial liberado, **crédito pedido**, proibida revenda)
+PALAVRAS-CHAVE: itch.io, Viking Village RPG Tileset, 374 tiles 64x64, vila viking, uso comercial liberado, crédito pedido, proibida revenda, tileset, cenário, vila viking, nórdico, RTS nórdico, web
 - https://mr-pixelz.itch.io/16x16-pixel-snow-environment (ambiente de neve top-down 16x16 com itens; comercial liberado, sem revenda)
+PALAVRAS-CHAVE: itch.io, 16x16 Pixel Snow Environment, ambiente neve top-down 16x16, itens, comercial liberado, sem revenda, sprites, tileset, cenário, neve, inverno, nórdico, web
 - https://maidolee.itch.io/pixel-art-ice-snow-platformer-tileset (gelo e neve para plataforma; comercial liberado, sem revenda)
+PALAVRAS-CHAVE: itch.io, Pixel Art Ice Snow Platformer Tileset, gelo, neve, plataforma, comercial liberado, sem revenda, tileset, cenário, gelo, neve, inverno, nórdico, web
 - na OpenGameArt: **Nordic Tileset** (**CC BY 4.0**, do Sevarihk), **Snow Tileset for RPGs** (**CC BY 3.0**, do 2DPIXX), **Very Basic 32x32 Topdown Snow Tileset** (**CC0**, do Spring Spring), **LPC Winter Tiles** (**CC BY 3.0** / OGA-BY 3.0 / GPL 3.0), **Winter Tilesets** (**CC BY-SA 3.0**), **Isometric Snow Tileset (flares)** (**CC BY-SA 3.0**), **Mountain Tileset** (**CC0**), **Tiny RPG Mountain Tileset** (**CC0**, do ansimuz), **Dark Mountain Tileset** (**CC BY 4.0**, do 2DPIXX), **Top Down Village Elements** (**CC BY 3.0**) e **RPG Town Tileset** (**CC BY 3.0**)
 - o **Viking Village — Part 1** do kbpixelart (**comercial liberado**) e o **Viking Environment Pack** do hugues-laborde, já catalogados na rodada **Fantasia bárbara**, entram como quarteirão pronto
 
@@ -2880,6 +3410,7 @@ Final Fantasy é IP da Square Enix: personagens (Cloud, Sephiroth, Terra, etc.),
 - cidades e vilas: **Town Tiles** (**CC0**, do surt), **RPG Tiles: Cobble Stone Paths & Town Objects** (**CC BY-SA 3.0**, do Zabin/Daneeklu), **16x16 Snowy Town Tiles** (**CC BY 4.0** / CC BY 3.0 / OGA-BY, da Sharm), **16x16 Town Remix** (**CC BY 4.0** / CC BY 3.0 / OGA-BY, da Sharm), **Medieval Town** (**CC BY 3.0**, do keith karnage), **RPG Town Tileset** (**CC BY 3.0**, do 2DPIXX), **Dark Forest Town Tile Set** (**CC BY 3.0** / GPL 3.0 / GPL 2.0, do Disthron)
 - dungeons: **Dungeon Tileset** (**CC0**, do Buch), **Sewer Tileset** (**CC BY 3.0** / GPL 2.0, do Beast), **Cave Tileset** (**CC BY 3.0** / GPL 2.0, do Beast), **Dungeon Crawl 32x32** (**CC0**), **Top Down Dungeon** (**CC0**), **A Blocky Dungeon** (**CC0**), **16x16 Dungeon Wall/Floor** (**CC0**), **LPC Farming Tilesets** (para masmorras com vegetação)
 - itch (gratuitos, licença na página): https://gumpyfunction.itch.io/game-boy-rpg-fantasy-tileset-free (Game Boy RPG tileset, **comercial livre, não NFT/blockchain**), https://bruxopixels.itch.io/pixel-journey-fantasy-tileset-free (**CC BY-SA 4.0** — tileset fantasy 16x16 com interiores/exteriores, **comercial livre, não revender, não IA**), https://flambo19.itch.io/fantasy-tileset-grassland-ruins (**comercial livre, não revender, não IA** — grassland/ruins A1-A5/B/C), https://superdark.itch.io/16x16-free-npc-pack (NPCs 16x16, **comercial livre, crédito apreciado**), https://hyarismeowt.itch.io/16x16-cozy-jrpg-asset-pack-free-sample (amostra cozy JRPG 16x16, **comercial livre, não revender** — pack completo pago), https://timberlate007.itch.io/hell-fantasy-asset-pack-for-jrpg (pack hell fantasy, **comercial livre, não revender, crédito apreciado**), https://jmungall.itch.io/jrpg-character-sprites (sprites JRPG, **comercial livre, royalty-free, atribuição apreciada**), https://jmungall.itch.io/jrpg-monster-assets (monstros JRPG, **comercial livre, royalty-free, atribuição apreciada**), https://fatcatgamesstudio.itch.io/10-human-warriors-jrpg-battlers (battlers, **versão free: não comercial**; versão paga US$ 4,99 permite comercial)
+PALAVRAS-CHAVE: itch.io, JRPG, Game Boy RPG tileset, GumpyFunction, Pixel Journey Fantasy Tileset, Bruxopixels, Fantasy Tileset Grassland Ruins, Flambo19, 16x16 NPC Pack, Superdark, Cozy JRPG Asset Pack, Hyarismeowt, Hell Fantasy Asset Pack, Timberlate007, JRPG Character Sprites, JMungall, JRPG Monster Assets, JMungall, 10 Human Warriors JRPG Battlers, Fatcat Games Studio, uso comercial, royalty-free, sprites, tileset, monstros, JRPG, fantasia, web
 
 ### Casas, interiores e airships
 
@@ -2899,6 +3430,7 @@ Final Fantasy é IP da Square Enix: personagens (Cloud, Sephiroth, Terra, etc.),
 
 - na OpenGameArt: **Ancient Dragon Classic JRPG Music Pack** (**CC BY-SA 4.0**, do trycor — pack JRPG clássico com tema de dragão antigo), **The Fire Dragon** / **Trycor Dragon Boss** (**CC0**), **Dragons Village / Dragon Mountain / Dragon Kings Dungeon / WGS Dragon King Loops / Fire Dragon** (**CC BY 3.0/4.0** / CC BY-SA 3.0), **Final Epic Battle** (**GPL 2.0**), **The Fall of Arcana** (**CC BY 3.0**), **Orchestral Epic Fantasy** (**CC BY-SA 3.0** / GPL 3.0), **Massive Battle / War Theme / Laments of War** (**CC0**), **Medieval** (**CC BY-SA 3.0**), **Cave Theme / Crystal Cave Song / Cave Music** (**CC0** / OGA-BY 3.0), **Farm Music / Fields of Cabbage / Apple Cider / Country / Sunny Side Up / Gone Fishin / Windle Pixel Banjo** (CC0 / OGA-BY 4.0 / CC BY 3.0)
 - itch (gratuitos): https://bit-by-bit-sound.itch.io/ultimate-game-music-asset-pack (**pago US$ 97** — **não incluído**; 400+ faixas, atribuição obrigatória), https://csaf.itch.io/akatsuki-anime-jrpg-sfx (SFX anime/JRPG **pago US$ 12,99-25,17** — **não incluído**), https://ultimate-game-music-asset-pack (pago), https://akatsuki-anime-jrpg-sfx (pago), https://lovelyassets.itch.io/jrpg-mobile-assets-backgrounds (backgrounds mobile **IA assistida**, gratuito), https://bit-by-bit-sound.itch.io/ultimate-game-music-asset-pack (pago), https://ultimate-retro-rpg-music-pack (pago)
+PALAVRAS-CHAVE: itch.io, JRPG, Ultimate Game Music Asset Pack, Bit By Bit Sound, Akatsuki Anime JRPG SFX, CSAF, JRPG Mobile Assets Backgrounds, Lovelyassets, backgrounds mobile, IA assistida, uso comercial, áudio, música, SFX, JRPG, anime, web
 
 ### Avaliados e não incluídos
 
@@ -2917,6 +3449,7 @@ Bubble Bobble / Puzzle Bobble / Bust-a-Move são IP da Taito/Square Enix: person
 
 - na OpenGameArt: **Puzzle Bobble** (**CC BY 3.0**, do chipmunk — sprites estilo Puzzle Bobble), **Triple Bubble Sprites** (**CC BY 4.0**, do Vircon32 — 3 bolhas coloridas animadas), **Tamago Concept Art** (**CC0**, do darkagent — conceito arte fofa), **Kymi's Bubbly Story** (**CC BY 3.0** / OGA-BY 3.0, do Spring Spring — história de bolhas), **Hayden the Malicious Little Puppydog** (**CC BY 3.0** / CC BY-SA 3.0, do Spring Spring — personagem fofo estilo bolha), **BEVOULIIN Free Orange Bubble Land Monster Sprite Sheets** (**CC0**, do bevouliin.com — monstros terra de bolhas laranja), **Platform Pixel Art Assets** (**CC0**, do ansimuz — assets plataforma, útil para base do lançador)
 - itch (gratuitos, licença na página): https://bitmagine.itch.io/bubblebobble-mathtrap (Bubble Bobble Math Trap WIP, **gratuito**), https://fearfulelephants.itch.io/bubble-up (Bubble Up, **gratuito**), https://kinteyoi.itch.io/bubble-girl-freeze (Bubble Girl Freeze, **comercial livre, nome seu preço**), https://bigcatstudios.itch.io/bubble-bunny-animal-forest (Bubble Bunny Animal Forest Shooter, **gratuito**), https://pzuh.itch.io/free-bubble-game-button-pack (Free Bubble Game Button Pack, **comercial livre**, autor confirmou "yes you can"), https://jibplaysgames.itch.io/free-soft-color-bubble-ui-pack (Free Soft Color Bubble UI Pack, **gratuito**), https://pixfree.itch.io/bubble-shooter-ocean (Bubble Shooter Ocean, **gratuito**), https://beefsupremelatteking.itch.io/danglepop (Danglepop: Cozy Bubble Shooter, **gratuito**), https://msrana.itch.io/fruit-bubbles-shooter-match-3 (FREE Fruit Bubbles Shooter Match 3, **gratuito**), https://zoomy-cat-games.itch.io/bubble-shooter-but-in-space-and-incremental (Bubble Shooter in Space, **gratuito**), https://werdi-09.itch.io/bubbleshooter (Bubble Shooter, **gratuito**)
+PALAVRAS-CHAVE: itch.io, Puzzle Bobble, Bubble Shooter, Bitmagine, Bubble Bobble Math Trap, Fearful Elephants, Bubble Up, Kinteyoi, Bubble Girl Freeze, Big Cat Studios, Bubble Bunny Animal Forest, pzUH, Free Bubble Game Button Pack, Jib Plays Games, Free Soft Color Bubble UI Pack, Pixfree, Bubble Shooter Ocean, Beef Supreme Latte King, Danglepop, MsRana, Fruit Bubbles Shooter Match 3, Zoomy Cat Games, Bubble Shooter in Space, Werdi 09, Bubbleshooter, uso comercial, bolhas, UI, sprites, jogo, arcade, web
 
 ### Mapas: grade de bolhas, fundos e cenários
 
@@ -2930,6 +3463,7 @@ Bubble Bobble / Puzzle Bobble / Bust-a-Move são IP da Taito/Square Enix: person
 
 - na OpenGameArt: **Bejeweled Candy Crush Puzzle Balls** (**CC0**, do BdRGames — bolhas puzzle coloridas), **Egg Blast** (**CC0**, do OnTheBus — explosão ovo/bolha), **Shiny Orbs 64x64** (**CC0**, do Mumu — orbes brilhantes), **Bubble Explosion** (**OGA-BY 3.0** / CC0, do Tiao Ferreira), **Bubble Explosion 0** (**CC0**, do bongbonggun), **Transparent Bubble (Soap Bubble)** (**CC0**, do aloknarula — bolha sabão transparente), **Bubble** / **Bubble 0** / **Bubble 1** / **Bubble 2** (**CC0** / CC BY 3.0, vários autores), **Bubble Shield** (**CC BY 4.0**, do Wahsoo — escudo bolha), **Powerup Bubble** (**CC BY 3.0**, do Ouren — bolha power-up), **Animated Emote Bubbles** (**CC0**, Game Dev Alliance — emotes bolha animados), **Free Bubble Game Button Pack** (**CC0**, do pzUH — botões UI)
 - itch: https://vefects.itch.io/bubbles-vfx-godot (Bubbles VFX Godot, **comercial livre, não revender VFX**), https://thetgi.itch.io/bubble-buttons (Bubble Buttons, **free: comercial livre, não revender**)
+PALAVRAS-CHAVE: itch.io, Puzzle Bobble, Bubbles VFX Godot, Veffects, Bubble Buttons, Thetgi, VFX, bolhas, uso comercial, sprites, UI, bolha, arcade, web
 
 ### Texturas: bolhas, sabão, brilho, reflexo
 
@@ -2957,21 +3491,25 @@ Não há uma franquia única "Dogs" mas o tema **cães / simulador de cachorro /
 
 - na OpenGameArt: **Cat & Dog Free Sprites** (**CC0**, do pzUH — gato + cachorro 10 frames), **[LPC] Rat, Cat and Dog** (**CC BY 3.0** / CC BY-SA 3.0 / GPL, do Reemax — rato, gato, cachorro base LPC), **Dog Sprites** (**CC0**, do Shepardskin — sprites base), **Dog Running** (**CC BY 3.0**, da Benalene — corrida), **Dog Walk Sprite and Bone** (**CC0**, do kirard — caminhada + osso), **Dog/Wolf Spritesheet** (**CC0**, do Cough-E — spritesheet cão/lobo), **Dog Soldier** (**CC BY-SA 3.0**, da yolkati — soldado cão), **Rounded Eyes Dog Sprites** (**CC BY 4.0**, do bevouliin.com — olhos redondos, game character), **Dog Platformer Fighter** (**CC0**, do nemezes — lutador plataforma 14 frames), **Bernie Dog Knight** (**CC BY 3.0** / GPL 3.0, do Justin Nichol — cavaleiro cão), **Dog Fighter / Cat Fighter Remix** (**CC BY 3.0**, do IsometricRobot), **Dog Walk Sprite and Bone** (**CC0**, do kirard), **Dog Run Stand Pee** (**CC BY 3.0**, do qubodup — 6 frames 46x27), **Dog Spritesheets** (**CC0**, do Jason of GDN), **Dog 3** (**CC0**, do rmazanek), **Kobolds Dog Soldier Rework** (**CC BY-SA 3.0**, do AntumDeluge), **Pixel Wolf** (**CC0**, do alizard), **Corgi Butt** (**CC0**, da Varya), **Husky Sprites** (**CC0**, do Hellkipz), **Smiling Husky Portrait** (**CC BY-SA 3.0**, do Gaspard), **German Shepherd 0** (**CC0**, do Shepardskin), **German Shepherd** (**CC BY 3.0** / CC BY-SA 3.0 / CC0, da Victoria Miyashi), **Biggest Doggo** (**CC BY 4.0** / CC BY 3.0, do Spring Spring), **Pug Rework** (**CC BY 3.0**, do AntumDeluge), **Pug and Miscellanea** (**CC BY-SA 4.0**, da Firenz), **Lil Puddin Puggums Deluxe** (**CC BY 3.0**, da SdiviHall), **Boxer Game Character** (**CC0**, do Raga2D), **Boxer Poses** (**CC0**, do Technopeasant), **Hell Hound Character** (**CC BY 3.0**, do ansimuz), **Enemy Hound Sprites** (**CC0**, do badatcode123), **LPC Wolf Animation** (**CC BY 4.0** / CC BY 3.0 / GPL 3.0, do William Thompson), **Wolf Pack 32x32 Walking** (**CC0**, do patvanmackelberg), **Wolf 3** (**CC0**, do carnageddon), **Fenrir Wolf Pixel** (**CC BY-SA 3.0**, do leeor_net), **Fenrir Wolf Injuries** (**CC BY-SA 3.0**, do PK Illustration), **Wolf Game Character** (**CC0**, do Segel)
 - itch (gratuitos, licença na página): https://leothelionknight.itch.io/free-drone-dog-sprite (drone-dog sprite, **gratuito**, CC0 confirmado nos comentários), https://vivicat.itch.io/robot-dog-sprite-sheet (robot dog, **comercial livre, não revender**), https://cmg99.itch.io/free-32x32-pomeranian-idle-sprite (pomeranian idle 32x32, **comercial livre**), https://dadddydarko.itch.io/frost-dog-2d-sprite (frost dog 64x64, 9 animações, **comercial livre, não revender**), https://emscape.itch.io/mouse-doggo-warfighter-assets (mouse doggo warfighter, **comercial livre**), https://stcrbcn.itch.io/freedogcatmousesprites (dog+cat+mouse, **CC BY 4.0**, atribuição), https://kshruliyastudio.itch.io/free-2d-dog-player-asset-walk-run-jump-dash-attack-die (player dog completo: walk, run, jump, dash, attack, die, **comercial livre**), https://pzuh.itch.io/free-cat-and-dog-sprites (cat+dog, **comercial livre**, autor confirmou "yes you can"), https://pixelfight.itch.io/48-dogs (48 cães **CC0**, autor confirmou "CC0!"), https://thirdangle.itch.io/vet-clinic-starter (vet clinic starter 12 sprites isométrico, **comercial livre, crédito ThirdAngle**), https://em-hato.itch.io/free-open-game-art-dog-and-cat-sprites (dog+cat, gratuito), https://kopellis.itch.io/cute-dog-pixel-art (cute dog, gratuito), https://murimouse.itch.io/loricanis-armored-dog-pixel-art (loricanis armored dog, gratuito), https://thirdangle.itch.io/vet-clinic-starter (vet clinic, **comercial livre, crédito ThirdAngle**), https://flunch1314.itch.io/100-adorable-pixel-dog-avatars-front-facing-2d-rpg-icons (100 avatares 10 raças **royalty-free comercial**), https://dadddydarko.itch.io/2d-dog-template (template modular 2D dog, **comercial livre, não revender**), https://emscape.itch.io/ranger-dog-knight-assets (ranger dog knight, **comercial livre, nome seu preço**), https://pozac.itch.io/cozy-mountain-dog-2d-pixel-art-platformer-asset-pack (cozy mountain dog platformer **US$ 7,96/3,99** — *não incluído*)
+PALAVRAS-CHAVE: itch.io, Dogs, Drone Dog Sprite, LeoTheLionKnight, Robot Dog Sprite Sheet, Vivicat, Pomeranian Idle Sprite, CMG99, Frost Dog 2D Sprite, DadddyDarko, Mouse Doggo Warfighter Assets, Emscape, Free Dog Cat Mouse Sprites, Stcrbcn, Free 2D Dog Player Asset, Kshruliyastudio, Free Cat and Dog Sprites, pzUH, 48 Dogs, Pixelfight, Vet Clinic Starter, ThirdAngle, Free Open Game Art Dog and Cat Sprites, Em Hato, Cute Dog Pixel Art, Kopellis, Loricanis Armored Dog Pixel Art, Murimouse, 100 Adorable Pixel Dog Avatars, Flunch1314, 2D Dog Template, DadddyDarko, Ranger Dog Knight Assets, Emscape, CC0, CC BY 4.0, uso comercial, cães, sprites, avatar, plataforma, web
 
 ### Mapas: parque, ruas, casa, quintal, clínica vet, pet shop
 
 - na OpenGameArt: **Isometric Dog Sprite** (**CC BY 4.0** / CC BY 3.0, da Angelee — cão isométrico), **32x32 Wolf Cub** (**CC BY 3.0** / CC BY-SA 3.0, do Spring Spring), **Feral Doggy Adventure** (**CC BY 4.0** / CC BY 3.0, do Spring Spring — aventura cão selvagem), **Dog Platformer Fighter** (cenário plataforma), **Platform Pixel Art Assets** (**CC0**, do ansimuz — base plataforma), **Cozy Space Interiors** (seção **Nave espacial** — interiores adaptáveis), **Urban Tiles / Street Tiles** (seção **Tecnologia** — ruas urbanas)
 - itch (gratuitos): https://thirdangle.itch.io/vet-clinic-starter (vet clinic isométrico 12 sprites, **comercial livre, crédito ThirdAngle**), https://pixfree.itch.io/bubble-shooter-ocean (fundo oceano), https://bigcatstudios.itch.io/bubble-bunny-animal-forest (animal forest), https://pzuh.itch.io/free-cat-and-dog-sprites (cat+dog sprites), https://jibplaysgames.itch.io/free-soft-color-bubble-ui-pack (soft color bubble UI), https://thetgi.itch.io/bubble-buttons (bubble buttons free version)
+PALAVRAS-CHAVE: itch.io, Dogs, Vet Clinic Starter, ThirdAngle, Bubble Shooter Ocean, Pixfree, Bubble Bunny Animal Forest, Big Cat Studios, Free Cat and Dog Sprites, pzUH, Free Soft Color Bubble UI Pack, Jib Plays Games, Bubble Buttons, Thetgi, uso comercial, cães, sprites, UI, bolhas, web
 
 ### Casas: casinha de cachorro, canil, cama, tigela, brinquedos
 
 - na OpenGameArt: **Dog Walk Sprite and Bone** (**CC0** — caminhada + osso), **Dog Run Stand Pee** (**CC BY 3.0** — 6 frames 46x27), **Dog/Wolf Spritesheet** (**CC0**), **Dog Walk Sprite and Bone** (duplicado), **Bone** / **Bone 0/1/2** (osso, seção **Armas**), **Crate** / **Caixa** (caixa, seção **Itens**), **Doghouse** (casinha, seção **Casas** — verificar), **Kitchen Background** (cozinha, seção **Cafeland**), **Cozy Interior** (seção **PK XD**)
 - itch: https://thirdangle.itch.io/vet-clinic-starter (vet clinic isométrico 12 sprites, **comercial livre, crédito ThirdAngle**), https://pzuh.itch.io/free-cat-and-dog-sprites (inclui acessórios), https://em-hato.itch.io/free-open-game-art-dog-and-cat-sprites (dog+cat assets)
+PALAVRAS-CHAVE: itch.io, Dogs, Vet Clinic Starter, ThirdAngle, Free Cat and Dog Sprites, pzUH, Free Open Game Art Dog and Cat Sprites, Em Hato, uso comercial, cães, acessórios, sprites, web
 
 ### Itens: coleira, coleira, osso, bola, brinquedo, petisco, ração, tigela, coleira, peitoral, guia
 
 - na OpenGameArt: **Dog Walk Sprite and Bone** (**CC0** — osso), **Bone** / **Bone 0/1/2** (**CC0** — osso), **Dog Walk Sprite and Bone** (duplicado), **Round Shields** (escudo redondo, adaptável), **Shields CC0** (escudos), **Tiny Viking Battleaxe** (machado pequeno, adaptável), **10 Pixel Weapons** (armas de rua, adaptável), **Powerup Bubble** / **Bottles** / **Stone** / **Animated Orb** (power-ups, seção **Armas**), **Comic Speech Balloons** / **2D Speech Bubbles** (balões fala, seção **Super-heróis**)
 - itch: https://pzuh.itch.io/free-cat-and-dog-sprites (inclui acessórios), https://thetgi.itch.io/bubble-buttons (bubble buttons, free version **comercial livre**)
+PALAVRAS-CHAVE: itch.io, Dogs, Free Cat and Dog Sprites, pzUH, Bubble Buttons, Thetgi, uso comercial, cães, acessórios, UI, bolhas, web
 
 ### Texturas: grama parque, piso casa, tapete, terra quintal
 
@@ -2982,6 +3520,7 @@ Não há uma franquia única "Dogs" mas o tema **cães / simulador de cachorro /
 
 - na OpenGameArt: **Puppydogs Playful** (**CC BY 3.0** / CC BY 4.0, do Spring Spring — tema brincalhão cachorros), **Happy Tune** (**CC BY 3.0**, da syncopika), **Happy Arcade Tune** (**CC BY 3.0**, do rezoner), **Talking Cute** (**CC0**, do Pro Sensory), **Cute Bytes OST** (**CC BY 4.0**, da Chloe Wolfe), **Happy Adventure Loop** (**CC0**, do TinyWorlds), **Happy Synths Loop** (**CC0**, do 3xBlast), **Funky House** (**CC0**, do Of Far Different), **Loop House in Forest** (**CC BY 3.0**, do HorrorPen), **Doll House** (**CC BY 4.0**, do Alexandr Zhelanov), **Caketown Cute/Playful** (**CC BY-SA 3.0**, do Vircon32), **Cute March Music** (**CC BY-SA 3.0**, do C418), **Happy Tune** (**CC BY 3.0**), **Happy Arcade Tune** (**CC BY 3.0**), **Cute/Playful** loops já na seção **Match-3 / Candy Crush** e **PK XD**
 - itch (gratuitos): https://kcs-llc.itch.io/cute-animal-companions-sfx-pack (SFX animais companhia, gratuito), https://bit-by-bit-sound.itch.io/ultimate-game-music-asset-pack (música **US$ 97** — *não incluído*)
+PALAVRAS-CHAVE: itch.io, Dogs, Cute Animal Companions SFX Pack, KCS LLC, SFX animais companhia, uso comercial, áudio, SFX, cães, web
 
 ### Avaliados e não incluídos
 
@@ -2998,16 +3537,19 @@ Tower Defense é um gênero, não uma franquia única, mas jogos icônicos como 
 
 - na OpenGameArt (todas CC0 salvo indicado): **Tower Defense** / **Tower Defense 2** (Kenney, **CC0** — pack completo TD com torres, inimigos, tiles), **Tower Defense Grass/Dirt/Snow Background** (hassekf, **CC0** — fundos gramados/terra/neve), **Tower Defense Top-Down** (Kenney, **CC0** — tiles TD top-down), **Tower Defence Basic Towers** (**CC0**, do Nido — torres básicas), **Tower 4 Damaged Versions** (**CC BY-SA 3.0**, do Skorpio — torre com 4 estágios dano), **Gameboy Tower Defense Sprites** (**CC0** — sprites estilo Gameboy), **Vectowers/Vecturrets** (**CC BY 3.0** / GPL 3.0 / GPL 2.0, do qubodup — rockets/laser), **Steampunk Archer Tower** (**CC0**, do City Building Game Art — torre arqueiro steampunk), **Cannon Tower** (**CC0**, do qubodup), **RTS Cannon Low Poly** (**CC0**, do City Building Game Art), **Steampunk Turrets** (**CC BY 3.0**, da mauriku), **Isometric Electric/Lightning Tower** (**CC BY-SA 3.0**, do ramtam — torre raio isométrica), **Electric Orb Tower Anim** (**CC0**, do Color Optimist — torre orbe elétrico animado), **Crossbow/Arbalest** (**CC0**, do onlyjb), **Walls/Fence/Tower** (**CC BY 4.0**, do Kutejnikov — paredes/cerca/torre), **Steampunk Archer Tower Medieval Series** (**CC0**, do City Building Game Art)
 - itch (gratuitos, licença na página): https://swarmpulsestudio.itch.io/tower-defense-ui-kit-200-text-free-hud-towers-buttons-and-panels (UI kit 200+ HUD/torres/botões/paineis **pago US$ 4,99** — *não incluído*), https://certainity.itch.io/copperline-free-tower-defense-ui (Copperline TD UI **MIT license**, 116 PNG, engine-agnostic), https://lenny230809.itch.io/robot-td-2 (Robot TD 2, gratuito), https://shotty.itch.io/blitt-td (Blitt TD, gratuito), https://sauerninja.itch.io/sticktd (StickTD, **MIT license**, gratuito), https://hexagamez.itch.io/turret-master (Turret Master, gratuito), https://noobstickz.itch.io/medieval-td (Medieval TD, gratuito), https://bitmagine.itch.io/bubblebobble-mathtrap (Bubble Bobble Math Trap, gratuito)
+PALAVRAS-CHAVE: itch.io, Tower Defense, Tower Defense UI Kit 200 Text Free HUD Towers Buttons And Panels, SwarmPulse Studio, Copperline Free Tower Defense UI, Certainity, Robot TD 2, Lenny230809, Blitt TD, Shotty, StickTD, SaurNinja, Turret Master, HexaGamez, Medieval TD, NoobStickz, Bubble Bobble Math Trap, Bitmagine, MIT license, uso comercial, TD, UI, torres, HUD, sprites, web
 
 ### Inimigos / Creeps / Mobs / Bosses
 
 - na OpenGameArt: **Bevouliin Free Enemy Villain Monster** (**CC0**, do bevouliin.com — vilão monstro), **UFO Enemy** (**CC0**), **Fossil Undead RPG Enemy** (**CC0**), **Enemy** (**CC0**), **3 RPG Enemy Remixes** (**CC0**), **1 Hour LPC Enemy** (**CC0**), **Rat King Antifarea RPG Enemy** (**CC0**), **SciFi TDS Kit** (**CC0**), **Hell Hound Character** (**CC BY 3.0**, do ansimuz), **Enemy Hound Sprites** (**CC0**), **Bevouliin Free Orange Bubble Land Monster** (**CC0**), **Chocolate Monster Sprite Sheets** (**CC0**), **Orange Spider** (**CC0**), **Cute Spider** (**CC0**), **Dark Monster** (**CC0**), **Rock Monster** (**CC0**), **Skull Obstacle** (**CC0**), **Slime** (**CC0**), **Teleporter Effect** (**CC0**), **LPC Beetle** (**CC0**), **Water Aqua Layer** (**CC0**), **Floating Skeleton** (**CC0**), **Cube Dropper Tube** (**CC0**), **Kobolds Dog Soldier Rework** (**CC BY-SA 3.0**, do AntumDeluge), **Animated Rogue** (**CC BY 3.0**, do Calciumtrice), **Rogue Dungeon** (**OGA-BY 3.0**), **Animated Minotaur** (**CC0**), **Enemy Eagle** (**CC0**), **Cloisters Deck** (**CC0**), **Bloody Mary** (**CC0**), **Urban Lightning Man** (**CC BY 3.0**), **Bevouliin Free Game Character Yellow Flappy Bird** (**CC0**), **Super Dead Gunner enemies** (**CC0**), **Gothicvania Patreon Collection** (Patreon — *não incluído*)
 - itch (gratuitos): https://free-game-assets.itch.io/free-field-enemies-pixel-art-for-tower-defense (enemies TD, gratuito), https://free-game-assets.itch.io/undead-enemies-pixel-art-for-tower-defense (undead **US$ 7-19** — *não incluído*), https://free-game-assets.itch.io/swamp-tileset-pixel-art-for-tower-defense (swamp tileset **US$ 7-19** — *não incluído*), https://free-game-assets.itch.io/mage-towers-pixel-art-for-tower-defense (mage towers **US$ 7-19** — *não incluído*), https://free-game-assets.itch.io/guardian-towers-pixel-art-for-tower-defense (guardian towers **US$ 7-19** — *não incluído*), https://free-game-assets.itch.io/catapult-towers-pixel-art-for-tower-defense (catapult towers **US$ 7-19** — *não incluído*), https://noobstickz.itch.io/medieval-td (Medieval TD, gratuito), https://lenny230809.itch.io/robot-td-2 (Robot TD 2, gratuito), https://shotty.itch.io/blitt-td (Blitt TD, gratuito), https://sauerninja.itch.io/sticktd (StickTD, **MIT license**, gratuito), https://hexagamez.itch.io/turret-master (Turret Master, gratuito), https://danielparra.itch.io/diabolic-toys-tower-defense (Diabolic Toys TD, gratuito), https://bitmagine.itch.io/bubblebobble-mathtrap (Bubble Bobble Math Trap, gratuito)
+PALAVRAS-CHAVE: itch.io, Tower Defense, Free Field Enemies Pixel Art For Tower Defense, Free Game Assets, Undead Enemies Pixel Art For Tower Defense, Swamp Tileset Pixel Art For Tower Defense, Mage Towers Pixel Art For Tower Defense, Guardian Towers Pixel Art For Tower Defense, Catapult Towers Pixel Art For Tower Defense, Medieval TD, NoobStickz, Robot TD 2, Lenny230809, Blitt TD, Shotty, StickTD, SaurNinja, Turret Master, HexaGamez, Diabolic Toys Tower Defense, Daniel Parra, Bubble Bobble Math Trap, Bitmagine, MIT license, uso comercial, TD, inimigos, torres, sprites, web
 
 ### Mapas: grids, paths, waypoints, tilesets, biomas
 
 - na OpenGameArt: **Tower Defense** / **TD 2** / **TD Grass/Dirt/Snow Background** / **TD Top-Down** (Kenney/hassekf, **CC0** — tiles TD com backgrounds), **Tower Defence Basic Towers** (**CC0**, do Nido), **Tower 4 Damaged Versions** (**CC BY-SA 3.0**), **Gameboy TD Sprites** (**CC0**), **Vectowers/Vecturrets Rockets/Laser** (**CC BY 3.0** / GPL), **Steampunk Archer Tower** (**CC0**), **Cannon Tower** (**CC0**), **RTS Cannon** (**CC0**), **Steampunk Turrets** (**CC BY 3.0**), **Isometric Lightning Tower** (**CC BY-SA 3.0**), **Electric Orb Tower Anim** (**CC0**), **Crossbow/Arbalest** (**CC0**), **Walls/Fence/Tower** (**CC BY 4.0**), **Steampunk Archer Tower Medieval** (**CC0**), **Space Game Art Pack Extended** (**CC0**), **RTS Workshop Building** (**CC0**), **Elixir Storage Building** (**CC0**), **Research Building** (**CC0**), **Gold Mine City Building** (**CC0**), **LPC Dungeon Elements** (**CC BY 4.0** / CC BY 3.0 / GPL 3.0), **Dungeon Crawler Tiles/Pack** (**CC0** / CC BY 3.0 / CC BY 4.0), **Old School Dungeon Crawler** (**CC0**), **Roguelike Modern City Pack** (**CC0**, do Kenney), **RPG Town Tileset** / **Top Down Village Elements** / **RPG Urban Pack** (já catalogados)
 - itch (gratuitos): https://free-game-assets.itch.io/free-fields-tileset-pixel-art-for-tower-defense (fields tileset TD, gratuito), https://free-game-assets.itch.io/free-pixel-citizens-for-top-down-tower-defense (citizens TD, gratuito), https://free-game-assets.itch.io/free-archer-towers-pixel-art-for-tower-defense (archer towers TD, gratuito), https://noobstickz.itch.io/medieval-td (Medieval TD, gratuito), https://certainity.itch.io/copperline-free-tower-defense-ui (Copperline TD UI **MIT license**, 116 PNG), https://certainity.itch.io/copperline-free-tower-defense-ui (duplicado), https://swarmpulsestudio.itch.io/tower-defense-ui-kit-200-text-free-hud-towers-buttons-and-panels (UI kit **US$ 4,99** — *não incluído*)
+PALAVRAS-CHAVE: itch.io, Tower Defense, Free Fields Tileset Pixel Art For Tower Defense, Free Game Assets, Free Pixel Citizens For Top Down Tower Defense, Free Archer Towers Pixel Art For Tower Defense, Medieval TD, NoobStickz, Copperline Free Tower Defense UI, Certainity, MIT license, uso comercial, TD, tileset, cidadãos, torres, sprites, web
 
 ### Projéteis, efeitos, upgrades, UI
 
@@ -3018,6 +3560,7 @@ Tower Defense é um gênero, não uma franquia única, mas jogos icônicos como 
 
 - na OpenGameArt: **Tower Defense Music** (seção **Guerra/Militar** — The Battlefield CC0, Battlefield Overture CC0, Epic Cinematic Battlefield OGA-BY 3.0), **Action Music Pack** (CC BY 3.0), **Action Theme Song** (CC0), **Dream Raid Cinematic** (CC BY 3.0), **Neon Action** (CC BY 3.0), **Action Tracks** (CC BY 3.0), **Heroic Demise** (CC BY 3.0), **Battle Music** (CC0), **Boss Battle Music** (CC0), **Colossal Boss Battle** (CC BY 3.0), **Massive Battle** (CC0), **War Theme** (CC0), **Final Epic Battle** (GPL 2.0), **Space Shooter Music** (CC BY 3.0/OGA-BY 3.0/CC0), **Laser Fire/Space Laser/Chunky Explosion** (CC BY 3.0/CC0), **Gunshot Sounds** (CC0), **Punch/Slap/Kick/37 Hits** (CC0/CC BY 3.0), **Air Whoosh** (CC0), **Explosion/Big Explosion** (CC0/CC BY 3.0)
 - itch (gratuitos): https://moneywithjjcom.itch.io/free-tower-defense-sounds (8 SFX TD **gratuito, comercial livre, sem atribuição**), https://moneywithjjcom.itch.io/free-tower-defense-sounds (duplicado), https://kosmocat.itch.io/space-train-journey (5 faixas espaciais, comercial livre), https://doranarasi.itch.io/shmup-bgm-pack (BGM shmup, livre comercial), https://albesca.itch.io/outer-space-music-pack (CC0), https://gooseninja.itch.io/space-music-pack (Space Music Pack, seção Metroid), https://bit-by-bit-sound.itch.io/ultimate-game-music-asset-pack (US$ 97 — *não incluído*), https://csaf.itch.io/akatsuki-anime-jrpg-sfx (US$ 12,99-25 — *não incluído*)
+PALAVRAS-CHAVE: itch.io, Tower Defense, Free Tower Defense Sounds, MoneyWithJJCom, 8 SFX TD, Space Train Journey, Kosmocat, Shmup BGM Pack, Doranarasi, Outer Space Music Pack, Albesca, CC0, Space Music Pack, GooseNinja, uso comercial, TD, áudio, música, SFX, espaço, shmup, web
 
 ### Avaliados e não incluídos
 
@@ -3042,6 +3585,7 @@ Tower Defense é um gênero, não uma franquia única, mas jogos icônicos como 
 - https://itch.io/c/6355283/assets (Assets - OriginalThinker)
 - https://itch.io/c/6981592/my-favorite-assets (My Favorite Assets - Wild Lynx Games)
 - https://toffeecraft.itch.io/mega-bundle-forest-cat-user-interface-animals (**Royalty-free custom** — mega bundle pixel art com UI (vários temas), gatos animados, animais e tiles de floresta/natureza; uso comercial OK, modificar OK, não redistribuir como standalone, sem IA)
+PALAVRAS-CHAVE: itch.io, Bundles, ToffeeCraft Mega Bundle Forest Cat User Interface Animals, ToffeeCraft, mega bundle, pixel art, UI, gatos, animais, tiles, floresta, natureza, royalty-free, uso comercial, sprites, bundle, web
 - https://itch.io/c/6005252/monsters-enemys (monsters, enemys - summerjin19)
 - https://itch.io/c/356217/sprites (Sprites - Arcalum)
 - https://itch.io/c/3666630/halloween (halloween - shr)
@@ -3086,19 +3630,25 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 
 ### Fontes (pixel)
 - https://not-jam.itch.io/not-jam-font-pack (Not Jam Font Pack — 28 fontes pixel CC0 em .ttf; uso comercial livre em qualquer mídia (jogos, pixel art, vídeos); sem atribuição obrigatória; sem IA generativa; Reino Unido. Licença: Creative Commons Zero v1.0 Universal.)
+PALAVRAS-CHAVE: itch.io, Not Jam Font Pack, Not Jam, 28 fontes pixel, CC0, ttf, uso comercial, sem atribuição, sem IA, fontes, pixel, web
 
 ### Ícones (UI)
 - https://gvesster.itch.io/free-icon-pack (gvesster Free Icon Pack — ícones gratuitos em PNG 64px e 256px, SVG somente na versão DEV paga; uso comercial permitido e trabalho para clientes liberado; crédito opcional mas apreciado; licença personalizada do autor — não permite revenda, redistribuição como pack próprio, nem uso para treinamento de IA.)
+PALAVRAS-CHAVE: itch.io, gvesster Free Icon Pack, gvesster, ícones gratuitos, PNG, 64px, 256px, SVG, uso comercial, crédito opcional, ícones, UI, web
 
 ### Sprites, tilesets e itens (pixel art 8×8 / 2-bit)
 - https://not-jam.itch.io/sky-farms-asset-pack (Sky Farms Asset Pack — tileset 8×8, sprites, ícones e fonte .ttf em CC0; uso comercial livre em projetos comerciais e não-comerciais; modificação livre; sem IA generativa.)
+PALAVRAS-CHAVE: itch.io, Sky Farms Asset Pack, Not Jam, tileset 8x8, sprites, ícones, fonte ttf, CC0, uso comercial, sem IA, sprites, tileset, fontes, web
 - https://not-jam.itch.io/haunted-hotel-asset-pack (Haunted Hotel Asset Pack — sprites de jogador, zumbis, monstros, tileset 8×8 (.png e .tres Godot 3.x), itens, ícones de UI e FX em CC0; uso comercial livre; sem IA generativa.)
+PALAVRAS-CHAVE: itch.io, Haunted Hotel Asset Pack, Not Jam, sprites, zumbis, monstros, tileset 8x8, Godot, itens, ícones UI, FX, CC0, uso comercial, sem IA, sprites, tileset, terror, web
 
 ### Música e SFX (chiptune / lo-fi)
 - https://not-jam.itch.io/not-jam-music-pack (Not Jam Music Pack — faixas de jogos em .wav e .ogg, CC0; uso comercial livre, sem atribuição obrigatória; sem IA generativa.)
+PALAVRAS-CHAVE: itch.io, Not Jam Music Pack, Not Jam, faixas jogos, wav, ogg, CC0, uso comercial, sem atribuição, sem IA, áudio, música, jogos, web
 
 ### 16-bit Pixel Art (ansimuz)
 - https://ansimuz.itch.io/ (Legacy Collection — FREE 16-bit Pixel Art Assets: sprites, tilesets e fundos para platformers e RPGs; gratuito; ver página do criador para o link direto do pack e confirmar a licença na página de download.)
+PALAVRAS-CHAVE: itch.io, ansimuz, Legacy Collection, FREE 16-bit Pixel Art Assets, sprites, tilesets, fundos, platformers, RPGs, uso comercial, sprites, tileset, fundo, plataforma, RPG, web
 
 ---
 
@@ -3108,12 +3658,19 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 
 - https://itch.io/game-assets/free/genre-platformer (assets grátis para jogos de plataforma)
 - https://pixelfrog-assets.itch.io/pixel-adventure-1 (personagens e itens pixel para platformer)
+PALAVRAS-CHAVE: itch.io, Platformer, Pixel Adventure 1, Pixelfrog Assets, personagens, itens pixel, platformer, sprites, uso comercial, web
 - https://pixelfrog-assets.itch.io/treasure-hunters (personagens e itens para aventura)
+PALAVRAS-CHAVE: itch.io, Platformer, Treasure Hunters, Pixelfrog Assets, personagens, itens, aventura, sprites, uso comercial, web
 - https://zerie.itch.io/tiny-rpg-character-asset-pack (22 personagens animados, adequado para platformer)
+PALAVRAS-CHAVE: itch.io, Platformer, Tiny RPG Character Asset Pack, Zerie, 22 personagens animados, platformer, sprites, personagem, RPG, uso comercial, web
 - https://zerie.itch.io/tiny-rpg-character-asset-pack-02 (20 personagens animados)
+PALAVRAS-CHAVE: itch.io, Platformer, Tiny RPG Character Asset Pack 02, Zerie, 20 personagens animados, platformer, sprites, personagem, RPG, uso comercial, web
 - https://vnitti.itch.io/glacial-mountains-parallax-background (fundo parallax para platformer)
+PALAVRAS-CHAVE: itch.io, Platformer, Glacial Mountains Parallax Background, Vnitti, fundo parallax, platformer, cenário, montanha, gelo, sprites, uso comercial, web
 - https://adamatomic.itch.io/cavernas (tileset de aventura-platforming, domínio público)
+PALAVRAS-CHAVE: itch.io, Platformer, Cavernas, Adam Atomic, tileset, aventura, platforming, domínio público, uso comercial, sem atribuição, tileset, cenário, caverna, web
 - https://admurin.itch.io/parallax-backgrounds-caves (fundos parallax de cavernas)
+PALAVRAS-CHAVE: itch.io, Platformer, Parallax Backgrounds Caves, Admurin, fundos parallax, cavernas, sprites, cenário, parallax, uso comercial, web
 
 ### Roguelike / Roguelite
 
@@ -3123,23 +3680,28 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenney.nl/assets/roguelike-indoors (cenários internos roguelike, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/roguelike-rpg-pack (pack roguelike/RPG, CC0) — ver `assets/kenney.md`
 - https://thkaspar.itch.io/tth-animals (16×16 sprites de animais animados, adequado para roguelike)
+PALAVRAS-CHAVE: itch.io, Roguelike, TTH Animals, ThKaspar, 16x16 sprites, animais animados, roguelike, sprites, animais, uso comercial, web
 - https://oisougabo.itch.io/gap-i (Gabo's Adventurers Pack I — três personagens totalmente animados para RPG side scroller)
+PALAVRAS-CHAVE: itch.io, Roguelike, Gabo's Adventurers Pack I, Oisougabo, três personagens, totalmente animados, RPG, side scroller, sprites, personagem, uso comercial, web
 - https://not-jam.itch.io/haunted-hotel-asset-pack (Haunted Hotel — sprites de jogador, zumbis, monstros, tileset 8×8, itens, ícones UI e FX em CC0)
 
 ### Metroidvania
 
 - https://itch.io/game-assets/free/tag-metroidvania (assets grátis com tag metroidvania)
 - https://pixel-boy.itch.io/ninja-adventure-asset-pack (base do jogo, CC0: personagens, monstros, chefes, tilesets, itens, VFX, ícones, UI, música e SFX — adequado para metroidvania)
+PALAVRAS-CHAVE: itch.io, Metroidvania, Ninja Adventure Asset Pack, Pixel Boy, CC0, personagens, monstros, chefes, tilesets, itens, VFX, ícones, UI, música, SFX, sprites, uso comercial, sem atribuição, web
 - https://ansimuz.itch.io/ (Legacy Collection — FREE 16-bit Pixel Art Assets: sprites, tilesets e fundos para platformers e RPGs, adequado para metroidvania)
 
 ### Quebra-cabeça / Puzzle
 
 - https://itch.io/game-assets/free/genre-puzzle (assets grátis para jogos de quebra-cabeça)
 - https://ci.itch.io/puzzle-games-graphics-pack (Puzzle Games Graphics Pack — 506 sprites, FREE for commercial use, por Chequered Ink)
+PALAVRAS-CHAVE: itch.io, Puzzle, Puzzle Games Graphics Pack, CI, Chequered Ink, 506 sprites, FREE for commercial use, sprites, uso comercial, puzzle, web
 - https://kenney.nl/assets/puzzle-pack-1 (pack de quebra-cabeça 1, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/puzzle-pack-2 (pack de quebra-cabeça 2, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/sokoban (quebra-cabeça sokoban, CC0) — ver `assets/kenney.md`
 - https://gamedev-kitty.itch.io/8-cute-sleeping-kittens-sprites (8 gatinhos dormindo, sprites fofos para puzzle cozy)
+PALAVRAS-CHAVE: itch.io, Puzzle, 8 Cute Sleeping Kittens Sprites, Game Dev Kitty, 8 gatinhos, dormindo, sprites fofos, puzzle cozy, sprites, uso comercial, web
 
 ### Aventura narrativa / Walking Simulator
 
@@ -3147,6 +3709,7 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenney.nl/assets/ui-pack-adventure (UI para aventura, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/scribble-dungeons (masmorras no estilo rabisco, CC0) — ver `assets/kenney.md`
 - https://seliel-the-shaper.itch.io/character-base (base de personagem pixel — demo gratuito comercial)
+PALAVRAS-CHAVE: itch.io, Aventura narrativa, Character Base, Seliel The Shaper, base personagem pixel, demo gratuito, comercial, sprites, personagem, uso comercial, web
 
 ### Simulação / Gestão / Tycoon
 
@@ -3155,7 +3718,9 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenney.nl/assets/tiny-farm (fazenda estilo Tiny, CC0 — adequado para farming sim) — ver `assets/kenney.md`
 - https://kenney.nl/assets/mini-market (mercado 3D estilo Mini, CC0) — ver `assets/kenney.md`
 - https://ladyluck.itch.io/fortuna-map (Fortuna - Tileset Map para city simulation)
+PALAVRAS-CHAVE: itch.io, Simulação, Fortuna Map, Ladyluck, Tileset Map, city simulation, tileset, cenário, cidade, uso comercial, web
 - https://xeeh.itch.io/farm-set (Free Voxel Farm Set — 60 modelos com tema de fazenda)
+PALAVRAS-CHAVE: itch.io, Simulação, Farm Set, Xeeh, Free Voxel Farm Set, 60 modelos, fazenda, voxel, uso comercial, modelos, fazenda, web
 - https://craftpix.net/freebies/free-sushi-restaurant-game-asset-kit/ (kit de restaurante de sushi, adequado para simulação de gestão)
 
 ### Souls-like / Action RPG
@@ -3174,9 +3739,13 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://itch.io/game-assets/free/tag-music (assets grátis de música)
 - https://kenney.nl/assets/music-jingles (jingles de música, CC0) — ver `assets/kenney.md`
 - https://davidkbd.itch.io/hexapuppies-synthwave-music-pack (Synthwave Music Pack)
+PALAVRAS-CHAVE: itch.io, Música, Hexapuppies Synthwave Music Pack, DavidKBD, Synthwave, música, uso comercial, áudio, música, synthwave, web
 - https://davidkbd.itch.io/code-injection-dark-techno-music-pack (EDM/Dark Techno/Electronic Music Pack)
+PALAVRAS-CHAVE: itch.io, Música, Code Injection Dark Techno Music Pack, DavidKBD, EDM, Dark Techno, Electronic, música, uso comercial, áudio, música, techno, web
 - https://megumi-ryu.itch.io/ (劉 恵 Megumi Ryu — música kawaii japonesa)
+PALAVRAS-CHAVE: itch.io, Música, Megumi Ryu, Kawaii Japonesa, música kawaii, Japão, uso comercial, áudio, música, kawaii, web
 - https://zonezonezonebgm.itch.io/ (zøne — Yume Kawaii BGM)
+PALAVRAS-CHAVE: itch.io, Música, Zone Zone Zone BGM, Zøne, Yume Kawaii BGM, música, uso comercial, áudio, música, kawaii, web
 - https://not-jam.itch.io/not-jam-music-pack (Not Jam Music Pack — faixas CC0 para jogos)
 
 ### Tiro / Shmup / Bullet Hell
@@ -3187,6 +3756,7 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenney.nl/assets/space-shooter-extension (extensão space shooter, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/shooting-gallery (galeria de tiro, CC0) — ver `assets/kenney.md`
 - https://anim86.itch.io/space-shoter-starter-pack (Space Shooter - Starter pack, arte para protótipo)
+PALAVRAS-CHAVE: itch.io, Shooter, Space Shooter Starter Pack, Anim86, arte para protótipo, space shooter, sprites, nave, uso comercial, web
 - https://kenney.nl/assets/alien-ufo-pack (alienígenas e UFOs, CC0) — ver `assets/kenney.md`
 
 ### Estratégia / Tático
@@ -3198,7 +3768,9 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenney.nl/assets/tower-defense-top-down (tower defense top-down, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/tower-defense-kit (kit tower defense 3D, CC0) — ver `assets/kenney.md`
 - https://xeeh.itch.io/free-hexagon-tileset (Free Hexagon Tileset — 45+ tiles hexagonais 3D e isométricos)
+PALAVRAS-CHAVE: itch.io, Estratégia, Free Hexagon Tileset, Xeeh, 45 tiles, hexagonais, 3D, isométricos, tileset, uso comercial, estratégia, web
 - https://andelrodis.itch.io/tank-pack (Tank Pack — para jogos de estratégia com tanques)
+PALAVRAS-CHAVE: itch.io, Estratégia, Tank Pack, Andelrodis, tanques, estratégia, uso comercial, modelos, tanque, web
 
 ### Terror / Horror
 
@@ -3207,7 +3779,9 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenney.nl/assets/dark-ambient-loop-13 (ambiência sombria em loop, CC BY 3.0) — ver `assets/opengameart.md`
 - https://not-jam.itch.io/haunted-hotel-asset-pack (Haunted Hotel — sprites de zumbis, monstros, tileset 8×8 em CC0)
 - https://rgsdev.itch.io/free-modular-low-poly-dungeon-pack-by-rgsdev (Free Modular Low Poly Dungeon Pack — para jogos de terror/dungeon)
+PALAVRAS-CHAVE: itch.io, Terror, Free Modular Low Poly Dungeon Pack, RgsDev, masmorra, low poly, modular, terror, dungeon, uso comercial, modelos, masmorra, web
 - https://doctor-sci3nce.itch.io/psx-shotgun-asset-pack (PSX Shotgun Asset Pack — estilo retrô de terror)
+PALAVRAS-CHAVE: itch.io, Terror, PSX Shotgun Asset Pack, Doctor Sci3nce, espingarda, estilo retrô, terror, PSX, uso comercial, modelos, arma, terror, web
 - Ver também `assets/horror-dark-fantasy-free-assets.md` para catálogo dedicado
 
 ### Idle / Incremental
@@ -3217,21 +3791,32 @@ Novos packs gratuitos de assets 2D com licença de uso comercial verificada, enc
 - https://kenney.nl/assets/generic-items (itens genéricos, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/animal-pack (animais, CC0) — ver `assets/kenney.md`
 - https://caz-bee.itch.io/cute-chicken-2-character-sprite (Cute Chicken 2 — sprite de personagem para idle/cozy)
+PALAVRAS-CHAVE: itch.io, Idle, Cute Chicken 2 Character Sprite, Caz Bee, galinha fofa, sprite personagem, idle, cozy, sprites, personagem, galinha, uso comercial, web
 - https://pascal99.itch.io/man (Man — personagem simples, adequado para idle)
+PALAVRAS-CHAVE: itch.io, Idle, Man, Pascal99, personagem simples, idle, sprites, personagem, uso comercial, web
 
 ### 3D Low-Poly / Voxel (para pré-render 2.5D ou cenário 3D com jogabilidade 2D)
 
 Todos **CC0 1.0 Universal**, uso comercial livre, sem atribuição obrigatória. Formatos: .OBJ, .FBX, .GLTF (compatíveis Unity, Godot, Unreal, Roblox, etc.).
 
 - https://kaylousberg.itch.io/space-base-bits (KayKit: Space Base Bits — 48+ modelos low-poly: construções modulares, veículos, rochas, props para bases espaciais; atlas de textura única 1024×1024; versão gratuita = 48 modelos; EXTRA $3.95+ = +12 assets + textura alternativa; SOURCE $5.95+ = arquivos .blend)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Space Base Bits, Kaylousberg, 48 modelos, low-poly, construções modulares, veículos, rochas, props, bases espaciais, CC0, uso comercial, modelos 3D, space base, web
 - https://kaylousberg.itch.io/kaykit-medieval-hexagon (KayKit: Medieval Hexagon Pack — 200+ modelos low-poly: edifícios medievais, torres, muros, tiles hexagonais, árvores, rochas, biomas variados; atlas gradiente único)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Medieval Hexagon Pack, Kaylousberg, 200 modelos, low-poly, edifícios medievais, torres, muros, tiles hexagonais, árvores, rochas, biomas, CC0, uso comercial, modelos 3D, medieval, web
 - https://kaylousberg.itch.io/kaykit-medieval-builder-pack (KayKit: Medieval Builder Pack — 3 estilos: hexagonal, quadrado, livre; múltiplas variações/biomas: areia, rocha, floresta)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Medieval Builder Pack, Kaylousberg, 3 estilos, hexagonal, quadrado, livre, variações, biomas, areia, rocha, floresta, CC0, uso comercial, modelos 3D, medieval, web
 - https://kaylousberg.itch.io/kaykit-forest (KayKit: Forest Nature Pack — natureza low-poly modular para ambientes florestais)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Forest Nature Pack, Kaylousberg, natureza low-poly, modular, florestas, CC0, uso comercial, modelos 3D, natureza, floresta, web
 - https://kaylousberg.itch.io/kaykit-platformer (KayKit: Platformer Pack — assets low-poly para jogos de plataforma)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Platformer Pack, Kaylousberg, assets low-poly, platformer, CC0, uso comercial, modelos 3D, platformer, web
 - https://kaylousberg.itch.io/kaykit-adventurers (KayKit: Adventurers — personagens low-poly animados)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Adventurers, Kaylousberg, personagens low-poly, animados, CC0, uso comercial, modelos 3D, personagens, aventureiros, web
 - https://kaylousberg.itch.io/kaykit-dungeon-pack (KayKit: Dungeon Pack — masmorras low-poly modulares)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Dungeon Pack, Kaylousberg, masmorras low-poly, modulares, CC0, uso comercial, modelos 3D, masmorra, dungeon, web
 - https://kaylousberg.itch.io/kaykit-skeletons (KayKit: Skeleton Pack — esqueletos low-poly animados)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Skeleton Pack, Kaylousberg, esqueletos low-poly, animados, CC0, uso comercial, modelos 3D, esqueletos, web
 - https://kaylousberg.itch.io/kay-kit-mini-game-variety-pack (KayKit: Mini Game Variety Pack — 3 modelos de personagens simples, tiles de chão, objetivos, armas, power-ups; CC0)
+PALAVRAS-CHAVE: itch.io, 3D, KayKit Mini Game Variety Pack, Kaylousberg, 3 modelos, personagens simples, tiles de chão, objetivos, armas, power-ups, CC0, uso comercial, modelos 3D, minigame, web
 - https://kenney.nl/assets/tower-defense-kit (Tower Defense Kit — 160+ modelos low-poly para tower defense: torres, inimigos, projéteis, efeitos; OBJ/FBX/DAE/STL/glTF; CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/mini-dungeon (Mini Dungeon — série Mini, low-poly 3D, CC0) — ver `assets/kenney.md`
 - https://kenney.nl/assets/mini-forest (Mini Forest — série Mini, low-poly 3D, CC0) — ver `assets/kenney.md`
