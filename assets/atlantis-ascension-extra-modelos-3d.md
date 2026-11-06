@@ -1562,7 +1562,6 @@
 | Stylized house 3d | animatedheaven | CC BY 3.0 | fantasy | <https://opengameart.org/content/stylized-house-3d> |
 | Stylized Low poly Tools | zisongbr | CC0 1.0 | item | <https://opengameart.org/content/stylized-low-poly-tools> |
 | Stylized Magic Book | animatedheaven | CC BY 4.0 | pirate | <https://opengameart.org/content/stylized-magic-book> |
-| Stylized Nature MegaKit | quaternius | CC0 1.0 | fantasy | <https://opengameart.org/content/stylized-nature-megakit> |
 | Stylized Paint Tree Toon | FabinhoSC | CC0 1.0 | ambient | <https://opengameart.org/content/stylized-paint-tree-toon> |
 | Stylized Wildmill (Isometric with parts to build animation)(and .blend) | zisongbr | CC0 1.0 | item | <https://opengameart.org/content/stylized-wildmill-isometric-with-parts-to-build-animationand-blend> |
 | Stylized Wizard Staff | TCCDev | CC0 1.0 | magic | <https://opengameart.org/content/stylized-wizard-staff> |

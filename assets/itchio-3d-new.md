@@ -11,7 +11,6 @@
 
 | Pack | Tipo | Link |
 |------|------|------|
-| **Stylized Nature MegaKit** | 110+ modelos de natureza (Ghibli-inspired) | <https://quaternius.itch.io/stylized-nature-megakit> |
 | **Medieval Village MegaKit** | 300+ modelos para cidades medievais | <https://quaternius.itch.io/medieval-village-megakit> |
 | **Sci-Fi Essentials Kit** | 60+ modelos (inimigos animados, guns, props, crates, telas animadas) | <https://quaternius.itch.io/sci-fi-essentials-kit> |
 | **Modular Sci-Fi MegaKit** | 270+ peças modulares para ambientes sci-fi | <https://quaternius.itch.io/modular-sci-fi-megakit> |

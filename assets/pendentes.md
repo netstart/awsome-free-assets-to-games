@@ -57,13 +57,12 @@ Ativos visíveis na primeira página do agregador. Antes de incluir em `assets/i
 | 18 | Seamless Sky Backgrounds | https://screamingbrainstudios.itch.io/seamless-sky-backgrounds | Backgrounds | **Aprovado — CC0** (Domínio Público, uso comercial, sem IA) |
 | 19 | Pixel Lands - Interiors | https://trislin.itch.io/pixel-lands-interiors | Tileset interiores | **Aprovado — royalty-free custom** (uso comercial OK, não redistribuir/revender, crédito apreciado mas não obrigatório) |
 | 20 | Universal Animation Library 2 | https://quaternius.itch.io/universal-animation-library-2 | Animações 3D | **Aprovado — CC0** (uso comercial, sem atribuição, sem IA) |
-| 21 | Stylized Nature MegaKit | https://quaternius.itch.io/stylized-nature-megakit | 3D nature | **Aprovado — CC0** (uso comercial, sem atribuição, sem IA) |
-| 22 | Tiny RPG Character Asset Pack 01 V2.0 | https://zerie.itch.io/tiny-rpg-character-asset-pack | Personagens | Já em `assets/itchio.md` (Personagens) |
-| 23 | KayKit - Character Pack : Adventurers | https://kaylousberg.itch.io/kaykit-adventurers | Personagens 3D | Já em `assets/itchio.md` (Personagens) |
-| 24 | Tiny Farm RPG - Asset Pack [16x16] | https://maevedevs.itch.io/farm-rpg | Farm 16x16 | **Aprovado — royalty-free custom** (uso comercial OK, modificar OK, não redistribuir/revender, sem cripto/NFT/IA, crédito opcional a Maeve Devs) |
-| 25 | 8-Directional top-down character pack! | https://smallscaleint.itch.io/8-directional-top-down-character-pack | Personagens | **Aprovado — royalty-free custom** (uso comercial ilimitado, sem atribuição, não redistribuir brutos, sem IA) |
-| 26 | Cute Fantasy RPG - 16x16 top down pixel art | https://kenmi-art.itch.io/cute-fantasy-rpg | Fantasy 16x16 | Já em `assets/itchio.md` (Fofos) |
-| 27 | Universal Base Characters | https://quaternius.itch.io/universal-base-characters | Personagens 3D | **Aprovado — CC0** (uso comercial, sem atribuição, sem IA) |
+| 21 | Tiny RPG Character Asset Pack 01 V2.0 | https://zerie.itch.io/tiny-rpg-character-asset-pack | Personagens | Já em `assets/itchio.md` (Personagens) |
+| 22 | KayKit - Character Pack : Adventurers | https://kaylousberg.itch.io/kaykit-adventurers | Personagens 3D | Já em `assets/itchio.md` (Personagens) |
+| 23 | Tiny Farm RPG - Asset Pack [16x16] | https://maevedevs.itch.io/farm-rpg | Farm 16x16 | **Aprovado — royalty-free custom** (uso comercial OK, modificar OK, não redistribuir/revender, sem cripto/NFT/IA, crédito opcional a Maeve Devs) |
+| 24 | 8-Directional top-down character pack! | https://smallscaleint.itch.io/8-directional-top-down-character-pack | Personagens | **Aprovado — royalty-free custom** (uso comercial ilimitado, sem atribuição, não redistribuir brutos, sem IA) |
+| 25 | Cute Fantasy RPG - 16x16 top down pixel art | https://kenmi-art.itch.io/cute-fantasy-rpg | Fantasy 16x16 | Já em `assets/itchio.md` (Fofos) |
+| 26 | Universal Base Characters | https://quaternius.itch.io/universal-base-characters | Personagens 3D | **Aprovado — CC0** (uso comercial, sem atribuição, sem IA) |
 | 28 | Sprout Lands - Asset Pack | https://cupnooble.itch.io/sprout-lands-asset-pack | Farming cute | Já em `assets/itchio.md` (versão free não comercial) |
 | 29 | KayKit - Forest Nature Pack | https://kaylousberg.itch.io/kaykit-forest | Nature 3D | **Aprovado — CC0** (uso comercial, sem atribuição, sem IA) |
 | 30 | Achievements for Ren'Py | https://feniksdev.itch.io/achievements-for-renpy | Ferramenta Ren'Py | Não incluído (código/ferramenta para Ren'Py, não é asset de jogo gráfico/áudio) |

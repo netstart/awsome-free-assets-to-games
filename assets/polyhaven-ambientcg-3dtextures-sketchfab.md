@@ -209,7 +209,7 @@ Uso comercial permitido, sem exigência de atribuição.
 | Textured LowPoly Trees | https://quaternius.itch.io/textured-lowpoly-trees | 45 modelos + 18 texturas | Modelo 3D (árvores low-poly texturizadas) | FBX, OBJ, Blend | CC0 |
 | LowPoly Modular Dungeon Pack | https://quaternius.itch.io/lowpoly-modular-dungeon-pack | 45+ assets modulares | Modelo 3D (masmorra modular) | FBX, OBJ, Blend | CC0 |
 
-Outros packs do quaternius (Bestiary, Downtown City MegaKit, Universal Animation Library, Modular Character Outfits, Universal Base Characters, Fantasy Props MegaKit, Sci-Fi Essentials Kit, Modular Sci-Fi MegaKit, Stylized Nature MegaKit, 3D Card Kit, Ultimate Platformer Pack, etc.) são pagos ou via Patreon — não incluídos.
+Outros packs do quaternius (Bestiary, Downtown City MegaKit, Universal Animation Library, Modular Character Outfits, Universal Base Characters, Fantasy Props MegaKit, Sci-Fi Essentials Kit, Modular Sci-Fi MegaKit, 3D Card Kit, Ultimate Platformer Pack, etc.) são pagos ou via Patreon — não incluídos. **Stylized Nature MegaKit** é gratuito (CC0), ver `assets/itchio-3d.md`.
 
 ---
 

@@ -1790,7 +1790,6 @@ Assets 2D de floresta temperada: tilesets top-down e de plataforma, árvores sol
 
 - https://farbeyond-studio.itch.io/atmos (**CC BY 4.0** — loops de floresta escura, chuva e ambiências; **crédito obrigatório** a FarBeyond Studio)
 - as faixas **Forest Ambience** (**CC0**), **forest** (**CC BY 3.0**), **forest** (**CC BY-SA 3.0**), **Loop — House In a Forest** (**CC BY 3.0**) e **Cabin Fever** (**CC0**) estão em `assets/opengameart.md` (seção Música e SFX por tema)
-- https://quaternius.itch.io/stylized-nature-megakit (**CC0** — 116+ modelos 3D de natureza estilo Ghibli (40 árvores, 35 plantas/flores, 27 pedras, grama, arbustos); uso comercial, sem atribuição, sem IA)
 - https://kaylousberg.itch.io/kaykit-forest (**CC0** — 100+ modelos 3D low-poly de floresta (árvores, arbustos, pedras, grama, terreno); uso comercial, sem atribuição, sem IA)
 PALAVRAS-CHAVE: itch.io, KayKit Forest, CC0, 100 modelos 3D low-poly floresta, árvores, arbustos, pedras, grama, terreno, uso comercial, sem atribuição, sem IA, modelos 3D, natureza, web
 
