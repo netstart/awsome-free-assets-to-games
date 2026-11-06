@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1000+ assets catalogados em 220 categorias.
+> **Total:** ~1000+ assets catalogados em 225 categorias.
 
 ---
 
@@ -2488,6 +2488,55 @@
 | Asset | Autor | Licença | Formato | Uso Comercial | Link |
 |-------|-------|---------|---------|---------------|------|
 | Fireplaces, Chimneys and Stoves: 50 Architectural 3D Props | spajx123c | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-chimney> |
+
+---
+
+## 221. Village / Aldeia — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Night_Village_J-RPG_SFX | vycksounds-21 | Verificar na página (Free) | SFX/Village | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Cozy Town — Modern 16x16 Top-Down City Tileset | Spaceyyy | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free/tag-village> |
+
+---
+
+## 222. Wholesome / Saudável — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Snug the Ghost Who Cannot Scare - Cute Halloween Live Wallpaper | snugmeadow | Verificar na página (Free) | Pack/Wallpaper | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Cozy Life: 10 Essential Lo-fi Tracks for Farming Sims vo.1 | ghost_bit_studio | Verificar na página (Free) | Music/Lo-fi | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Soft Realistic Anime Inspired Avatars | disastrophi | Verificar na página (Free) | Pack/Avatars | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+
+---
+
+## 223. Adorable / Adorável — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Kawaii Bakery Sweets Game Icons | Amorlea (Erin) | Verificar na página (Free) | Icons/Bakery | A verificar | <https://itch.io/game-assets/free/tag-adorable> |
+| 52 Extra Cute Animal Plushies & Items | Rosebud AI Gamemaker | Verificar na página (Free) | Pack/Plushies | A verificar | <https://itch.io/game-assets/free/tag-adorable> |
+| Teddy Charset-FaceSets Expression Pack | ArtistaAnonimoMx | Verificar na página (Free) | Pack/Expression | A verificar | <https://itch.io/game-assets/free/tag-adorable> |
+
+---
+
+## 224. Sweet / Doce — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Nephocitrulodon - The candy dinosaur | KehosWorld | Verificar na página (Free) | 3D/Dinosaur | A verificar | <https://itch.io/game-assets/free/tag-sweet> |
+| capyrace | may | Verificar na página (Free) | Pack/Game | A verificar | <https://itch.io/game-assets/free/tag-sweet> |
+| Strawberry Tart | glaistig's garden | Verificar na página (Free) | Pack/Food | A verificar | <https://itch.io/game-assets/free/tag-sweet> |
+
+---
+
+## 225. Warm / Quente — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Low Poly Living Room Asset Pack | IceTimeAdventures | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| Autumn Harvest UI SFX - 50 Warm Cozy Sounds | Mulato | Verificar na página (Free) | SFX/UI | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| Flowers after dinner | Delnika | Verificar na página (Free) | Pack/Flowers | A verificar | <https://itch.io/game-assets/free/tag-warm> |
 
 ---
 
