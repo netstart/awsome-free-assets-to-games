@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1000+ assets catalogados em 229 categorias.
+> **Total:** ~1000+ assets catalogados em 231 categorias.
 
 ---
 
@@ -2595,6 +2595,35 @@
 | Super Pixel Cave Tileset | unTied Games | Verificar na página (Free) | Tileset/Pixel | A verificar | <https://itch.io/game-assets/free?page=31> |
 | Shields | SnoopethDuckDuck | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free?page=31> |
 | FREE - Sidescroller Shooter - Central City | Anokolisa | Verificar na página (Free) | Pack/Cyberpunk | A verificar | <https://itch.io/game-assets/free?page=31> |
+
+---
+
+1. Verifique a licença oficial na página de origem
+2. Confirme que o uso comercial é expressamente permitido
+3. Adicione a entrada na tabela correspondente acima
+4. Mantenha a coerência de formatação e a consistência das URLs/licenças
+5. Não duplique assets já listados
+
+## 230. Listing Page 34 / Página 34 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| [CC 1.0] Free Pixel Art Tileset - Starry Night | Quintino Pixels | Verificar na página (Free) | Tileset/Pixel | A verificar | <https://itch.io/game-assets/free?page=34> |
+| Void - Pickups Pack | Foozle | Verificar na página (Free) | Pack/Pickups | A verificar | <https://itch.io/game-assets/free?page=34> |
+| SimpleKeys - Animated Pixel Keyboard Keys | beamedeighth | Verificar na página (Free) | Pack/Keyboard | A verificar | <https://itch.io/game-assets/free?page=34> |
+| Red Suv - PSX Car | som_natalino | Verificar na página (Free) | 3D/Car | A verificar | <https://itch.io/game-assets/free?page=34> |
+
+---
+
+## 231. Listing Page 35 / Página 35 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 2D Pixel Art Red Panda Sprites | Elthen's Pixel Art Shop | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free?page=35> |
+| Everything Library 02 - BUILDINGS | David | Verificar na página (Free) | Pack/Buildings | A verificar | <https://itch.io/game-assets/free?page=35> |
+| Pixel Art Samurai | hugues laborde | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=35> |
+| PIXEL FANTASY RPG ICONS - Festive 2 | Caz | Verificar na página (Free) | Icons/Pixel | A verificar | <https://itch.io/game-assets/free?page=35> |
+| Free Base Top-Down Female Free Character | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=35> |
 
 ---
 
