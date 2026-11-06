@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~850+ assets catalogados em 167 categorias.
+> **Total:** ~950+ assets catalogados em 198 categorias.
 
 ---
 
@@ -1997,9 +1997,285 @@
 
 ## 167. Sound Effects / Efeitos Sonoros — Cozy
 
+## 168. Tile / Azulejo — Cozy
+
 | Asset | Autor | Licença | Formato | Uso Comercial | Link |
 |-------|-------|---------|---------|---------------|------|
-| [FREE Sounds] Panned Pans - Royalty Free | Bramster | Verificar na página (Free) | SFX/Pans | A verificar | <https://itch.io/game-assets/free/tag-sound-effects> |
+| Morgue Tile Set | chasersgaming | CC0 | Tile Set | Sim (CC0) | <https://itch.io/game-assets/free/tag-tile> |
+| RPG Asset Tile Set 'Oriental Gardens' GB | chasersgaming | Verificar na página (Free) | Tile Set | A verificar | <https://itch.io/game-assets/free/tag-tile> |
+| RPG Asset Tile Set 'Secret Service Building' GB | chasersgaming | Verificar na página (Free) | Tile Set | A verificar | <https://itch.io/game-assets/free/tag-tile> |
+
+---
+
+## 169. Tileset — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Pixel Art Tileset - Gentle Forest | Seliel the Shaper | Verificar na página (Free) | Tileset/Pixel | A verificar | <https://itch.io/game-assets/free/tag-tileset> |
+| Cozy Fishing | shubibubi | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free/tag-tileset> |
+
+---
+
+## 170. Platformer — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Minimalistic & free tileset | egordorichev | Verificar na página (Free) | Tileset | A verificar | <https://itch.io/game-assets/free/tag-platformer> |
+| Free - Adventure Pack - Grassland | Anokolisa | Verificar na página (Free) | Pack/400 sprites | A verificar | <https://itch.io/game-assets/free/tag-platformer> |
+
+---
+
+## 171. RPG — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Complete UI Book Styles Pack [Aseprite, Spritesheet] | Crusenho | Verificar na página (Free) | UI/Spritesheet | A verificar | <https://itch.io/game-assets/free/tag-rpg> |
+| (Legacy) KayKit - Medieval Builder Pack | Kay Lousberg | Verificar na página (Free) | Pack/Medieval | A verificar | <https://itch.io/game-assets/free/tag-rpg> |
+
+---
+
+## 172. Top-Down — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Mystic Woods - 16x16 Pixel Art Asset Pack | Game Endeavor | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-top-down> |
+| Pixelart Forest Top-Down RPG Asset Pack v2 | zedpxl | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-top-down> |
+
+---
+
+## 173. 16x16 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Super Retro World • Exterior Pack | Gif | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-16x16> |
+| Pixel Holy Spell Effect 32x32 Pack 3 | BDragon1727 | Verificar na página (Free) | Pack/Effects | A verificar | <https://itch.io/game-assets/free/tag-16x16> |
+
+---
+
+## 174. 32x32 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 48 Free Minerals Pixel Art Icons Pack | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Icons/Pixel | A verificar | <https://itch.io/game-assets/free/tag-32x32> |
+| Epic RPG World - [FREE DEMO]Grass land 2.0 | RafaelMatos | Verificar na página (Free) | Tileset/RPG | A verificar | <https://itch.io/game-assets/free/tag-32x32> |
+
+---
+
+## 175. Low Poly — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Low Poly Human Mesh | Comp-3 Interactive | Verificar na página (Free) | 3D/Mesh | A verificar | <https://itch.io/game-assets/free/tag-low-poly> |
+| Foxtex - Complete Edition | Foxhead | Verificar na página (Free) | Textures/4000+ | A verificar | <https://itch.io/game-assets/free/tag-low-poly> |
+
+---
+
+## 176. 3D — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Bestiary - Dungeon Monsters Kit | Quaternius | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-3d> |
+| Sci-Fi Essentials Kit | Quaternius | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-3d> |
+
+---
+
+## 177. Texture — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Snow seamless unrepetitive textures | Dandruff | Verificar na página (Free) | Textures/Snow | A verificar | <https://itch.io/game-assets/free/tag-texture> |
+| Texture Pack: Concrete 01 | JulioVII | Verificar na página (Free) | Textures/PBR | A verificar | <https://itch.io/game-assets/free/tag-texture> |
+
+---
+
+## 178. Background — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| SunnyLand Fort of Illusion | ansimuz | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-background> |
+| Free Fantasy Medieval Ambient Music Pack | alkakrab | Verificar na página (Free) | Music/Medieval | A verificar | <https://itch.io/game-assets/free/tag-background> |
+
+---
+
+## 179. Sprites — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free 16x16 Mini World Sprites | Kurt Gabriel Sotelo | Verificar na página (Free) | Sprites/16x16 | A verificar | <https://itch.io/game-assets/free/tag-sprites> |
+| Mini Dungeon Tileset | Atomic Realm | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free/tag-sprites> |
+
+---
+
+## 180. Pixel — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| FREE Pixel Art Flower Pack | karsiori | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-pixel> |
+| FREE Pixel Art Potion Pack - Animated | karsiori | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-pixel> |
+
+---
+
+## 181. 2D — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Fantasy UI User Interaface | ToffeeCraft | Verificar na página (Free) | UI | A verificar | <https://itch.io/game-assets/free/tag-2d> |
+| Pixel Planet Generator | Deep-Fold | Verificar na página (Free) | Shader/Godot | A verificar | <https://itch.io/game-assets/free/tag-2d> |
+
+---
+
+## 182. Animal — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| WhoWho Owl Asset Demo | NaitoAnimationStudios | Verificar na página (Free) | Pack/Owl | A verificar | <https://itch.io/game-assets/free/tag-animal> |
+| Racoon model | Alphaggin | Verificar na página (Free) | 3D/Model | A verificar | <https://itch.io/game-assets/free/tag-animal> |
+| BIRD & WASP Premium sprite assets cartoon style | divine_productions | Verificar na página (Free) | Sprites/Cartoon | A verificar | <https://itch.io/game-assets/free/tag-animal> |
+
+---
+
+## 183. Cat / Gato — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Nyanpose - Free Black Cat Font | fontzukan | OFL | Font | Sim (OFL) | <https://itch.io/game-assets/free/tag-cat> |
+| Sitting Cat | keatura! | Verificar na página (Free) | Pack/Cat | A verificar | <https://itch.io/game-assets/free/tag-cat> |
+| Creepy Cozy Cat UI — Free Minimalist Icon Pack | L1DENS1DE | Verificar na página (Free) | Icons/UI | A verificar | <https://itch.io/game-assets/free/tag-cat> |
+
+---
+
+## 184. Dog / Cachorro — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 4 paws, 2 backgrounds, 1 spiderweb, and 1 diamond | DragonEmber | Verificar na página (Free) | Pack/Dog | A verificar | <https://itch.io/game-assets/free/tag-dog> |
+| Fantasy Character Asset Pack | Amendias | Verificar na página (Free) | Pack/Fantasy | A verificar | <https://itch.io/game-assets/free/tag-dog> |
+| Dog | keatura! | Verificar na página (Free) | Pack/Dog | A verificar | <https://itch.io/game-assets/free/tag-dog> |
+
+---
+
+## 185. Chicken / Galinha — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| NEI's Chicken Card Art | New England Interactive | Verificar na página (Free) | Pack/Card | A verificar | <https://itch.io/game-assets/free/tag-chicken> |
+| Perfect Pixel Fruit 2d Assets [FREE] | TheSavvyCow | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-chicken> |
+
+---
+
+## 186. Sheep / Ovelha — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pixel Sheep | gntldragon | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-sheep> |
+| Cubanimals | Ale_Lab | Verificar na página (Free) | Pack/Animals | A verificar | <https://itch.io/game-assets/free/tag-sheep> |
+| Talking Sheep Animations | Quark_Yifu | Verificar na página (Free) | Animations | A verificar | <https://itch.io/game-assets/free/tag-sheep> |
+
+---
+
+## 187. Cow / Vaca — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Voxeled Minecraft Cow | Ale_Lab | Verificar na página (Free) | 3D/Model | A verificar | <https://itch.io/game-assets/free/tag-cow> |
+| Polish cow dance | Peepocraft | Verificar na página (Free) | Animation | A verificar | <https://itch.io/game-assets/free/tag-cow> |
+| Talking Goat And Cow Animations | Quark_Yifu | Verificar na página (Free) | Animations | A verificar | <https://itch.io/game-assets/free/tag-cow> |
+
+---
+
+## 188. Pig / Porco — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| d66 Profile Pictures for Pork In The Void Vol. 8 | Bograt | Verificar na página (Free) | Pack/Portraits | A verificar | <https://itch.io/game-assets/free/tag-pig> |
+| Pig's Texture Pack v1 [1.8.9] (Minecraft) | ItsPig | Verificar na página (Free) | Pack/Minecraft | A verificar | <https://itch.io/game-assets/free/tag-pig> |
+| Angry Birds 3D Models | Nebil V Xavier | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-pig> |
+
+---
+
+## 189. Horse / Cavalo — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Goblin - Free Pixel Art | Pixdop | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-horse> |
+| Horse Race Test Seasons (Includes Tournament) | arseniyguy23 | Verificar na página (Free) | Pack/Game | A verificar | <https://itch.io/game-assets/free/tag-horse> |
+| 40 Horse Stable & Tack Icons 32x32 | Mulato | Verificar na página (Free) | Icons/32x32 | A verificar | <https://itch.io/game-assets/free/tag-horse> |
+
+---
+
+## 190. Duck / Pato — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Duck, Duck, DIE!!! | PaigeGamez | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-duck> |
+| Fast Duck Race | Aman8657 | Verificar na página (Free) | Pack/Game | A verificar | <https://itch.io/game-assets/free/tag-duck> |
+
+---
+
+## 191. Rabbit / Coelho — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| LO-FI Forest | crayg | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-rabbit> |
+| Rabbit Valley Free Asset Pack | StremArt | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-rabbit> |
+| Stuffed Bunny Assets | BurgerBunn | Verificar na página (Free) | Pack/PNG | A verificar | <https://itch.io/game-assets/free/tag-rabbit> |
+
+---
+
+## 192. Turtle / Tartaruga — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Crappy turtle spritesheet | Zejbo32 | Verificar na página (Free) | Spritesheet | A verificar | <https://itch.io/game-assets/free/tag-turtle> |
+| Pix-Realms - Ninja Village Pack 1 - Turtle Village | Delta | Verificar na página (Free) | Pack/Ninja | A verificar | <https://itch.io/game-assets/free/tag-turtle> |
+| Turtle world | FranBramzoo | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-turtle> |
+
+---
+
+## 193. Frog / Sapo — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pixel Frog Pack - by caoduy | caoduy | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-frog> |
+
+---
+
+## 194. Fish / Peixe — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Swordfish Parrotfish Fish Sea Turtle Pack | RAPIDPUNCHES | Verificar na página (Free) | Pack/Fish | A verificar | <https://itch.io/game-assets/free/tag-fish> |
+| The Lost Treasure | BradleyLam | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-fish> |
+
+---
+
+## 195. Bird / Pássaro — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Animated Budgies Sprite Sheets | LopaStudios | Verificar na página (Free) | Sprites | A verificar | <https://itch.io/game-assets/free/tag-bird> |
+| Red Bird | DragonEmber | Verificar na página (Free) | Pack/Bird | A verificar | <https://itch.io/game-assets/free/tag-bird> |
+
+---
+
+## 196. Butterfly / Borboleta — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+
+---
+
+## 197. Bee / Abelha — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+
+---
+
+## 198. Ladybug / Joaninha — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
 
 ---
 
