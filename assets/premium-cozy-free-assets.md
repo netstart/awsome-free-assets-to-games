@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~2100+ assets catalogados em 282 categorias.
+> **Total:** ~2200+ assets catalogados em 287 categorias.
 
 ---
 
@@ -3226,6 +3226,66 @@
 | 7:7 - Card Template | Bruno Prosaiko | Verificar na página (Free) | Pack/Card | A verificar | <https://itch.io/game-assets/free?page=90> |
 | GB Studio Open Tilesets | Elvies | Verificar na página (Free) | Pack/Tilesets | A verificar | <https://itch.io/game-assets/free?page=90> |
 | Nikita | Low poly character base mesh | n0mad | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=90> |
+
+---
+
+## 283. Listing Page 91 / Página 91 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Simple Blender Hand Models (rigged) | MOD | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=91> |
+| 2D Island Generator - Free Unity Project | Sunny Valley Studio | Verificar na página (Free) | Project/Unity | A verificar | <https://itch.io/game-assets/free?page=91> |
+| FREE ASSETS VFX / Fire Toon Particle | wallcoeur | Verificar na página (Free) | Pack/VFX | A verificar | <https://itch.io/game-assets/free?page=91> |
+| Ithaca - Free Font | GGBotNet | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=91> |
+| Godot First Person Controller | rbarongr | Verificar na página (Free) | Pack/Godot | A verificar | <https://itch.io/game-assets/free?page=91> |
+
+---
+
+## 284. Listing Page 92 / Página 92 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Pixel Art Wood | Frostwindz | Verificar na página (Free) | Pack/Wood | A verificar | <https://itch.io/game-assets/free?page=92> |
+| Free Characters With Melee Attack | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=92> |
+| SHADOW Series - Shadeflit - Animated Dark Fantasy Spear Boss | escape-pixel | Verificar na página (Free) | Pack/Boss | A verificar | <https://itch.io/game-assets/free?page=92> |
+| Swordsman - Free! | FkgCluster | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=92> |
+| Free Pixel Art - Rings | Lin_Ain | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=92> |
+
+---
+
+## 285. Listing Page 93 / Página 93 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| RPG Maker 1-Bit Assets | Razuth | Verificar na página (Free) | Pack/RPG Maker | A verificar | <https://itch.io/game-assets/free?page=93> |
+| FREE Flower Pack - 12 Icons | JennPixel | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=93> |
+| Free Goblin Loot Pixel Icons | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=93> |
+| Spofonts | SPOICAT | CC0 | Pack/Fonts | Sim (CC0) | <https://itch.io/game-assets/free?page=93> |
+| Stylized Nature Textures | oleekconder | Verificar na página (Free) | Pack/Textures | A verificar | <https://itch.io/game-assets/free?page=93> |
+
+---
+
+## 286. Listing Page 94 / Página 94 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Just Survive | Ini.tial Project | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=94> |
+| THINKING AND TINKERING: A Free Puzzle Game Music Loop | Fablefly Music | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=94> |
+| Free Sci-Fi Game Icons | Mark Krukowski | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=94> |
+| Free Effects for Platformer | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Effects | A verificar | <https://itch.io/game-assets/free?page=94> |
+| 8bit Monster pack | SorceressGameLab | Verificar na página (Free) | Pack/Monsters | A verificar | <https://itch.io/game-assets/free?page=94> |
+
+---
+
+## 287. Listing Page 95 / Página 95 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Custom Controls (RMMZ Plugin) | reflector88 | Verificar na página (Free) | Plugin/RMMZ | A verificar | <https://itch.io/game-assets/free?page=95> |
+| Seamless Cloudy Sky Background | Mr.Kalamplee | Verificar na página (Free) | Pack/Backgrounds | A verificar | <https://itch.io/game-assets/free?page=95> |
+| Kobold Robold VRC/Blender | SOI | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=95> |
+| [MAT] PBR Materials Pack | JDSherbert | Verificar na página (Free) | Pack/Textures | A verificar | <https://itch.io/game-assets/free?page=95> |
+| Paint Strokes & Smashes {175 Art Assets} | DINO♥JAM | Verificar na página (Free) | Pack/Art | A verificar | <https://itch.io/game-assets/free?page=95> |
 
 ---
 
