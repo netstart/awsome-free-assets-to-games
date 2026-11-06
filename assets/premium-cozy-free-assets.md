@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~600+ assets catalogados em 90 categorias.
+> **Total:** ~700+ assets catalogados em 119 categorias.
 
 ---
 
@@ -1174,6 +1174,344 @@
 | Animated The Blossom Big Tree | 108Hvs | Verificar na página (Free) | Pack/Tree | A verificar | <https://itch.io/game-assets/free/tag-harvest> |
 | Cozy Orchard & Harvest — Free Orchard Starter | welledgecreative | Verificar na página (Free) | Icons/Orchard | A verificar | <https://itch.io/game-assets/free/tag-harvest> |
 | Topdown Farm Crop | aztrakatze | Verificar na página (Free) | Pack/Farming | A verificar | <https://itch.io/game-assets/free/tag-harvest> |
+
+---
+
+## 91. Slime / Geleia — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Create-A-Monster Kit: Slime Edition | Willibab | Verificar na página (Free) | Kit/Slime | A verificar | <https://itch.io/game-assets/free/tag-slime> |
+| Slime Asset Pack | Segnah | Verificar na página (Free) | Pack/Slime | A verificar | <https://itch.io/game-assets/free/tag-slime> |
+| Free Pixel Art - Jelly Slime | Lin_Ain | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-slime> |
+
+---
+
+## 92. Ghost / Fantasma — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Kawaii Ghost Sprite Pack | Kububbis | Verificar na página (Free) | Sprite/Pixel | A verificar | <https://itch.io/game-assets/free/tag-ghost> |
+| Mono_Free Halloween | BITTI STUDIO | Verificar na página (Free) | Icons/Halloween | A verificar | <https://itch.io/game-assets/free/tag-ghost> |
+| Free 16x16 Pixel Art Sprites – Spooky Bits | Leckie Pixel Studio | Verificar na página (Free) | Sprites/16x16 | A verificar | <https://itch.io/game-assets/free/tag-ghost> |
+| FREE Low Poly Dungeon Pack | Adam Hajdu | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-ghost> |
+
+---
+
+## 93. Skeleton / Esqueleto — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| An undead sword-and-shield warrior | hsdsz | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-skeleton> |
+| 2D Character for Animation | M-Studio | Verificar na página (Free) | Pack/2D | A verificar | <https://itch.io/game-assets/free/tag-skeleton> |
+| Top Down Skeletons Pack #1 | Immunity | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-skeleton> |
+| Monster Pack 40 | Admurin | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-skeleton> |
+
+---
+
+## 94. Zombie — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Zombies to use in your games! | Warlloyd | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-zombie> |
+| Free Characters with Animations For FPS game | FredRichi | Verificar na página (Free) | Pack/FPS | A verificar | <https://itch.io/game-assets/free/tag-zombie> |
+| Free Zombie Apocalypse Top-Down Pixel Art Kit | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Kit/Pixel | A verificar | <https://itch.io/game-assets/free/tag-zombie> |
+| Haedus - Free Font | GGBotNet | Verificar na página (Free) | Font | A verificar | <https://itch.io/game-assets/free/tag-zombie> |
+
+---
+
+## 95. Orc / Orc — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Human and orcs sprites | Makssson | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-orc> |
+| tiny orc civilization | ayubhimdad | Verificar na página (Free) | Sprites/Orc | A verificar | <https://itch.io/game-assets/free/tag-orc> |
+| Orc | LonelyWarrior | Verificar na página (Free) | Pack/Orc | A verificar | <https://itch.io/game-assets/free/tag-orc> |
+| Fearful_Bite | Sulfurus | Verificar na página (Free) | Pack/Orc | A verificar | <https://itch.io/game-assets/free/tag-orc> |
+
+---
+
+## 96. Goblin — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Tuskborne — Free Demo (Goblin Bomber) | PixLog | Verificar na página (Free) | Pack/Goblin | A verificar | <https://itch.io/game-assets/free/tag-goblin> |
+| Goblins Character Pack | Hatitler | Verificar na página (Free) | Pack/Goblin | A verificar | <https://itch.io/game-assets/free/tag-goblin> |
+| Goblin Shaman — 2D Animated Dark Fantasy Enemy Pack | hsdsz | Verificar na página (Free) | Pack/2D | A verificar | <https://itch.io/game-assets/free/tag-goblin> |
+| Free goblin pixel art sprites | FantasyLandscapes | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-goblin> |
+| Goblin Battler Sprites | MetalLord4171 | Verificar na página (Free) | Sprites/Battler | A verificar | <https://itch.io/game-assets/free/tag-goblin> |
+
+---
+
+## 97. Fairy / Fada — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Fairy Cottage Pack | Zazzz333 | Verificar na página (Free) | Pack/Fairy | A verificar | <https://itch.io/game-assets/free/tag-fairy> |
+| Fairy Royal Couple (Chibi assets) | MaelleMarylloup | Verificar na página (Free) | Pack/Chibi | A verificar | <https://itch.io/game-assets/free/tag-fairy> |
+| Fairy - Pixel | NYKNCK | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-fairy> |
+| Fairy sprites Vicky | Hatice D. | Verificar na página (Free) | Sprites/Fairy | A verificar | <https://itch.io/game-assets/free/tag-fairy> |
+| Fairy Sprites Margery | Hatice D. | Verificar na página (Free) | Sprites/Fairy | A verificar | <https://itch.io/game-assets/free/tag-fairy> |
+
+---
+
+## 98. Dwarf / Anão — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Dwarf Avatar 64×64 Pixel Icons | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Icons/64x64 | A verificar | <https://itch.io/game-assets/free/tag-dwarf> |
+| Wildmark Sampler: 4 Free Fantasy Hero Sprites | CSAF | Verificar na página (Free) | Sprites/Hero | A verificar | <https://itch.io/game-assets/free/tag-dwarf> |
+| Dwarf Base Models (Male & Female) – Free Stylized Character Pack | seek3d | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-dwarf> |
+| Ironhollow — Free Demo (Hammer Lord) | PixLog | Verificar na página (Free) | Pack/Dwarf | A verificar | <https://itch.io/game-assets/free/tag-dwarf> |
+| Steampunk Dwarf Café – Pixel Art Asset Pack | zHyourinmaru | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-dwarf> |
+
+---
+
+## 99. Human / Humano — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Human_head | Nebil V Xavier | Verificar na página (Free) | Pack/Human | A verificar | <https://itch.io/game-assets/free/tag-human> |
+| Simple Low-Poly Character | Demelius Fido | Verificar na página (Free) | 3D/Character | A verificar | <https://itch.io/game-assets/free/tag-human> |
+| Free Low Poly Human Base Meshes: Male and Female | Stokion | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-human> |
+
+---
+
+## 100. NPC / Personagem Não-Jogável — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pokemon Style Characters - Townspeople 2 | Screen Smith | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-npc> |
+| Pokemon Style Characters - Forest NPCs | Screen Smith | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-npc> |
+| 5 NPCs Idle and talk | CharmedWheat | Verificar na página (Free) | Pack/NPC | A verificar | <https://itch.io/game-assets/free/tag-npc> |
+| Pokemon Style Characters - Water Trainers | Screen Smith | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-npc> |
+
+---
+
+## 101. Player / Jogador — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Shadox | kartoona | Verificar na página (Free) | Pack/Player | A verificar | <https://itch.io/game-assets/free/tag-player> |
+| [Art] Void eye Dungeon Sprites | Haiyoooo | Verificar na página (Free) | Sprites/Dungeon | A verificar | <https://itch.io/game-assets/free/tag-player> |
+| Dr Simi (FBX) | Otreblig | Verificar na página (Free) | 3D/FBX | A verificar | <https://itch.io/game-assets/free/tag-player> |
+| 6 Character Heads (Pixel Art) | Tdawg671 | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-player> |
+| Controller - Lite - Free No-Code Player Movement for Godot 4 | selodev | Verificar na página (Free) | Controller/Godot | A verificar | <https://itch.io/game-assets/free/tag-player> |
+| Tank | Kwinten Demaertelaere | Verificar na página (Free) | Pack/Tank | A verificar | <https://itch.io/game-assets/free/tag-player> |
+
+---
+
+## 102. Avatar — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Oni Girls Avatars | Myriad Games | Verificar na página (Free) | Pack/Avatars | A verificar | <https://itch.io/game-assets/free/tag-avatar> |
+| Free AI PNGTuber Pack: 6 Characters | PNGTuber Maker | Verificar na página (Free) | Pack/PNGTuber | A verificar | <https://itch.io/game-assets/free/tag-avatar> |
+| 16 Free Adventure Time Themed Game Profile Pictures | Crumpaloo | Verificar na página (Free) | Pack/Avatars | A verificar | <https://itch.io/game-assets/free/tag-avatar> |
+| d66 Avatars for Cy_BORG Vol. 3 | Bograt | Verificar na página (Free) | Pack/Avatars | A verificar | <https://itch.io/game-assets/free/tag-avatar> |
+| Free Field Boss Portraits Assets Pack | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Portraits | A verificar | <https://itch.io/game-assets/free/tag-avatar> |
+
+---
+
+## 103. Monster / Monstro — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Debts in the Depths - Free Pixel Art Dungeon Asset Pack | Reaktori | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-monster> |
+| LowPoly Animated Monsters | Quaternius | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-monster> |
+| FREE Animated Isometric Prototyping Hero | Engvee | Verificar na página (Free) | Pack/Isometric | A verificar | <https://itch.io/game-assets/free/tag-monster> |
+| Fire Worm | LuizMelo | Verificar na página (Free) | Pack/Monster | A verificar | <https://itch.io/game-assets/free/tag-monster> |
+| Tiny Enemies Vol.1 | Vryell | Verificar na página (Free) | Pack/Enemies | A verificar | <https://itch.io/game-assets/free/tag-monster> |
+
+---
+
+## 104. Enemy / Inimigo — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 3 directional big slime mini boss (?) | chiecola | Verificar na página (Free) | Pack/Enemy | A verificar | <https://itch.io/game-assets/free/tag-enemy> |
+| Free Enemy Sprite Sheets Pixel Art | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-enemy> |
+| º Animated Graveyard Goon º | Admurin | Verificar na página (Free) | Pack/Enemy | A verificar | <https://itch.io/game-assets/free/tag-enemy> |
+| Animated pixel art skeleton | AstroBob | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-enemy> |
+| LOWPO: Goblin Assets – Low Poly Fantasy 3D Assets for Games | Standout 7 | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-enemy> |
+
+---
+
+## 105. Creature / Criatura — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pumpking Patch Map + Creature | Saironwen | Verificar na página (Free) | Pack/Map | A verificar | <https://itch.io/game-assets/free/tag-creature> |
+| Snug: an animated kawaii creature sprite pack | snugmeadow | Verificar na página (Free) | Pack/Creature | A verificar | <https://itch.io/game-assets/free/tag-creature> |
+| Minotauro Low Poly | Zero | Verificar na página (Free) | 3D/Minotaur | A verificar | <https://itch.io/game-assets/free/tag-creature> |
+| Rose Evolution – 2D Pixel Art Plant Monster Pack | PinoGames | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-creature> |
+| Mushroom Crawler - Animated 2D Enemy Asset | colingx | Verificar na página (Free) | Pack/2D | A verificar | <https://itch.io/game-assets/free/tag-creature> |
+
+---
+
+## 106. Pixel Art — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Action Platformer Character Animation Template | Ozzbit Games | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-pixel-art> |
+| m5x7 | Daniel Linssen | Verificar na página (Free) | Font/Pixel | A verificar | <https://itch.io/game-assets/free/tag-pixel-art> |
+| FREE Pixel Combat SFX | Helton Yan | Verificar na página (Free) | SFX/Pixel | A verificar | <https://itch.io/game-assets/free/tag-pixel-art> |
+
+---
+
+## 107. Kawaii — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| A free cozy pixel cat emote | CozyPixelKits | Verificar na página (Free) | Emote/Pixel | A verificar | <https://itch.io/game-assets/free/tag-kawaii> |
+| FREE Dark, Halloween Loops Music Asset - Itazura For You BGM | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free/tag-kawaii> |
+| Cozy Mini Cupcake-16x16 Pixel Art Asset Pack | Pixel Pantry Studio | Verificar na página (Free) | Sprites/16x16 | A verificar | <https://itch.io/game-assets/free/tag-kawaii> |
+| Kawaii Food Asset Pack - 200 Cute Food Sticker Sprites | AuraSoft | Verificar na página (Free) | Sprites/Food | A verificar | <https://itch.io/game-assets/free/tag-kawaii> |
+| Cute Bear Sprite | Carelesswizard | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-kawaii> |
+
+---
+
+## 108. Cute — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Cozy Farm Asset Pack | shubibubi | Verificar na página (Free) | Pack/Farm | A verificar | <https://itch.io/game-assets/free/tag-cute> |
+| 🐸🌱cute & silly rpg music pack🌱🐸 | chajamakesmusic | Verificar na página (Free) | Music/RPG | A verificar | <https://itch.io/game-assets/free/tag-cute> |
+| Dino Character Sprites | Arks💢 | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-cute> |
+| Isometric Medieval Pack | Artyom Zagorskiy | Verificar na página (Free) | Pack/Isometric | A verificar | <https://itch.io/game-assets/free/tag-cute> |
+
+---
+
+## 109. Medieval — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Medieval Fantasy Character Pack 6 | OcO | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free/tag-medieval> |
+| Pixel Art Skeletons Pack | MonoPixelArt | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-medieval> |
+| Isometric Medieval Pack | Artyom Zagorskiy | Verificar na página (Free) | Pack/Isometric | A verificar | <https://itch.io/game-assets/free/tag-medieval> |
+| Font+ [Antiquity Print] | SciGho | Verificar na página (Free) | Font | A verificar | <https://itch.io/game-assets/free/tag-medieval> |
+
+---
+
+## 110. Cottagecore — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Cute cottagecore grass and flower tiles for isometric games | KitKatarine | Verificar na página (Free) | Tileset | A verificar | <https://itch.io/game-assets/free/tag-cottagecore> |
+| Cosy Kitchen Pack | Haiyoooo | Verificar na página (Free) | Pack/Kitchen | A verificar | <https://itch.io/game-assets/free/tag-cottagecore> |
+| Cozy Animal Forest Backgrounds — FREE Sample (12 backgrounds) | Blueberry Assets | Verificar na página (Free) | Backgrounds/Pixel | A verificar | <https://itch.io/game-assets/free/tag-cottagecore> |
+| Cottagecore Tileset | jujuclr | Verificar na página (Free) | Tileset | A verificar | <https://itch.io/game-assets/free/tag-cottagecore> |
+| Graphics Asset Pack 3: Paintings | Digital Phoenix UG (haftungsbeschränkt) | Verificar na página (Free) | Pack/Paintings | A verificar | <https://itch.io/game-assets/free/tag-cottagecore> |
+| Cozy Witch Village FREE Preview - 15 Fantasy Tokens | TheBeesKnees13 | Verificar na página (Free) | Tokens/Fantasy | A verificar | <https://itch.io/game-assets/free/tag-cottagecore> |
+
+---
+
+## 111. Nature / Natureza — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| FREE Pixel Art Flower Pack | karsiori | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-nature> |
+| Pixel Art Platformer - Village Props | Cainos | Verificar na página (Free) | Sprites/32x32 | A verificar | <https://itch.io/game-assets/free/tag-nature> |
+| Garden-Visual Novel Backgrounds [Free] | Florassence | Verificar na página (Free) | Backgrounds/VN | A verificar | <https://itch.io/game-assets/free/tag-nature> |
+| FREE WEATHER SFX - Rain, Wind and Thunder | Helton Yan | Verificar na página (Free) | SFX/Weather | A verificar | <https://itch.io/game-assets/free/tag-nature> |
+| Platformer Tileset | Sandstorm | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free/tag-nature> |
+
+---
+
+## 112. Environment / Ambiente — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Enchanted fungi set for your pixel fantasy world | ssugmi | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-environment> |
+| Pixel Art Nature Environment Pack — 254 SPRITES | AstroCom | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-environment> |
+| FREE Pixel Art Bush Pack | karsiori | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-environment> |
+| Animated Waterfalls - Pixel Art Water Sprites | Heosphorus | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-environment> |
+| Low Poly stones | godgoldfear | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-environment> |
+
+---
+
+## 113. Furniture / Móveis — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Noble Interiors | 30 Victorian Furniture Sprites x 8 colourways | Kelano Studio | Verificar na página (Free) | Sprites/Furniture | A verificar | <https://itch.io/game-assets/free/tag-furniture> |
+| Park Furnitures | loafbrr | Verificar na página (Free) | Pack/Furniture | A verificar | <https://itch.io/game-assets/free/tag-furniture> |
+| Furniture Pixel Art Pack | Sandebru | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free/tag-furniture> |
+| Antique Furniture pack 2.0 | IvoryRed | Verificar na página (Free) | Pack/Furniture | A verificar | <https://itch.io/game-assets/free/tag-furniture> |
+| Cozy Coffee Shop — Free Directional Furniture Add-On | SummerPixl | Verificar na página (Free) | Pack/Furniture | A verificar | <https://itch.io/game-assets/free/tag-furniture> |
+
+---
+
+## 114. Food / Comida — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Japanese Izakaya — Low Poly 3D Asset Pack (Free) | YumeForge | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-food> |
+| 3D Foods for Games | To.ony | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-food> |
+| 2D and 3D Medieval slavic tavern game assets | Gorjana Kalevska | Verificar na página (Free) | Pack/Tavern | A verificar | <https://itch.io/game-assets/free/tag-food> |
+| Japanese Products - low-poly, PSX style | BitSoft | Verificar na página (Free) | Pack/PSX | A verificar | <https://itch.io/game-assets/free/tag-food> |
+| Cocktail Pixel Asset Pack - 32x32 pixel asset pack | Helm3t | Verificar na página (Free) | Sprites/32x32 | A verificar | <https://itch.io/game-assets/free/tag-food> |
+
+---
+
+## 115. Tableware / Louça — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Glass Tableware Set – Realistic 3D Asset (Blender) | FiyarD | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-tableware> |
+| Low Poly Kitchenware Pack | M.B_Studio0 | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-tableware> |
+| Free Low Poly Japanese Soba Choko Cup and Condiment Dish | komonodo3d | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-tableware> |
+
+---
+
+## 116. Table / Mesa — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| z-table-0.01 | |+_+| | Verificar na página (Free) | Pack/Table | A verificar | <https://itch.io/game-assets/free/tag-table> |
+| Furniture | D.O.Rise | Verificar na página (Free) | Pack/Furniture | A verificar | <https://itch.io/game-assets/free/tag-table> |
+| Table | rayen213 | Verificar na página (Free) | 3D/Table | A verificar | <https://itch.io/game-assets/free/tag-table> |
+| Stylized Wooden Chair & Table Set - 5 Material Variants | TexWolf | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-table> |
+| 3D Poker Pack | mehrasaur | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-table> |
+
+---
+
+## 117. Bed / Cama — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Bed | keatura! | Verificar na página (Free) | Pack/Bed | A verificar | <https://itch.io/game-assets/free/tag-bed> |
+| Cozy Bed Set - Stylized Low Poly Game Asset | Selvi Nurcan | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-bed> |
+| Bed | DragonEmber | Verificar na página (Free) | Pack/Bed | A verificar | <https://itch.io/game-assets/free/tag-bed> |
+| Broken bed | Vector Asset | TonyHauf | Verificar na página (Free) | Vector/Bed | A verificar | <https://itch.io/game-assets/free/tag-bed> |
+| Small Bedroom Furniture Pack | Juodajuoda | Verificar na página (Free) | Pack/Furniture | A verificar | <https://itch.io/game-assets/free/tag-bed> |
+| Simple Low Poly Orthographic Room | shadirvan | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-bed> |
+
+---
+
+## 118. Lamp / Lâmpada — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| European Style Lamp | Moderial | Verificar na página (Free) | 3D/Lamp | A verificar | <https://itch.io/game-assets/free/tag-lamp> |
+| Lights and Lamps | Lambda Games | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-lamp> |
+| Cute Ceramic Table Lamp (3D Model) | lunzyx | Verificar na página (Free) | 3D/Lamp | A verificar | <https://itch.io/game-assets/free/tag-lamp> |
+| Lamp - Free 3D Asset | andreavo | Verificar na página (Free) | 3D/Lamp | A verificar | <https://itch.io/game-assets/free/tag-lamp> |
+| Emergency lamps for Roblox Low-Poly | shameke2005 | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-lamp> |
+| 2D Lights Pack | JJ Assets | Verificar na página (Free) | Pack/2D | A verificar | <https://itch.io/game-assets/free/tag-lamp> |
+
+---
+
+## 119. Candle / Vela — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Game-Ready Candle 3D Model | Caramel Studios | Verificar na página (Free) | 3D/Candle | A verificar | <https://itch.io/game-assets/free/tag-candle> |
+| Candle - Pixel Art Freestyle | Nayvos | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-candle> |
+| Candle VFX - Unity URP | Vefects - Realtime VFX for Games | Verificar na página (Free) | VFX/Unity | A verificar | <https://itch.io/game-assets/free/tag-candle> |
+| Decorations Pack - Deco. Collection | Boundfox Studios | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-candle> |
+| Low Poly Living room Game Ready Asset Pack | dilarapixel | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-candle> |
+| Low Poly Holiday Season Pack (Xmas & Winter) | MidknightGames | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-candle> |
 
 ---
 
