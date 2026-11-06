@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1900+ assets catalogados em 272 categorias.
+> **Total:** ~2000+ assets catalogados em 277 categorias.
 
 ---
 
@@ -3108,6 +3108,63 @@
 | Healing Spell Impacts [Free/CC0] | lentikula | CC0 | Pack/SFX | Sim (CC0) | <https://itch.io/game-assets/free?page=80> |
 | Precise-M | Mrmo Tarius | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=80> |
 | Free Cute Astronaut Character | Fly | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=80> |
+
+---
+
+## 273. Listing Page 81 / Página 81 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Curated public domain images suitable for Primal Quest - Weird Stone & Sorcery Adventure Game | Diogo Nogueira - Old Skull Publishing | Verificar na página (Free) | Pack/Images | A verificar | <https://itch.io/game-assets/free?page=81> |
+| RPG Asset: Farming Sim Asset Pack | VectoRaith | Verificar na página (Free) | Pack/Farming | A verificar | <https://itch.io/game-assets/free?page=81> |
+| FREE WW2 SOLDIER CHARACTERS SPRITES | MOMONGA | Verificar na página (Free) | Pack/Sprites | A verificar | <https://itch.io/game-assets/free?page=81> |
+| Jupiteroid Font - CC0 | GGBotNet | CC0 | Pack/Font | Sim (CC0) | <https://itch.io/game-assets/free?page=81> |
+| Classic Arcade Sound Effects | YourPalRob | Verificar na página (Free) | Pack/SFX | A verificar | <https://itch.io/game-assets/free?page=81> |
+
+---
+
+## 274. Listing Page 82 / Página 82 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Roguelike Raven - 2D Retro PixelArt Tileset and Sprites - Starter Set | Clockwork Raven | Verificar na página (Free) | Pack/Tileset | A verificar | <https://itch.io/game-assets/free?page=82> |
+| Pixel Art VFX - Vampire - FREE Version | Frostwindz | Verificar na página (Free) | Pack/VFX | A verificar | <https://itch.io/game-assets/free?page=82> |
+| FREE Isometric Halberd Warrior | Engvee | Verificar na página (Free) | Pack/Warrior | A verificar | <https://itch.io/game-assets/free?page=82> |
+| Classic UI SFX | Audio pack for Games or Twitch | ChhoffMusic | Verificar na página (Free) | Pack/SFX | A verificar | <https://itch.io/game-assets/free?page=82> |
+| Free Medieval Fantasy UI Pack | Kibyra | Verificar na página (Free) | Pack/UI | A verificar | <https://itch.io/game-assets/free?page=82> |
+
+---
+
+## 275. Listing Page 83 / Página 83 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Low-Poly Glock Model | mextie | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=83> |
+| Spire - Tower Pack 1 | Foozle | Verificar na página (Free) | Pack/Tower | A verificar | <https://itch.io/game-assets/free?page=83> |
+| Godot Hologram FX | Binbun | Verificar na página (Free) | Pack/Godot | A verificar | <https://itch.io/game-assets/free?page=83> |
+| Casino (RMMZ Plugin) | reflector88 | Verificar na página (Free) | Plugin/RMMZ | A verificar | <https://itch.io/game-assets/free?page=83> |
+
+---
+
+## 276. Listing Page 84 / Página 84 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Snail Pack 2 | Jitsu Koan | Verificar na página (Free) | Pack/Snails | A verificar | <https://itch.io/game-assets/free?page=84> |
+| Toilets | loafbrr | Verificar na página (Free) | Pack/Toilets | A verificar | <https://itch.io/game-assets/free?page=84> |
+| Stylized Fantasy Provencal Backgrounds | Spiral Atlas | Verificar na página (Free) | Pack/Backgrounds | A verificar | <https://itch.io/game-assets/free?page=84> |
+| Cute 16x16 Pixel Base by Cozy Fae | Cozy Fae | Verificar na página (Free) | Pack/16x16 | A verificar | <https://itch.io/game-assets/free?page=84> |
+
+---
+
+## 277. Listing Page 85 / Página 85 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Space Colony 3D Models | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=85> |
+| Realm of Critters - Enemy Pack 1 - Pixel Art | Foozle | Verificar na página (Free) | Pack/Enemies | A verificar | <https://itch.io/game-assets/free?page=85> |
+| Royal Knight Design | Warren Clark | Verificar na página (Free) | Pack/Knight | A verificar | <https://itch.io/game-assets/free?page=85> |
+| Animated mini characters 3 [Platform] [FREE] | LimeZu | Verificar na página (Free) | Pack/Characters | A verificar | <https://itch.io/game-assets/free?page=85> |
 
 ---
 
