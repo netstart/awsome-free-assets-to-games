@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1500+ assets catalogados em 254 categorias.
+> **Total:** ~1600+ assets catalogados em 259 categorias.
 
 ---
 
@@ -2893,6 +2893,66 @@
 | Sci-fi Character Pack 10 | Penusbmic | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=60> |
 | PromptFont | Shinmera | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=60> |
 | PSX Dungeon Boxes and Barrels Pack | MCSTEEG | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=60> |
+
+---
+
+## 255. Listing Page 61 / Página 61 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Rock Music For Games | Ragnar Random | CC0 | Pack/Music | Sim (CC0) | <https://itch.io/game-assets/free?page=61> |
+| Buttons | greenpixels_ | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=61> |
+| Godot Game Template | Maaack | Verificar na página (Free) | Pack/Godot | A verificar | <https://itch.io/game-assets/free?page=61> |
+| Doodle Rogue Tileset | chr15m | Verificar na página (Free) | Pack/Tileset | A verificar | <https://itch.io/game-assets/free?page=61> |
+| Free Pixel Art Fantasy Game Battlegrounds | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Battlegrounds | A verificar | <https://itch.io/game-assets/free?page=61> |
+
+---
+
+## 256. Listing Page 62 / Página 62 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| AlefranDev | AlefranDev | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=62> |
+| Free Outdoor Visual Novel Backgrounds | Delphinium Interactive | Verificar na página (Free) | Pack/Backgrounds | A verificar | <https://itch.io/game-assets/free?page=62> |
+| RETRO SOUNDS | DASK | Verificar na página (Free) | Pack/SFX | A verificar | <https://itch.io/game-assets/free?page=62> |
+| Goofy Sounds for Scary Monsters | Stormyman | CC0 | Pack/SFX | Sim (CC0) | <https://itch.io/game-assets/free?page=62> |
+| Visual Novel Dialogue GUI Asset Pack | One Level Studio | Verificar na página (Free) | Pack/GUI | A verificar | <https://itch.io/game-assets/free?page=62> |
+
+---
+
+## 257. Listing Page 63 / Página 63 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| HALFTONE Sound Effects Pack LITE | VOiD1 Gaming | Verificar na página (Free) | Pack/SFX | A verificar | <https://itch.io/game-assets/free?page=63> |
+| Diffusion | Amorphous | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=63> |
+| Godot PSX starter kit | Druid | Verificar na página (Free) | Pack/Godot | A verificar | <https://itch.io/game-assets/free?page=63> |
+| Pixel Monsters Megapack | Blacis | Verificar na página (Free) | Pack/Monsters | A verificar | <https://itch.io/game-assets/free?page=63> |
+| Free Admin Panel | Zxgly | Verificar na página (Free) | Pack/Admin | A verificar | <https://itch.io/game-assets/free?page=63> |
+
+---
+
+## 258. Listing Page 64 / Página 64 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| MetroCity - Free External Top Down Environment Asset Pack | JIK-A-4 | Verificar na página (Free) | Pack/Environment | A verificar | <https://itch.io/game-assets/free?page=64> |
+| Ottomania - 2D Pixel Art Platformer Tileset | yanin | Verificar na página (Free) | Tileset/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=64> |
+| Free 16x16 Pixel Character Template | PixelFight | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=64> |
+| Pixel Art Automation Tileset | sierrassets | Verificar na página (Free) | Pack/Tileset | A verificar | <https://itch.io/game-assets/free?page=64> |
+| Steampunk & Fantasy UI Pack | Positron | Verificar na página (Free) | Pack/UI | A verificar | <https://itch.io/game-assets/free?page=64> |
+
+---
+
+## 259. Listing Page 65 / Página 65 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Joszs' Medieval Item Pack | Joszs | Verificar na página (Free) | Pack/Items | A verificar | <https://itch.io/game-assets/free?page=65> |
+| Monster Builder Pack | Kenney (Assets) | CC0 | Pack/170+ sprites | Sim (CC0) | <https://itch.io/game-assets/free?page=65> |
+| DRAGONBUN - Item Borders: Pack 1 | Mimo | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=65> |
+| Free Music Loop Bundle - Deep Electronic, Cinematic Orchestral, Chilled Beats, Filthy Dubstep | Of Far Different Nature | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=65> |
+| Jungle platformer assets | BigBuckBunny | Verificar na página (Free) | Pack/Jungle | A verificar | <https://itch.io/game-assets/free?page=65> |
 
 ---
 
