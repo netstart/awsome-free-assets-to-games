@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~700+ assets catalogados em 119 categorias.
+> **Total:** ~800+ assets catalogados em 140 categorias.
 
 ---
 
@@ -1512,6 +1512,241 @@
 | Decorations Pack - Deco. Collection | Boundfox Studios | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-candle> |
 | Low Poly Living room Game Ready Asset Pack | dilarapixel | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-candle> |
 | Low Poly Holiday Season Pack (Xmas & Winter) | MidknightGames | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-candle> |
+
+---
+
+## 120. Cafe / Café — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Longcat Cafe Asset Pack | BittyBeastie | Verificar na página (Free) | Pack/Cafe | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| CozyCafe Assetpack | ariixten | Verificar na página (Free) | Pack/Cafe | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| Coffee Shop - Low Poly Cafe Pack | Imersa Studios | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| Ultimate Cozy Café & Bistro: 16x16 Top-Down RPG Interior | Haeschen Werkstaetten | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+
+---
+
+## 121. Pastry / Confeitaria — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 32x32 Food Assets! | CATISTRY | Verificar na página (Free) | Sprites/32x32 | A verificar | <https://itch.io/game-assets/free/tag-pastry> |
+| Bakery & pastry Assets #1: breads, cookies and pies | Animagic.assets | Verificar na página (Free) | Pack/Bakery | A verificar | <https://itch.io/game-assets/free/tag-pastry> |
+| Strawberry Tart | glaistig's garden | Verificar na página (Free) | Pack/Food | A verificar | <https://itch.io/game-assets/free/tag-pastry> |
+| Low Poly Iced Honey Bun | WarmHoneyBun | Verificar na página (Free) | 3D/Low Poly | A verificar | <https://itch.io/game-assets/free/tag-pastry> |
+| Chocolate Doughnuts | Delnika | Verificar na página (Free) | Pack/Food | A verificar | <https://itch.io/game-assets/free/tag-pastry> |
+
+---
+
+## 122. Candy / Doce — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Candy King | Drax | Verificar na página (Free) | Pack/Candy | A verificar | <https://itch.io/game-assets/free/tag-candy> |
+| Halloween Assets | DragonEmber | Verificar na página (Free) | Pack/Halloween | A verificar | <https://itch.io/game-assets/free/tag-candy> |
+| Free Snack Monster Pack Vol.1 | takahashi mile | Verificar na página (Free) | Pack/RPG Maker | A verificar | <https://itch.io/game-assets/free/tag-candy> |
+| Cubosaurios | Teiman | Verificar na página (Free) | Pack/Candy | A verificar | <https://itch.io/game-assets/free/tag-candy> |
+
+---
+
+## 123. Dessert / Sobremesa — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Paderunt | Paderunt | Verificar na página (Free) | Pack/Dessert | A verificar | <https://itch.io/game-assets/free/tag-dessert> |
+| Strawberry Tart | glaistig's garden | Verificar na página (Free) | Pack/Food | A verificar | <https://itch.io/game-assets/free/tag-dessert> |
+| Low Poly Iced Honey Bun | WarmHoneyBun | Verificar na página (Free) | 3D/Low Poly | A verificar | <https://itch.io/game-assets/free/tag-dessert> |
+| Bakery & Sweets Icons Pack — Cozy Pixel Food Icons | bobkingg | Verificar na página (Free) | Icons/Food | A verificar | <https://itch.io/game-assets/free/tag-dessert> |
+| Birthday Cake | Shinigami001 | Verificar na página (Free) | Pack/Cake | A verificar | <https://itch.io/game-assets/free/tag-dessert> |
+| Cupcake | Shinigami001 | Verificar na página (Free) | Pack/Cupcake | A verificar | <https://itch.io/game-assets/free/tag-dessert> |
+
+---
+
+## 124. Juice / Suco — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| CRUNCH - Game Feel Toolkit | MValera Dev | Verificar na página (Free) | Toolkit | A verificar | <https://itch.io/game-assets/free/tag-juice> |
+| [Free] Drink Asset Pack | lotus_garden | Verificar na página (Free) | Pack/Drinks | A verificar | <https://itch.io/game-assets/free/tag-juice> |
+| Modular Juice & Shake System V1.0 | Yameen.png | Verificar na página (Free) | System | A verificar | <https://itch.io/game-assets/free/tag-juice> |
+| Juice Kit: Game Feel for Godot 4 (Free) | hopefulsham | Verificar na página (Free) | Kit/Godot | A verificar | <https://itch.io/game-assets/free/tag-juice> |
+
+---
+
+## 125. Store / Loja — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Packaging PSX style Asset Pack 1 | nocturnalskeleton | Verificar na página (Free) | Pack/Packaging | A verificar | <https://itch.io/game-assets/free/tag-store> |
+| store´s assets | jiwooji | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-store> |
+| Rundown Store Assets | Killer M. Creations | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-store> |
+| Storetest_Advanced | abdmajiiiid | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-store> |
+| Building 3D Asset | MADTITAN003 | Verificar na página (Free) | 3D/Building | A verificar | <https://itch.io/game-assets/free/tag-store> |
+
+---
+
+## 126. Market / Mercado — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Market Stall – Low Poly 3D Asset | FenceLab | Verificar na página (Free) | 3D/Model | A verificar | <https://itch.io/game-assets/free/tag-market> |
+| Grim Market Baskets & Containers – Free Pack | VisceralG | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-market> |
+| Sackcloth - 120 Pixel Art Sacks, Bags & Burlap Cloth (32x32) | najjar320 | Verificar na página (Free) | Sprites/32x32 | A verificar | <https://itch.io/game-assets/free/tag-market> |
+| Soko Sprites FREE Sampler — 12 East African Market Props | Sokoworks | Verificar na página (Free) | Pack/SVG+PNG | A verificar | <https://itch.io/game-assets/free/tag-market> |
+
+---
+
+## 127. City / Cidade — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 3 City/Road Scene Backgrounds — Free | Jamie Cross | Verificar na página (Free) | Backgrounds | A verificar | <https://itch.io/game-assets/free/tag-city> |
+| KR FREE Glass City Tileset for RPGs | Kokoro Reflections | Verificar na página (Free) | Tileset/RPG | A verificar | <https://itch.io/game-assets/free/tag-city> |
+| Row House Tileset | Guardian | Verificar na página (Free) | Tileset | A verificar | <https://itch.io/game-assets/free/tag-city> |
+| Free Dog Cat and Mouse Animations Sprite Pixel Art | Antea ✮⋆˙ | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-city> |
+
+---
+
+## 128. Street / Rua — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| LP | LP | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-street> |
+| Tidebone Road Lite – Free Procedural Road Generator | thequietstack | Verificar na página (Free) | Blender/Geometry Nodes | A verificar | <https://itch.io/game-assets/free/tag-street> |
+| Street Props Pack - Racing Game | Albert | Verificar na página (Free) | Pack/Racing | A verificar | <https://itch.io/game-assets/free/tag-street> |
+| Urban City Tileset – Basic Edition | Dlou Saiyan | Verificar na página (Free) | Tileset/32x32 | A verificar | <https://itch.io/game-assets/free/tag-street> |
+
+---
+
+## 129. Bridge / Ponte — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Low poly well, lantern, pillar, bridge 3d models | Gorlaks | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-bridge> |
+| Low-poly bridge | Dawid_707 | Verificar na página (Free) | 3D/Bridge | A verificar | <https://itch.io/game-assets/free/tag-bridge> |
+| bridge 3d | OrangeGame | Verificar na página (Free) | 3D/Bridge | A verificar | <https://itch.io/game-assets/free/tag-bridge> |
+| GGMax Bridge Builder Pack | Tiny Sprite Studios | Verificar na página (Free) | Pack/Bridge | A verificar | <https://itch.io/game-assets/free/tag-bridge> |
+| MysticalCastle | coming_kreativy | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-bridge> |
+
+---
+
+## 130. Fence / Cerca — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Asset Fence set | Murrri | Verificar na página (Free) | Pack/Fence | A verificar | <https://itch.io/game-assets/free/tag-fence> |
+| Modular Wooden Barricade – Game-Ready 3D Asset | Tamal | Verificar na página (Free) | 3D/Barricade | A verificar | <https://itch.io/game-assets/free/tag-fence> |
+| Wood Lattice Screens, Fences and Garden Props: 50 3D Models | spajx123c | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-fence> |
+| Tidebone Fence Lite – Free Picket Fence Generator | thequietstack | Verificar na página (Free) | Blender/Geometry Nodes | A verificar | <https://itch.io/game-assets/free/tag-fence> |
+
+---
+
+## 131. Gate / Portão — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Dynamic & Connectable Fence Pack | RJ Custom App | Verificar na página (Free) | Pack/Unity | A verificar | <https://itch.io/game-assets/free/tag-gate> |
+| castle entrance | izanai | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-gate> |
+| Round Doors, Gates and Medieval Entry Props: 50 3D Models | spajx123c | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-gate> |
+| The Gate (platformer) | Ibrartist | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-gate> |
+
+---
+
+## 132. Door / Porta — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| last door | madmakingmistery | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free/tag-door> |
+| Bunker Door - Low Poly | Tecozo_Art | Verificar na página (Free) | 3D/Door | A verificar | <https://itch.io/game-assets/free/tag-door> |
+| Round Doors, Gates and Medieval Entry Props: 50 3D Models | spajx123c | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-door> |
+| Hardwood Door | GreenSquidDev | Verificar na página (Free) | 3D/Door | A verificar | <https://itch.io/game-assets/free/tag-door> |
+
+---
+
+## 133. Window / Janela — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Rasaks Pixelhölle: Other Stuff | Rasak | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-window> |
+| Stained Glass | ACTG | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-window> |
+| Old wooden window | Alexti_dev | Verificar na página (Free) | 3D/Window | A verificar | <https://itch.io/game-assets/free/tag-window> |
+| DOL's Free Modify Windows MZ | DOLGRIM | Verificar na página (Free) | Plugin/RPG Maker | A verificar | <https://itch.io/game-assets/free/tag-window> |
+| Tidebone Windows & Doors Lite – Free Gründerzeit Window Generator | thequietstack | Verificar na página (Free) | Blender/Geometry Nodes | A verificar | <https://itch.io/game-assets/free/tag-window> |
+
+---
+
+## 134. Wall / Parede — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Cyber Modular Screen Wall - 3D Asset | simon3tortora-ui | Verificar na página (Free) | 3D/Wall | A verificar | <https://itch.io/game-assets/free/tag-wall> |
+| PSX Utility Surfaces — Free 6-Texture Sampler | Roco Studios | Verificar na página (Free) | Textures/64px | A verificar | <https://itch.io/game-assets/free/tag-wall> |
+| Rusted Metal Vol.1 | tempisq | Verificar na página (Free) | Textures/Metal | A verificar | <https://itch.io/game-assets/free/tag-wall> |
+
+---
+
+## 135. Roof / Telhado — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Wood Shingles Vol.1 | tempisq | Verificar na página (Free) | Textures/Roof | A verificar | <https://itch.io/game-assets/free/tag-roof> |
+| Roof Tiles Vol.1 | tempisq | Verificar na página (Free) | Textures/Roof | A verificar | <https://itch.io/game-assets/free/tag-roof> |
+| Corrugated Metal Vol.1 | tempisq | Verificar na página (Free) | Textures/Metal | A verificar | <https://itch.io/game-assets/free/tag-roof> |
+| Dustroof | jeraica | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-roof> |
+
+---
+
+## 136. Bench / Banco — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| City props collection - low poly | Stanisko | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-bench> |
+| Wooden Bench | BakaFoxAssets | Verificar na página (Free) | 3D/Bench | A verificar | <https://itch.io/game-assets/free/tag-bench> |
+| Painted Wooden Bench - Free CC0 GLB Prop | Eclair Assets | CC0 | 3D/Prop | Sim (CC0) | <https://itch.io/game-assets/free/tag-bench> |
+| Wooden bench for interior . Glb 3D Asset | PolyDonut3D | Verificar na página (Free) | 3D/Bench | A verificar | <https://itch.io/game-assets/free/tag-bench> |
+
+---
+
+## 137. Lamp Post / Luminária de Rua — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| ps1 style lamp post | halofes | Verificar na página (Free) | 3D/Lamp | A verificar | <https://itch.io/game-assets/free/tag-lamp-post> |
+| Wooden Lantern Post | GreyFrogGames | Verificar na página (Free) | 3D/Lantern | A verificar | <https://itch.io/game-assets/free/tag-lamp-post> |
+| Lamp Post | andygiancoulas | Verificar na página (Free) | 3D/Lamp | A verificar | <https://itch.io/game-assets/free/tag-lamp-post> |
+| Lamp Post Guard (Silent Watcher) | Qeros | Verificar na página (Free) | NPC/Guard | A verificar | <https://itch.io/game-assets/free/tag-lamp-post> |
+
+---
+
+## 138. Mailbox / Caixa de Correio — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Mailbox | keatura! | Verificar na página (Free) | 3D/Mailbox | A verificar | <https://itch.io/game-assets/free/tag-mailbox> |
+
+---
+
+## 139. Trash Can / Lixeira — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Modern Metal Street Trash Bin - High Detail Mesh | ZFR Digital Arts | Verificar na página (Free) | 3D/Model | A verificar | <https://itch.io/game-assets/free/tag-trash-can> |
+| Retro Urban Trash Can - Game Ready Prop | ZFR Digital Arts | Verificar na página (Free) | 3D/Prop | A verificar | <https://itch.io/game-assets/free/tag-trash-can> |
+| Garbage collection pack | Richard Oliveira | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-trash-can> |
+| PSX Trash can & Light Post | Visnicio | Verificar na página (Free) | Pack/PSX | A verificar | <https://itch.io/game-assets/free/tag-trash-can> |
+| Voxel Trash Can T2 | VOX FOX | Verificar na página (Free) | 3D/Voxel | A verificar | <https://itch.io/game-assets/free/tag-trash-can> |
+
+---
+
+## 140. Barrel / Barril — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Pack of barrel models in voxel art style | LunaryGames | Verificar na página (Free) | Pack/Voxel | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
+| Boom Bot | Integra_M | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
+| Low Poly Wine Barrel Asset | Scary Monkey Incorporated | Verificar na página (Free) | 3D/Barrel | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
+| Breakable Dungeon Barrel | Ninefold Forge | Verificar na página (Free) | 3D/Barrel | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
+| Medieval Camp - Low Poly Asset Pack | Linndrey | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-barrel> |
 
 ---
 
