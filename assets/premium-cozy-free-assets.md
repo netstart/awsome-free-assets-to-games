@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1000+ assets catalogados em 225 categorias.
+> **Total:** ~1000+ assets catalogados em 226 categorias.
 
 ---
 
@@ -2537,6 +2537,21 @@
 | Low Poly Living Room Asset Pack | IceTimeAdventures | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-warm> |
 | Autumn Harvest UI SFX - 50 Warm Cozy Sounds | Mulato | Verificar na página (Free) | SFX/UI | A verificar | <https://itch.io/game-assets/free/tag-warm> |
 | Flowers after dinner | Delnika | Verificar na página (Free) | Pack/Flowers | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+
+---
+
+1. Verifique a licença oficial na página de origem
+2. Confirme que o uso comercial é expressamente permitido
+3. Adicione a entrada na tabela correspondente acima
+4. Mantenha a coerência de formatação e a consistência das URLs/licenças
+5. Não duplique assets já listados
+
+## 226. Fantasy / Fantasia — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Forest Monsters 2D Pixel Art | MonoPixelArt | Verificar na página (Free) | Sprites/Pixel | A verificar | <https://itch.io/game-assets/free/tag-fantasy> |
+| Monster Asset Pack [16x16] | DeepDiveGameStudio | Verificar na página (Free) | Pack/Monster | A verificar | <https://itch.io/game-assets/free/tag-fantasy> |
 
 ---
 
