@@ -1,8 +1,9 @@
 # Catálogo de Assets Premium Cozy — Gratuitos para Uso Comercial
 
 > **Data de compilação:** 2026-11-05  
-> **Fontes:** itch.io (tag "cozy", filtro free), busca direta em páginas de ativos  
-> **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.
+> **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm)  
+> **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
+> **Total:** ~215 assets catalogados em 26 categorias.
 
 ---
 
@@ -271,6 +272,134 @@
 | 50 Menu Interface SFX | ColorAlpha | Verificar na página (Free) | SFX/UI | A verificar | <https://itch.io/game-assets/free/tag-sound-effects> |
 | Menu Sound FX Pack + More! | Hitrison | Verificar na página (Free) | SFX/UI | A verificar | <https://itch.io/game-assets/free/tag-sound-effects> |
 | RPG Voice Starter Pack | Cici Fyre | Verificar na página (Free) | SFX/Voice | A verificar | <https://itch.io/game-assets/free/tag-sound-effects> |
+
+---
+
+---
+
+## 19. Wholesome / Aconchegante — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Build 3 heartwarming wholesome games from 1 kit! Farming homestead, pet ranch & tavern cooking in Godot 4 | lordkirk43 | Verificar na página (Free) | Kit/Godot | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Art Museum Assets - Paintings & Busts | A.M | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Crisp Cozy Free - 20 Cute & Cozy UI Sound Effects + Playable Demo | Anipixels | Comercial OK (WAV + OGG) | SFX/UI | Sim | <https://itch.io/game-assets/free/tag-wholesome> |
+| Cozy UI Sound Pack LITE - 15 Free Soft UI Sounds (WAV + OGG) | inkhabor | Commercial use, no attribution | SFX/UI | Sim | <https://itch.io/game-assets/free/tag-wholesome> |
+| Kawaii Ghost Sprite Pack | Kububbis | Verificar na página (Free) | Sprite/Pixel | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Aesthetic Heart Icon Pack | Kububbis | Verificar na página (Free) | Icons | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Snug the Ghost Who Cannot Scare - Cute Halloween Live Wallpaper | snugmeadow | Verificar na página (Free) | Wallpaper | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Cozy Life: 10 Essential Lo-fi Tracks for Farming Sims vo.1 | ghost_bit_studio | Verificar na página (Free) | Music/Lo-fi | A verificar | <https://itch.io/game-assets/free/tag-wholesome> |
+| Soft Realistic Anime Inspired Avatars | desastrophi | Can be used for anything | Avatars | Sim | <https://itch.io/game-assets/free/tag-wholesome> |
+
+---
+
+## 20. Village / Aldeia — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 16 free low-poly fantasy village props: a cottage whose door opens, a well, a market stall, a cart | heyheythere | Verificar na página (Free) | 3D/Low Poly | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Hypno's Low-Poly Fantasy Village Pack | atblack | Verificar na página (Free) | 3D/Low Poly | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Roadside Tales Fences and Wall Bundle Pack 1-3 LODS | EmaceArt | Verificar na página (Free) | 3D/Fences | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Pixel Village | Fin_nio | Verificar na página (Free) | Pixel/Village | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Ultimate Farming & Village Mega-Pack: Low Poly Collection | DaniilT17 | Verificar na página (Free) | 3D/Low Poly | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Free Village Game Assets | ankousse26 | Verificar na página (Free) | Pack/Village | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Pixel Worlds – Free Sample | SdavGha | Verificar na página (Free) | Pixel/Map Scenes | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Night_Village_J-RPG_SFX | vycksounds-21 | Verificar na página (Free) | SFX/Village | A verificar | <https://itch.io/game-assets/free/tag-village> |
+| Cozy Town — Modern 16x16 Top-Down City Tileset: Shops, Cafés, Interiors & Characters (Free Lite) | Spaceyyy | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free/tag-village> |
+
+---
+
+## 21. Cooking / Culinária — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Ren'Py Ice Cream Maker Template | Xogua | Verificar na página (Free) | Template/Ren'Py | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| Cooking Ingredients | Void so Avoid | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| The Ultimate 267 Cooking Ingredients & Prepared Dishes Food Icons Pack | Rosebud AI Gamemaker | Verificar na página (Free) | Icons/Food | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| Pixel Food Pack | Rcp Studios | Verificar na página (Free) | Sprites/32x32 | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| Kitchen: Monsters | Kitchenmonsters / WizardHatStudio | Verificar na página (Free) | Pack/Kitchen | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| Free Pixel Ingredients Pack | CaioMarcelPixel | Verificar na página (Free) | Sprites/64x64 | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| VisuStella Cuisine: Plates | VisuStella | Verificar na página (Free) | Plates | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+| Fast food collection flat design | SunGraphica | FREE | Flat Design | Sim | <https://itch.io/game-assets/free/tag-cooking> |
+| Dino Nuggets | BrushingBlooms | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-cooking> |
+
+---
+
+## 22. Cafe / Cafeteria — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Low Poly City Buildings Pack – Game Ready 3D Assets | StarsandShellsStudio | Verificar na página (Free) | 3D/Buildings | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| Little Cafe — Cozy 3D Assets + Matching 2D Icons | TMTenma | Verificar na página (Free) | 3D+2D Icons | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| FREE Dead Wood Cafe - Coffee Shop Objects | ODDBLOT | FREE | 3D/Cafe Objects | Sim | <https://itch.io/game-assets/free/tag-cafe> |
+| Anime Scenery Backgrounds — FREE Sample | Blueberry Assets | Commercial use, no attribution | Backgrounds/PNG | Sim | <https://itch.io/game-assets/free/tag-cafe> |
+| Bakery Cozy Interior Top-Down Pack — Free Sampler | VeniceMenaceBakingCo | CC0 | Pixel/16-bit | Sim (CC0) | <https://itch.io/game-assets/free/tag-cafe> |
+| Longcat Cafe Asset Pack | BittyBeastie | Verificar na página (Free) | Pack/Cafe | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| CozyCafe Assetpack | ariixten | Verificar na página (Free) | Pack/Cafe | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| Coffee Shop - Low Poly Cafe Pack | Imersa Studios | Verificar na página (Free) | 3D/Low Poly | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+| Ultimate Cozy Café & Bistro: 16x16 Top-Down RPG Interior & Entryway Tileset | Haeschen Werkstaetten | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free/tag-cafe> |
+
+---
+
+## 23. Garden / Jardim — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Fantasy Garden - Pixel Art Living Fruits & Creatures Pack | MohammadMatinNik | Verificar na página (Free) | Pixel/2D | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+| Coastal Home: 50 Retro House, Porch and Garden 3D Props | spajx123c | Verificar na página (Free) | 3D/Props | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+| Stone Paths Vol.1 | tempisq | Verificar na página (Free) | Textures/Paths | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+| Wheelbarrow Fleet: 50 Garden, Construction and Vintage 3D Props | spajx123c | Verificar na página (Free) | 3D/Props | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+| Boxwood Shrubs and Topiary: 50 Garden and Landscape 3D Models | spajx123c | Verificar na página (Free) | 3D/Models | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+| Tidebone Fence Lite – Free Picket Fence Generator (Geometry Nodes) | thequietstack | Verificar na página (Free) | Blender/Geometry Nodes | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+| Free Watering Can - Garden Work Props Sample (Low Poly, BLEND / FBX / GLB) | komonodo3d | Verificar na página (Free) | 3D/Low Poly | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+| Free Kokedama (Moss Ball) — Japanese Garden Sample | komonodo3d | Verificar na página (Free) | 3D/Japanese Garden | A verificar | <https://itch.io/game-assets/free/tag-garden> |
+
+---
+
+## 24. Pastel — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free City Background Pack! 3 Different Color Pallets! | witches glitches | Verificar na página (Free) | Backgrounds | A verificar | <https://itch.io/game-assets/free/tag-pastel> |
+| Magical Girl Items Asset Pack FREE | BlubbKattegatt | FREE | Illustrations/Items | Sim | <https://itch.io/game-assets/free/tag-pastel> |
+| Pastel Cozy UI Pack | ashnaaay | Verificar na página (Free) | UI/Vector | A verificar | <https://itch.io/game-assets/free/tag-pastel> |
+| Pretty Pixels UI Pack | Orange Carnation | Verificar na página (Free) | UI/Pixel | A verificar | <https://itch.io/game-assets/free/tag-pastel> |
+| Pastel Cozy UI: Buttons & Icons (FREE) | ashnaaay | FREE | UI/Buttons & Icons | Sim | <https://itch.io/game-assets/free/tag-pastel> |
+| Candy Reflections — Free UI Kit | TChepyxa | Verificar na página (Free) | UI Kit | A verificar | <https://itch.io/game-assets/free/tag-pastel> |
+| Pink Beach | bullabit | Free | Background | Sim | <https://itch.io/game-assets/free/tag-pastel> |
+
+---
+
+## 25. Warm / Aconchegante — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Drift into the calm of a softly falling winter snow | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| Warm Your Heart: Bittersweet Winter Nights Music | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| winter day3 | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| princess music box | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music Box | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| sleep music box7 | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music Box | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| night music box | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music Box | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| folktals music box | 劉 恵 (Megumi Ryu) | Verificar na página (Free) | Music Box | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| Low Poly Living Room Asset Pack | IceTimeAdventures | Verificar na página (Free) | 3D/Furniture | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| Autumn Harvest UI SFX - 50 Warm Cozy Sounds | Mulato | Verificar na página (Free) | SFX/UI | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+| Flowers after dinner | Delnika | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free/tag-warm> |
+
+---
+
+## 26. Cozy — Página 3 (mais resultados)
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Plants with multiple growth stages | Soppycraft | Verificar na página (Free) | Sprites/Plants | A verificar | <https://itch.io/game-assets/free/tag-cozy> |
+| Farm horse FREE | ToffeeCraft | Verificar na página (Free) | Sprites/Animations | A verificar | <https://itch.io/game-assets/free/tag-cozy> |
+| Pixel Inventory & Diary UI — Cute Modern Item Icons | IndigoLay | Verificar na página (Free) | UI/Icons | A verificar | <https://itch.io/game-assets/free/tag-cozy> |
+| IT'S SNOWTIME: A Free Festive Music Loop | Fablefly Music | FREE | Music/Loop | Sim | <https://itch.io/game-assets/free/tag-cozy> |
+| Desert Tiles | Elvis_Lara | Verificar na página (Free) | Tileset/Desert | A verificar | <https://itch.io/game-assets/free/tag-cozy> |
+| Cozy Animals 3D Models | Gamideo | Verificar na página (Free) | 3D/Animals | A verificar | <https://itch.io/game-assets/free/tag-cozy> |
+| ToonLab - Toon Nature Pack | ToonLAB | Verificar na página (Free) | 3D/Nature | A verificar | <https://itch.io/game-assets/free/tag-cozy> |
+| Yuki; Girl with Beret Art Assets | RainyViolets | Verificar na página (Free) | Sprite/Character | A verificar | <https://itch.io/game-assets/free/tag-cozy> |
+| 🟢 [FREE] - Lofi Coffee Music Pack | Cristiano Leone - OST | FREE | Music/Lofi Coffee | Sim | <https://itch.io/game-assets/free/tag-cozy> |
 
 ---
 
