@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1300+ assets catalogados em 245 categorias.
+> **Total:** ~1400+ assets catalogados em 249 categorias.
 
 ---
 
@@ -2786,6 +2786,53 @@
 | Raven Fantasy Icons HD Ultimate | Clockwork Raven | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=50> |
 | Robot Sprite | BrawlBot | wuhuli | Verificar na página (Free) | Pack/Robot | A verificar | <https://itch.io/game-assets/free?page=50> |
 | Elementals: Metal Bladekeeper | chierit | Verificar na página (Free) | Pack/Animations | A verificar | <https://itch.io/game-assets/free?page=50> |
+
+---
+
+## 246. Listing Page 51 / Página 51 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Tiny 16 | Sharm | Verificar na página (Free) | Pack/16x16 | A verificar | <https://itch.io/game-assets/free?page=51> |
+| Free Low Poly Weapons Pack Vol. 3 | Delthor Games | Verificar na página (Free) | Pack/Weapons | A verificar | <https://itch.io/game-assets/free?page=51> |
+| FREE MUSIC : Ambient LoFi Jazz ( MP3 & MIDI ) | RUSTED MUSIC STUDIO Music & Assets | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=51> |
+| SCAReStaff October 2021 | Resource Staff | Verificar na página (Free) | Pack/RPG Maker | A verificar | <https://itch.io/game-assets/free?page=51> |
+| Free Shoot`em Up starter Asset Pack | Timberlate007 | Verificar na página (Free) | Pack/Shoot'em Up | A verificar | <https://itch.io/game-assets/free?page=51> |
+
+---
+
+## 247. Listing Page 52 / Página 52 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 16-Char Sprite Collection (Modern Chibis, Asset Alliance) | finalbossblues | Verificar na página (Free) | Sprites/Chibi | A verificar | <https://itch.io/game-assets/free?page=52> |
+| Pixel Interior – Cozy 16x16 Bedroom Top Down Tileset | bitglow | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free?page=52> |
+| Farming 101 - [16x16] Top Down RPG Asset Pack | Pixel Echoes | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free?page=52> |
+| FREE Music Pack 13: DOS\AdLib | Seciden (previously Retro Indie Josh) | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=52> |
+
+---
+
+## 248. Listing Page 53 / Página 53 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 120 Realistic avatars for RPG (ethnic, gender and age diversity) | Ladadori | Verificar na página (Free) | Pack/Avatars | A verificar | <https://itch.io/game-assets/free?page=53> |
+| Lucifer - Warrior | Foozle | Verificar na página (Free) | Pack/Warrior | A verificar | <https://itch.io/game-assets/free?page=53> |
+| Admurin's Insect Items | Admurin | Verificar na página (Free) | Pack/Insects | A verificar | <https://itch.io/game-assets/free?page=53> |
+| Pixel Art Door Pack - ANIMATED | karsiori | Verificar na página (Free) | Pack/Door | A verificar | <https://itch.io/game-assets/free?page=53> |
+| Paper UI Asset Pack for Games | LoudEyes | Verificar na página (Free) | Pack/UI | A verificar | <https://itch.io/game-assets/free?page=53> |
+
+---
+
+## 249. Listing Page 54 / Página 54 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Top Down Basic Set | tokka | Verificar na página (Free) | Pack/Sprite Set | A verificar | <https://itch.io/game-assets/free?page=54> |
+| Retro Palette Swapper - for GameMakerStudio 1 & 2 | Pixelated Pope | Verificar na página (Free) | Tool/GameMaker | A verificar | <https://itch.io/game-assets/free?page=54> |
+| Castle Kit | Kenney (Assets) | CC0 | Pack/3D | Sim (CC0) | <https://itch.io/game-assets/free?page=54> |
+| Free Platformer Pixel Art Assets | Wishforge | Verificar na página (Free) | Pack/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=54> |
+| DuskBorne Enemy #3 [DemonKin] - Free 2D PixelArt Animated Character | KiyoZ | Verificar na página (Free) | Pack/Enemy | A verificar | <https://itch.io/game-assets/free?page=54> |
 
 ---
 
