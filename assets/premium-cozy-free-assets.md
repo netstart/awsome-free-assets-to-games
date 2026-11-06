@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1000+ assets catalogados em 231 categorias.
+> **Total:** ~1100+ assets catalogados em 236 categorias.
 
 ---
 
@@ -2624,6 +2624,64 @@
 | Pixel Art Samurai | hugues laborde | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=35> |
 | PIXEL FANTASY RPG ICONS - Festive 2 | Caz | Verificar na página (Free) | Icons/Pixel | A verificar | <https://itch.io/game-assets/free?page=35> |
 | Free Base Top-Down Female Free Character | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=35> |
+
+---
+
+## 232. Listing Page 36 / Página 36 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Wind Spell Effect 01 | pimen | Verificar na página (Free) | VFX/Wind | A verificar | <https://itch.io/game-assets/free?page=36> |
+| Free Card Packs! | Hanker | Verificar na página (Free) | Pack/Card | A verificar | <https://itch.io/game-assets/free?page=36> |
+| Warped Vehicles | ansimuz | Verificar na página (Free) | Pack/Vehicles | A verificar | <https://itch.io/game-assets/free?page=36> |
+| Icons Cute RPG 16x16 Icons sprites asset pack! | PixyMoon | Verificar na página (Free) | Icons/16x16 | A verificar | <https://itch.io/game-assets/free?page=36> |
+
+---
+
+## 233. Listing Page 37 / Página 37 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Knight Hero Platformer Animation Pack | PixiVan | Verificar na página (Free) | Pack/Animation | A verificar | <https://itch.io/game-assets/free?page=37> |
+| Pixel simulations | Limofeus | Verificar na página (Free) | Pack/Effects | A verificar | <https://itch.io/game-assets/free?page=37> |
+| Free 16x16 Philippine Mythological Creature Sprites | Kurt Gabriel Sotelo | Verificar na página (Free) | Sprites/16x16 | A verificar | <https://itch.io/game-assets/free?page=37> |
+| [BGM] Nostalgia Music Pack | JDSherbert | Verificar na página (Free) | Music | A verificar | <https://itch.io/game-assets/free?page=37> |
+
+---
+
+## 234. Listing Page 38 / Página 38 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Celestial Objects Pixel Art Pack | Useless Pursuit | Verificar na página (Free) | Pack/Pixel | A verificar | <https://itch.io/game-assets/free?page=38> |
+| SciFi LowPoly FPS Character | Ryan | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=38> |
+| Fantasy Swamp Forest Nature - Tileset Pack | The Flavare | Verificar na página (Free) | Tileset/Nature | A verificar | <https://itch.io/game-assets/free?page=38> |
+| Tiny Creatures | clintbellanger | Verificar na página (Free) | Sprites/16x16 | A verificar | <https://itch.io/game-assets/free?page=38> |
+| Isometric Tiles - Object Pack | Screaming Brain Studios | Verificar na página (Free) | Tileset/Object | A verificar | <https://itch.io/game-assets/free?page=38> |
+
+---
+
+## 235. Listing Page 39 / Página 39 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Blood Screen Effects | ScratchBattles | Verificar na página (Free) | Pack/Effects | A verificar | <https://itch.io/game-assets/free?page=39> |
+| Assault Rifle Mark1 (CC0) | VerzatileDev | CC0 | 3D-Model | Sim (CC0) | <https://itch.io/game-assets/free?page=39> |
+| Farm Tileset - 4 Seasons | antarcticbees | Verificar na página (Free) | Tileset/Farm | A verificar | <https://itch.io/game-assets/free?page=39> |
+| Fool | Void | Verificar na página (Free) | Pack | A verificar | <https://itch.io/game-assets/free?page=39> |
+| Tiny Neighbours | Vryell | Verificar na página (Free) | Pack/NPC | A verificar | <https://itch.io/game-assets/free?page=39> |
+
+---
+
+## 236. Listing Page 40 / Página 40 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Super Epic Fantasy Weapons Pack FREE | Babysamurai | Verificar na página (Free) | Icons/32x32 | A verificar | <https://itch.io/game-assets/free?page=40> |
+| Cosmic Legacy! Sci-Fi Tileset | PetricakeGames | Verificar na página (Free) | Tileset/Sci-Fi | A verificar | <https://itch.io/game-assets/free?page=40> |
+| High Seas Retro Textures | Strideh | Verificar na página (Free) | Textures | A verificar | <https://itch.io/game-assets/free?page=40> |
+| 8-Direction Top-Down Character Sprites | BossNelNel | Verificar na página (Free) | Sprites/Character | A verificar | <https://itch.io/game-assets/free?page=40> |
+| Car Kit | Kenney (Assets) | CC0 | Pack/3D | Sim (CC0) | <https://itch.io/game-assets/free?page=40> |
 
 ---
 
