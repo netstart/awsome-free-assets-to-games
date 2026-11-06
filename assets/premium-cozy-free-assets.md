@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1400+ assets catalogados em 249 categorias.
+> **Total:** ~1500+ assets catalogados em 254 categorias.
 
 ---
 
@@ -2833,6 +2833,66 @@
 | Castle Kit | Kenney (Assets) | CC0 | Pack/3D | Sim (CC0) | <https://itch.io/game-assets/free?page=54> |
 | Free Platformer Pixel Art Assets | Wishforge | Verificar na página (Free) | Pack/Pixel Art | A verificar | <https://itch.io/game-assets/free?page=54> |
 | DuskBorne Enemy #3 [DemonKin] - Free 2D PixelArt Animated Character | KiyoZ | Verificar na página (Free) | Pack/Enemy | A verificar | <https://itch.io/game-assets/free?page=54> |
+
+---
+
+## 250. Listing Page 56 / Página 56 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Tiny Biomes Vol.1 | Vryell | Verificar na página (Free) | Pack/Biomes | A verificar | <https://itch.io/game-assets/free?page=56> |
+| Godot 3D PixelArt Vegetation Demo | PixelageGames | Verificar na página (Free) | Pack/Godot | A verificar | <https://itch.io/game-assets/free?page=56> |
+| Pattern Panic - 10x10 Top-Down Tiles (1Bit, CC0, Free) | VEXED | CC0 | Pack/Tiles | Sim (CC0) | <https://itch.io/game-assets/free?page=56> |
+| Fakebit / Chiptune Music for Games | Ragnar Random | CC0 | Pack/Music | Sim (CC0) | <https://itch.io/game-assets/free?page=56> |
+| Weird Lil Guys | Molomoot | Verificar na página (Free) | Pack/Monsters | A verificar | <https://itch.io/game-assets/free?page=56> |
+
+---
+
+## 251. Listing Page 57 / Página 57 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Advanced CRT Shader for GameMaker | SittingDuck | Verificar na página (Free) | Shader/GameMaker | A verificar | <https://itch.io/game-assets/free?page=57> |
+| [f2u] rotten_angel cursor pack [black] | ryu | Verificar na página (Free) | Pack/Cursors | A verificar | <https://itch.io/game-assets/free?page=57> |
+| Footsteps Mini Sound Pack | MGW Sound Design | Verificar na página (Free) | Pack/SFX | A verificar | <https://itch.io/game-assets/free?page=57> |
+| Halloween Special Effects | pimen | Verificar na página (Free) | Pack/Effects | A verificar | <https://itch.io/game-assets/free?page=57> |
+| execute_shell_simple for GameMaker | YellowAfterlife | Verificar na página (Free) | Tool/GameMaker | A verificar | <https://itch.io/game-assets/free?page=57> |
+
+---
+
+## 252. Listing Page 58 / Página 58 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| LO-FI Burger Menu Tray Asset Pack [FREE] | hauntedgato | Verificar na página (Free) | Pack/PSX | A verificar | <https://itch.io/game-assets/free?page=58> |
+| RPG Fantasy Girls II | Jitsu Koan | Verificar na página (Free) | Pack/Fantasy Girls | A verificar | <https://itch.io/game-assets/free?page=58> |
+| Buttons Pack | SlyFoxStudios | Verificar na página (Free) | Pack/Buttons | A verificar | <https://itch.io/game-assets/free?page=58> |
+| Old Interior Pack | PS1 PSX | CrimsongCat | Verificar na página (Free) | Pack/PS1 | A verificar | <https://itch.io/game-assets/free?page=58> |
+| SunnyLand Enemies Pack 1 | ansimuz | Verificar na página (Free) | Pack/Enemies | A verificar | <https://itch.io/game-assets/free?page=58> |
+
+---
+
+## 253. Listing Page 59 / Página 59 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| 3D ruins game ready assets | Makovice | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=59> |
+| Free 6 Desert Fantasy Ambient Tracks Game Music Pack | alkakrab | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=59> |
+| The Gentlegear Gamepad Fonts | EsquireDevMark | Verificar na página (Free) | Pack/Fonts | A verificar | <https://itch.io/game-assets/free?page=59> |
+| Duelyst Unit Animations for Unity (600+ Animated Pixel Art Characters) | Screen Smith | Verificar na página (Free) | Pack/Animations | A verificar | <https://itch.io/game-assets/free?page=59> |
+| 16x16 Dark Dungeon Tileset | Zoltan Kosina | Verificar na página (Free) | Tileset/16x16 | A verificar | <https://itch.io/game-assets/free?page=59> |
+
+---
+
+## 254. Listing Page 60 / Página 60 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Learn how to setup hitboxes and hurtboxes in GameMaker Studio! | ratcasket | Verificar na página (Free) | Tutorial/GameMaker | A verificar | <https://itch.io/game-assets/free?page=60> |
+| Jazz Bossa Nova Anime Music | lolurio | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=60> |
+| Sci-fi Character Pack 10 | Penusbmic | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=60> |
+| PromptFont | Shinmera | Verificar na página (Free) | Pack/Font | A verificar | <https://itch.io/game-assets/free?page=60> |
+| PSX Dungeon Boxes and Barrels Pack | MCSTEEG | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=60> |
 
 ---
 
