@@ -3,7 +3,7 @@
 > **Data de compilação:** 2026-11-06  
 > **Fontes:** itch.io (tags: cozy, cute, kawaii, farm, cottagecore, 16x16, 32x32, low-poly, fantasy, medieval, 2d, 3d, music, sound-effects, wholesome, village, cooking, cafe, garden, pastel, warm, adorable, sweet, soft, cozy-game, life-sim, farming-sim, stardew, harvest-moon, tea, coffee, bakery, pastry, candy, dessert, ice-cream, picnic, juice, coffee-shop, restaurant, shop, store, market, town, city, street, bridge, fence, gate, door, window, wall, roof, bench, lamp-post, mailbox, trash-can, barrel, crate, box, chest, pot, plate, bowl, cup, mug, basket, bag, carton, living-room, bedroom, attic, basement, barn, silo, windmill, well, pond, stream, river, lake, waterfall, tree, crop, harvest)  
 > **Critério:** Apenas assets com licença livre/permissiva (CC0, CC-BY, CC-BY-SA, OGA-BY, Pixabay Content License, Domínio Público ou equivalente) e uso comercial permitido.  
-> **Total:** ~1700+ assets catalogados em 263 categorias.
+> **Total:** ~1800+ assets catalogados em 267 categorias.
 
 ---
 
@@ -3001,6 +3001,53 @@
 | Tentacles with Geometry Nodes | retroshaper | Verificar na página (Free) | Pack/Blender | A verificar | <https://itch.io/game-assets/free?page=70> |
 | DarkNinja 2D Pixel Art - character animation | Zizzy | Verificar na página (Free) | Pack/Animation | A verificar | <https://itch.io/game-assets/free?page=70> |
 | Pixelated Attack/Hit Animations | Viktor | Verificar na página (Free) | Pack/Animation | A verificar | <https://itch.io/game-assets/free?page=70> |
+
+---
+
+## 264. Listing Page 72 / Página 72 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Free Pixel Art RPG Animated Character | Pixel_Poem | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=72> |
+| Low poly castle | Cosmo | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=72> |
+| Playing cards and poker chips for casino | moxica | Verificar na página (Free) | Pack/Cards | A verificar | <https://itch.io/game-assets/free?page=72> |
+| Free Sci-Fi TileSet Space station | Aske4 | Verificar na página (Free) | Pack/Tileset | A verificar | <https://itch.io/game-assets/free?page=72> |
+| Boxes-Be-Gone Icon Set [32x32] [RPGMaker] [Free] | TheWristbandit | Verificar na página (Free) | Pack/Icons | A verificar | <https://itch.io/game-assets/free?page=72> |
+
+---
+
+## 265. Listing Page 73 / Página 73 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| A treasure chest with multiple animations | Otsoga | Verificar na página (Free) | Pack/Animation | A verificar | <https://itch.io/game-assets/free?page=73> |
+| 8 Directional 2D Businessman Character | Hormelz | CC0 | Pack/Character | Sim (CC0) | <https://itch.io/game-assets/free?page=73> |
+| Kitchen Assets | Reakain | Verificar na página (Free) | Pack/Kitchen | A verificar | <https://itch.io/game-assets/free?page=73> |
+| Nostalgic BGM Pack (Indie/Dreamcore/Hauntology) It Feels Like... | Crow Shade | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=73> |
+| FREE scary thriller/horror music & ambience "Obsidian pack" | SzajnaWorkshop | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=73> |
+
+---
+
+## 266. Listing Page 74 / Página 74 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| [FREE] 2d isometric forest Pixel art - 32x32 | Kipperfalcon | Verificar na página (Free) | Pack/Forest | A verificar | <https://itch.io/game-assets/free?page=74> |
+| Smart Phone Asset Template | PogoNR | Verificar na página (Free) | Pack/Smartphone | A verificar | <https://itch.io/game-assets/free?page=74> |
+| 6 Free Particle Textures | Leipea | Verificar na página (Free) | Pack/Textures | A verificar | <https://itch.io/game-assets/free?page=74> |
+| Asimov 3D Guns and Gun Accessory Pack | Hans Woofington | Verificar na página (Free) | Pack/3D | A verificar | <https://itch.io/game-assets/free?page=74> |
+| Free Big Moon Pixel Art Backgrounds | Free Game Assets (GUI, Sprite, Tilesets) | Verificar na página (Free) | Pack/Backgrounds | A verificar | <https://itch.io/game-assets/free?page=74> |
+
+---
+
+## 267. Listing Page 75 / Página 75 — Cozy
+
+| Asset | Autor | Licença | Formato | Uso Comercial | Link |
+|-------|-------|---------|---------|---------------|------|
+| Tree Animated | ToffeeCraft | Verificar na página (Free) | Pack/Trees | A verificar | <https://itch.io/game-assets/free?page=75> |
+| Parallax Backgrounds (Demo) | The Pixel Nook | Verificar na página (Free) | Pack/Parallax | A verificar | <https://itch.io/game-assets/free?page=75> |
+| Woman Warrior | Dreamir | Verificar na página (Free) | Pack/Character | A verificar | <https://itch.io/game-assets/free?page=75> |
+| FREE Action Music Pack | VOiD1 Gaming | Verificar na página (Free) | Pack/Music | A verificar | <https://itch.io/game-assets/free?page=75> |
 
 ---
 
